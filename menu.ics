@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
+BEGIN:VEVENT
+SUMMARY:Seller írótar  og epla súpa – Celery root  and apel  soup  (G
+ \,V)\nSalat dagsins: Gulrætur og rauðlaukur\nÝsa í rauðu pestói með
+  steiktum kartöflum\nHaddock in red pesto and fried potatoes
+DTSTART:20230206T110000
+DTEND:20230206T130000
+DESCRIPTION:Seller írótar  og epla súpa – Celery root  and apel  soup
+   (G\,V)\nSalat dagsins: Gulrætur og rauðlaukur\nÝsa í rauðu pestói 
+ með steiktum kartöflum\nHaddock in red pesto and fried potatoes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,G)\n
+ Sveitabjúgu með uppstúf\, soðnum kartöflum\, rauðkáli og grænum ba
+ unum (G\,M)\nCountry sausages with bechamel\, red cabbage and green pees  
+  (G\,M)
+DTSTART:20230207T110000
+DTEND:20230207T130000
+DESCRIPTION:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,
+ G)\nSveitabjúgu með uppstúf\, soðnum kartöflum\, rauðkáli og grænu
+ m baunum (G\,M)\nCountry sausages with bechamel\, red cabbage and green pe
+ es   (G\,M)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti bolo
+ gnese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with salt
+  and garlic bread  (G)
+DTSTART:20230208T110000
+DTEND:20230208T130000
+DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti 
+ bolognese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with 
+ salt and garlic bread  (G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nGr
+ ísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
+ ósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage and
+  mushroom sauce   (M\,G \,E)
+DTSTART:20230209T110000
+DTEND:20230209T130000
+DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
+ \nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
+ ppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage
+  and mushroom sauce   (M\,G \,E)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
+  núðlum og grænmeti  (S)\nChicken  teriyaki with noodles and vegetables
+   (S)
+DTSTART:20230210T110000
+DTEND:20230210T130000
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
+ með núðlum og grænmeti  (S)\nChicken  teriyaki with noodles and vegeta
+ bles  (S)
+END:VEVENT
+END:VCALENDAR
