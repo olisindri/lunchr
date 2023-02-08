@@ -7,6 +7,8 @@ SUMMARY:Seller írótar  og epla súpa – Celery root  and apel  soup  (G
   steiktum kartöflum\nHaddock in red pesto and fried potatoes
 DTSTART:20230206T110000
 DTEND:20230206T130000
+DTSTAMP:20230206T110000Z
+UID:2023-02-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Seller írótar  og epla súpa – Celery root  and apel  soup
    (G\,V)\nSalat dagsins: Gulrætur og rauðlaukur\nÝsa í rauðu pestói 
  með steiktum kartöflum\nHaddock in red pesto and fried potatoes
@@ -18,6 +20,8 @@ SUMMARY:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,G)\n
   (G\,M)
 DTSTART:20230207T110000
 DTEND:20230207T130000
+DTSTAMP:20230207T110000Z
+UID:2023-02-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,
  G)\nSveitabjúgu með uppstúf\, soðnum kartöflum\, rauðkáli og grænu
  m baunum (G\,M)\nCountry sausages with bechamel\, red cabbage and green pe
@@ -29,6 +33,8 @@ SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti bolo
   and garlic bread  (G)
 DTSTART:20230208T110000
 DTEND:20230208T130000
+DTSTAMP:20230208T110000Z
+UID:2023-02-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti 
  bolognese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with 
  salt and garlic bread  (G)
@@ -40,6 +46,8 @@ SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nGr
   mushroom sauce   (M\,G \,E)
 DTSTART:20230209T110000
 DTEND:20230209T130000
+DTSTAMP:20230209T110000Z
+UID:2023-02-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
  \nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
  ppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage
@@ -51,6 +59,8 @@ SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
    (S)
 DTSTART:20230210T110000
 DTEND:20230210T130000
+DTSTAMP:20230210T110000Z
+UID:2023-02-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
  með núðlum og grænmeti  (S)\nChicken  teriyaki with noodles and vegeta
  bles  (S)

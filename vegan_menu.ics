@@ -8,6 +8,8 @@ SUMMARY:“Ratatouille”\nKúrbítur\, blómkál\, brokkólí\, rauðlauk
  , carrots and paprika\nin dates and rosemary sauce
 DTSTART:20230206T110000
 DTEND:20230206T130000
+DTSTAMP:20230206T110000Z
+UID:2023-02-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:“Ratatouille”\nKúrbítur\, blómkál\, brokkólí\, rauð
  laukur\, hvítlaukur\, gulrætur og paprika\,\ní döðlu og rósmarínsó
  su\n“Ratatouille”\nZucchini\, cauliflower\, broccoli\, red onion\, gar
@@ -18,6 +20,8 @@ SUMMARY:Blómkáls og möndlubuff með hrísgrjónum og dressing\nCauliflo
  wer and almond rissole with rice and dressing
 DTSTART:20230207T110000
 DTEND:20230207T130000
+DTSTAMP:20230207T110000Z
+UID:2023-02-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls og möndlubuff með hrísgrjónum og dressing\nCaul
  iflower and almond rissole with rice and dressing
 END:VEVENT
@@ -26,6 +30,8 @@ SUMMARY:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunum\nV
  egetable gratin with pees\, broccoli\,  and kidney beans
 DTSTART:20230208T110000
 DTEND:20230208T130000
+DTSTAMP:20230208T110000Z
+UID:2023-02-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunu
  m\nVegetable gratin with pees\, broccoli\,  and kidney beans
 END:VEVENT
@@ -37,6 +43,8 @@ SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
  ch.\nServed with mango -curry and coconut milk sauce  (G)
 DTSTART:20230209T110000
 DTEND:20230209T130000
+DTSTAMP:20230209T110000Z
+UID:2023-02-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
  um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
  am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
@@ -50,6 +58,8 @@ SUMMARY:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, svep
  arrots served\nwith fried  red cabbage and sweet chili sauce  (G)
 DTSTART:20230210T110000
 DTEND:20230210T130000
+DTSTAMP:20230210T110000Z
+UID:2023-02-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, 
  sveppum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (
  G)\nCold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms an

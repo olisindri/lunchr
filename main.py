@@ -62,11 +62,14 @@ def generate_ics_files(menus):
             split_menu = value.split('\n')
             cleaned = "\n".join([item.strip() for item in split_menu[1:] if item.strip()])
             menu[date] = cleaned
+            start_time = datetime(date.year, date.month, date.day, 11, 0, 0)
             day_event = Event()
             day_event.add('summary', cleaned)
             day_event.add('description', cleaned)
-            day_event.add('dtstart', datetime(date.year, date.month, date.day, 11, 0, 0))
-            day_event.add('dtend', datetime(date.year, date.month, date.day, 13, 0, 0))
+            day_event.add('dtstart', start_time)
+            day_event.add('dtend', start_time + timedelta(hours=2))
+            day_event.add('dtstamp', start_time)
+            day_event['uid'] = f'{start_time.isoformat()}/olisindri@gmail.com'
 
             calendar.add_component(day_event)
         
