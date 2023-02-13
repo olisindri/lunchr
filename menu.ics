@@ -2,67 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Seller írótar  og epla súpa – Celery root  and apel  soup  (G
- \,V)\nSalat dagsins: Gulrætur og rauðlaukur\nÝsa í rauðu pestói með
-  steiktum kartöflum\nHaddock in red pesto and fried potatoes
-DTSTART:20230206T110000
-DTEND:20230206T130000
-DTSTAMP:20230206T110000Z
-UID:2023-02-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Seller írótar  og epla súpa – Celery root  and apel  soup
-   (G\,V)\nSalat dagsins: Gulrætur og rauðlaukur\nÝsa í rauðu pestói 
- með steiktum kartöflum\nHaddock in red pesto and fried potatoes
+SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
+ up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
+ kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum og salati\nCurr
+ y lamb and vegetable stew with rice and salat
+DTSTART:20230213T110000
+DTEND:20230213T130000
+DTSTAMP:20230213T110000Z
+UID:2023-02-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
+ s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
+ ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum og salati\n
+ Curry lamb and vegetable stew with rice and salat
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,G)\n
- Sveitabjúgu með uppstúf\, soðnum kartöflum\, rauðkáli og grænum ba
- unum (G\,M)\nCountry sausages with bechamel\, red cabbage and green pees  
-  (G\,M)
-DTSTART:20230207T110000
-DTEND:20230207T130000
-DTSTAMP:20230207T110000Z
-UID:2023-02-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertu - og beikonsúpa – Green pe a and bacon soup  (M\,
- G)\nSveitabjúgu með uppstúf\, soðnum kartöflum\, rauðkáli og grænu
- m baunum (G\,M)\nCountry sausages with bechamel\, red cabbage and green pe
- es   (G\,M)
+SUMMARY:Sveppasúpa – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauði
+ \, smjöri og salati (M\,G)\nFish stew with potatoes\, rye bread\, butter 
+ and salad (M\,G)
+DTSTART:20230214T110000
+DTEND:20230214T130000
+DTSTAMP:20230214T110000Z
+UID:2023-02-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa – Mushroom soup (M\,G)\nPlokkfiskur með rúgbra
+ uði\, smjöri og salati (M\,G)\nFish stew with potatoes\, rye bread\, but
+ ter and salad (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti bolo
- gnese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with salt
-  and garlic bread  (G)
-DTSTART:20230208T110000
-DTEND:20230208T130000
-DTSTAMP:20230208T110000Z
-UID:2023-02-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti 
- bolognese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with 
- salt and garlic bread  (G)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur me
+ ð sveppa og beikon -rjómaostasósu\, maís\, salati og hrísgrjónum  (M
+ )\nChicken breast with mushroom -bacon -cream cheese sauce\, corn\, salad\
+ , and rice  (M)
+DTSTART:20230215T110000
+DTEND:20230215T130000
+DTSTAMP:20230215T110000Z
+UID:2023-02-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur
+  með sveppa og beikon -rjómaostasósu\, maís\, salati og hrísgrjónum 
+  (M)\nChicken breast with mushroom -bacon -cream cheese sauce\, corn\, sal
+ ad\, and rice  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nGr
- ísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
- ósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage and
-  mushroom sauce   (M\,G \,E)
-DTSTART:20230209T110000
-DTEND:20230209T130000
-DTSTAMP:20230209T110000Z
-UID:2023-02-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
- \nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
- ppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage
-  and mushroom sauce   (M\,G \,E)
+SUMMARY:Graskerssúpa – Pumpkin soup (M\,G)\nNauta brisket með rótargr
+ ænmeti\, steiktum kartöflum og rauðvínssósu  (M\,G)\nBeef brisket wit
+ h root vegetable\, potatoes and reed wine sauce (M\,G)
+DTSTART:20230216T110000
+DTEND:20230216T130000
+DTSTAMP:20230216T110000Z
+UID:2023-02-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – Pumpkin soup (M\,G)\nNauta brisket með rót
+ argrænmeti\, steiktum kartöflum og rauðvínssósu  (M\,G)\nBeef brisket
+  with root vegetable\, potatoes and reed wine sauce (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
-  núðlum og grænmeti  (S)\nChicken  teriyaki with noodles and vegetables
-   (S)
-DTSTART:20230210T110000
-DTEND:20230210T130000
-DTSTAMP:20230210T110000Z
-UID:2023-02-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
- með núðlum og grænmeti  (S)\nChicken  teriyaki with noodles and vegeta
- bles  (S)
+SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
+ Taco with minced beef salsa and sour cream (M\,S)
+DTSTART:20230217T110000
+DTEND:20230217T130000
+DTSTAMP:20230217T110000Z
+UID:2023-02-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
+ S)\nTaco with minced beef salsa and sour cream (M\,S)
 END:VEVENT
 END:VCALENDAR

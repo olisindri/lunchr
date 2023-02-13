@@ -2,67 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:“Ratatouille”\nKúrbítur\, blómkál\, brokkólí\, rauðlauk
- ur\, hvítlaukur\, gulrætur og paprika\,\ní döðlu og rósmarínsósu\n
- “Ratatouille”\nZucchini\, cauliflower\, broccoli\, red onion\, garlic\
- , carrots and paprika\nin dates and rosemary sauce
-DTSTART:20230206T110000
-DTEND:20230206T130000
-DTSTAMP:20230206T110000Z
-UID:2023-02-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Ratatouille”\nKúrbítur\, blómkál\, brokkólí\, rauð
- laukur\, hvítlaukur\, gulrætur og paprika\,\ní döðlu og rósmarínsó
- su\n“Ratatouille”\nZucchini\, cauliflower\, broccoli\, red onion\, gar
- lic\, carrots and paprika\nin dates and rosemary sauce
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
+ as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
+DTSTART:20230213T110000
+DTEND:20230213T130000
+DTSTAMP:20230213T110000Z
+UID:2023-02-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
+ ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
+ oli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og möndlubuff með hrísgrjónum og dressing\nCauliflo
- wer and almond rissole with rice and dressing
-DTSTART:20230207T110000
-DTEND:20230207T130000
-DTSTAMP:20230207T110000Z
-UID:2023-02-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og möndlubuff með hrísgrjónum og dressing\nCaul
- iflower and almond rissole with rice and dressing
+SUMMARY:Grænmetis „Ragut“ með sveppum\, spínati\, nýrna baunum\nog
+  lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kid
+ ney beans and onion with cous cous  (S)
+DTSTART:20230214T110000
+DTEND:20230214T130000
+DTSTAMP:20230214T110000Z
+UID:2023-02-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Ragut“ með sveppum\, spínati\, nýrna baunum
+ \nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\,
+  kidney beans and onion with cous cous  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunum\nV
- egetable gratin with pees\, broccoli\,  and kidney beans
-DTSTART:20230208T110000
-DTEND:20230208T130000
-DTSTAMP:20230208T110000Z
-UID:2023-02-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunu
- m\nVegetable gratin with pees\, broccoli\,  and kidney beans
+SUMMARY:Indverskur baunapottréttur með hrísgrjónum  og brauð i\nIndia
+ n been stew with rice and bread
+DTSTART:20230215T110000
+DTEND:20230215T130000
+DTSTAMP:20230215T110000Z
+UID:2023-02-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskur baunapottréttur með hrísgrjónum  og brauð i\nI
+ ndian been stew with rice and bread
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
-  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
- eð mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried cabb
- age\, carrots\, beets\, chicken beans\, sweet potatoes\, paprika and spina
- ch.\nServed with mango -curry and coconut milk sauce  (G)
-DTSTART:20230209T110000
-DTEND:20230209T130000
-DTSTAMP:20230209T110000Z
-UID:2023-02-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
- um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
- am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
- cabbage\, carrots\, beets\, chicken beans\, sweet potatoes\, paprika and s
- pinach.\nServed with mango -curry and coconut milk sauce  (G)
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn (H)
+DTSTART:20230216T110000
+DTEND:20230216T130000
+DTSTAMP:20230216T110000Z
+UID:2023-02-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, svep
- pum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (G)\n
- Cold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms and  c
- arrots served\nwith fried  red cabbage and sweet chili sauce  (G)
-DTSTART:20230210T110000
-DTEND:20230210T130000
-DTSTAMP:20230210T110000Z
-UID:2023-02-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, 
- sveppum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (
- G)\nCold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms an
- d  carrots served\nwith fried  red cabbage and sweet chili sauce  (G)
+SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
+DTSTART:20230217T110000
+DTEND:20230217T130000
+DTSTAMP:20230217T110000Z
+UID:2023-02-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
+ (s)
 END:VEVENT
 END:VCALENDAR
