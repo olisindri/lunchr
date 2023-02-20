@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
- up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
- kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum og salati\nCurr
- y lamb and vegetable stew with rice and salat
-DTSTART:20230213T110000
-DTEND:20230213T130000
-DTSTAMP:20230213T110000Z
-UID:2023-02-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
- s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
- ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum og salati\n
- Curry lamb and vegetable stew with rice and salat
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti mö
+ mmu með brúnni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\nFrie
+ d fish balls with brown sauce\, boiled potatoes\, col dslaw (M\,G\,E)
+DTSTART:20230220T110000
+DTEND:20230220T130000
+DTSTAMP:20230220T110000Z
+UID:2023-02-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti
+  mömmu með brúnni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\n
+ Fried fish balls with brown sauce\, boiled potatoes\, col dslaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauði
- \, smjöri og salati (M\,G)\nFish stew with potatoes\, rye bread\, butter 
- and salad (M\,G)
-DTSTART:20230214T110000
-DTEND:20230214T130000
-DTSTAMP:20230214T110000Z
-UID:2023-02-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa – Mushroom soup (M\,G)\nPlokkfiskur með rúgbra
- uði\, smjöri og salati (M\,G)\nFish stew with potatoes\, rye bread\, but
- ter and salad (M\,G)
+SUMMARY:Baunasúpa – Traditional pea soup\nSaltkjöt og baunir túkall  
+ – Salted lamb meat with potatoes and beets
+DTSTART:20230221T110000
+DTEND:20230221T130000
+DTSTAMP:20230221T110000Z
+UID:2023-02-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Baunasúpa – Traditional pea soup\nSaltkjöt og baunir túka
+ ll  – Salted lamb meat with potatoes and beets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur me
- ð sveppa og beikon -rjómaostasósu\, maís\, salati og hrísgrjónum  (M
- )\nChicken breast with mushroom -bacon -cream cheese sauce\, corn\, salad\
- , and rice  (M)
-DTSTART:20230215T110000
-DTEND:20230215T130000
-DTSTAMP:20230215T110000Z
-UID:2023-02-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur
-  með sveppa og beikon -rjómaostasósu\, maís\, salati og hrísgrjónum 
-  (M)\nChicken breast with mushroom -bacon -cream cheese sauce\, corn\, sal
- ad\, and rice  (M)
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með ana
+ nassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple sal
+ sa and potatoes (M)
+DTSTART:20230222T110000
+DTEND:20230222T130000
+DTSTAMP:20230222T110000Z
+UID:2023-02-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með
+  ananassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple
+  salsa and potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup (M\,G)\nNauta brisket með rótargr
- ænmeti\, steiktum kartöflum og rauðvínssósu  (M\,G)\nBeef brisket wit
- h root vegetable\, potatoes and reed wine sauce (M\,G)
-DTSTART:20230216T110000
-DTEND:20230216T130000
-DTSTAMP:20230216T110000Z
-UID:2023-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup (M\,G)\nNauta brisket með rót
- argrænmeti\, steiktum kartöflum og rauðvínssósu  (M\,G)\nBeef brisket
-  with root vegetable\, potatoes and reed wine sauce (M\,G)
+SUMMARY:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með róta
+ rgrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morrocan
+ ” with root vegetables\, potato gratin and herb gravy
+DTSTART:20230223T110000
+DTEND:20230223T130000
+DTSTAMP:20230223T110000Z
+UID:2023-02-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með r
+ ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morroc
+ an” with root vegetables\, potato gratin and herb gravy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
- Taco with minced beef salsa and sour cream (M\,S)
-DTSTART:20230217T110000
-DTEND:20230217T130000
-DTSTAMP:20230217T110000Z
-UID:2023-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
- S)\nTaco with minced beef salsa and sour cream (M\,S)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\n“Pulled pork” samloka m
+ eð  sýrðu rauðkáli\, "spicy mæjó" ásamt ofnbökuðum\nrósmarín -
+  og timíankartöflubátum og kokteilsósu\n“Pulled pork” sandwich wit
+ h red cabbage\,  potatoes  wedges and cocktails sauce
+DTSTART:20230224T110000
+DTEND:20230224T130000
+DTSTAMP:20230224T110000Z
+UID:2023-02-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\n“Pulled pork” samlo
+ ka með  sýrðu rauðkáli\, "spicy mæjó" ásamt ofnbökuðum\nrósmar
+ ín - og timíankartöflubátum og kokteilsósu\n“Pulled pork” sandwic
+ h with red cabbage\,  potatoes  wedges and cocktails sauce
 END:VEVENT
 END:VCALENDAR

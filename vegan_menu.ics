@@ -2,59 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
- as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
-DTSTART:20230213T110000
-DTEND:20230213T130000
-DTSTAMP:20230213T110000Z
-UID:2023-02-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
- ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
- oli
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, salati
+  og brauði  (G)\nPotato and red beets rissole with lens beans\, potatoes\
+ , salad and bread  (G)
+DTSTART:20230220T110000
+DTEND:20230220T130000
+DTSTAMP:20230220T110000Z
+UID:2023-02-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, sa
+ lati og brauði  (G)\nPotato and red beets rissole with lens beans\, potat
+ oes\, salad and bread  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragut“ með sveppum\, spínati\, nýrna baunum\nog
-  lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kid
- ney beans and onion with cous cous  (S)
-DTSTART:20230214T110000
-DTEND:20230214T130000
-DTSTAMP:20230214T110000Z
-UID:2023-02-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragut“ með sveppum\, spínati\, nýrna baunum
- \nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\,
-  kidney beans and onion with cous cous  (S)
+SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet pota
+ to balls  with curry and rice  (G)
+DTSTART:20230221T110000
+DTEND:20230221T130000
+DTSTAMP:20230221T110000Z
+UID:2023-02-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet 
+ potato balls  with curry and rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indverskur baunapottréttur með hrísgrjónum  og brauð i\nIndia
- n been stew with rice and bread
-DTSTART:20230215T110000
-DTEND:20230215T130000
-DTSTAMP:20230215T110000Z
-UID:2023-02-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskur baunapottréttur með hrísgrjónum  og brauð i\nI
- ndian been stew with rice and bread
+SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
+ um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
+  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
+ ery root\nand carrots with mustard mayo
+DTSTART:20230222T110000
+DTEND:20230222T130000
+DTSTAMP:20230222T110000Z
+UID:2023-02-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
+ baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
+ umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
+  celery root\nand carrots with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn (H)
-DTSTART:20230216T110000
-DTEND:20230216T130000
-DTSTAMP:20230216T110000Z
-UID:2023-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn (H)
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)\nWh
+ ite kidney bean and root vegetable cashew steak with potatoes (G)
+DTSTART:20230223T110000
+DTEND:20230223T130000
+DTSTAMP:20230223T110000Z
+UID:2023-02-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)
+ \nWhite kidney bean and root vegetable cashew steak with potatoes (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
-DTSTART:20230217T110000
-DTEND:20230217T130000
-DTSTAMP:20230217T110000Z
-UID:2023-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
- (s)
+SUMMARY:“Pulled Oumph” samloka með sýrðu rauðkáli\, súrum gúrku
+ m\, sterku sinnepi og\nheimalöguðu spicy -mæjói ásamt ofnbökuðum r
+ ósmarín - og timíankartöflubátum  (G\,S)\nPulled “Oumph” sandwich
+  with pickled cabbage\, pickled cucumbers\, spicy -mayo.\nServed with oven
+  baked rosemary and thyme potatoes ( G\,S)
+DTSTART:20230224T110000
+DTEND:20230224T130000
+DTSTAMP:20230224T110000Z
+UID:2023-02-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Pulled Oumph” samloka með sýrðu rauðkáli\, súrum g
+ úrkum\, sterku sinnepi og\nheimalöguðu spicy -mæjói ásamt ofnbökuð
+ um rósmarín - og timíankartöflubátum  (G\,S)\nPulled “Oumph” sand
+ wich with pickled cabbage\, pickled cucumbers\, spicy -mayo.\nServed with 
+ oven baked rosemary and thyme potatoes ( G\,S)
 END:VEVENT
 END:VCALENDAR
