@@ -2,65 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, salati
-  og brauði  (G)\nPotato and red beets rissole with lens beans\, potatoes\
- , salad and bread  (G)
-DTSTART:20230220T110000
-DTEND:20230220T130000
-DTSTAMP:20230220T110000Z
-UID:2023-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, sa
- lati og brauði  (G)\nPotato and red beets rissole with lens beans\, potat
- oes\, salad and bread  (G)
+SUMMARY:Falafel bollur á cous cous beði með grænmeti og hvítlauks mæ
+ jó\nFalafel with cous cous\, vegetables and garlic mayo
+DTSTART:20230227T110000
+DTEND:20230227T130000
+DTSTAMP:20230227T110000Z
+UID:2023-02-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel bollur á cous cous beði með grænmeti og hvítlauks
+  mæjó\nFalafel with cous cous\, vegetables and garlic mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet pota
- to balls  with curry and rice  (G)
-DTSTART:20230221T110000
-DTEND:20230221T130000
-DTSTAMP:20230221T110000Z
-UID:2023-02-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet 
- potato balls  with curry and rice  (G)
+SUMMARY:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk\, t
+ ómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackbean 
+ stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20230228T110000
+DTEND:20230228T130000
+DTSTAMP:20230228T110000Z
+UID:2023-02-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk
+ \, tómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackb
+ ean stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
- um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
-  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
- ery root\nand carrots with mustard mayo
-DTSTART:20230222T110000
-DTEND:20230222T130000
-DTSTAMP:20230222T110000Z
-UID:2023-02-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
- baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
- umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
-  celery root\nand carrots with mustard mayo
+SUMMARY:Blómkáls og möndlubuff með salati\, kartöflusmælki  og dress
+ ing\nCauliflower and almond rissole with salad\, rice\, and dressing
+DTSTART:20230301T110000
+DTEND:20230301T130000
+DTSTAMP:20230301T110000Z
+UID:2023-03-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og möndlubuff með salati\, kartöflusmælki  og d
+ ressing\nCauliflower and almond rissole with salad\, rice\, and dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)\nWh
- ite kidney bean and root vegetable cashew steak with potatoes (G)
-DTSTART:20230223T110000
-DTEND:20230223T130000
-DTSTAMP:20230223T110000Z
-UID:2023-02-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)
- \nWhite kidney bean and root vegetable cashew steak with potatoes (G)
+SUMMARY:Vegan snitsel með kryddjurtarsósu og kartöflum (G)\nVegan snits
+ el with herb souse an potatoes(G)
+DTSTART:20230302T110000
+DTEND:20230302T130000
+DTSTAMP:20230302T110000Z
+UID:2023-03-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan snitsel með kryddjurtarsósu og kartöflum (G)\nVegan s
+ nitsel with herb souse an potatoes(G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Pulled Oumph” samloka með sýrðu rauðkáli\, súrum gúrku
- m\, sterku sinnepi og\nheimalöguðu spicy -mæjói ásamt ofnbökuðum r
- ósmarín - og timíankartöflubátum  (G\,S)\nPulled “Oumph” sandwich
-  with pickled cabbage\, pickled cucumbers\, spicy -mayo.\nServed with oven
-  baked rosemary and thyme potatoes ( G\,S)
-DTSTART:20230224T110000
-DTEND:20230224T130000
-DTSTAMP:20230224T110000Z
-UID:2023-02-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Pulled Oumph” samloka með sýrðu rauðkáli\, súrum g
- úrkum\, sterku sinnepi og\nheimalöguðu spicy -mæjói ásamt ofnbökuð
- um rósmarín - og timíankartöflubátum  (G\,S)\nPulled “Oumph” sand
- wich with pickled cabbage\, pickled cucumbers\, spicy -mayo.\nServed with 
- oven baked rosemary and thyme potatoes ( G\,S)
+SUMMARY:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlaukur\, 
+ tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\, lee
+ k\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  
+ - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlau
+ k í okkar vegan rétti\nPlease note that we use a lot of onion and garlic
+  for our vegan courses
+DTSTART:20230303T110000
+DTEND:20230303T130000
+DTSTAMP:20230303T110000Z
+UID:2023-03-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlauku
+ r\, tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\,
+  leek\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
+ ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
+ tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
+ rlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
