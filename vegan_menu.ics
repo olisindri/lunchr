@@ -2,63 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel bollur á cous cous beði með grænmeti og hvítlauks mæ
- jó\nFalafel with cous cous\, vegetables and garlic mayo
-DTSTART:20230227T110000
-DTEND:20230227T130000
-DTSTAMP:20230227T110000Z
-UID:2023-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel bollur á cous cous beði með grænmeti og hvítlauks
-  mæjó\nFalafel with cous cous\, vegetables and garlic mayo
+SUMMARY:Blómkáls - og brokkólí naggar með steiktum kartöflum og kald
+ ri dressingu\nCauliflower - and broccoli tots with fried potatoes and cold
+  dressing
+DTSTART:20230306T110000
+DTEND:20230306T130000
+DTSTAMP:20230306T110000Z
+UID:2023-03-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og brokkólí naggar með steiktum kartöflum og 
+ kaldri dressingu\nCauliflower - and broccoli tots with fried potatoes and 
+ cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk\, t
- ómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackbean 
- stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
-DTSTART:20230228T110000
-DTEND:20230228T130000
-DTSTAMP:20230228T110000Z
-UID:2023-02-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk
- \, tómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackb
- ean stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Thai karrý með baunum og grænmeti\nThai curry with beans and ve
+ getables
+DTSTART:20230307T110000
+DTEND:20230307T130000
+DTSTAMP:20230307T110000Z
+UID:2023-03-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Thai karrý með baunum og grænmeti\nThai curry with beans an
+ d vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og möndlubuff með salati\, kartöflusmælki  og dress
- ing\nCauliflower and almond rissole with salad\, rice\, and dressing
-DTSTART:20230301T110000
-DTEND:20230301T130000
-DTSTAMP:20230301T110000Z
-UID:2023-03-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og möndlubuff með salati\, kartöflusmælki  og d
- ressing\nCauliflower and almond rissole with salad\, rice\, and dressing
+SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
+ mt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots serv
+ ed with sweet chili sauce (G)
+DTSTART:20230308T110000
+DTEND:20230308T130000
+DTSTAMP:20230308T110000Z
+UID:2023-03-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
+ ásamt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots 
+ served with sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með kryddjurtarsósu og kartöflum (G)\nVegan snits
- el with herb souse an potatoes(G)
-DTSTART:20230302T110000
-DTEND:20230302T130000
-DTSTAMP:20230302T110000Z
-UID:2023-03-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með kryddjurtarsósu og kartöflum (G)\nVegan s
- nitsel with herb souse an potatoes(G)
+SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
+  lentils and rice
+DTSTART:20230309T110000
+DTEND:20230309T130000
+DTSTAMP:20230309T110000Z
+UID:2023-03-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
+ with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlaukur\, 
- tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\, lee
- k\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  
- - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlau
- k í okkar vegan rétti\nPlease note that we use a lot of onion and garlic
-  for our vegan courses
-DTSTART:20230303T110000
-DTEND:20230303T130000
-DTSTAMP:20230303T110000Z
-UID:2023-03-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlauku
- r\, tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\,
-  leek\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
- ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
- tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
- rlic for our vegan courses
+SUMMARY:Sterkur Oumph hakkréttur með baunum\, rótarsalati\, hrísgrjón
+ um  (S)\nSpicy minced Oumph  with beans\, root salad and rice (S)
+DTSTART:20230310T110000
+DTEND:20230310T130000
+DTSTAMP:20230310T110000Z
+UID:2023-03-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sterkur Oumph hakkréttur með baunum\, rótarsalati\, hrísgr
+ jónum  (S)\nSpicy minced Oumph  with beans\, root salad and rice (S)
 END:VEVENT
 END:VCALENDAR
