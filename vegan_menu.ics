@@ -2,57 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og brokkólí naggar með steiktum kartöflum og kald
- ri dressingu\nCauliflower - and broccoli tots with fried potatoes and cold
-  dressing
-DTSTART:20230306T110000
-DTEND:20230306T130000
-DTSTAMP:20230306T110000Z
-UID:2023-03-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og brokkólí naggar með steiktum kartöflum og 
- kaldri dressingu\nCauliflower - and broccoli tots with fried potatoes and 
- cold dressing
+SUMMARY:Kúrbíts -\, dill - og súrgúrku buff með byggi\nZucchini -\, d
+ ill - and pickle rissole with barley
+DTSTART:20230313T110000
+DTEND:20230313T130000
+DTSTAMP:20230313T110000Z
+UID:2023-03-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kúrbíts -\, dill - og súrgúrku buff með byggi\nZucchini -
+ \, dill - and pickle rissole with barley
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Thai karrý með baunum og grænmeti\nThai curry with beans and ve
- getables
-DTSTART:20230307T110000
-DTEND:20230307T130000
-DTSTAMP:20230307T110000Z
-UID:2023-03-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Thai karrý með baunum og grænmeti\nThai curry with beans an
- d vegetables
+SUMMARY:Cajun pottréttur  með k júklingabaun um\, kúrbít\, svepp um\,
+  lauk\, seller írót\,\ngulrótum\, paprik u og sæt um kartöflu m\nCaju
+ n stew with chicken beans\, zucchini\, mushrooms\, onion\, celery root\,\n
+ carrots\, bell pepper  and sweet potatoes
+DTSTART:20230314T110000
+DTEND:20230314T130000
+DTSTAMP:20230314T110000Z
+UID:2023-03-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Cajun pottréttur  með k júklingabaun um\, kúrbít\, svepp 
+ um\, lauk\, seller írót\,\ngulrótum\, paprik u og sæt um kartöflu m\n
+ Cajun stew with chicken beans\, zucchini\, mushrooms\, onion\, celery root
+ \,\ncarrots\, bell pepper  and sweet potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
- mt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots serv
- ed with sweet chili sauce (G)
-DTSTART:20230308T110000
-DTEND:20230308T130000
-DTSTAMP:20230308T110000Z
-UID:2023-03-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
- ásamt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots 
- served with sweet chili sauce (G)
+SUMMARY:Linsubaunapottréttur með tómat\, grænmeti\, lauk og hvítlauk\
+ nLentil stew with tomatoes\, vegetables\, onion and garlic
+DTSTART:20230315T110000
+DTEND:20230315T130000
+DTSTAMP:20230315T110000Z
+UID:2023-03-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Linsubaunapottréttur með tómat\, grænmeti\, lauk og hvítl
+ auk\nLentil stew with tomatoes\, vegetables\, onion and garlic
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
-  lentils and rice
-DTSTART:20230309T110000
-DTEND:20230309T130000
-DTSTAMP:20230309T110000Z
-UID:2023-03-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
- with lentils and rice
+SUMMARY:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætri ch
+ ili sósu og bakaðri kartöflu  (H)\nRisso le made from nuts\, black bean
+ s\, potatoes and vegetables\nwith sweet chili sauce and baked potatoes  (H
+ )
+DTSTART:20230316T110000
+DTEND:20230316T130000
+DTSTAMP:20230316T110000Z
+UID:2023-03-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætr
+ i chili sósu og bakaðri kartöflu  (H)\nRisso le made from nuts\, black 
+ beans\, potatoes and vegetables\nwith sweet chili sauce and baked potatoes
+   (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sterkur Oumph hakkréttur með baunum\, rótarsalati\, hrísgrjón
- um  (S)\nSpicy minced Oumph  with beans\, root salad and rice (S)
-DTSTART:20230310T110000
-DTEND:20230310T130000
-DTSTAMP:20230310T110000Z
-UID:2023-03-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sterkur Oumph hakkréttur með baunum\, rótarsalati\, hrísgr
- jónum  (S)\nSpicy minced Oumph  with beans\, root salad and rice (S)
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
+ Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn 
+ lauk og hvítlauk í okkar vegan réttiPlease note that we\nuse a lot of o
+ nion and garlic for our vegan courses
+DTSTART:20230317T110000
+DTEND:20230317T130000
+DTSTAMP:20230317T110000Z
+UID:2023-03-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan réttiPlease note that we\nuse a lot 
+ of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
