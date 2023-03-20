@@ -2,69 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Salad o
- f the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  ýsa 
- með blaðlauks  og estragon sósu ásamt sætkartöflumús  (M\,G)\nOvenb
- aked haddock with leek and estragon sauce  with mashed sweet potato es   (
- M\,G)
-DTSTART:20230313T110000
-DTEND:20230313T130000
-DTSTAMP:20230313T110000Z
-UID:2023-03-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Sal
- ad of the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  
- ýsa með blaðlauks  og estragon sósu ásamt sætkartöflumús  (M\,G)\n
- Ovenbaked haddock with leek and estragon sauce  with mashed sweet potato e
- s   (M\,G)
+SUMMARY:Brokkólí súpa – Broccoli  soup  (M\,G)\nFiskibollur með stei
+ ktum kartöflum og karrýsósu\nFishcakes with fried potatoes and curry sa
+ uce
+DTSTART:20230320T110000
+DTEND:20230320T130000
+DTSTAMP:20230320T110000Z
+UID:2023-03-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí súpa – Broccoli  soup  (M\,G)\nFiskibollur með 
+ steiktum kartöflum og karrýsósu\nFishcakes with fried potatoes and curr
+ y sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskers súpa  – pumpkin  soup\nKjúklingabringur í piparsósu
-  með steiktum kartöflum ásamt grænum baunum  og mais  (M)\nChicken bre
- asts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
-DTSTART:20230314T110000
-DTEND:20230314T130000
-DTSTAMP:20230314T110000Z
-UID:2023-03-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskers súpa  – pumpkin  soup\nKjúklingabringur í pipars
- ósu með steiktum kartöflum ásamt grænum baunum  og mais  (M)\nChicken
-  breasts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
+ úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
+  with rice
+DTSTART:20230321T110000
+DTEND:20230321T130000
+DTSTAMP:20230321T110000Z
+UID:2023-03-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
+ \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
+ cken with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat -kókossú pa – Tomato and coconut soup  (V)\nSalat dagsi
- ns – Salad of the day: Sætar kartöflur  – sweet potatoes  (V)\nKjöt
- hleifur með soðsósu\, kartöflum\, grænum baunum og rauðkáli  (M\,G\
- ,E)\nMeatloaf with gravy\, potatoes\, peas and red cabbage  (M\,G\,E)
-DTSTART:20230315T110000
-DTEND:20230315T130000
-DTSTAMP:20230315T110000Z
-UID:2023-03-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat -kókossú pa – Tomato and coconut soup  (V)\nSalat d
- agsins – Salad of the day: Sætar kartöflur  – sweet potatoes  (V)\nK
- jöthleifur með soðsósu\, kartöflum\, grænum baunum og rauðkáli  (M
- \,G\,E)\nMeatloaf with gravy\, potatoes\, peas and red cabbage  (M\,G\,E)
+SUMMARY:Kókos -spínatsúpa – coconut and spinach soup\nLax með cashew
+  -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalmon with cashew
+  -pesto\, potatoes and Mediterranean vegetables
+DTSTART:20230322T110000
+DTEND:20230322T130000
+DTSTAMP:20230322T110000Z
+UID:2023-03-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup\nLax með ca
+ shew -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalmon with ca
+ shew -pesto\, potatoes and Mediterranean vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – Carrot soup\nSvínahnakki í heimalagaðri kry
- ddblöndu með blönduðu grænmeti\,\nkartöflusmælki og brúnni sósu (
- M\,G)\nPork roast in homemade dry rub with vegetables\, potatoes\, and bro
- wn sauce  (M\,G)
-DTSTART:20230316T110000
-DTEND:20230316T130000
-DTSTAMP:20230316T110000Z
-UID:2023-03-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – Carrot soup\nSvínahnakki í heimalagaðri
-  kryddblöndu með blönduðu grænmeti\,\nkartöflusmælki og brúnni só
- su (M\,G)\nPork roast in homemade dry rub with vegetables\, potatoes\, and
-  brown sauce  (M\,G)
+SUMMARY:Blómkálsúpa  – Cauliflower soup  (M\,G)\nLambalæri með rót
+ ar grænmeti\,  kartöflum  og soðsósu  (G\,M)\nLeg of lamb with root ve
+ getables\, potatoes  and demi glaze  (G\,M)
+DTSTART:20230323T110000
+DTEND:20230323T130000
+DTSTAMP:20230323T110000Z
+UID:2023-03-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálsúpa  – Cauliflower soup  (M\,G)\nLambalæri með 
+ rótar grænmeti\,  kartöflum  og soðsósu  (G\,M)\nLeg of lamb with roo
+ t vegetables\, potatoes  and demi glaze  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum\nChicken thigh tikka masala with ric e
-DTSTART:20230317T110000
-DTEND:20230317T130000
-DTSTAMP:20230317T110000Z
-UID:2023-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum\nChicken thigh tikka masala with ric e
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
+ potle mæjónesi\, hrásalati í lime og koríander og röstí kartöflum\
+ n(G\,E)\nChickenburger served with chipotle mayonnaise\, lime and coriande
+ r slaw and potato\nRösti (G\,E)
+DTSTART:20230324T110000
+DTEND:20230324T130000
+DTSTAMP:20230324T110000Z
+UID:2023-03-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
+  chipotle mæjónesi\, hrásalati í lime og koríander og röstí kartöf
+ lum\n(G\,E)\nChickenburger served with chipotle mayonnaise\, lime and cori
+ ander slaw and potato\nRösti (G\,E)
 END:VEVENT
 END:VCALENDAR
