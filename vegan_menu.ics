@@ -2,64 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
- , basil - and cannellini bean rissole served with poatatoes
-DTSTART:20230320T110000
-DTEND:20230320T130000
-DTSTAMP:20230320T110000Z
-UID:2023-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
- o -\, basil - and cannellini bean rissole served with poatatoes
+SUMMARY:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartöflur
+ \, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa  (S
+ )\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, black 
+ beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
+DTSTART:20230327T110000
+DTEND:20230327T130000
+DTSTAMP:20230327T110000Z
+UID:2023-03-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartö
+ flur\, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa
+   (S)\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, bl
+ ack beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Byggotto með grænmeti  og baunum  í kókoskarrýsósu  ásamt  
- brauð i (G)\nRisotto made from barley with vegetables  and beans\, in a c
- oconut curry sauce\,\nserved with  bread (G)
-DTSTART:20230321T110000
-DTEND:20230321T130000
-DTSTAMP:20230321T110000Z
-UID:2023-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Byggotto með grænmeti  og baunum  í kókoskarrýsósu  ása
- mt  brauð i (G)\nRisotto made from barley with vegetables  and beans\, in
-  a coconut curry sauce\,\nserved with  bread (G)
+SUMMARY:Marokkóskt Oumph með grænmeti og hrísgrjónum  (S)\nMaroccan O
+ umph  with vegetables and rice  (S)
+DTSTART:20230328T110000
+DTEND:20230328T130000
+DTSTAMP:20230328T110000Z
+UID:2023-03-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Marokkóskt Oumph með grænmeti og hrísgrjónum  (S)\nMarocc
+ an Oumph  with vegetables and rice  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis enchilada með tómat\, baunum og osti ásamt nachos og
-  salsa (G\nVegetable enchilada with tomato\, beans and  cheese served with
-  salsa and nachos
-DTSTART:20230322T110000
-DTEND:20230322T130000
-DTSTAMP:20230322T110000Z
-UID:2023-03-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis enchilada með tómat\, baunum og osti ásamt nacho
- s og salsa (G\nVegetable enchilada with tomato\, beans and  cheese served 
- with salsa and nachos
+SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
+ \,H)
+DTSTART:20230329T110000
+DTEND:20230329T130000
+DTSTAMP:20230329T110000Z
+UID:2023-03-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
+ o (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu og Oumph pottréttur með rótargrænmeti  (S)\nSwee
- t potao and Oumph stew with root vegetables  (S)
-DTSTART:20230323T110000
-DTEND:20230323T130000
-DTSTAMP:20230323T110000Z
-UID:2023-03-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu og Oumph pottréttur með rótargrænmeti  (S)\n
- Sweet potao and Oumph stew with root vegetables  (S)
+SUMMARY:Grænmetis wellington með sætum kartöflum og baunum ásamt svep
+ pasósu  (G)\nWellington with sweet potatoes and beans and mushroom souse 
+  (G)
+DTSTART:20230330T110000
+DTEND:20230330T130000
+DTSTAMP:20230330T110000Z
+UID:2023-03-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis wellington með sætum kartöflum og baunum ásamt 
+ sveppasósu  (G)\nWellington with sweet potatoes and beans and mushroom so
+ use  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan hamborgari með chipotle mæjonesi  og rösti kartöflum  (G
- \, S)\nVegan burger with chipotle mayonnaise  and potato Rösti    (G\, S)
- \n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsa
- mlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\
- nPlease note that we use a lot of onion and garlic for our vegan courses
-DTSTART:20230324T110000
-DTEND:20230324T130000
-DTSTAMP:20230324T110000Z
-UID:2023-03-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan hamborgari með chipotle mæjonesi  og rösti kartöflum
-   (G\, S)\nVegan burger with chipotle mayonnaise  and potato Rösti    (G\
- , S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nV
- insamlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan ré
- tti\nPlease note that we use a lot of onion and garlic for our vegan cours
- es
+SUMMARY:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\nVega
+ n burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Glúten
+ /Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið 
+ að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that
+  we use a lot of onion and garlic for our vegan courses
+DTSTART:20230331T110000
+DTEND:20230331T130000
+DTSTAMP:20230331T110000Z
+UID:2023-03-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\n
+ Vegan burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Gl
+ úten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athu
+ gið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note
+  that we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
