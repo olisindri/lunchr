@@ -5,7 +5,7 @@ from icalendar import Calendar, Event
 from pypdf import PdfReader
 
 
-MENU_PAGE = "https://g.kokkarnir.is/fyrirtaekjathjonusta/matsedill-vikunnar/"
+MENU_PAGE = "https://kokkarnir.is/maturinn/matsedill-fyrirtaekjathjonusta/"
 # Kokkarnir.is blocks scrapers unless we pretend to be someone else:
 USER_AGENT = "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 
