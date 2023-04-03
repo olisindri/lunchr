@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
  p (G\, V)\nKjúklingur satay með núðlu m (G\,E)\nChicken satay with noo
  dles (G\,E)
-DTSTART:20230327T110000
-DTEND:20230327T130000
-DTSTAMP:20230327T110000Z
-UID:2023-03-27T11:00:00/olisindri@gmail.com
+DTSTART:20230403T110000
+DTEND:20230403T130000
+DTSTAMP:20230403T110000Z
+UID:2023-04-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
   soup (G\, V)\nKjúklingur satay með núðlu m (G\,E)\nChicken satay with
   noodles (G\,E)
@@ -18,10 +18,10 @@ SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,M)\nSala
  t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
  pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
   in orange and basil  with citrus sousa (G\,M\,)
-DTSTART:20230328T110000
-DTEND:20230328T130000
-DTSTAMP:20230328T110000Z
-UID:2023-03-28T11:00:00/olisindri@gmail.com
+DTSTART:20230404T110000
+DTEND:20230404T130000
+DTSTAMP:20230404T110000Z
+UID:2023-04-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,M)\n
  Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
   pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
@@ -31,10 +31,10 @@ BEGIN:VEVENT
 SUMMARY:Sveppasúpa – mushroom soup  (G\, M)\nLasagna á ítalskan máta
   með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garlic brea
  d and coleslaw  (G\,M\,E)
-DTSTART:20230329T110000
-DTEND:20230329T130000
-DTSTAMP:20230329T110000Z
-UID:2023-03-29T11:00:00/olisindri@gmail.com
+DTSTART:20230405T110000
+DTEND:20230405T130000
+DTSTAMP:20230405T110000Z
+UID:2023-04-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa – mushroom soup  (G\, M)\nLasagna á ítalskan m
  áta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garlic 
  bread and coleslaw  (G\,M\,E)
@@ -43,10 +43,10 @@ BEGIN:VEVENT
 SUMMARY:Aspas súpa  – Aspar agus soup (G\,M)\nKalkúnabringa með sætk
  artöflumús\, kalkúnafyllingu og gravy\nTurkey breast with sweet potatoe
  s\, turkey filling and gravy
-DTSTART:20230330T110000
-DTEND:20230330T130000
-DTSTAMP:20230330T110000Z
-UID:2023-03-30T11:00:00/olisindri@gmail.com
+DTSTART:20230406T110000
+DTEND:20230406T130000
+DTSTAMP:20230406T110000Z
+UID:2023-04-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspas súpa  – Aspar agus soup (G\,M)\nKalkúnabringa með s
  ætkartöflumús\, kalkúnafyllingu og gravy\nTurkey breast with sweet pot
  atoes\, turkey filling and gravy
@@ -55,10 +55,10 @@ BEGIN:VEVENT
 SUMMARY:Grjónagrautur  – Rice pudding  (M)\nHamborgari með grænmeti\,
   osti og sósu ásamt  kartöflubátum og bearnaise\nHamburger with vegeta
  bles\, cheese and sauce served with  potato wedges and\nbearnaise
-DTSTART:20230331T110000
-DTEND:20230331T130000
-DTSTAMP:20230331T110000Z
-UID:2023-03-31T11:00:00/olisindri@gmail.com
+DTSTART:20230407T110000
+DTEND:20230407T130000
+DTSTAMP:20230407T110000Z
+UID:2023-04-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grjónagrautur  – Rice pudding  (M)\nHamborgari með grænme
  ti\, osti og sósu ásamt  kartöflubátum og bearnaise\nHamburger with ve
  getables\, cheese and sauce served with  potato wedges and\nbearnaise
