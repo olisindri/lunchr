@@ -2,61 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kjúklinga og maissúpa - chicken and swe et corn soup\nSalat dags
- ins – Salad of the day: Brokkólí – broccoli  (V)\nOfnb ökuð ýsa  
- með steinseljusósu\, kartöflum og salati  (M)\nOvenbaked haddock  with 
- parsl ey sauce\, served with potatoes and salat   (M)
-DTSTART:20230403T110000
-DTEND:20230403T130000
-DTSTAMP:20230403T110000Z
-UID:2023-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kjúklinga og maissúpa - chicken and swe et corn soup\nSalat 
- dagsins – Salad of the day: Brokkólí – broccoli  (V)\nOfnb ökuð ý
- sa  með steinseljusósu\, kartöflum og salati  (M)\nOvenbaked haddock  w
- ith parsl ey sauce\, served with potatoes and salat   (M)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottréttu
- r "Bourguignon" með kartöfl usmælki\nBeef “ Bourguignon ” with smal
- l potaoes
-DTSTART:20230404T110000
-DTEND:20230404T130000
-DTSTAMP:20230404T110000Z
-UID:2023-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottr
- éttur "Bourguignon" með kartöfl usmælki\nBeef “ Bourguignon ” with
-  small potaoes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grænmetis og bygg súpa  – vegetables and barley soup  (M\,G)\n
- Salat dagsins – Salad of the day: Blandað ávaxtasalat – Mixed fruit 
- salad  (V)\nSteikt langa með humar hollandaise sósu ásamt kartöflum og
-  rótargrænmeti (M\,E)\nPan fried ling with lobster hollandaise sauce ser
- ved with potatoes and root vegetables
-DTSTART:20230405T110000
-DTEND:20230405T130000
-DTSTAMP:20230405T110000Z
-UID:2023-04-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis og bygg súpa  – vegetables and barley soup  (M\,
- G)\nSalat dagsins – Salad of the day: Blandað ávaxtasalat – Mixed fr
- uit salad  (V)\nSteikt langa með humar hollandaise sósu ásamt kartöflu
- m og rótargrænmeti (M\,E)\nPan fried ling with lobster hollandaise sauce
-  served with potatoes and root vegetables
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20230406T110000
-DTEND:20230406T130000
-DTSTAMP:20230406T110000Z
-UID:2023-04-06T11:00:00/olisindri@gmail.com
+DTSTART:20230410T110000
+DTEND:20230410T130000
+DTSTAMP:20230410T110000Z
+UID:2023-04-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230407T110000
-DTEND:20230407T130000
-DTSTAMP:20230407T110000Z
-UID:2023-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Minestrone súpa  – Minestrone soup (G\, V)\nKjúklinga fajitas 
+ með salsa\, sýrðum rjóma og hrísgrjónum (G\,M)\nChicken fajitas with
+  salsa\, sour cream and rice (G\,M)
+DTSTART:20230411T110000
+DTEND:20230411T130000
+DTSTAMP:20230411T110000Z
+UID:2023-04-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Minestrone súpa  – Minestrone soup (G\, V)\nKjúklinga faji
+ tas með salsa\, sýrðum rjóma og hrísgrjónum (G\,M)\nChicken fajitas 
+ with salsa\, sour cream and rice (G\,M)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti bolo
+ gnese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with salt
+  and garlic bread  (G)
+DTSTART:20230412T110000
+DTEND:20230412T130000
+DTSTAMP:20230412T110000Z
+UID:2023-04-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti 
+ bolognese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with 
+ salt and garlic bread  (G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nGr
+ ísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
+ ósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage and
+  mushroom sauce   (M\,G \,E)
+DTSTART:20230413T110000
+DTEND:20230413T130000
+DTSTAMP:20230413T110000Z
+UID:2023-04-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
+ \nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
+ ppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage
+  and mushroom sauce   (M\,G \,E)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
+  núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and vegetab
+ les  (S\,G)
+DTSTART:20230414T110000
+DTEND:20230414T130000
+DTSTAMP:20230414T110000Z
+UID:2023-04-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
+ með núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and veg
+ etables  (S\,G)
 END:VEVENT
 END:VCALENDAR

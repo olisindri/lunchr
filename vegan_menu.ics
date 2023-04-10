@@ -2,56 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel  með "baba ghanoush"  dressingu  ásamt hrísgrjónum \, 
- og salati  (G)\nFalafel\, baba ghanoush\, served with rice and salad  (G)
-DTSTART:20230403T110000
-DTEND:20230403T130000
-DTSTAMP:20230403T110000Z
-UID:2023-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel  með "baba ghanoush"  dressingu  ásamt hrísgrjónum
-  \, og salati  (G)\nFalafel\, baba ghanoush\, served with rice and salad  
- (G)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með kaldri dressingu og h 
- rísgrjónum\nSweet potato\, paprika and been balls with cold dressing and
-  rice
-DTSTART:20230404T110000
-DTEND:20230404T130000
-DTSTAMP:20230404T110000Z
-UID:2023-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með kaldri dressingu o
- g h rísgrjónum\nSweet potato\, paprika and been balls with cold dressing
-  and rice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk\, t
- ómat\,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCurr
- y\, cauliflower and black been stew with coconut milk\, tomatoes\,\ngarlic
- \, onion and vegetables served with baked potatoes
-DTSTART:20230405T110000
-DTEND:20230405T130000
-DTSTAMP:20230405T110000Z
-UID:2023-04-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk
- \, tómat\,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\n
- Curry\, cauliflower and black been stew with coconut milk\, tomatoes\,\nga
- rlic\, onion and vegetables served with baked potatoes
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20230406T110000
-DTEND:20230406T130000
-DTSTAMP:20230406T110000Z
-UID:2023-04-06T11:00:00/olisindri@gmail.com
+DTSTART:20230410T110000
+DTEND:20230410T130000
+DTSTAMP:20230410T110000Z
+UID:2023-04-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230407T110000
-DTEND:20230407T130000
-DTSTAMP:20230407T110000Z
-UID:2023-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
+ mt sætri\nchilisósu og salati\nSamosa filled with rice green peas and ca
+ rrots
+DTSTART:20230411T110000
+DTEND:20230411T130000
+DTSTAMP:20230411T110000Z
+UID:2023-04-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
+ ásamt sætri\nchilisósu og salati\nSamosa filled with rice green peas an
+ d carrots
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunum\nV
+ egetable gratin with pees\, broccoli\, and kidney beans
+DTSTART:20230412T110000
+DTEND:20230412T130000
+DTSTAMP:20230412T110000Z
+UID:2023-04-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisgratín með grænertum\, brokkólíi og nýrnabaunu
+ m\nVegetable gratin with pees\, broccoli\, and kidney beans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
+  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
+ eð mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried cabb
+ age\, carrots\, beets\, chicken beans\, sweet potatoes\, paprika and spina
+ ch.\nServed with mango -curry and coconut milk sauce  (G)
+DTSTART:20230413T110000
+DTEND:20230413T130000
+DTSTAMP:20230413T110000Z
+UID:2023-04-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
+ um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
+ am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
+ cabbage\, carrots\, beets\, chicken beans\, sweet potatoes\, paprika and s
+ pinach.\nServed with mango -curry and coconut milk sauce  (G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, svep
+ pum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (G)\n
+ Cold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms and  c
+ arrots served\nwith fried  red cabbage and sweet chili sauce  (G)\nInnihal
+ dslýsingar – Ingredients descriptions\nÍ eldhúsi Kokkanna er notuð h
+ ráefni sem geta valdið ofnæmi eins og
+DTSTART:20230414T110000
+DTEND:20230414T130000
+DTSTAMP:20230414T110000Z
+UID:2023-04-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, 
+ sveppum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (
+ G)\nCold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms an
+ d  carrots served\nwith fried  red cabbage and sweet chili sauce  (G)\nInn
+ ihaldslýsingar – Ingredients descriptions\nÍ eldhúsi Kokkanna er notu
+ ð hráefni sem geta valdið ofnæmi eins og
 END:VEVENT
 END:VCALENDAR
