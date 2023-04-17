@@ -2,61 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Rauðrófur – beetroot ( V)\nSoðin ýsa með kartöflum\, lauks
+ mjöri og rúgbrauðsmulningi\nSteamed haddock with potatoes\, onion butte
+ r and rye bread crumble
+DTSTART:20230417T110000
+DTEND:20230417T130000
+DTSTAMP:20230417T110000Z
+UID:2023-04-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Rauðrófur – beetroot ( V)\nSoðin ýsa með kartöflum\, l
+ auksmjöri og rúgbrauðsmulningi\nSteamed haddock with potatoes\, onion b
+ utter and rye bread crumble
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kremuð tómatsúpa  – Creamy tomatosoup\nKjúklingur í karrý 
+ með hrísgrjónum\nChicken in yellow curry served with rice
+DTSTART:20230418T110000
+DTEND:20230418T130000
+DTSTAMP:20230418T110000Z
+UID:2023-04-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomatosoup\nKjúklingur í kar
+ rý með hrísgrjónum\nChicken in yellow curry served with rice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með man
+ gó salsa og sætkartöflumús (M)\nCajun spiced trout with mango  salsa a
+ nd mashed sweet potatoes  (M)
+DTSTART:20230419T110000
+DTEND:20230419T130000
+DTSTAMP:20230419T110000Z
+UID:2023-04-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með
+  mangó salsa og sætkartöflumús (M)\nCajun spiced trout with mango  sal
+ sa and mashed sweet potatoes  (M)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20230410T110000
-DTEND:20230410T130000
-DTSTAMP:20230410T110000Z
-UID:2023-04-10T11:00:00/olisindri@gmail.com
+DTSTART:20230420T110000
+DTEND:20230420T130000
+DTSTAMP:20230420T110000Z
+UID:2023-04-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minestrone súpa  – Minestrone soup (G\, V)\nKjúklinga fajitas 
- með salsa\, sýrðum rjóma og hrísgrjónum (G\,M)\nChicken fajitas with
-  salsa\, sour cream and rice (G\,M)
-DTSTART:20230411T110000
-DTEND:20230411T130000
-DTSTAMP:20230411T110000Z
-UID:2023-04-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Minestrone súpa  – Minestrone soup (G\, V)\nKjúklinga faji
- tas með salsa\, sýrðum rjóma og hrísgrjónum (G\,M)\nChicken fajitas 
- with salsa\, sour cream and rice (G\,M)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti bolo
- gnese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with salt
-  and garlic bread  (G)
-DTSTART:20230412T110000
-DTEND:20230412T130000
-DTSTAMP:20230412T110000Z
-UID:2023-04-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSpaghetti 
- bolognese með salati og hvítlauksbrauði  (G)\nSpaghetti bolognese with 
- salt and garlic bread  (G)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nGr
- ísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
- ósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage and
-  mushroom sauce   (M\,G \,E)
-DTSTART:20230413T110000
-DTEND:20230413T130000
-DTSTAMP:20230413T110000Z
-UID:2023-04-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
- \nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
- ppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\, red cabbage
-  and mushroom sauce   (M\,G \,E)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
-  núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and vegetab
- les  (S\,G)
-DTSTART:20230414T110000
-DTEND:20230414T130000
-DTSTAMP:20230414T110000Z
-UID:2023-04-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
- með núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and veg
- etables  (S\,G)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nMexíkólasagne með hrísg
+ rjónum\, sýrðum rjóma og nachos\nMexican lasagne with rice\, sour crea
+ m and nachos
+DTSTART:20230421T110000
+DTEND:20230421T130000
+DTSTAMP:20230421T110000Z
+UID:2023-04-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nMexíkólasagne með hr
+ ísgrjónum\, sýrðum rjóma og nachos\nMexican lasagne with rice\, sour 
+ cream and nachos
 END:VEVENT
 END:VCALENDAR
