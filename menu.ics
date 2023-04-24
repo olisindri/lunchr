@@ -2,61 +2,73 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
- he day: Rauðrófur – beetroot ( V)\nSoðin ýsa með kartöflum\, lauks
- mjöri og rúgbrauðsmulningi\nSteamed haddock with potatoes\, onion butte
- r and rye bread crumble
-DTSTART:20230417T110000
-DTEND:20230417T130000
-DTSTAMP:20230417T110000Z
-UID:2023-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
- of the day: Rauðrófur – beetroot ( V)\nSoðin ýsa með kartöflum\, l
- auksmjöri og rúgbrauðsmulningi\nSteamed haddock with potatoes\, onion b
- utter and rye bread crumble
+SUMMARY:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður þors
+ kur í sítrónu og timian með steiktum kartöflum og hvítlauksdressingu
+  (E)\nOven baked cod in lemon and thyme served with fried potatoes and gar
+ lic dressing (E)
+DTSTART:20230424T110000
+DTEND:20230424T130000
+DTSTAMP:20230424T110000Z
+UID:2023-04-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður 
+ þorskur í sítrónu og timian með steiktum kartöflum og hvítlauksdres
+ singu (E)\nOven baked cod in lemon and thyme served with fried potatoes an
+ d garlic dressing (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa  – Creamy tomatosoup\nKjúklingur í karrý 
- með hrísgrjónum\nChicken in yellow curry served with rice
-DTSTART:20230418T110000
-DTEND:20230418T130000
-DTSTAMP:20230418T110000Z
-UID:2023-04-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa  – Creamy tomatosoup\nKjúklingur í kar
- rý með hrísgrjónum\nChicken in yellow curry served with rice
+SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\n“Lancashire Hot P
+ ot” með grænum baunum og raba rbarasultu\nLancashire Hot Pot with red 
+ cabbage
+DTSTART:20230425T110000
+DTEND:20230425T130000
+DTSTAMP:20230425T110000Z
+UID:2023-04-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\n“Lancashire H
+ ot Pot” með grænum baunum og raba rbarasultu\nLancashire Hot Pot with 
+ red cabbage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
- f the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með man
- gó salsa og sætkartöflumús (M)\nCajun spiced trout with mango  salsa a
- nd mashed sweet potatoes  (M)
-DTSTART:20230419T110000
-DTEND:20230419T130000
-DTSTAMP:20230419T110000Z
-UID:2023-04-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
- ad of the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með
-  mangó salsa og sætkartöflumús (M)\nCajun spiced trout with mango  sal
- sa and mashed sweet potatoes  (M)
+SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Salad 
+ of the day : Brokkoli  – Broccoli (V)\nSoðinn ýsa með k arrýsósu\, 
+ kartöflum og salati (M\,S)\nHaddock with curry sauce \, potatoes  and sal
+ ad (M\,S)
+DTSTART:20230426T110000
+DTEND:20230426T130000
+DTSTAMP:20230426T110000Z
+UID:2023-04-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Sa
+ lad of the day : Brokkoli  – Broccoli (V)\nSoðinn ýsa með k arrýsós
+ u\, kartöflum og salati (M\,S)\nHaddock with curry sauce \, potatoes  and
+  salad (M\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230420T110000
-DTEND:20230420T130000
-DTSTAMP:20230420T110000Z
-UID:2023-04-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Blómkálsúpa  – Cauliflower soup  (M\,G)\nKjúklingur í garam
+  masala og jógúrti með byggi frá Vallanesi í graskerspestói\, böku
+ ðum\nrauðrófum og mangó chutney (M)\nChicken in garam masala and yogur
+ t served with barley from Vallanes in pumpkin pesto\,\nbaked beets and  ma
+ ngo chutney (M)
+DTSTART:20230427T110000
+DTEND:20230427T130000
+DTSTAMP:20230427T110000Z
+UID:2023-04-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálsúpa  – Cauliflower soup  (M\,G)\nKjúklingur í g
+ aram masala og jógúrti með byggi frá Vallanesi í graskerspestói\, b
+ ökuðum\nrauðrófum og mangó chutney (M)\nChicken in garam masala and y
+ ogurt served with barley from Vallanes in pumpkin pesto\,\nbaked beets and
+   mango chutney (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nMexíkólasagne með hrísg
- rjónum\, sýrðum rjóma og nachos\nMexican lasagne with rice\, sour crea
- m and nachos
-DTSTART:20230421T110000
-DTEND:20230421T130000
-DTSTAMP:20230421T110000Z
-UID:2023-04-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nMexíkólasagne með hr
- ísgrjónum\, sýrðum rjóma og nachos\nMexican lasagne with rice\, sour 
- cream and nachos
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nSalat dagsins - Salad of th
+ e day: Rófur – beets ( V)\nSvínasíða í BBQ með mais \, rösti kart
+ öflum  og kokteilsósu (E)\nPork belly in BBQ served with yellow corn\, r
+ östi potatoes and cocktailsauce (E)
+DTSTART:20230428T110000
+DTEND:20230428T130000
+DTSTAMP:20230428T110000Z
+UID:2023-04-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nSalat dagsins - Salad o
+ f the day: Rófur – beets ( V)\nSvínasíða í BBQ með mais \, rösti 
+ kartöflum  og kokteilsósu (E)\nPork belly in BBQ served with yellow corn
+ \, rösti potatoes and cocktailsauce (E)
 END:VEVENT
 END:VCALENDAR

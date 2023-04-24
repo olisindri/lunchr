@@ -2,55 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  og kartöflum (G)\nP
- otato and red beets rissole with lens beans  served with potatoes  (G)
-DTSTART:20230417T110000
-DTEND:20230417T130000
-DTSTAMP:20230417T110000Z
-UID:2023-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  og kartöflum (G
- )\nPotato and red beets rissole with lens beans  served with potatoes  (G)
+SUMMARY:Falafel bollur á cous cous beði með grænmeti og hvítlauks mæ
+ jó\nFalafel with cous cous\, vegetables and garlic mayo
+DTSTART:20230424T110000
+DTEND:20230424T130000
+DTSTAMP:20230424T110000Z
+UID:2023-04-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel bollur á cous cous beði með grænmeti og hvítlauks
+  mæjó\nFalafel with cous cous\, vegetables and garlic mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu og karrý pottréttur  með hrísgrjónum\nSweet pot
- ato stew  with curry and rice
-DTSTART:20230418T110000
-DTEND:20230418T130000
-DTSTAMP:20230418T110000Z
-UID:2023-04-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu og karrý pottréttur  með hrísgrjónum\nSweet
-  potato stew  with curry and rice
+SUMMARY:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk\, t
+ ómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackbean 
+ stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20230425T110000
+DTEND:20230425T130000
+DTSTAMP:20230425T110000Z
+UID:2023-04-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Karrý\, blómkáls og svartbaunapottréttur með kókosmjólk
+ \, tómat\, hvítlauk\, lauk og\ngrænmeti\nCurry\, cauliflower and blackb
+ ean stew with coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
- um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
-  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
- ery root\nand carrots with mustard mayo
-DTSTART:20230419T110000
-DTEND:20230419T130000
-DTSTAMP:20230419T110000Z
-UID:2023-04-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
- baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
- umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
-  celery root\nand carrots with mustard mayo
+SUMMARY:Blómkáls og möndlubuff með salati\, kartöflusmælki  og dress
+ ing\nCauliflower and almond rissole with salad\, rice\, and dressing
+DTSTART:20230426T110000
+DTEND:20230426T130000
+DTSTAMP:20230426T110000Z
+UID:2023-04-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og möndlubuff með salati\, kartöflusmælki  og d
+ ressing\nCauliflower and almond rissole with salad\, rice\, and dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230420T110000
-DTEND:20230420T130000
-DTSTAMP:20230420T110000Z
-UID:2023-04-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Asískur eggaldinréttur með byggi frá Vallanesi í graskerspest
+ ói\, bökuðum rauðrófum og\nmangó chutney\nAsian eggplant course serv
+ ed with barley from Vallanes in pumpkin pesto\, baked beets\nand mango chu
+ tney
+DTSTART:20230427T110000
+DTEND:20230427T130000
+DTSTAMP:20230427T110000Z
+UID:2023-04-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Asískur eggaldinréttur með byggi frá Vallanesi í graskers
+ pestói\, bökuðum rauðrófum og\nmangó chutney\nAsian eggplant course 
+ served with barley from Vallanes in pumpkin pesto\, baked beets\nand mango
+  chutney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vorrúllur með mangó og jalapeno sósu ásamt hrísgrjónum  (G\
- ,S)\nSpring rolls with mango -jalapeno sauce and rice  (G\,S)
-DTSTART:20230421T110000
-DTEND:20230421T130000
-DTSTAMP:20230421T110000Z
-UID:2023-04-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur með mangó og jalapeno sósu ásamt hrísgrjónum 
-  (G\,S)\nSpring rolls with mango -jalapeno sauce and rice  (G\,S)
+SUMMARY:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlaukur\, 
+ tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\, lee
+ k\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  
+ - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlau
+ k í okkar vegan rétti\nPlease note that we use a lot of onion and garlic
+  for our vegan courses
+DTSTART:20230428T110000
+DTEND:20230428T130000
+DTSTAMP:20230428T110000Z
+UID:2023-04-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lasagna\nPaprika\, laukur\, sellerý\,  gulrætur\, blaðlauku
+ r\, tóm atur og basil  (G)\nLasagna\nPaprika\, onion\, celery\, carrots\,
+  leek\, tomato and basil (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
+ ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
+ tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
+ rlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
