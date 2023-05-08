@@ -2,68 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230501T110000
-DTEND:20230501T130000
-DTSTAMP:20230501T110000Z
-UID:2023-05-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Salad o
+ f the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  ýsa 
+ með blaðlauks og estragon sósu ásamt sætkartöflumús  (M\,G)\nOvenba
+ ked haddock with leek and estragon sauce  with mashed sweet potato es   (M
+ \,G)
+DTSTART:20230508T110000
+DTEND:20230508T130000
+DTSTAMP:20230508T110000Z
+UID:2023-05-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Sal
+ ad of the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  
+ ýsa með blaðlauks og estragon sósu ásamt sætkartöflumús  (M\,G)\nO
+ venbaked haddock with leek and estragon sauce  with mashed sweet potato es
+    (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nFolaldakjöt í massaman k
- arrí með pilau hrísgrjónum\nFoalmeat in massaman curry with pilau rice
-DTSTART:20230502T110000
-DTEND:20230502T130000
-DTSTAMP:20230502T110000Z
-UID:2023-05-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nFolaldakjöt í massam
- an karrí með pilau hrísgrjónum\nFoalmeat in massaman curry with pilau 
- rice
+SUMMARY:Graskers súpa  – pumpkin  soup\nKjúklingabringur í piparsósu
+  með steiktum kartöflum ásamt grænum baunum og mais  (M)\nChicken brea
+ sts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
+DTSTART:20230509T110000
+DTEND:20230509T130000
+DTSTAMP:20230509T110000Z
+UID:2023-05-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskers súpa  – pumpkin  soup\nKjúklingabringur í pipars
+ ósu með steiktum kartöflum ásamt grænum baunum og mais  (M)\nChicken 
+ breasts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSalat d
- agsins – Salad of the day: Brokkoli  – broccoli  (V)\nOfnbökuð ýsa 
- með kryddjurtarrasp og sjávaréttasósu með rækjum  (G\,M)\nOvenbaked 
-  haddock with herb breadcrumbs and seafood sauce with shrimps (G\,M)
-DTSTART:20230503T110000
-DTEND:20230503T130000
-DTSTAMP:20230503T110000Z
-UID:2023-05-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSal
- at dagsins – Salad of the day: Brokkoli  – broccoli  (V)\nOfnbökuð 
- ýsa með kryddjurtarrasp og sjávaréttasósu með rækjum  (G\,M)\nOvenb
- aked  haddock with herb breadcrumbs and seafood sauce with shrimps (G\,M)
+SUMMARY:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins – Sal
+ ad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGratineraður p
+  lokkfiskur með  Bearnaise ásamt  rúgbrauði og smjöri (M\,G \,E)\nGra
+ tinated f ish stew with Bearnaise served with rye bread and butter (M\,G \
+ ,E)
+DTSTART:20230510T110000
+DTEND:20230510T130000
+DTSTAMP:20230510T110000Z
+UID:2023-05-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins –
+  Salad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGratinerað
+ ur p lokkfiskur með  Bearnaise ásamt  rúgbrauði og smjöri (M\,G \,E)\
+ nGratinated f ish stew with Bearnaise served with rye bread and butter (M\
+ ,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indversk s ætkartöflusúpa  - Indian sw eet potato soup  (G\,V)\
- nKardimomu\, kúmen\, chili og engifer marineraður kjúklingur í spínat
-  og koríander sósu\násamt Naan brauði og Indverskum hrísgrjónum\nCar
- damom\, cumin\, chili and ginger marinated chicken in spinach and coriande
- r sauce\ntogether with Naan bread and Indian rice
-DTSTART:20230504T110000
-DTEND:20230504T130000
-DTSTAMP:20230504T110000Z
-UID:2023-05-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indversk s ætkartöflusúpa  - Indian sw eet potato soup  (G\
- ,V)\nKardimomu\, kúmen\, chili og engifer marineraður kjúklingur í sp
- ínat og koríander sósu\násamt Naan brauði og Indverskum hrísgrjónum
- \nCardamom\, cumin\, chili and ginger marinated chicken in spinach and cor
- iander sauce\ntogether with Naan bread and Indian rice
+SUMMARY:Sellerýrótar - og karrýsósa  – Celleryroot - and curry soup 
+ ( V)\nSvínahnakki í heimalagaðri kryddblöndu með blönduðu grænmeti
+ \,\nkartöflusmælki og brúnni sósu (M\,G)\nPork roast in homemade dry r
+ ub with vegetables\, potatoes\, and brown sauce  (M\,G)
+DTSTART:20230511T110000
+DTEND:20230511T130000
+DTSTAMP:20230511T110000Z
+UID:2023-05-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sellerýrótar - og karrýsósa  – Celleryroot - and curry s
+ oup ( V)\nSvínahnakki í heimalagaðri kryddblöndu með blönduðu græn
+ meti\,\nkartöflusmælki og brúnni sósu (M\,G)\nPork roast in homemade d
+ ry rub with vegetables\, potatoes\, and brown sauce  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSalat dagsins – Salad 
- of the day: Sætar kartöflur með kanil – sweet potato with cinnamon ( 
- V)\n“Chilli con carne”  með baunum\, rifnum osti  og nachos (M\,G)\n
- “Chilli con carne” with beans\, cheese  and nachos  (M\,G)\nInnihaldsl
- ýsingar – Ingredients descriptions
-DTSTART:20230505T110000
-DTEND:20230505T130000
-DTSTAMP:20230505T110000Z
-UID:2023-05-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSalat dagsins – Sa
- lad of the day: Sætar kartöflur með kanil – sweet potato with cinnamo
- n ( V)\n“Chilli con carne”  með baunum\, rifnum osti  og nachos (M\,G
- )\n“Chilli con carne” with beans\, cheese  and nachos  (M\,G)\nInnihal
- dslýsingar – Ingredients descriptions
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
+  með hrísgrjónum\nChicken thigh tikka masala with ric e
+DTSTART:20230512T110000
+DTEND:20230512T130000
+DTSTAMP:20230512T110000Z
+UID:2023-05-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
+ sala með hrísgrjónum\nChicken thigh tikka masala with ric e
 END:VEVENT
 END:VCALENDAR
