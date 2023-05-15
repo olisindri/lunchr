@@ -2,71 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Salad o
- f the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  ýsa 
- með blaðlauks og estragon sósu ásamt sætkartöflumús  (M\,G)\nOvenba
- ked haddock with leek and estragon sauce  with mashed sweet potato es   (M
- \,G)
-DTSTART:20230508T110000
-DTEND:20230508T130000
-DTSTAMP:20230508T110000Z
-UID:2023-05-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Sal
- ad of the day: Bragðmikið blómkál – cauliflower  (V)\nOfnb ökuð  
- ýsa með blaðlauks og estragon sósu ásamt sætkartöflumús  (M\,G)\nO
- venbaked haddock with leek and estragon sauce  with mashed sweet potato es
-    (M\,G)
+SUMMARY:Brokkólí súpa – Broccoli  soup  (M\,G)\nFiskibollur með stei
+ ktum kartöflum og karrýsósu\nFishcakes with fried potatoes and curry sa
+ uce
+DTSTART:20230515T110000
+DTEND:20230515T130000
+DTSTAMP:20230515T110000Z
+UID:2023-05-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí súpa – Broccoli  soup  (M\,G)\nFiskibollur með 
+ steiktum kartöflum og karrýsósu\nFishcakes with fried potatoes and curr
+ y sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskers súpa  – pumpkin  soup\nKjúklingabringur í piparsósu
-  með steiktum kartöflum ásamt grænum baunum og mais  (M)\nChicken brea
- sts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
-DTSTART:20230509T110000
-DTEND:20230509T130000
-DTSTAMP:20230509T110000Z
-UID:2023-05-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskers súpa  – pumpkin  soup\nKjúklingabringur í pipars
- ósu með steiktum kartöflum ásamt grænum baunum og mais  (M)\nChicken 
- breasts in pepper sauce with fried potatoes\, peas and yellow corn    (M)
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
+ úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
+  with rice
+DTSTART:20230516T110000
+DTEND:20230516T130000
+DTSTAMP:20230516T110000Z
+UID:2023-05-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
+ \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
+ cken with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins – Sal
- ad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGratineraður p
-  lokkfiskur með  Bearnaise ásamt  rúgbrauði og smjöri (M\,G \,E)\nGra
- tinated f ish stew with Bearnaise served with rye bread and butter (M\,G \
- ,E)
-DTSTART:20230510T110000
-DTEND:20230510T130000
-DTSTAMP:20230510T110000Z
-UID:2023-05-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins –
-  Salad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGratinerað
- ur p lokkfiskur með  Bearnaise ásamt  rúgbrauði og smjöri (M\,G \,E)\
- nGratinated f ish stew with Bearnaise served with rye bread and butter (M\
- ,G \,E)
+SUMMARY:Kókos -spínatsúpa – coconut and spinach soup\nÞorskur með r
+ auðu pestó i ásamt kartöflum og miðjarðarhafsgrænmeti\nCod with red
+  pesto\, potatoes and Mediterranean vegetables
+DTSTART:20230517T110000
+DTEND:20230517T130000
+DTSTAMP:20230517T110000Z
+UID:2023-05-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup\nÞorskur me
+ ð rauðu pestó i ásamt kartöflum og miðjarðarhafsgrænmeti\nCod with
+  red pesto\, potatoes and Mediterranean vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sellerýrótar - og karrýsósa  – Celleryroot - and curry soup 
- ( V)\nSvínahnakki í heimalagaðri kryddblöndu með blönduðu grænmeti
- \,\nkartöflusmælki og brúnni sósu (M\,G)\nPork roast in homemade dry r
- ub with vegetables\, potatoes\, and brown sauce  (M\,G)
-DTSTART:20230511T110000
-DTEND:20230511T130000
-DTSTAMP:20230511T110000Z
-UID:2023-05-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sellerýrótar - og karrýsósa  – Celleryroot - and curry s
- oup ( V)\nSvínahnakki í heimalagaðri kryddblöndu með blönduðu græn
- meti\,\nkartöflusmælki og brúnni sósu (M\,G)\nPork roast in homemade d
- ry rub with vegetables\, potatoes\, and brown sauce  (M\,G)
+SUMMARY:Lokað
+DTSTART:20230518T110000
+DTEND:20230518T130000
+DTSTAMP:20230518T110000Z
+UID:2023-05-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum\nChicken thigh tikka masala with ric e
-DTSTART:20230512T110000
-DTEND:20230512T130000
-DTSTAMP:20230512T110000Z
-UID:2023-05-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum\nChicken thigh tikka masala with ric e
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nHakka buff með brú nni l
+ auksósu\, steiktum kartöflum og rauðkál\nSalisbury steak  with onion s
+ auce \, fried potatoes and red cabbage
+DTSTART:20230519T110000
+DTEND:20230519T130000
+DTSTAMP:20230519T110000Z
+UID:2023-05-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nHakka buff með brú n
+ ni lauksósu\, steiktum kartöflum og rauðkál\nSalisbury steak  with oni
+ on sauce \, fried potatoes and red cabbage
 END:VEVENT
 END:VCALENDAR
