@@ -2,65 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartöflur
- \, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa  (S
- )\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, black 
- beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
-DTSTART:20230522T110000
-DTEND:20230522T130000
-DTSTAMP:20230522T110000Z
-UID:2023-05-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartö
- flur\, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa
-   (S)\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, bl
- ack beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
+SUMMARY:Lokað - Closed
+DTSTART:20230529T110000
+DTEND:20230529T130000
+DTSTAMP:20230529T110000Z
+UID:2023-05-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað - Closed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marokkóskt Oumph með grænmeti og hrísgrjónum  (S)\nMaroccan O
- umph  with vegetables and rice  (S)
-DTSTART:20230523T110000
-DTEND:20230523T130000
-DTSTAMP:20230523T110000Z
-UID:2023-05-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Marokkóskt Oumph með grænmeti og hrísgrjónum  (S)\nMarocc
- an Oumph  with vegetables and rice  (S)
+SUMMARY:Sætkartöflu\, papriku og baunabollur með heitri tómat - og kú
+ mensósu  og h rísgrjónum\nSweet potato\, paprika and been balls with ho
+ t tomato - and caraway sauce  and rice
+DTSTART:20230530T110000
+DTEND:20230530T130000
+DTSTAMP:20230530T110000Z
+UID:2023-05-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með heitri tómat - og
+  kúmensósu  og h rísgrjónum\nSweet potato\, paprika and been balls wit
+ h hot tomato - and caraway sauce  and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20230524T110000
-DTEND:20230524T130000
-DTSTAMP:20230524T110000Z
-UID:2023-05-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
+ hvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflower a
+ nd black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and vege
+ tables served with baked potatoes
+DTSTART:20230531T110000
+DTEND:20230531T130000
+DTSTAMP:20230531T110000Z
+UID:2023-05-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
+ \,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflow
+ er and black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and 
+ vegetables served with baked potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
- sósu\nVegetable frikadeller  served with mashed sweet potatoes and mango 
- jalapeno sauce
-DTSTART:20230525T110000
-DTEND:20230525T130000
-DTSTAMP:20230525T110000Z
-UID:2023-05-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
- penosósu\nVegetable frikadeller  served with mashed sweet potatoes and ma
- ngo jalapeno sauce
+SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
+ small potatoes
+DTSTART:20230601T110000
+DTEND:20230601T130000
+DTSTAMP:20230601T110000Z
+UID:2023-06-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
+ ith small potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\nVega
- n burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Glúten
- /Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið 
- að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that
-  we use a lot of onion and garlic for our vegan courses
-DTSTART:20230526T110000
-DTEND:20230526T130000
-DTSTAMP:20230526T110000Z
-UID:2023-05-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\n
- Vegan burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Gl
- úten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athu
- gið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note
-  that we use a lot of onion and garlic for our vegan courses
+SUMMARY:Blómkáls - og möndlubuff með sætum kartöflum og dressing\nCa
+ uliflower - and almond rissole with sweet potatoes and dressing
+DTSTART:20230602T110000
+DTEND:20230602T130000
+DTSTAMP:20230602T110000Z
+UID:2023-06-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með sætum kartöflum og dressing
+ \nCauliflower - and almond rissole with sweet potatoes and dressing
 END:VEVENT
 END:VCALENDAR
