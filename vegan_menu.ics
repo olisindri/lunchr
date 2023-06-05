@@ -2,57 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað - Closed
-DTSTART:20230529T110000
-DTEND:20230529T130000
-DTSTAMP:20230529T110000Z
-UID:2023-05-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað - Closed
+SUMMARY:Vorrúlur  fylltar með hrísgrjónum\, grænum baunum og gulrótu
+ m ásamt sætri\nchilisósu\nSpring rolls  filled with rice \, peas and ca
+ rrots
+DTSTART:20230605T110000
+DTEND:20230605T130000
+DTSTAMP:20230605T110000Z
+UID:2023-06-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúlur  fylltar með hrísgrjónum\, grænum baunum og gulr
+ ótum ásamt sætri\nchilisósu\nSpring rolls  filled with rice \, peas an
+ d carrots
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með heitri tómat - og kú
- mensósu  og h rísgrjónum\nSweet potato\, paprika and been balls with ho
- t tomato - and caraway sauce  and rice
-DTSTART:20230530T110000
-DTEND:20230530T130000
-DTSTAMP:20230530T110000Z
-UID:2023-05-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með heitri tómat - og
-  kúmensósu  og h rísgrjónum\nSweet potato\, paprika and been balls wit
- h hot tomato - and caraway sauce  and rice
+SUMMARY:Spaghetti vegan bolognese\nSpaghetti vegan bolognese
+DTSTART:20230606T110000
+DTEND:20230606T130000
+DTSTAMP:20230606T110000Z
+UID:2023-06-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti vegan bolognese\nSpaghetti vegan bolognese
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
- hvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflower a
- nd black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and vege
- tables served with baked potatoes
-DTSTART:20230531T110000
-DTEND:20230531T130000
-DTSTAMP:20230531T110000Z
-UID:2023-05-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
- \,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflow
- er and black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and 
- vegetables served with baked potatoes
+SUMMARY:Blómkáls og möndlubuff með hrísgrjónum og dressingu\nCaulifl
+ ower and almond rissolle  with dressing
+DTSTART:20230607T110000
+DTEND:20230607T130000
+DTSTAMP:20230607T110000Z
+UID:2023-06-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og möndlubuff með hrísgrjónum og dressingu\nCau
+ liflower and almond rissolle  with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
- small potatoes
-DTSTART:20230601T110000
-DTEND:20230601T130000
-DTSTAMP:20230601T110000Z
-UID:2023-06-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
- ith small potatoes
+SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
+  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
+ eð mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried cabb
+ age\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spinach.
+ \nServed with mango -curry and coconut sauce  (G)
+DTSTART:20230608T110000
+DTEND:20230608T130000
+DTSTAMP:20230608T110000Z
+UID:2023-06-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
+ um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
+ am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
+ cabbage\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spin
+ ach.\nServed with mango -curry and coconut sauce  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með sætum kartöflum og dressing\nCa
- uliflower - and almond rissole with sweet potatoes and dressing
-DTSTART:20230602T110000
-DTEND:20230602T130000
-DTSTAMP:20230602T110000Z
-UID:2023-06-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með sætum kartöflum og dressing
- \nCauliflower - and almond rissole with sweet potatoes and dressing
+SUMMARY:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, svep
+ pum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (G)\n
+ Cold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms and  c
+ arrots served\nwith fried  red cabbage and sweet chili sauce  (G)
+DTSTART:20230609T110000
+DTEND:20230609T130000
+DTSTAMP:20230609T110000Z
+UID:2023-06-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, 
+ sveppum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (
+ G)\nCold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms an
+ d  carrots served\nwith fried  red cabbage and sweet chili sauce  (G)
 END:VEVENT
 END:VCALENDAR

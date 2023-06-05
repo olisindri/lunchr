@@ -2,67 +2,64 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230529T110000
-DTEND:20230529T130000
-DTSTAMP:20230529T110000Z
-UID:2023-05-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með steikt
+ um kartöflum\, salat og brauð\nHaddock in red pesto and fried potatoes
+DTSTART:20230605T110000
+DTEND:20230605T130000
+DTSTAMP:20230605T110000Z
+UID:2023-06-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með st
+ eiktum kartöflum\, salat og brauð\nHaddock in red pesto and fried potato
+ es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottréttu
- r "Bourguignon" með kartöflumús\nBeef “ Bourguignon ” with mashed p
- otatoes
-DTSTART:20230530T110000
-DTEND:20230530T130000
-DTSTAMP:20230530T110000Z
-UID:2023-05-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottr
- éttur "Bourguignon" með kartöflumús\nBeef “ Bourguignon ” with mas
- hed potatoes
+SUMMARY:Minestrone súpa  – Minestrone soup (G\, V)\nspaghetti bolognese
+  með salati og hvítlauksbrauði (G\,M)\nspaghetti Bolognese with garlic 
+ bread  (G\,M)
+DTSTART:20230606T110000
+DTEND:20230606T130000
+DTSTAMP:20230606T110000Z
+UID:2023-06-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Minestrone súpa  – Minestrone soup (G\, V)\nspaghetti bolog
+ nese með salati og hvítlauksbrauði (G\,M)\nspaghetti Bolognese with gar
+ lic bread  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis og bygg súpa  – vegetables and barley soup  (M\,G)\n
- Salat dagsins – Salad of the day: Blandað ávaxtasalat – Mixed fruit 
- salad  (V)\nSteiktur steinbítur í raspi ásamt volgu kartöflusalati og 
- remúlaði\nFried catfish in breadcrumbs served with warm potato salad and
-  remoulade
-DTSTART:20230531T110000
-DTEND:20230531T130000
-DTSTAMP:20230531T110000Z
-UID:2023-05-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis og bygg súpa  – vegetables and barley soup  (M\,
- G)\nSalat dagsins – Salad of the day: Blandað ávaxtasalat – Mixed fr
- uit salad  (V)\nSteiktur steinbítur í raspi ásamt volgu kartöflusalati
-  og remúlaði\nFried catfish in breadcrumbs served with warm potato salad
-  and remoulade
+SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurríkja s
+ teiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fried c
+ od with cold dressing and potatoes  (G)
+DTSTART:20230607T110000
+DTEND:20230607T130000
+DTSTAMP:20230607T110000Z
+UID:2023-06-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurrík
+ ja steiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fri
+ ed cod with cold dressing and potatoes  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítaspassúpa – White asparagus soup\nNauta Rib eye með soðs
- ósu\, kartöflugratín og rótargrænmeti í timian og rósmarin\nBeef ri
- b eye with demi -glace\, potato au gratin and root vegetables in timian an
- d rosemary
-DTSTART:20230601T110000
-DTEND:20230601T130000
-DTSTAMP:20230601T110000Z
-UID:2023-06-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítaspassúpa – White asparagus soup\nNauta Rib eye með s
- oðsósu\, kartöflugratín og rótargrænmeti í timian og rósmarin\nBee
- f rib eye with demi -glace\, potato au gratin and root vegetables in timia
- n and rosemary
+SUMMARY:Mangó -karrýsúpa með  spínat i – Mango - curry soup with  s
+ pinach (G\,V)\nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjó
+ mlagaðri sveppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\
+ , red cabbage and mushroom sauce   (M\,G \,E)
+DTSTART:20230608T110000
+DTEND:20230608T130000
+DTSTAMP:20230608T110000Z
+UID:2023-06-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Mangó -karrýsúpa með  spínat i – Mango - curry soup wit
+ h  spinach (G\,V)\nGrísasnitsel með steiktum kartöflum\, rauðkáli og 
+ rjómlagaðri sveppasósu (M\,G \,E)\nPork schnitzel with oven baked potat
+ oes\, red cabbage and mushroom sauce   (M\,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Kakósúpa með tvíbökum\nDessert – Cacao sou
- p with biscuits\nGrísk Souvlaki – Kjúklingur í pítabrauði ásamt la
- uk\, grænmeti  og tzatziki sósu\nGreek Souvlaki – Chicken in pita brea
- d with onion\, vegetables and tzatziki sauce
-DTSTART:20230602T110000
-DTEND:20230602T130000
-DTSTAMP:20230602T110000Z
-UID:2023-06-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Kakósúpa með tvíbökum\nDessert – Cacao
-  soup with biscuits\nGrísk Souvlaki – Kjúklingur í pítabrauði ásam
- t lauk\, grænmeti  og tzatziki sósu\nGreek Souvlaki – Chicken in pita 
- bread with onion\, vegetables and tzatziki sauce
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
+  núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and vegetab
+ les  (S\,G)
+DTSTART:20230609T110000
+DTEND:20230609T130000
+DTSTAMP:20230609T110000Z
+UID:2023-06-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
+ með núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and veg
+ etables  (S\,G)
 END:VEVENT
 END:VCALENDAR
