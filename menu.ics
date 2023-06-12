@@ -2,64 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með steikt
- um kartöflum\, salat og brauð\nHaddock in red pesto and fried potatoes
-DTSTART:20230605T110000
-DTEND:20230605T130000
-DTSTAMP:20230605T110000Z
-UID:2023-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með st
- eiktum kartöflum\, salat og brauð\nHaddock in red pesto and fried potato
- es
+SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
+ up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
+ kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and
+  vegetable stew with rice
+DTSTART:20230612T110000
+DTEND:20230612T130000
+DTSTAMP:20230612T110000Z
+UID:2023-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
+ s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
+ ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb
+  and vegetable stew with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minestrone súpa  – Minestrone soup (G\, V)\nspaghetti bolognese
-  með salati og hvítlauksbrauði (G\,M)\nspaghetti Bolognese with garlic 
- bread  (G\,M)
-DTSTART:20230606T110000
-DTEND:20230606T130000
-DTSTAMP:20230606T110000Z
-UID:2023-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Minestrone súpa  – Minestrone soup (G\, V)\nspaghetti bolog
- nese með salati og hvítlauksbrauði (G\,M)\nspaghetti Bolognese with gar
- lic bread  (G\,M)
+SUMMARY:Rjómalöguð kjúklingasúpa  – Creamy chicken soup  (M\,G)\nPl
+ okkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, r
+ ye bread  and butter (M\,G)
+DTSTART:20230613T110000
+DTEND:20230613T130000
+DTSTAMP:20230613T110000Z
+UID:2023-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð kjúklingasúpa  – Creamy chicken soup  (M\,G)
+ \nPlokkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes
+ \, rye bread  and butter (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurríkja s
- teiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fried c
- od with cold dressing and potatoes  (G)
-DTSTART:20230607T110000
-DTEND:20230607T130000
-DTSTAMP:20230607T110000Z
-UID:2023-06-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurrík
- ja steiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fri
- ed cod with cold dressing and potatoes  (G)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
+ kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
+DTSTART:20230614T110000
+DTEND:20230614T130000
+DTSTAMP:20230614T110000Z
+UID:2023-06-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
+ eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mangó -karrýsúpa með  spínat i – Mango - curry soup with  s
- pinach (G\,V)\nGrísasnitsel með steiktum kartöflum\, rauðkáli og rjó
- mlagaðri sveppasósu (M\,G \,E)\nPork schnitzel with oven baked potatoes\
- , red cabbage and mushroom sauce   (M\,G \,E)
-DTSTART:20230608T110000
-DTEND:20230608T130000
-DTSTAMP:20230608T110000Z
-UID:2023-06-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Mangó -karrýsúpa með  spínat i – Mango - curry soup wit
- h  spinach (G\,V)\nGrísasnitsel með steiktum kartöflum\, rauðkáli og 
- rjómlagaðri sveppasósu (M\,G \,E)\nPork schnitzel with oven baked potat
- oes\, red cabbage and mushroom sauce   (M\,G \,E)
+SUMMARY:Graskerssúpa – Pumpkin soup (M\,G)\nKjúklingabringur með rjó
+ malagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast with 
+ creamy pepper sauce\, mais and rice (M)
+DTSTART:20230615T110000
+DTEND:20230615T130000
+DTSTAMP:20230615T110000Z
+UID:2023-06-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – Pumpkin soup (M\,G)\nKjúklingabringur með 
+ rjómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast w
+ ith creamy pepper sauce\, mais and rice (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki með
-  núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and vegetab
- les  (S\,G)
-DTSTART:20230609T110000
-DTEND:20230609T130000
-DTSTAMP:20230609T110000Z
-UID:2023-06-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur teriyaki 
- með núðlum og grænmeti  (S\,G)\nChicken  teriyaki with noodles and veg
- etables  (S\,G)
+SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
+ Taco with minced beef salsa and sour cream (M\,S)
+DTSTART:20230616T110000
+DTEND:20230616T130000
+DTSTAMP:20230616T110000Z
+UID:2023-06-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
+ S)\nTaco with minced beef salsa and sour cream (M\,S)
 END:VEVENT
 END:VCALENDAR

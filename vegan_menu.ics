@@ -2,63 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúlur  fylltar með hrísgrjónum\, grænum baunum og gulrótu
- m ásamt sætri\nchilisósu\nSpring rolls  filled with rice \, peas and ca
- rrots
-DTSTART:20230605T110000
-DTEND:20230605T130000
-DTSTAMP:20230605T110000Z
-UID:2023-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúlur  fylltar með hrísgrjónum\, grænum baunum og gulr
- ótum ásamt sætri\nchilisósu\nSpring rolls  filled with rice \, peas an
- d carrots
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
+ as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
+DTSTART:20230612T110000
+DTEND:20230612T130000
+DTSTAMP:20230612T110000Z
+UID:2023-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
+ ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
+ oli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti vegan bolognese\nSpaghetti vegan bolognese
-DTSTART:20230606T110000
-DTEND:20230606T130000
-DTSTAMP:20230606T110000Z
-UID:2023-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti vegan bolognese\nSpaghetti vegan bolognese
+SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
+ lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kidn
+ ey beans and onion with cous cous  (S)
+DTSTART:20230613T110000
+DTEND:20230613T130000
+DTSTAMP:20230613T110000Z
+UID:2023-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
+ nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, 
+ kidney beans and onion with cous cous  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og möndlubuff með hrísgrjónum og dressingu\nCaulifl
- ower and almond rissolle  with dressing
-DTSTART:20230607T110000
-DTEND:20230607T130000
-DTSTAMP:20230607T110000Z
-UID:2023-06-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og möndlubuff með hrísgrjónum og dressingu\nCau
- liflower and almond rissolle  with dressing
+SUMMARY:Brokkólí - og blómkálsbollur með pasta og mangó jalapeno só
+ su\nVeggie tots with pasta and mango jalapeno sauce
+DTSTART:20230614T110000
+DTEND:20230614T130000
+DTSTAMP:20230614T110000Z
+UID:2023-06-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí - og blómkálsbollur með pasta og mangó jalapeno
+  sósu\nVeggie tots with pasta and mango jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
-  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
- eð mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried cabb
- age\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spinach.
- \nServed with mango -curry and coconut sauce  (G)
-DTSTART:20230608T110000
-DTEND:20230608T130000
-DTSTAMP:20230608T110000Z
-UID:2023-06-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
- um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
- am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
- cabbage\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spin
- ach.\nServed with mango -curry and coconut sauce  (G)
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn (H)
+DTSTART:20230615T110000
+DTEND:20230615T130000
+DTSTAMP:20230615T110000Z
+UID:2023-06-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, svep
- pum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (G)\n
- Cold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms and  c
- arrots served\nwith fried  red cabbage and sweet chili sauce  (G)
-DTSTART:20230609T110000
-DTEND:20230609T130000
-DTSTAMP:20230609T110000Z
-UID:2023-06-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Köld vefja með döðlumauki\, spínati\,\naspas\, mangói\, 
- sveppum  og gulrótum ásamt steiktu rauðkáli og sætri eldpiparsósu  (
- G)\nCold wrap with date puree\, spinach\, asparagus\, mango\, mushrooms an
- d  carrots served\nwith fried  red cabbage and sweet chili sauce  (G)
+SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
+DTSTART:20230616T110000
+DTEND:20230616T130000
+DTSTAMP:20230616T110000Z
+UID:2023-06-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
+ (s)
 END:VEVENT
 END:VCALENDAR
