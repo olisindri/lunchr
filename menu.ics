@@ -6,10 +6,10 @@ SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
  up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
  kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and
   vegetable stew with rice
-DTSTART:20230612T110000
-DTEND:20230612T130000
-DTSTAMP:20230612T110000Z
-UID:2023-06-12T11:00:00/olisindri@gmail.com
+DTSTART:20230619T110000
+DTEND:20230619T130000
+DTSTAMP:20230619T110000Z
+UID:2023-06-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
  s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
  ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb
@@ -19,10 +19,10 @@ BEGIN:VEVENT
 SUMMARY:Rjómalöguð kjúklingasúpa  – Creamy chicken soup  (M\,G)\nPl
  okkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, r
  ye bread  and butter (M\,G)
-DTSTART:20230613T110000
-DTEND:20230613T130000
-DTSTAMP:20230613T110000Z
-UID:2023-06-13T11:00:00/olisindri@gmail.com
+DTSTART:20230620T110000
+DTEND:20230620T130000
+DTSTAMP:20230620T110000Z
+UID:2023-06-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Rjómalöguð kjúklingasúpa  – Creamy chicken soup  (M\,G)
  \nPlokkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes
  \, rye bread  and butter (M\,G)
@@ -30,10 +30,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
  kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
-DTSTART:20230614T110000
-DTEND:20230614T130000
-DTSTAMP:20230614T110000Z
-UID:2023-06-14T11:00:00/olisindri@gmail.com
+DTSTART:20230621T110000
+DTEND:20230621T130000
+DTSTAMP:20230621T110000Z
+UID:2023-06-21T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
  eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
 END:VEVENT
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Graskerssúpa – Pumpkin soup (M\,G)\nKjúklingabringur með rjó
  malagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast with 
  creamy pepper sauce\, mais and rice (M)
-DTSTART:20230615T110000
-DTEND:20230615T130000
-DTSTAMP:20230615T110000Z
-UID:2023-06-15T11:00:00/olisindri@gmail.com
+DTSTART:20230622T110000
+DTEND:20230622T130000
+DTSTAMP:20230622T110000Z
+UID:2023-06-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Graskerssúpa – Pumpkin soup (M\,G)\nKjúklingabringur með 
  rjómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast w
  ith creamy pepper sauce\, mais and rice (M)
@@ -52,10 +52,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
  Taco with minced beef salsa and sour cream (M\,S)
-DTSTART:20230616T110000
-DTEND:20230616T130000
-DTSTAMP:20230616T110000Z
-UID:2023-06-16T11:00:00/olisindri@gmail.com
+DTSTART:20230623T110000
+DTEND:20230623T130000
+DTSTAMP:20230623T110000Z
+UID:2023-06-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
  S)\nTaco with minced beef salsa and sour cream (M\,S)
 END:VEVENT

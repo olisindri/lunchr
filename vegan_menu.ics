@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
  ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
  as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
-DTSTART:20230612T110000
-DTEND:20230612T130000
-DTSTAMP:20230612T110000Z
-UID:2023-06-12T11:00:00/olisindri@gmail.com
+DTSTART:20230619T110000
+DTEND:20230619T130000
+DTSTAMP:20230619T110000Z
+UID:2023-06-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
  , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
  ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
@@ -18,10 +18,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
  lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kidn
  ey beans and onion with cous cous  (S)
-DTSTART:20230613T110000
-DTEND:20230613T130000
-DTSTAMP:20230613T110000Z
-UID:2023-06-13T11:00:00/olisindri@gmail.com
+DTSTART:20230620T110000
+DTEND:20230620T130000
+DTSTAMP:20230620T110000Z
+UID:2023-06-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
  nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, 
  kidney beans and onion with cous cous  (S)
@@ -29,10 +29,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brokkólí - og blómkálsbollur með pasta og mangó jalapeno só
  su\nVeggie tots with pasta and mango jalapeno sauce
-DTSTART:20230614T110000
-DTEND:20230614T130000
-DTSTAMP:20230614T110000Z
-UID:2023-06-14T11:00:00/olisindri@gmail.com
+DTSTART:20230621T110000
+DTEND:20230621T130000
+DTSTAMP:20230621T110000Z
+UID:2023-06-21T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokkólí - og blómkálsbollur með pasta og mangó jalapeno
   sósu\nVeggie tots with pasta and mango jalapeno sauce
 END:VEVENT
@@ -40,20 +40,20 @@ BEGIN:VEVENT
 SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
   (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
  orn (H)
-DTSTART:20230615T110000
-DTEND:20230615T130000
-DTSTAMP:20230615T110000Z
-UID:2023-06-15T11:00:00/olisindri@gmail.com
+DTSTART:20230622T110000
+DTEND:20230622T130000
+DTSTAMP:20230622T110000Z
+UID:2023-06-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
  ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
  et corn (H)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
-DTSTART:20230616T110000
-DTEND:20230616T130000
-DTSTAMP:20230616T110000Z
-UID:2023-06-16T11:00:00/olisindri@gmail.com
+DTSTART:20230623T110000
+DTEND:20230623T130000
+DTSTAMP:20230623T110000Z
+UID:2023-06-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
  (s)
 END:VEVENT
