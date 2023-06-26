@@ -2,61 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel á cous cous beði með grænmeti og hvítlauks mæjó\nFa
- lafel with cous cous\, vegetables and garlic mayo
-DTSTART:20230619T110000
-DTEND:20230619T130000
-DTSTAMP:20230619T110000Z
-UID:2023-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel á cous cous beði með grænmeti og hvítlauks mæjó
- \nFalafel with cous cous\, vegetables and garlic mayo
+SUMMARY:Blómkáls - og brokkólí naggar með steiktum kartöflum og kald
+ ri dressingu\nCauliflower - and broccoli tots with fried potatoes and cold
+  dressing
+DTSTART:20230626T110000
+DTEND:20230626T130000
+DTSTAMP:20230626T110000Z
+UID:2023-06-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og brokkólí naggar með steiktum kartöflum og 
+ kaldri dressingu\nCauliflower - and broccoli tots with fried potatoes and 
+ cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai green cu
- rry with vegetables and tofu  (S)
-DTSTART:20230620T110000
-DTEND:20230620T130000
-DTSTAMP:20230620T110000Z
-UID:2023-06-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai gree
- n curry with vegetables and tofu  (S)
+SUMMARY:Thai karrý með baunum og grænmeti\nThai curry with beans and ve
+ getables
+DTSTART:20230627T110000
+DTEND:20230627T130000
+DTSTAMP:20230627T110000Z
+UID:2023-06-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Thai karrý með baunum og grænmeti\nThai curry with beans an
+ d vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jambalayo með sætum kartöflum og koriander\nJambalayo with swee
- t potatoes and coriander
-DTSTART:20230621T110000
-DTEND:20230621T130000
-DTSTAMP:20230621T110000Z
-UID:2023-06-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Jambalayo með sætum kartöflum og koriander\nJambalayo with 
- sweet potatoes and coriander
+SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
+ mt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots serv
+ ed with sweet chili sauce (G)
+DTSTART:20230628T110000
+DTEND:20230628T130000
+DTSTAMP:20230628T110000Z
+UID:2023-06-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
+ ásamt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots 
+ served with sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,G)\n
- Vegan schnitzel with cold herb dressing  and potatoes  (S\,G)
-DTSTART:20230622T110000
-DTEND:20230622T130000
-DTSTAMP:20230622T110000Z
-UID:2023-06-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,
- G)\nVegan schnitzel with cold herb dressing  and potatoes  (S\,G)
+SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
+  lentils and rice
+DTSTART:20230629T110000
+DTEND:20230629T130000
+DTSTAMP:20230629T110000Z
+UID:2023-06-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
+ with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sterkur soja hakkréttur með baunum\, rótarsalati\, hrísgrjónu
- m og nachos  (S)\nSpicy Soya  chili sin carne with beans\, root vegetable 
- salad\, rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
- ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
- tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
- rlic for our vegan courses
-DTSTART:20230623T110000
-DTEND:20230623T130000
-DTSTAMP:20230623T110000Z
-UID:2023-06-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sterkur soja hakkréttur með baunum\, rótarsalati\, hrísgrj
- ónum og nachos  (S)\nSpicy Soya  chili sin carne with beans\, root vegeta
- ble salad\, rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/P
- eanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og 
- hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion an
- d garlic for our vegan courses
+SUMMARY:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur\, t
+ ómatur og basil ásamt salati\,\npestó og brauði\nLasagna: paprika\, on
+ ion\, celery\, carrots\, leek\, tomato and basil served with salad\, pesto
+ \nand bread
+DTSTART:20230630T110000
+DTEND:20230630T130000
+DTSTAMP:20230630T110000Z
+UID:2023-06-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur
+ \, tómatur og basil ásamt salati\,\npestó og brauði\nLasagna: paprika\
+ , onion\, celery\, carrots\, leek\, tomato and basil served with salad\, p
+ esto\nand bread
 END:VEVENT
 END:VCALENDAR

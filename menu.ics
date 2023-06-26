@@ -2,69 +2,70 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður þors
- kur með lauksmjöri og steiktum kartöflum\nOven baked cod with onion but
- ter and fried potatoes
-DTSTART:20230619T110000
-DTEND:20230619T130000
-DTSTAMP:20230619T110000Z
-UID:2023-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður 
- þorskur með lauksmjöri og steiktum kartöflum\nOven baked cod with onio
- n butter and fried potatoes
+SUMMARY:Tómat - og basilsúpa   - Tomato - and basil soup  (V\,G)\nSalat 
+ dagsins - Salad of the day: Nípa  - parsnip  (V)\nOfnbakaður þorskur me
+ ð sítrónu og timian sósu og steiktum kartöflum (M\,G)\nOvenbaked cod 
+ with lemon and thyme sauce and fried potatoes (M\,G)
+DTSTART:20230626T110000
+DTEND:20230626T130000
+DTSTAMP:20230626T110000Z
+UID:2023-06-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa   - Tomato - and basil soup  (V\,G)\nSa
+ lat dagsins - Salad of the day: Nípa  - parsnip  (V)\nOfnbakaður þorsku
+ r með sítrónu og timian sósu og steiktum kartöflum (M\,G)\nOvenbaked 
+ cod with lemon and thyme sauce and fried potatoes (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\n“Lancashire Hot P
- ot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad and r
- hubarb jam
-DTSTART:20230620T110000
-DTEND:20230620T130000
-DTSTAMP:20230620T110000Z
-UID:2023-06-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\n“Lancashire H
- ot Pot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad a
- nd rhubarb jam
+SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nFolaldakjöt í massaman k
+ arrí með pilau hrísgrjónum\nFoalmeat in massaman curry with pilau rice
+DTSTART:20230627T110000
+DTEND:20230627T130000
+DTSTAMP:20230627T110000Z
+UID:2023-06-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nFolaldakjöt í massam
+ an karrí með pilau hrísgrjónum\nFoalmeat in massaman curry with pilau 
+ rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Salad o
- f the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesan pa
- nkó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,E\,M
- )\nFried catfish in parmesan panko breadcrumbs served with potatoes\, cock
- tail sauce and\ncoleslaw  (G\,E\,M)
-DTSTART:20230621T110000
-DTEND:20230621T130000
-DTSTAMP:20230621T110000Z
-UID:2023-06-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Sal
- ad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesa
- n pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,
- E\,M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\, 
- cocktail sauce and\ncoleslaw  (G\,E\,M)
+SUMMARY:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSalat d
+ agsins – Salad of the day: Brokkoli  – broccoli  (V)\nOfnbökuð ýsa 
+ með kryddjurtarrasp og sjávaréttasósu með rækjum  (G\,M)\nOvenbaked 
+  haddock with herb breadcrumbs and seafood sauce with shrimps (G\,M)
+DTSTART:20230628T110000
+DTEND:20230628T130000
+DTSTAMP:20230628T110000Z
+UID:2023-06-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSal
+ at dagsins – Salad of the day: Brokkoli  – broccoli  (V)\nOfnbökuð 
+ ýsa með kryddjurtarrasp og sjávaréttasósu með rækjum  (G\,M)\nOvenb
+ aked  haddock with herb breadcrumbs and seafood sauce with shrimps (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða án p
- uru með soðsósu og brokkólí -\, blómkáls - og kartöflugratíni  (M
- )\nPork loin with demi glaze and cauliflower -\, broccoli - and potato au 
- gratin (M)
-DTSTART:20230622T110000
-DTEND:20230622T130000
-DTSTAMP:20230622T110000Z
-UID:2023-06-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða 
- án puru með soðsósu og brokkólí -\, blómkáls - og kartöflugratín
- i  (M)\nPork loin with demi glaze and cauliflower -\, broccoli - and potat
- o au gratin (M)
+SUMMARY:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur í ko
+ rma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry serv
+ ed with rice and flatbread (G)
+DTSTART:20230629T110000
+DTEND:20230629T130000
+DTSTAMP:20230629T110000Z
+UID:2023-06-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur 
+ í korma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry
+  served with rice and flatbread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo só
- su með mais stöngli  og rösti kartöflum\nChicken  in buffalo sauce wit
- h corn  on the cob and rösti po tatoes
-DTSTART:20230623T110000
-DTEND:20230623T130000
-DTSTAMP:20230623T110000Z
-UID:2023-06-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo
-  sósu með mais stöngli  og rösti kartöflum\nChicken  in buffalo sauce
-  with corn  on the cob and rösti po tatoes
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSalat dagsins – Salad 
+ of the day: Sætar kartöflur með kanil – sweet potato with cinnamon ( 
+ V)\nMexíkóskt kjúklinga lasagna borið fram með sýrðum rjóma og nac
+ hos (G\,M)\nMexican chicken lasagna served with sour cream and nachos (G\,
+ M)
+DTSTART:20230630T110000
+DTEND:20230630T130000
+DTSTAMP:20230630T110000Z
+UID:2023-06-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSalat dagsins – Sa
+ lad of the day: Sætar kartöflur með kanil – sweet potato with cinnamo
+ n ( V)\nMexíkóskt kjúklinga lasagna borið fram með sýrðum rjóma og
+  nachos (G\,M)\nMexican chicken lasagna served with sour cream and nachos 
+ (G\,M)
 END:VEVENT
 END:VCALENDAR
