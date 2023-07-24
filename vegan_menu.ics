@@ -2,59 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel  með "baba ghanoush"  dressingu  ásamt Kartöflum \, og 
- salati  (G)\nFalafel\, baba ghanoush\, served with rice and salad (G)
-DTSTART:20230717T110000
-DTEND:20230717T130000
-DTSTAMP:20230717T110000Z
-UID:2023-07-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel  með "baba ghanoush"  dressingu  ásamt Kartöflum \,
-  og salati  (G)\nFalafel\, baba ghanoush\, served with rice and salad (G)
+SUMMARY:“Ratatoullie” Kúrbítur blómkál\, brokkólí\, rauðlaukur\
+ , hvítlaukur\, gulrætur og\npaprika í döðlu og rósmarínsósu ásamt
+  kartöflum.\nVegetable ratatoullie in date and rosmarin sauce with potato
+ es.
+DTSTART:20230724T110000
+DTEND:20230724T130000
+DTSTAMP:20230724T110000Z
+UID:2023-07-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ratatoullie” Kúrbítur blómkál\, brokkólí\, rauðlau
+ kur\, hvítlaukur\, gulrætur og\npaprika í döðlu og rósmarínsósu á
+ samt kartöflum.\nVegetable ratatoullie in date and rosmarin sauce with po
+ tatoes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með heitri tómat - og kú
- mensósu  og h rísgrjónum\nSweet potato\, paprika and been balls with ho
- t tomato - and caraway sauce  and rice
-DTSTART:20230718T110000
-DTEND:20230718T130000
-DTSTAMP:20230718T110000Z
-UID:2023-07-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með heitri tómat - og
-  kúmensósu  og h rísgrjónum\nSweet potato\, paprika and been balls wit
- h hot tomato - and caraway sauce  and rice
+SUMMARY:Grænmetis Thai karrý með baunum og grænmeti\nVegetable Thai cu
+ rry with beans
+DTSTART:20230725T110000
+DTEND:20230725T130000
+DTSTAMP:20230725T110000Z
+UID:2023-07-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis Thai karrý með baunum og grænmeti\nVegetable Tha
+ i curry with beans
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
- hvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflower a
- nd black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and vege
- tables served with baked potatoes
-DTSTART:20230719T110000
-DTEND:20230719T130000
-DTSTAMP:20230719T110000Z
-UID:2023-07-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
- \,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflow
- er and black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and 
- vegetables served with baked potatoes
+SUMMARY:Brokkólígratín\, ostgratínerað sætkartöflu og baunamauk me
+ ð brokkolí bitum ásamt\nkartöflum.\nBroccoli gratin\, cheesegratinated
+  sweetpotatoes and beans with broccoli \, served with\npotatoes
+DTSTART:20230726T110000
+DTEND:20230726T130000
+DTSTAMP:20230726T110000Z
+UID:2023-07-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólígratín\, ostgratínerað sætkartöflu og baunamauk
+  með brokkolí bitum ásamt\nkartöflum.\nBroccoli gratin\, cheesegratina
+ ted sweetpotatoes and beans with broccoli \, served with\npotatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
- small potatoes
-DTSTART:20230720T110000
-DTEND:20230720T130000
-DTSTAMP:20230720T110000Z
-UID:2023-07-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
- ith small potatoes
+SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
+  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
+ eð mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried cabb
+ age\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spinach.
+ \nServed with mango -curry and coconut sauce  (G)
+DTSTART:20230727T110000
+DTEND:20230727T130000
+DTSTAMP:20230727T110000Z
+UID:2023-07-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
+ um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
+ am með mangó -karrý og kókossósu  (G)\nBaked “BRICK”\nWith fried 
+ cabbage\, carrots\, beets\, chick peas\, sweet potatoes\, pepper  and spin
+ ach.\nServed with mango -curry and coconut sauce  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með sætum kartöflum og dressing\nCa
- uliflower - and almond rissole with sweet potatoes and dressing
-DTSTART:20230721T110000
-DTEND:20230721T130000
-DTSTAMP:20230721T110000Z
-UID:2023-07-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með sætum kartöflum og dressing
- \nCauliflower - and almond rissole with sweet potatoes and dressing
+SUMMARY:"Pulled oumph" samloka með hvítkálssalati\, "spicy" mæjó og k
+ artöflubátum  (S)\nPulled oumph sandwich with cabbage slaw\, spicy mayo 
+ and potato wedges (S)
+DTSTART:20230728T110000
+DTEND:20230728T130000
+DTSTAMP:20230728T110000Z
+UID:2023-07-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:"Pulled oumph" samloka með hvítkálssalati\, "spicy" mæjó 
+ og kartöflubátum  (S)\nPulled oumph sandwich with cabbage slaw\, spicy m
+ ayo and potato wedges (S)
 END:VEVENT
 END:VCALENDAR
