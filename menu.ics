@@ -2,66 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með steikt
- um kartöflum\, salat og brauð\nHaddock in red pesto and fried potatoes
-DTSTART:20230724T110000
-DTEND:20230724T130000
-DTSTAMP:20230724T110000Z
-UID:2023-07-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppa og portvíns súpa\nÝsa í rauðu pestói með st
- eiktum kartöflum\, salat og brauð\nHaddock in red pesto and fried potato
- es
+SUMMARY:Sætkartöflu súpa – Sweeet  soup  (V)\nLambakjöt  í karrýs
+ ósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and vegetable stew w
+ ith rice
+DTSTART:20230731T110000
+DTEND:20230731T130000
+DTSTAMP:20230731T110000Z
+UID:2023-07-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu súpa – Sweeet  soup  (V)\nLambakjöt  í karr
+ ýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and vegetable ste
+ w with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minestrone súpa – Minestrone soup (G\, V)\nSpaghetti bolognese 
- með salati og hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garlic b
- read  (G\,M)
-DTSTART:20230725T110000
-DTEND:20230725T130000
-DTSTAMP:20230725T110000Z
-UID:2023-07-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Minestrone súpa – Minestrone soup (G\, V)\nSpaghetti bologn
- ese með salati og hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garl
- ic bread  (G\,M)
+SUMMARY:Rjómalöguð tómatsúpa  – Creamy tomato  soup  (G\,V)\nPlokkf
+ iskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, rye b
+ read  and butter (M\,G)
+DTSTART:20230801T110000
+DTEND:20230801T130000
+DTSTAMP:20230801T110000Z
+UID:2023-08-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð tómatsúpa  – Creamy tomato  soup  (G\,V)\nPl
+ okkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, r
+ ye bread  and butter (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurríkja s
- teiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fried c
- od with cold dressing and potatoes  (G)
-DTSTART:20230726T110000
-DTEND:20230726T130000
-DTSTAMP:20230726T110000Z
-UID:2023-07-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa  – paprika soup  (M\,G)\nSuðurrík
- ja steiktur þorskur með kaldri dressingu\, kartöflum  (G)\nSouthern fri
- ed cod with cold dressing and potatoes  (G)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
+ kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
+DTSTART:20230802T110000
+DTEND:20230802T130000
+DTSTAMP:20230802T110000Z
+UID:2023-08-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
+ eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mangó -karrýsúpa með  spínat i – Mango - curry soup with  s
- pinach (G\,V)\nLamba snitsel með steiktum kartöflum\, rauðkáli og rjó
- mlagaðri sveppasósu (M\,G \,E)\nLamb  schnitzel with oven baked potatoes
- \, red cabbage and mushroom sauce   (M\,G \,E)
-DTSTART:20230727T110000
-DTEND:20230727T130000
-DTSTAMP:20230727T110000Z
-UID:2023-07-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Mangó -karrýsúpa með  spínat i – Mango - curry soup wit
- h  spinach (G\,V)\nLamba snitsel með steiktum kartöflum\, rauðkáli og 
- rjómlagaðri sveppasósu (M\,G \,E)\nLamb  schnitzel with oven baked pota
- toes\, red cabbage and mushroom sauce   (M\,G \,E)
+SUMMARY:Graskerssúpa – Pumpkin soup (G \, V)\nKjúklingabringur með rj
+ ómalagaðri pipar sósu \, maís og kartöflum  (M)\nChicken breast with 
+ creamy pepper sauce\, mais and potatoes  (M)
+DTSTART:20230803T110000
+DTEND:20230803T130000
+DTSTAMP:20230803T110000Z
+UID:2023-08-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – Pumpkin soup (G \, V)\nKjúklingabringur me
+ ð rjómalagaðri pipar sósu \, maís og kartöflum  (M)\nChicken breast 
+ with creamy pepper sauce\, mais and potatoes  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” samloka
-  með “spicy” mæjó hvítkálssalati og kartöflubátum\nPulled pork 
- sandwich withspicy mayo\, cabbage slaw and potato wedges\nInnihaldslýsing
- ar – Ingredients descriptions
-DTSTART:20230728T110000
-DTEND:20230728T130000
-DTSTAMP:20230728T110000Z
-UID:2023-07-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” sam
- loka með “spicy” mæjó hvítkálssalati og kartöflubátum\nPulled p
- ork sandwich withspicy mayo\, cabbage slaw and potato wedges\nInnihaldslý
- singar – Ingredients descriptions
+SUMMARY:Taco skeljar með nau tahakki\,  hrísgrjónum\,  salsa og sýrðu
+ m rjóma (M\,S)\nTaco with minced beef \, rice\,  salsa and sour cream (M\
+ ,S)
+DTSTART:20230804T110000
+DTEND:20230804T130000
+DTSTAMP:20230804T110000Z
+UID:2023-08-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco skeljar með nau tahakki\,  hrísgrjónum\,  salsa og sý
+ rðum rjóma (M\,S)\nTaco with minced beef \, rice\,  salsa and sour cream
+  (M\,S)
 END:VEVENT
 END:VCALENDAR
