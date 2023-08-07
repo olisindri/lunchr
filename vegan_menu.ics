@@ -2,58 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
- as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
-DTSTART:20230731T110000
-DTEND:20230731T130000
-DTSTAMP:20230731T110000Z
-UID:2023-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
- ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
- oli
+SUMMARY:Lokað
+DTSTART:20230807T110000
+DTEND:20230807T130000
+DTSTAMP:20230807T110000Z
+UID:2023-08-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kidn
- ey beans and onion with cous cous  (S)
-DTSTART:20230801T110000
-DTEND:20230801T130000
-DTSTAMP:20230801T110000Z
-UID:2023-08-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, 
- kidney beans and onion with cous cous  (S)
+SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet pota
+ to balls  with curry and rice  (G)
+DTSTART:20230808T110000
+DTEND:20230808T130000
+DTSTAMP:20230808T110000Z
+UID:2023-08-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet 
+ potato balls  with curry and rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
-  sósu  (S)\nVeggie tots with rice and soya -sesame sauce  (S)
-DTSTART:20230802T110000
-DTEND:20230802T130000
-DTSTAMP:20230802T110000Z
-UID:2023-08-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
- esam sósu  (S)\nVeggie tots with rice and soya -sesame sauce  (S)
+SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
+ um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
+  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
+ ery root\nand carrots with mustard mayo
+DTSTART:20230809T110000
+DTEND:20230809T130000
+DTSTAMP:20230809T110000Z
+UID:2023-08-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
+ baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
+ umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
+  celery root\nand carrots with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, kartöflum og mais  (H)\nB
- lackbeansteak with wild mushroom sauce\, potatoes and sweet corn (H)
-DTSTART:20230803T110000
-DTEND:20230803T130000
-DTSTAMP:20230803T110000Z
-UID:2023-08-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, kartöflum og mais  (H
- )\nBlackbeansteak with wild mushroom sauce\, potatoes and sweet corn (H)
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)\nWh
+ ite kidney bean and root vegetable cashew steak with potatoes (G)
+DTSTART:20230810T110000
+DTEND:20230810T130000
+DTSTAMP:20230810T110000Z
+UID:2023-08-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)
+ \nWhite kidney bean and root vegetable cashew steak with potatoes (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco með vegan hakki og salsa  (S)\nTacos with omph and salsa  (S
- )
-DTSTART:20230804T110000
-DTEND:20230804T130000
-DTSTAMP:20230804T110000Z
-UID:2023-08-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco með vegan hakki og salsa  (S)\nTacos with omph and salsa
-   (S)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, salati
+  og brauði  (G)\nPotato and red beets rissole with lens beans\, potatoes\
+ , salad and bread (G)
+DTSTART:20230811T110000
+DTEND:20230811T130000
+DTSTAMP:20230811T110000Z
+UID:2023-08-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, sa
+ lati og brauði  (G)\nPotato and red beets rissole with lens beans\, potat
+ oes\, salad and bread (G)
 END:VEVENT
 END:VCALENDAR

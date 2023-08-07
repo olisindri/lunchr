@@ -2,61 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu súpa – Sweeet  soup  (V)\nLambakjöt  í karrýs
- ósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and vegetable stew w
- ith rice
-DTSTART:20230731T110000
-DTEND:20230731T130000
-DTSTAMP:20230731T110000Z
-UID:2023-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu súpa – Sweeet  soup  (V)\nLambakjöt  í karr
- ýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and vegetable ste
- w with rice
+SUMMARY:Lokað
+DTSTART:20230807T110000
+DTEND:20230807T130000
+DTSTAMP:20230807T110000Z
+UID:2023-08-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rjómalöguð tómatsúpa  – Creamy tomato  soup  (G\,V)\nPlokkf
- iskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, rye b
- read  and butter (M\,G)
-DTSTART:20230801T110000
-DTEND:20230801T130000
-DTSTAMP:20230801T110000Z
-UID:2023-08-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rjómalöguð tómatsúpa  – Creamy tomato  soup  (G\,V)\nPl
- okkfiskur með rúgbrauði  og smjöri (M\,G)\nFish stew with potatoes\, r
- ye bread  and butter (M\,G)
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSteiktar fiskibollur með br
+ únni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\nFried fish ball
+ s with brown sauce\, boiled potatoes\, coldslaw (M\,G\,E)
+DTSTART:20230808T110000
+DTEND:20230808T130000
+DTSTAMP:20230808T110000Z
+UID:2023-08-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSteiktar fiskibollur me
+ ð brúnni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\nFried fish
+  balls with brown sauce\, boiled potatoes\, coldslaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
- kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
-DTSTART:20230802T110000
-DTEND:20230802T130000
-DTSTAMP:20230802T110000Z
-UID:2023-08-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
- eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með ana
+ nassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple sal
+ sa and potatoes (M)
+DTSTART:20230809T110000
+DTEND:20230809T130000
+DTSTAMP:20230809T110000Z
+UID:2023-08-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með
+  ananassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple
+  salsa and potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup (G \, V)\nKjúklingabringur með rj
- ómalagaðri pipar sósu \, maís og kartöflum  (M)\nChicken breast with 
- creamy pepper sauce\, mais and potatoes  (M)
-DTSTART:20230803T110000
-DTEND:20230803T130000
-DTSTAMP:20230803T110000Z
-UID:2023-08-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup (G \, V)\nKjúklingabringur me
- ð rjómalagaðri pipar sósu \, maís og kartöflum  (M)\nChicken breast 
- with creamy pepper sauce\, mais and potatoes  (M)
+SUMMARY:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með róta
+ rgrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morrocan
+ ” with root vegetables\, potato gratin and herb gravy\nFöstudagur - Fri
+ day
+DTSTART:20230810T110000
+DTEND:20230810T130000
+DTSTAMP:20230810T110000Z
+UID:2023-08-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með r
+ ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morroc
+ an” with root vegetables\, potato gratin and herb gravy\nFöstudagur - F
+ riday
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco skeljar með nau tahakki\,  hrísgrjónum\,  salsa og sýrðu
- m rjóma (M\,S)\nTaco with minced beef \, rice\,  salsa and sour cream (M\
- ,S)
-DTSTART:20230804T110000
-DTEND:20230804T130000
-DTSTAMP:20230804T110000Z
-UID:2023-08-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco skeljar með nau tahakki\,  hrísgrjónum\,  salsa og sý
- rðum rjóma (M\,S)\nTaco with minced beef \, rice\,  salsa and sour cream
-  (M\,S)
+SUMMARY:Föstudagur - Friday\nEftirréttur – dessert (M\,G\,E\,H)\nHakka
+  buff með brúnni lauksósu\, steiktum kartöflum og rauðkál\nSalisbury
+  steak  with onion sauce\, fried potatoes and red cabbage
+DTSTART:20230811T110000
+DTEND:20230811T130000
+DTSTAMP:20230811T110000Z
+UID:2023-08-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Föstudagur - Friday\nEftirréttur – dessert (M\,G\,E\,H)\nH
+ akka buff með brúnni lauksósu\, steiktum kartöflum og rauðkál\nSalis
+ bury steak  with onion sauce\, fried potatoes and red cabbage
 END:VEVENT
 END:VCALENDAR
