@@ -2,57 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230807T110000
-DTEND:20230807T130000
-DTSTAMP:20230807T110000Z
-UID:2023-08-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Falafel á cous cous beði með grænmeti og hvítlauks mæjó\nFa
+ lafel with cous cous\, vegetables and garlic mayo
+DTSTART:20230814T110000
+DTEND:20230814T130000
+DTSTAMP:20230814T110000Z
+UID:2023-08-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel á cous cous beði með grænmeti og hvítlauks mæjó
+ \nFalafel with cous cous\, vegetables and garlic mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet pota
- to balls  with curry and rice  (G)
-DTSTART:20230808T110000
-DTEND:20230808T130000
-DTSTAMP:20230808T110000Z
-UID:2023-08-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum (G)\nSweet 
- potato balls  with curry and rice  (G)
+SUMMARY:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai green cu
+ rry with vegetables and tofu  (S)
+DTSTART:20230815T110000
+DTEND:20230815T130000
+DTSTAMP:20230815T110000Z
+UID:2023-08-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai gree
+ n curry with vegetables and tofu  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
- um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
-  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
- ery root\nand carrots with mustard mayo
-DTSTART:20230809T110000
-DTEND:20230809T130000
-DTSTAMP:20230809T110000Z
-UID:2023-08-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
- baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
- umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
-  celery root\nand carrots with mustard mayo
+SUMMARY:Jambalayo með sætum kartöflum og koriander\nJambalayo with swee
+ t potatoes and coriander
+DTSTART:20230816T110000
+DTEND:20230816T130000
+DTSTAMP:20230816T110000Z
+UID:2023-08-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Jambalayo með sætum kartöflum og koriander\nJambalayo with 
+ sweet potatoes and coriander
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)\nWh
- ite kidney bean and root vegetable cashew steak with potatoes (G)
-DTSTART:20230810T110000
-DTEND:20230810T130000
-DTSTAMP:20230810T110000Z
-UID:2023-08-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum (G)
- \nWhite kidney bean and root vegetable cashew steak with potatoes (G)
+SUMMARY:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,G)\n
+ Vegan schnitzel with cold herb dressing  and potatoes  (S\,G)
+DTSTART:20230817T110000
+DTEND:20230817T130000
+DTSTAMP:20230817T110000Z
+UID:2023-08-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,
+ G)\nVegan schnitzel with cold herb dressing  and potatoes  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, salati
-  og brauði  (G)\nPotato and red beets rissole with lens beans\, potatoes\
- , salad and bread (G)
-DTSTART:20230811T110000
-DTEND:20230811T130000
-DTSTAMP:20230811T110000Z
-UID:2023-08-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum\, kartöflum\, sa
- lati og brauði  (G)\nPotato and red beets rissole with lens beans\, potat
- oes\, salad and bread (G)
+SUMMARY:Sterkur soja hakkréttur með baunum\, rótarsalati\, hrísgrjónu
+ m og nachos  (S)\nSpicy Soya  chili sin carne with beans\, root vegetable 
+ salad\, rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
+ ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
+ tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
+ rlic for our vegan courses
+DTSTART:20230818T110000
+DTEND:20230818T130000
+DTSTAMP:20230818T110000Z
+UID:2023-08-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sterkur soja hakkréttur með baunum\, rótarsalati\, hrísgrj
+ ónum og nachos  (S)\nSpicy Soya  chili sin carne with beans\, root vegeta
+ ble salad\, rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/P
+ eanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og 
+ hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion an
+ d garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR

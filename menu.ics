@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20230807T110000
-DTEND:20230807T130000
-DTSTAMP:20230807T110000Z
-UID:2023-08-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður þors
+ kur með lauksmjöri og steiktum kartöflum\nOven baked cod with onion but
+ ter and fried potatoes
+DTSTART:20230814T110000
+DTEND:20230814T130000
+DTSTAMP:20230814T110000Z
+UID:2023-08-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður 
+ þorskur með lauksmjöri og steiktum kartöflum\nOven baked cod with onio
+ n butter and fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSteiktar fiskibollur með br
- únni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\nFried fish ball
- s with brown sauce\, boiled potatoes\, coldslaw (M\,G\,E)
-DTSTART:20230808T110000
-DTEND:20230808T130000
-DTSTAMP:20230808T110000Z
-UID:2023-08-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSteiktar fiskibollur me
- ð brúnni sósu\, soðnum kartöflum\nog hrásalati (M\,G\,E)\nFried fish
-  balls with brown sauce\, boiled potatoes\, coldslaw (M\,G\,E)
+SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\nLamba “Navarin”
+  með kartöflumús (M)\nLamb Navarin with mashed potatoes (M)
+DTSTART:20230815T110000
+DTEND:20230815T130000
+DTSTAMP:20230815T110000Z
+UID:2023-08-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\nLamba “Navari
+ n” með kartöflumús (M)\nLamb Navarin with mashed potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
- f the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með ana
- nassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple sal
- sa and potatoes (M)
-DTSTART:20230809T110000
-DTEND:20230809T130000
-DTSTAMP:20230809T110000Z
-UID:2023-08-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
- ad of the day: Blómkál – Cauliflower  (V)\nCajun Krydduð bleikja með
-  ananassalsa og steiktum kartöflum (M)\nCajun spiced trout with pineapple
-  salsa and potatoes (M)
+SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Salad o
+ f the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesan pa
+ nkó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,E\,M
+ )\nFried catfish in parmesan panko breadcrumbs served with potatoes\, cock
+ tail sauce and\ncoleslaw  (G\,E\,M)
+DTSTART:20230816T110000
+DTEND:20230816T130000
+DTSTAMP:20230816T110000Z
+UID:2023-08-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Sal
+ ad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesa
+ n pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,
+ E\,M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\, 
+ cocktail sauce and\ncoleslaw  (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með róta
- rgrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morrocan
- ” with root vegetables\, potato gratin and herb gravy\nFöstudagur - Fri
- day
-DTSTART:20230810T110000
-DTEND:20230810T130000
-DTSTAMP:20230810T110000Z
-UID:2023-08-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Paprikusúpa  – Pepper soup  (V)\nLamb “moroccan” með r
- ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu\nLamb “morroc
- an” with root vegetables\, potato gratin and herb gravy\nFöstudagur - F
- riday
+SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða án p
+ uru með soðsósu og brokkólí -\, blómkáls - og kartöflugratíni  (M
+ )\nPork loin with demi glaze and cauliflower -\, broccoli - and potato au 
+ gratin (M)
+DTSTART:20230817T110000
+DTEND:20230817T130000
+DTSTAMP:20230817T110000Z
+UID:2023-08-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða 
+ án puru með soðsósu og brokkólí -\, blómkáls - og kartöflugratín
+ i  (M)\nPork loin with demi glaze and cauliflower -\, broccoli - and potat
+ o au gratin (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Föstudagur - Friday\nEftirréttur – dessert (M\,G\,E\,H)\nHakka
-  buff með brúnni lauksósu\, steiktum kartöflum og rauðkál\nSalisbury
-  steak  with onion sauce\, fried potatoes and red cabbage
-DTSTART:20230811T110000
-DTEND:20230811T130000
-DTSTAMP:20230811T110000Z
-UID:2023-08-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Föstudagur - Friday\nEftirréttur – dessert (M\,G\,E\,H)\nH
- akka buff með brúnni lauksósu\, steiktum kartöflum og rauðkál\nSalis
- bury steak  with onion sauce\, fried potatoes and red cabbage
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo só
+ su með mais stöngli  og rösti kartöflum\nChicken in buffalo sauce with
+  corn  on the cob and rösti po tatoes
+DTSTART:20230818T110000
+DTEND:20230818T130000
+DTSTAMP:20230818T110000Z
+UID:2023-08-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo
+  sósu með mais stöngli  og rösti kartöflum\nChicken in buffalo sauce 
+ with corn  on the cob and rösti po tatoes
 END:VEVENT
 END:VCALENDAR
