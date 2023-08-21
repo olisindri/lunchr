@@ -2,67 +2,79 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður þors
- kur með lauksmjöri og steiktum kartöflum\nOven baked cod with onion but
- ter and fried potatoes
-DTSTART:20230814T110000
-DTEND:20230814T130000
-DTSTAMP:20230814T110000Z
-UID:2023-08-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – butternut squash soup ( V\,G)\nOfnbakaður 
- þorskur með lauksmjöri og steiktum kartöflum\nOven baked cod with onio
- n butter and fried potatoes
+SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad of t
+ he day: Sætar kartöflur með kanil – sweet potato with cinnamon ( V)\n
+ Ofnbakaður þorskur með sítrónu og timian sósu og steiktum kartöflum
+  (M\,G)\nOvenbaked cod with lemon and thyme sauce and fried potatoes (M\,G
+ )
+DTSTART:20230821T110000
+DTEND:20230821T130000
+DTSTAMP:20230821T110000Z
+UID:2023-08-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad 
+ of the day: Sætar kartöflur með kanil – sweet potato with cinnamon ( 
+ V)\nOfnbakaður þorskur með sítrónu og timian sósu og steiktum kartö
+ flum (M\,G)\nOvenbaked cod with lemon and thyme sauce and fried potatoes (
+ M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\nLamba “Navarin”
-  með kartöflumús (M)\nLamb Navarin with mashed potatoes (M)
-DTSTART:20230815T110000
-DTEND:20230815T130000
-DTSTAMP:20230815T110000Z
-UID:2023-08-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (M\,G)\nLamba “Navari
- n” með kartöflumús (M)\nLamb Navarin with mashed potatoes (M)
+SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\nUngvers
+ kt nautagúllas með pariku\, tómat og gulrótum ásamt hrísgrjónum\nHu
+ ngarian beef goulash with bell pepper\, tomato and carrots served with ric
+ e
+DTSTART:20230822T110000
+DTEND:20230822T130000
+DTSTAMP:20230822T110000Z
+UID:2023-08-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\nUng
+ verskt nautagúllas með pariku\, tómat og gulrótum ásamt hrísgrjónum
+ \nHungarian beef goulash with bell pepper\, tomato and carrots served with
+  rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Salad o
- f the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesan pa
- nkó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,E\,M
- )\nFried catfish in parmesan panko breadcrumbs served with potatoes\, cock
- tail sauce and\ncoleslaw  (G\,E\,M)
-DTSTART:20230816T110000
-DTEND:20230816T130000
-DTSTAMP:20230816T110000Z
-UID:2023-08-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins – Sal
- ad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesa
- n pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,
- E\,M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\, 
- cocktail sauce and\ncoleslaw  (G\,E\,M)
+SUMMARY:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSalat d
+ agsins – Salad of the day: Brokkoli  – broccoli  (V)\nPönnusteikt ýs
+ a í raspi með smælki kartöflum\, capers og rauðlauk og sólselju ása
+ mt remúlaði\nPanfried haddock with potatoes\, capers\, red oninon and di
+ ll served with remoulade
+DTSTART:20230823T110000
+DTEND:20230823T130000
+DTSTAMP:20230823T110000Z
+UID:2023-08-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSal
+ at dagsins – Salad of the day: Brokkoli  – broccoli  (V)\nPönnusteikt
+  ýsa í raspi með smælki kartöflum\, capers og rauðlauk og sólselju 
+ ásamt remúlaði\nPanfried haddock with potatoes\, capers\, red oninon an
+ d dill served with remoulade
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða án p
- uru með soðsósu og brokkólí -\, blómkáls - og kartöflugratíni  (M
- )\nPork loin with demi glaze and cauliflower -\, broccoli - and potato au 
- gratin (M)
-DTSTART:20230817T110000
-DTEND:20230817T130000
-DTSTAMP:20230817T110000Z
-UID:2023-08-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup\nSvínasíða 
- án puru með soðsósu og brokkólí -\, blómkáls - og kartöflugratín
- i  (M)\nPork loin with demi glaze and cauliflower -\, broccoli - and potat
- o au gratin (M)
+SUMMARY:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur í ko
+ rma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry serv
+ ed with rice and flatbread (G)
+DTSTART:20230824T110000
+DTEND:20230824T130000
+DTSTAMP:20230824T110000Z
+UID:2023-08-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur 
+ í korma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry
+  served with rice and flatbread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo só
- su með mais stöngli  og rösti kartöflum\nChicken in buffalo sauce with
-  corn  on the cob and rösti po tatoes
-DTSTART:20230818T110000
-DTEND:20230818T130000
-DTSTAMP:20230818T110000Z
-UID:2023-08-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúkling ur í buffalo
-  sósu með mais stöngli  og rösti kartöflum\nChicken in buffalo sauce 
- with corn  on the cob and rösti po tatoes
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\n"Maczanka krakowska" Rif
+ ið svínakjöt í hamborgarabrauði ásamt súrum gúrkum\, salati og\nsi
+ nnepssósu. Sætkartöflusalat með appelsínum og fennel til hliðar  (G\
+ ,E)\n"Maczanka krakowska ” Pulled pork sandwich with pickles\, lettuce a
+ nd mustard sauce\nserved with sweet potato salad with orange and fennel (G
+ \,E)
+DTSTART:20230825T110000
+DTEND:20230825T130000
+DTSTAMP:20230825T110000Z
+UID:2023-08-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\n"Maczanka krakowska"
+  Rifið svínakjöt í hamborgarabrauði ásamt súrum gúrkum\, salati og
+ \nsinnepssósu. Sætkartöflusalat með appelsínum og fennel til hliðar 
+  (G\,E)\n"Maczanka krakowska ” Pulled pork sandwich with pickles\, lettu
+ ce and mustard sauce\nserved with sweet potato salad with orange and fenne
+ l (G\,E)
 END:VEVENT
 END:VCALENDAR
