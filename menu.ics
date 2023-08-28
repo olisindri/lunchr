@@ -2,79 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad of t
- he day: Sætar kartöflur með kanil – sweet potato with cinnamon ( V)\n
- Ofnbakaður þorskur með sítrónu og timian sósu og steiktum kartöflum
-  (M\,G)\nOvenbaked cod with lemon and thyme sauce and fried potatoes (M\,G
- )
-DTSTART:20230821T110000
-DTEND:20230821T130000
-DTSTAMP:20230821T110000Z
-UID:2023-08-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad 
- of the day: Sætar kartöflur með kanil – sweet potato with cinnamon ( 
- V)\nOfnbakaður þorskur með sítrónu og timian sósu og steiktum kartö
- flum (M\,G)\nOvenbaked cod with lemon and thyme sauce and fried potatoes (
- M\,G)
+SUMMARY:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Salad o
+ f the day: Bragðmikið blómkál – cauliflower  (V)\nFiskibollur með k
+ arrý  sósu\, hrísgrjónum og hrásalati (G\,M\,E)\nFish patties with cu
+ rry  sauce\, fried potatoes and coleslaw (G\,M\,E)
+DTSTART:20230828T110000
+DTEND:20230828T130000
+DTSTAMP:20230828T110000Z
+UID:2023-08-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – wild mushroom soup\nSalat dagsins – Sal
+ ad of the day: Bragðmikið blómkál – cauliflower  (V)\nFiskibollur me
+ ð karrý  sósu\, hrísgrjónum og hrásalati (G\,M\,E)\nFish patties wit
+ h curry  sauce\, fried potatoes and coleslaw (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\nUngvers
- kt nautagúllas með pariku\, tómat og gulrótum ásamt hrísgrjónum\nHu
- ngarian beef goulash with bell pepper\, tomato and carrots served with ric
- e
-DTSTART:20230822T110000
-DTEND:20230822T130000
-DTSTAMP:20230822T110000Z
-UID:2023-08-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\nUng
- verskt nautagúllas með pariku\, tómat og gulrótum ásamt hrísgrjónum
- \nHungarian beef goulash with bell pepper\, tomato and carrots served with
-  rice
+SUMMARY:Graskers súpa  – pumpkin  soup  (V)\nKjúklingabringur í pipar
+  sósu  með steiktum kartöflum og mais  (M)\nChicken breasts in pepper  
+ sauce with fried potatoes  and yellow corn  (M)
+DTSTART:20230829T110000
+DTEND:20230829T130000
+DTSTAMP:20230829T110000Z
+UID:2023-08-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskers súpa  – pumpkin  soup  (V)\nKjúklingabringur í p
+ ipar sósu  með steiktum kartöflum og mais  (M)\nChicken breasts in pepp
+ er  sauce with fried potatoes  and yellow corn  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSalat d
- agsins – Salad of the day: Brokkoli  – broccoli  (V)\nPönnusteikt ýs
- a í raspi með smælki kartöflum\, capers og rauðlauk og sólselju ása
- mt remúlaði\nPanfried haddock with potatoes\, capers\, red oninon and di
- ll served with remoulade
-DTSTART:20230823T110000
-DTEND:20230823T130000
-DTSTAMP:20230823T110000Z
-UID:2023-08-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar og kókossúpa – Carrot and coconut soup  (V)\nSal
- at dagsins – Salad of the day: Brokkoli  – broccoli  (V)\nPönnusteikt
-  ýsa í raspi með smælki kartöflum\, capers og rauðlauk og sólselju 
- ásamt remúlaði\nPanfried haddock with potatoes\, capers\, red oninon an
- d dill served with remoulade
+SUMMARY:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins – Sal
+ ad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGrískur steinb
+ ítur með hrísgrjónum og tzatziki sósu (M)\nGreek catfish with rice an
+ d tzatziki sauce (M)
+DTSTART:20230830T110000
+DTEND:20230830T130000
+DTSTAMP:20230830T110000Z
+UID:2023-08-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomatoe soup\nSalat dagsins –
+  Salad of the day: Sætar kartöflur  – sweet potatoes  (V)\nGrískur st
+ einbítur með hrísgrjónum og tzatziki sósu (M)\nGreek catfish with ric
+ e and tzatziki sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur í ko
- rma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry serv
- ed with rice and flatbread (G)
-DTSTART:20230824T110000
-DTEND:20230824T130000
-DTSTAMP:20230824T110000Z
-UID:2023-08-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa  - Sweet potato soup  (G\,V)\nKjúklingur 
- í korma karrý með hrísgrjónum og flatbrauði (G)\nChicken korma curry
-  served with rice and flatbread (G)
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek - and potato soup  (V)\nS
+ vínahnakki í heimalagaðri kryddblöndu með blönduðu grænmeti\,\nkar
+ töflusmælki og brúnni sósu (M\,G)\nPork roast in homemade dry rub with
+  vegetables\, potatoes\, and brown sauce  (M\,G)
+DTSTART:20230831T110000
+DTEND:20230831T130000
+DTSTAMP:20230831T110000Z
+UID:2023-08-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek - and potato soup  (V
+ )\nSvínahnakki í heimalagaðri kryddblöndu með blönduðu grænmeti\,\
+ nkartöflusmælki og brúnni sósu (M\,G)\nPork roast in homemade dry rub 
+ with vegetables\, potatoes\, and brown sauce  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\n"Maczanka krakowska" Rif
- ið svínakjöt í hamborgarabrauði ásamt súrum gúrkum\, salati og\nsi
- nnepssósu. Sætkartöflusalat með appelsínum og fennel til hliðar  (G\
- ,E)\n"Maczanka krakowska ” Pulled pork sandwich with pickles\, lettuce a
- nd mustard sauce\nserved with sweet potato salad with orange and fennel (G
- \,E)
-DTSTART:20230825T110000
-DTEND:20230825T130000
-DTSTAMP:20230825T110000Z
-UID:2023-08-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\n"Maczanka krakowska"
-  Rifið svínakjöt í hamborgarabrauði ásamt súrum gúrkum\, salati og
- \nsinnepssósu. Sætkartöflusalat með appelsínum og fennel til hliðar 
-  (G\,E)\n"Maczanka krakowska ” Pulled pork sandwich with pickles\, lettu
- ce and mustard sauce\nserved with sweet potato salad with orange and fenne
- l (G\,E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
+  með hrísgrjónum\nChicken thigh tikka masala with ric e
+DTSTART:20230901T110000
+DTEND:20230901T130000
+DTSTAMP:20230901T110000Z
+UID:2023-09-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
+ sala með hrísgrjónum\nChicken thigh tikka masala with ric e
 END:VEVENT
 END:VCALENDAR
