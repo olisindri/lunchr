@@ -2,67 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinseljusó
- su\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sauce\
- , boiled potatoes and peas (M)
-DTSTART:20230904T110000
-DTEND:20230904T130000
-DTSTAMP:20230904T110000Z
-UID:2023-09-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinselj
- usósu\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sa
- uce\, boiled potatoes and peas (M)
+SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
+ p (G)\nKjúklingur satay með steiktum hrísgrjónum  (H)\nChicken satay w
+ ith fried rice  (H)
+DTSTART:20230911T110000
+DTEND:20230911T130000
+DTSTAMP:20230911T110000Z
+UID:2023-09-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
+  soup (G)\nKjúklingur satay með steiktum hrísgrjónum  (H)\nChicken sat
+ ay with fried rice  (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
- úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
-  with rice
-DTSTART:20230905T110000
-DTEND:20230905T130000
-DTSTAMP:20230905T110000Z
-UID:2023-09-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
- \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
- cken with rice
+SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\nSala
+ t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
+ pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
+  in orange and basil with citrus s auce  (G\,M)
+DTSTART:20230912T110000
+DTEND:20230912T130000
+DTSTAMP:20230912T110000Z
+UID:2023-09-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\n
+ Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
+  pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
+ dock in orange and basil with citrus s auce  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kókos -spínatsúpa  – coconut and spinach soup  (V)\nÞorskur 
- með rauðu  cashew hnetu  pestó i ásamt steiktum kartöflum og\nmiðjar
- ðarhafsgrænmeti\nCod with red cashew pesto\, fried potatoes and Mediterr
- anean vegetables
-DTSTART:20230906T110000
-DTEND:20230906T130000
-DTSTAMP:20230906T110000Z
-UID:2023-09-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos -spínatsúpa  – coconut and spinach soup  (V)\nÞors
- kur með rauðu  cashew hnetu  pestó i ásamt steiktum kartöflum og\nmi
- ðjarðarhafsgrænmeti\nCod with red cashew pesto\, fried potatoes and Med
- iterranean vegetables
+SUMMARY:Grænmetis - og byggsúpa með hamborgarhrygg  – Vegetable - and
+  barley soup with bacon\n(G\,M)\nLasagna á ítalskan máta með hvítlauk
+ sbrauði og hrásalati  (G\,M\,E)\nLasagna with garlic bread and coleslaw 
+  (G\,M\,E)
+DTSTART:20230913T110000
+DTEND:20230913T130000
+DTSTAMP:20230913T110000Z
+UID:2023-09-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis - og byggsúpa með hamborgarhrygg  – Vegetable -
+  and barley soup with bacon\n(G\,M)\nLasagna á ítalskan máta með hvít
+ lauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garlic bread and coles
+ law  (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa  – cauliflower soup  (M)\nLambalæri með steikt
- um kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and bear
- naise sauce (M\,E)
-DTSTART:20230907T110000
-DTEND:20230907T130000
-DTSTAMP:20230907T110000Z
-UID:2023-09-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa  – cauliflower soup  (M)\nLambalæri með st
- eiktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and 
- bearnaise sauce (M\,E)
+SUMMARY:Sellerýrótar - mangó - karrýsúpa  – Celleryroot - mango and
+  curry soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasal ati o
+ g gravy  (E)\nTurkey breast with mashed sweet potatoes\, apple salad  and 
+ gravy  (E)
+DTSTART:20230914T110000
+DTEND:20230914T130000
+DTSTAMP:20230914T110000Z
+UID:2023-09-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sellerýrótar - mangó - karrýsúpa  – Celleryroot - mango
+  and curry soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasal a
+ ti og gravy  (E)\nTurkey breast with mashed sweet potatoes\, apple salad  
+ and gravy  (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
- potle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflubát
- um (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriander co
- leslaw served with\npotato wedges (G\,E)
-DTSTART:20230908T110000
-DTEND:20230908T130000
-DTSTAMP:20230908T110000Z
-UID:2023-09-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
-  chipotle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflu
- bátum (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriande
- r coleslaw served with\npotato wedges (G\,E)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E\,H )\nHamborgari með grænmet
+ i\, osti og sósu ásamt  kartöflubátum  (M\,G)\nHamburger with vegetabl
+ es\, cheese and sauce served with  potato wedges (M\,G)
+DTSTART:20230915T110000
+DTEND:20230915T130000
+DTSTAMP:20230915T110000Z
+UID:2023-09-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E\,H )\nHamborgari með græ
+ nmeti\, osti og sósu ásamt  kartöflubátum  (M\,G)\nHamburger with vege
+ tables\, cheese and sauce served with  potato wedges (M\,G)
 END:VEVENT
 END:VCALENDAR
