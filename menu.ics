@@ -2,73 +2,64 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð kjúklingasúpa – Creamy chicken soup  (M)\nSalat dagsin
- s – Salad of the day : Gulrætur – Carrots  (V)\nSoðin ýsa með kart
- öflum og lauksmjöri ásamt rúgbrauði  (M\,G)\nBoiled haddock with pota
- toes and onion butter served with ryebread  (M\,G)
-DTSTART:20230918T110000
-DTEND:20230918T130000
-DTSTAMP:20230918T110000Z
-UID:2023-09-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð kjúklingasúpa – Creamy chicken soup  (M)\nSalat da
- gsins – Salad of the day : Gulrætur – Carrots  (V)\nSoðin ýsa með 
- kartöflum og lauksmjöri ásamt rúgbrauði  (M\,G)\nBoiled haddock with 
- potatoes and onion butter served with ryebread  (M\,G)
+SUMMARY:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með stei
+ ktum kartöflum\nHaddock in red pesto with  fried potatoes
+DTSTART:20230925T110000
+DTEND:20230925T130000
+DTSTAMP:20230925T110000Z
+UID:2023-09-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með 
+ steiktum kartöflum\nHaddock in red pesto with  fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottréttu
- r "Bourguignon" með kartöflumús\nBeef “ Bourguignon ” with mashed p
- otatoes
-DTSTART:20230919T110000
-DTEND:20230919T130000
-DTSTAMP:20230919T110000Z
-UID:2023-09-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indversk karrýsúpa  – mulligatawny soup   (M)\nNautapottr
- éttur "Bourguignon" með kartöflumús\nBeef “ Bourguignon ” with mas
- hed potatoes
+SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
+ paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
+  garlic bread  (G\,M)
+DTSTART:20230926T110000
+DTEND:20230926T130000
+DTSTAMP:20230926T110000Z
+UID:2023-09-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
+ )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
+ with garlic bread  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis og linsubaunas úpa – vegetable and lentil  soup  (M\
- ,G)\nSalat dagsins – Salad of the day: Blandað ávaxtasalat – Mixed f
- ruit salad  (V)\nSteiktur steinbítur í raspi ásamt volgu kartöflusalat
- i og remúlaði  (G\,E)\nFried catfish in breadcrumbs served with warm pot
- ato salad and remoulade  (G\,E)
-DTSTART:20230920T110000
-DTEND:20230920T130000
-DTSTAMP:20230920T110000Z
-UID:2023-09-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis og linsubaunas úpa – vegetable and lentil  soup 
-  (M\,G)\nSalat dagsins – Salad of the day: Blandað ávaxtasalat – Mix
- ed fruit salad  (V)\nSteiktur steinbítur í raspi ásamt volgu kartöflus
- alati og remúlaði  (G\,E)\nFried catfish in breadcrumbs served with warm
-  potato salad and remoulade  (G\,E)
+SUMMARY:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (M\,G
+ )\nSuðurríkja steiktur þorskur með kaldri dressing u og kartöflum (G)
+ \nSouthern fried cod with cold dressing and potatoes (G)
+DTSTART:20230927T110000
+DTEND:20230927T130000
+DTSTAMP:20230927T110000Z
+UID:2023-09-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (
+ M\,G)\nSuðurríkja steiktur þorskur með kaldri dressing u og kartöflum
+  (G)\nSouthern fried cod with cold dressing and potatoes (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítaspassúpa – White asparagus soup\nGrillað íslens kt Naut
- a Rib eye með pipar sósu\, kartöflugratín og rótargrænmeti  (M)\nGri
- lled Icelandic Beef rib eye with pepper sauce \, potato au gratin and root
-  vegetables  (M)
-DTSTART:20230921T110000
-DTEND:20230921T130000
-DTSTAMP:20230921T110000Z
-UID:2023-09-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítaspassúpa – White asparagus soup\nGrillað íslens kt 
- Nauta Rib eye með pipar sósu\, kartöflugratín og rótargrænmeti  (M)\
- nGrilled Icelandic Beef rib eye with pepper sauce \, potato au gratin and 
- root vegetables  (M)
+SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nLa
+ mba snitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
+ ósu (M\,G \,E)\nLamb  schnitzel with fried  potatoes\, red cabbage and cr
+ eamy mushroom sauce (M\,G \,E)
+DTSTART:20230928T110000
+DTEND:20230928T130000
+DTSTAMP:20230928T110000Z
+UID:2023-09-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
+ \nLamba snitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
+ ppasósu (M\,G \,E)\nLamb  schnitzel with fried  potatoes\, red cabbage an
+ d creamy mushroom sauce (M\,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nGrísk ur “Souvlaki ” – 
- Kjúklingur í pít ubrauði ásamt lauk\, grænmeti og tzatziki sósu  (M
- \,G)\nGreek “Souvlaki ” – Chicken in pita bread with onion\, vegetab
- les and tzatziki sauce  (M\,G)
-DTSTART:20230922T110000
-DTEND:20230922T130000
-DTSTAMP:20230922T110000Z
-UID:2023-09-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nGrísk ur “Souvlaki ” 
- – Kjúklingur í pít ubrauði ásamt lauk\, grænmeti og tzatziki sósu
-   (M\,G)\nGreek “Souvlaki ” – Chicken in pita bread with onion\, veg
- etables and tzatziki sauce  (M\,G)
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” samloka
+  með hvítkálssalati\, “spicy” mæjó og kartöflubátum (G\,E)\nPul
+ led pork sandwich with cabbage salad\, spicy mayo and potato wedges (G\,E)
+DTSTART:20230929T110000
+DTEND:20230929T130000
+DTSTAMP:20230929T110000Z
+UID:2023-09-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” sam
+ loka með hvítkálssalati\, “spicy” mæjó og kartöflubátum (G\,E)\
+ nPulled pork sandwich with cabbage salad\, spicy mayo and potato wedges (G
+ \,E)
 END:VEVENT
 END:VCALENDAR

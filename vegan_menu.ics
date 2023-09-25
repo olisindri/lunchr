@@ -2,61 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel bollur með kús -kús salati og dressing\nFalafel balls w
- ith cous -cous salad and dressing
-DTSTART:20230918T110000
-DTEND:20230918T130000
-DTSTAMP:20230918T110000Z
-UID:2023-09-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel bollur með kús -kús salati og dressing\nFalafel bal
- ls with cous -cous salad and dressing
+SUMMARY:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðlauku
+ r\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kartöf
+ lum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\, gar
+ lic and bell pepper in\ndates - and rosemary sauce served with potatoes
+DTSTART:20230925T110000
+DTEND:20230925T130000
+DTSTAMP:20230925T110000Z
+UID:2023-09-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðl
+ aukur\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kar
+ töflum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\,
+  garlic and bell pepper in\ndates - and rosemary sauce served with potatoe
+ s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með Ras El Hanut kryddaðr
- i tómatsósu  og\nhrísgrjónum\nSweet potato\, paprika and been balls wi
- th Ras El Hanut seasoned tomato  sauce  and\nrice
-DTSTART:20230919T110000
-DTEND:20230919T130000
-DTSTAMP:20230919T110000Z
-UID:2023-09-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með Ras El Hanut krydd
- aðri tómatsósu  og\nhrísgrjónum\nSweet potato\, paprika and been ball
- s with Ras El Hanut seasoned tomato  sauce  and\nrice
+SUMMARY:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S\,G)
+DTSTART:20230926T110000
+DTEND:20230926T130000
+DTSTAMP:20230926T110000Z
+UID:2023-09-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S
+ \,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
- hvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflower a
- nd black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and vege
- tables served with baked potatoes
-DTSTART:20230920T110000
-DTEND:20230920T130000
-DTSTAMP:20230920T110000Z
-UID:2023-09-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
- \,\nhvítlauk\, lauk og grænmeti ásamt ofnsteiktum kartöflum\nCauliflow
- er and black been stew with coconut milk\, tomatoes\,\ngarlic\, onion and 
- vegetables served with baked potatoes
+SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
+ k með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Cheese 
+ covered sweet potato - and bean mash with broccoli chunks\nserved with pot
+ atoes
+DTSTART:20230927T110000
+DTEND:20230927T130000
+DTSTAMP:20230927T110000Z
+UID:2023-09-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
+ amauk með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Che
+ ese covered sweet potato - and bean mash with broccoli chunks\nserved with
+  potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
- small potatoes
-DTSTART:20230921T110000
-DTEND:20230921T130000
-DTSTAMP:20230921T110000Z
-UID:2023-09-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
- ith small potatoes
+SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
+  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
+ eð mangó -\, karrý - og kókossósu  (G)\nBaked “BRICK”\nWith fried
+  cabbage\, carrots\, turnip \, chick peas\, sweet potatoes\, bell pepper  
+ and spinach\nserved with mango -\, curry - and coconut sauce  (G)
+DTSTART:20230928T110000
+DTEND:20230928T130000
+DTSTAMP:20230928T110000Z
+UID:2023-09-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
+ um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
+ am með mangó -\, karrý - og kókossósu  (G)\nBaked “BRICK”\nWith f
+ ried cabbage\, carrots\, turnip \, chick peas\, sweet potatoes\, bell pepp
+ er  and spinach\nserved with mango -\, curry - and coconut sauce  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grísk Souvlaki – Oumph í pítubrauði ásamt lauk\, grænmeti 
- og vegan tzatziki\nGreek Souvlaki – Oumph in pita bread with onions\, ve
- getables and vegan tzatziki
-DTSTART:20230922T110000
-DTEND:20230922T130000
-DTSTAMP:20230922T110000Z
-UID:2023-09-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grísk Souvlaki – Oumph í pítubrauði ásamt lauk\, grænm
- eti og vegan tzatziki\nGreek Souvlaki – Oumph in pita bread with onions\
- , vegetables and vegan tzatziki
+SUMMARY:“Shiitake” sveppa borgari með hvíkálssalati\, “spicy” m
+ æjó og kartöflubátum  (G)\nShiitake burger with cabbage salad\, spicy 
+ mayo and potato wedges  (G)
+DTSTART:20230929T110000
+DTEND:20230929T130000
+DTSTAMP:20230929T110000Z
+UID:2023-09-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Shiitake” sveppa borgari með hvíkálssalati\, “spicy
+ ” mæjó og kartöflubátum  (G)\nShiitake burger with cabbage salad\, s
+ picy mayo and potato wedges  (G)
 END:VEVENT
 END:VCALENDAR
