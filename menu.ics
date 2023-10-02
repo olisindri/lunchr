@@ -2,64 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með stei
- ktum kartöflum\nHaddock in red pesto with  fried potatoes
-DTSTART:20230925T110000
-DTEND:20230925T130000
-DTSTAMP:20230925T110000Z
-UID:2023-09-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með 
- steiktum kartöflum\nHaddock in red pesto with  fried potatoes
+SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
+ up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
+ kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and
+  vegetable stew with rice
+DTSTART:20231002T110000
+DTEND:20231002T130000
+DTSTAMP:20231002T110000Z
+UID:2023-10-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
+ s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
+ ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb
+  and vegetable stew with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
- paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
-  garlic bread  (G\,M)
-DTSTART:20230926T110000
-DTEND:20230926T130000
-DTSTAMP:20230926T110000Z
-UID:2023-09-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
- )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
- with garlic bread  (G\,M)
+SUMMARY:Rjómalöguð tómat súpa  – Creamy tomato  soup  (V\,G)\nLax m
+ eð cashew -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalmon w
+ ith cashew -pesto\, potatoes  and Mediterranean vegetables
+DTSTART:20231003T110000
+DTEND:20231003T130000
+DTSTAMP:20231003T110000Z
+UID:2023-10-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð tómat súpa  – Creamy tomato  soup  (V\,G)\nL
+ ax með cashew -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalm
+ on with cashew -pesto\, potatoes  and Mediterranean vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (M\,G
- )\nSuðurríkja steiktur þorskur með kaldri dressing u og kartöflum (G)
- \nSouthern fried cod with cold dressing and potatoes (G)
-DTSTART:20230927T110000
-DTEND:20230927T130000
-DTSTAMP:20230927T110000Z
-UID:2023-09-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (
- M\,G)\nSuðurríkja steiktur þorskur með kaldri dressing u og kartöflum
-  (G)\nSouthern fried cod with cold dressing and potatoes (G)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
+ kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
+DTSTART:20231004T110000
+DTEND:20231004T130000
+DTSTAMP:20231004T110000Z
+UID:2023-10-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
+ eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)\nLa
- mba snitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sveppas
- ósu (M\,G \,E)\nLamb  schnitzel with fried  potatoes\, red cabbage and cr
- eamy mushroom sauce (M\,G \,E)
-DTSTART:20230928T110000
-DTEND:20230928T130000
-DTSTAMP:20230928T110000Z
-UID:2023-09-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup  (G\,V)
- \nLamba snitsel með steiktum kartöflum\, rauðkáli og rjómlagaðri sve
- ppasósu (M\,G \,E)\nLamb  schnitzel with fried  potatoes\, red cabbage an
- d creamy mushroom sauce (M\,G \,E)
+SUMMARY:Graskerssúpa – Pumpkin soup ( V\,G)\nKjúklingabringur með rj
+ ómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast wit
+ h creamy pepper sauce\, mais and rice (M)
+DTSTART:20231005T110000
+DTEND:20231005T130000
+DTSTAMP:20231005T110000Z
+UID:2023-10-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – Pumpkin soup ( V\,G)\nKjúklingabringur með
+  rjómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast 
+ with creamy pepper sauce\, mais and rice (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” samloka
-  með hvítkálssalati\, “spicy” mæjó og kartöflubátum (G\,E)\nPul
- led pork sandwich with cabbage salad\, spicy mayo and potato wedges (G\,E)
-DTSTART:20230929T110000
-DTEND:20230929T130000
-DTSTAMP:20230929T110000Z
-UID:2023-09-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” sam
- loka með hvítkálssalati\, “spicy” mæjó og kartöflubátum (G\,E)\
- nPulled pork sandwich with cabbage salad\, spicy mayo and potato wedges (G
- \,E)
+SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
+ Taco with minced beef salsa and sour cream (M\,S)
+DTSTART:20231006T110000
+DTEND:20231006T130000
+DTSTAMP:20231006T110000Z
+UID:2023-10-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
+ S)\nTaco with minced beef salsa and sour cream (M\,S)
 END:VEVENT
 END:VCALENDAR
