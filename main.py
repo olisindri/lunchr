@@ -31,11 +31,11 @@ def parse_menus(filenames):
     vegan_menu = {"filename": "vegan_menu.ics"}
     monday = datetime.now() - timedelta(days=datetime.now().weekday())
     day_patterns = {
-        monday.date(): r'(Mánudagur[\S\s]*)Þriðjudagur',
-        (monday + timedelta(days=1)).date(): r'(Þriðjudagur[\S\s]*)Miðvikudagur',
-        (monday + timedelta(days=2)).date(): r'(Miðvikudagur[\S\s]*)Fimmtudagur',
-        (monday + timedelta(days=3)).date(): r'(Fimmtudagur[\S\s]*)Föstudagur',
-        (monday + timedelta(days=4)).date(): r'(Föstudagur[\S\s]*)',
+        monday.date(): r'(M\s?á\s?n\s?u\s?d\s?a\s?g\s?u\s?r[\S\s]*)Þ\s?r\s?i\s?ð\s?j\s?u\s?d\s?a\s?g\s?u\s?r',
+        (monday + timedelta(days=1)).date(): r'(Þ\s?r\s?i\s?ð\s?j\s?u\s?d\s?a\s?g\s?u\s?r[\S\s]*)M\s?i\s?ð\s?v\s?i\s?k\s?u\s?d\s?a\s?g\s?u\s?r',
+        (monday + timedelta(days=2)).date(): r'(M\s?i\s?ð\s?v\s?i\s?k\s?u\s?d\s?a\s?g\s?u\s?r[\S\s]*)F\s?i\s?m\s?m\s?t\s?u\s?d\s?a\s?g\s?u\s?r',
+        (monday + timedelta(days=3)).date(): r'(F\s?i\s?m\s?m\s?t\s?u\s?d\s?a\s?g\s?u\s?r[\S\s]*)F\s?ö\s?s\s?t\s?u\s?d\s?a\s?g\s?u\s?r',
+        (monday + timedelta(days=4)).date(): r'(F\s?ö\s?s\s?t\s?u\s?d\s?a\s?g\s?u\s?r[\S\s]*)',
     }
 
     for filename in filenames:
