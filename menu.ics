@@ -2,61 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
- up  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nLamba
- kjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and
-  vegetable stew with rice
-DTSTART:20231002T110000
-DTEND:20231002T130000
-DTSTAMP:20231002T110000Z
-UID:2023-10-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
- s soup  (V)\nSalat dagsins – Salad of the day: Nípa – parsnip  (V)\nL
- ambakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb
-  and vegetable stew with rice
+SUMMARY:Graskerssúpa – butternut squash soup ( G)\nPlokkfiskur með rú
+ gbrauði og smjöri (M\,G)\nFish stew with ryebread and butter (M\,G)
+DTSTART:20231009T110000
+DTEND:20231009T130000
+DTSTAMP:20231009T110000Z
+UID:2023-10-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – butternut squash soup ( G)\nPlokkfiskur með
+  rúgbrauði og smjöri (M\,G)\nFish stew with ryebread and butter (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rjómalöguð tómat súpa  – Creamy tomato  soup  (V\,G)\nLax m
- eð cashew -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalmon w
- ith cashew -pesto\, potatoes  and Mediterranean vegetables
-DTSTART:20231003T110000
-DTEND:20231003T130000
-DTSTAMP:20231003T110000Z
-UID:2023-10-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rjómalöguð tómat súpa  – Creamy tomato  soup  (V\,G)\nL
- ax með cashew -pestó ásamt kartöflum og miðjarðarhafsgrænmeti\nSalm
- on with cashew -pesto\, potatoes  and Mediterranean vegetables
+SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (V\,G)\n“Lancashire Hot P
+ ot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad and r
+ hubarb jam
+DTSTART:20231010T110000
+DTEND:20231010T130000
+DTSTAMP:20231010T110000Z
+UID:2023-10-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (V\,G)\n“Lancashire H
+ ot Pot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad a
+ nd rhubarb jam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
- kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
-DTSTART:20231004T110000
-DTEND:20231004T130000
-DTSTAMP:20231004T110000Z
-UID:2023-10-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
- eð kremuðum sveppum og tagliatelle\nBeef stroganoff with pasta
+SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Salad 
+ of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesan p
+ ankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,E\,
+ M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\, coc
+ ktail sauce and\ncoleslaw  (G\,E\,M)
+DTSTART:20231011T110000
+DTEND:20231011T130000
+DTSTAMP:20231011T110000Z
+UID:2023-10-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Sa
+ lad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmes
+ an pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\
+ ,E\,M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\,
+  cocktail sauce and\ncoleslaw  (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup ( V\,G)\nKjúklingabringur með rj
- ómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast wit
- h creamy pepper sauce\, mais and rice (M)
-DTSTART:20231005T110000
-DTEND:20231005T130000
-DTSTAMP:20231005T110000Z
-UID:2023-10-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup ( V\,G)\nKjúklingabringur með
-  rjómalagaðri pipar sósu \, maís og hrísgrjónum (M)\nChicken breast 
- with creamy pepper sauce\, mais and rice (M)
+SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasíða 
+ án puru með soðsósu \, kartöflugratíni  og blönduðu rótargrænmet
+ i  (M)\nPork loin with demi glaze \, potato au gratin and mixed root veget
+ ables (M)
+DTSTART:20231012T110000
+DTEND:20231012T130000
+DTSTAMP:20231012T110000Z
+UID:2023-10-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasí
+ ða án puru með soðsósu \, kartöflugratíni  og blönduðu rótargræ
+ nmeti  (M)\nPork loin with demi glaze \, potato au gratin and mixed root v
+ egetables (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,S)\n
- Taco with minced beef salsa and sour cream (M\,S)
-DTSTART:20231006T110000
-DTEND:20231006T130000
-DTSTAMP:20231006T110000Z
-UID:2023-10-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco skeljar með nau tahakki \, salsa og sýrðum rjóma (M\,
- S)\nTaco with minced beef salsa and sour cream (M\,S)
+SUMMARY:Eftirréttur  – Dessert (M\,G\,E\,H)\nKjúkling ur í BBQ  sósu
+  með mais stöngli  og southern krydduðum smælki kartöflum\nChicken in
+  BBQ  sauce with corn  on the cob and southern spiced potatoes
+DTSTART:20231013T110000
+DTEND:20231013T130000
+DTSTAMP:20231013T110000Z
+UID:2023-10-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert (M\,G\,E\,H)\nKjúkling ur í BBQ  s
+ ósu með mais stöngli  og southern krydduðum smælki kartöflum\nChicke
+ n in BBQ  sauce with corn  on the cob and southern spiced potatoes
 END:VEVENT
 END:VCALENDAR
