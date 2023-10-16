@@ -2,67 +2,76 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – butternut squash soup ( G)\nPlokkfiskur með rú
- gbrauði og smjöri (M\,G)\nFish stew with ryebread and butter (M\,G)
-DTSTART:20231009T110000
-DTEND:20231009T130000
-DTSTAMP:20231009T110000Z
-UID:2023-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – butternut squash soup ( G)\nPlokkfiskur með
-  rúgbrauði og smjöri (M\,G)\nFish stew with ryebread and butter (M\,G)
+SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad of t
+ he day: Brokkólí  - Broccoli  (V)\nOfnbakaður þorskur með sítrónu o
+ g timian sósu og steiktum kartöflum (M\,G)\nOvenbaked cod with lemon and
+  thyme sauce and fried potatoes (M\,G)
+DTSTART:20231016T110000
+DTEND:20231016T130000
+DTSTAMP:20231016T110000Z
+UID:2023-10-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins - Salad 
+ of the day: Brokkólí  - Broccoli  (V)\nOfnbakaður þorskur með sítró
+ nu og timian sósu og steiktum kartöflum (M\,G)\nOvenbaked cod with lemon
+  and thyme sauce and fried potatoes (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí ssúpa  – Broccoli  soup  (V\,G)\n“Lancashire Hot P
- ot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad and r
- hubarb jam
-DTSTART:20231010T110000
-DTEND:20231010T130000
-DTSTAMP:20231010T110000Z
-UID:2023-10-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí ssúpa  – Broccoli  soup  (V\,G)\n“Lancashire H
- ot Pot” m eð salati og raba rbarasultu\nLancashire Hot Pot with salad a
- nd rhubarb jam
+SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\n„Deco
+ nstructed pie“ Folaldakjöt í Guinness með sveppum og kartöflumús\nD
+ econstructed pie - Foalmeat in Guinness with mushrooms and mashed potatoes
+DTSTART:20231017T110000
+DTEND:20231017T130000
+DTSTAMP:20231017T110000Z
+UID:2023-10-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V\,G)\n„
+ Deconstructed pie“ Folaldakjöt í Guinness með sveppum og kartöflumú
+ s\nDeconstructed pie - Foalmeat in Guinness with mushrooms and mashed pota
+ toes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Salad 
- of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmesan p
- ankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\,E\,
- M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\, coc
- ktail sauce and\ncoleslaw  (G\,E\,M)
-DTSTART:20231011T110000
-DTEND:20231011T130000
-DTSTAMP:20231011T110000Z
-UID:2023-10-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – carrot  soup (M\,G)\nSalat dagsins  – Sa
- lad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í parmes
- an pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalati  (G\
- ,E\,M)\nFried catfish in parmesan panko breadcrumbs served with potatoes\,
-  cocktail sauce and\ncoleslaw  (G\,E\,M)
+SUMMARY:Rjómalöguð blaðlaukssúpa með beikoni og kartöflum – Cream
+ y leeksoup with bacon and\npotatoes  (M)\nSalat dagsins – Salad of the d
+ ay: Sætar kartöflur með kanil  – Sweet potatoes with cinnamon\n(V)\nO
+ fnbökuð ýsa með kryddjurtarrasp og rjómalagaðri fennel sósu með pa
+ stis  ásamt  rækjum\n(G\,M)\nOvenbaked  haddock with herb breadcrumbs an
+ d creamy fennel sauce with pastis  and shrimps\n(G\,M)
+DTSTART:20231018T110000
+DTEND:20231018T130000
+DTSTAMP:20231018T110000Z
+UID:2023-10-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð blaðlaukssúpa með beikoni og kartöflum – C
+ reamy leeksoup with bacon and\npotatoes  (M)\nSalat dagsins – Salad of t
+ he day: Sætar kartöflur með kanil  – Sweet potatoes with cinnamon\n(V
+ )\nOfnbökuð ýsa með kryddjurtarrasp og rjómalagaðri fennel sósu me
+ ð pastis  ásamt  rækjum\n(G\,M)\nOvenbaked  haddock with herb breadcrum
+ bs and creamy fennel sauce with pastis  and shrimps\n(G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasíða 
- án puru með soðsósu \, kartöflugratíni  og blönduðu rótargrænmet
- i  (M)\nPork loin with demi glaze \, potato au gratin and mixed root veget
- ables (M)
-DTSTART:20231012T110000
-DTEND:20231012T130000
-DTSTAMP:20231012T110000Z
-UID:2023-10-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasí
- ða án puru með soðsósu \, kartöflugratíni  og blönduðu rótargræ
- nmeti  (M)\nPork loin with demi glaze \, potato au gratin and mixed root v
- egetables (M)
+SUMMARY:Gulrótar - og kókossúpa með kóríander  – Carrot - and coco
+ nut  soup  with cilantro (G\,V)\nKjúklingur í korma karrý með hrísgrj
+ ónum og Naan brauði  (G)\nChicken korma curry served with rice and flatb
+ read (G)
+DTSTART:20231019T110000
+DTEND:20231019T130000
+DTSTAMP:20231019T110000Z
+UID:2023-10-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar - og kókossúpa með kóríander  – Carrot - and 
+ coconut  soup  with cilantro (G\,V)\nKjúklingur í korma karrý með hrí
+ sgrjónum og Naan brauði  (G)\nChicken korma curry served with rice and f
+ latbread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert (M\,G\,E\,H)\nKjúkling ur í BBQ  sósu
-  með mais stöngli  og southern krydduðum smælki kartöflum\nChicken in
-  BBQ  sauce with corn  on the cob and southern spiced potatoes
-DTSTART:20231013T110000
-DTEND:20231013T130000
-DTSTAMP:20231013T110000Z
-UID:2023-10-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert (M\,G\,E\,H)\nKjúkling ur í BBQ  s
- ósu með mais stöngli  og southern krydduðum smælki kartöflum\nChicke
- n in BBQ  sauce with corn  on the cob and southern spiced potatoes
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKryddað\, rifið lamb m
+ eð kúmen á flatbrauði ásamt salati og jógúrt og myntu sósu (G\,M)\
+ nSpiced\, pulled lamb with cumin on flatbread with salad and yogurt and mi
+ nt sauce (G\,M)
+DTSTART:20231020T110000
+DTEND:20231020T130000
+DTSTAMP:20231020T110000Z
+UID:2023-10-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKryddað\, rifið la
+ mb með kúmen á flatbrauði ásamt salati og jógúrt og myntu sósu (G\
+ ,M)\nSpiced\, pulled lamb with cumin on flatbread with salad and yogurt an
+ d mint sauce (G\,M)
 END:VEVENT
 END:VCALENDAR
