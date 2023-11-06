@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinseljusó
  su\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sauce\
  , boiled potatoes and peas (M)
-DTSTART:20231030T110000
-DTEND:20231030T130000
-DTSTAMP:20231030T110000Z
-UID:2023-10-30T11:00:00/olisindri@gmail.com
+DTSTART:20231106T110000
+DTEND:20231106T130000
+DTSTAMP:20231106T110000Z
+UID:2023-11-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinselj
  usósu\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sa
  uce\, boiled potatoes and peas (M)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
  úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
   with rice
-DTSTART:20231031T110000
-DTEND:20231031T130000
-DTSTAMP:20231031T110000Z
-UID:2023-10-31T11:00:00/olisindri@gmail.com
+DTSTART:20231107T110000
+DTEND:20231107T130000
+DTSTAMP:20231107T110000Z
+UID:2023-11-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
  \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
  cken with rice
@@ -29,10 +29,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkálssúpa – cauliflower soup  (M)\nSteikt ýsa í raspi me
  ð soðnum kartöflum\, remúlaði og súrum agúrkum\nFried haddock in br
  eadcrumbs served with boiled potatoes\, re moulade and pickles
-DTSTART:20231101T110000
-DTEND:20231101T130000
-DTSTAMP:20231101T110000Z
-UID:2023-11-01T11:00:00/olisindri@gmail.com
+DTSTART:20231108T110000
+DTEND:20231108T130000
+DTSTAMP:20231108T110000Z
+UID:2023-11-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa – cauliflower soup  (M)\nSteikt ýsa í rasp
  i með soðnum kartöflum\, remúlaði og súrum agúrkum\nFried haddock i
  n breadcrumbs served with boiled potatoes\, re moulade and pickles
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Kókos -spínatsúpa – coconut and spinach soup  (V)\nLambalæri
   með steiktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potat
  oes and bearnaise sauce (M\,E)
-DTSTART:20231102T110000
-DTEND:20231102T130000
-DTSTAMP:20231102T110000Z
-UID:2023-11-02T11:00:00/olisindri@gmail.com
+DTSTART:20231109T110000
+DTEND:20231109T130000
+DTSTAMP:20231109T110000Z
+UID:2023-11-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup  (V)\nLambal
  æri með steiktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried p
  otatoes and bearnaise sauce (M\,E)
@@ -54,10 +54,10 @@ SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
  potle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflubát
  um (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriander co
  leslaw served with\npotato wedges (G\,E)
-DTSTART:20231103T110000
-DTEND:20231103T130000
-DTSTAMP:20231103T110000Z
-UID:2023-11-03T11:00:00/olisindri@gmail.com
+DTSTART:20231110T110000
+DTEND:20231110T130000
+DTSTAMP:20231110T110000Z
+UID:2023-11-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
   chipotle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflu
  bátum (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriande
