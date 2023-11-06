@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinseljusó
- su\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sauce\
- , boiled potatoes and peas (M)
+SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
+ p (G)\nKjúklingur satay með steiktum hrísgrjónum  (H)\nChicken satay w
+ ith fried rice  (H)
 DTSTART:20231106T110000
 DTEND:20231106T130000
 DTSTAMP:20231106T110000Z
 UID:2023-11-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa með steinselj
- usósu\, soðnum kartöflum og grænum baunum (M)\nHaddock with parsley sa
- uce\, boiled potatoes and peas (M)
+DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
+  soup (G)\nKjúklingur satay með steiktum hrísgrjónum  (H)\nChicken sat
+ ay with fried rice  (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
- úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
-  with rice
+SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\nSala
+ t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
+ pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
+  in orange and basil with citrus s auce  (G\,M)
 DTSTART:20231107T110000
 DTEND:20231107T130000
 DTSTAMP:20231107T110000Z
 UID:2023-11-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
- \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
- cken with rice
+DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\n
+ Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
+  pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
+ dock in orange and basil with citrus s auce  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – cauliflower soup  (M)\nSteikt ýsa í raspi me
- ð soðnum kartöflum\, remúlaði og súrum agúrkum\nFried haddock in br
- eadcrumbs served with boiled potatoes\, re moulade and pickles
+SUMMARY:Kókos - og kóriandersúpa – Coconut and coriander soup\nLasagn
+ a á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasa
+ gna with garlic bread and coleslaw  (G\,M\,E)
 DTSTART:20231108T110000
 DTEND:20231108T130000
 DTSTAMP:20231108T110000Z
 UID:2023-11-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – cauliflower soup  (M)\nSteikt ýsa í rasp
- i með soðnum kartöflum\, remúlaði og súrum agúrkum\nFried haddock i
- n breadcrumbs served with boiled potatoes\, re moulade and pickles
+DESCRIPTION:Kókos - og kóriandersúpa – Coconut and coriander soup\nLa
+ sagna á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\n
+ Lasagna with garlic bread and coleslaw  (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kókos -spínatsúpa – coconut and spinach soup  (V)\nLambalæri
-  með steiktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potat
- oes and bearnaise sauce (M\,E)
+SUMMARY:Sellerýrótar - mangó - karrýsúpa  – Celleryroot - mango and
+  curry soup  (G\,V)\nKryddhjúpaðar kjúklingabringur með sítrónujóg
+ úrtsósu og pilau hrísgrjónum (M)\nBlack pepper chicken breast with lem
+ on yogurt sauce and pilau rice (M)
 DTSTART:20231109T110000
 DTEND:20231109T130000
 DTSTAMP:20231109T110000Z
 UID:2023-11-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup  (V)\nLambal
- æri með steiktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried p
- otatoes and bearnaise sauce (M\,E)
+DESCRIPTION:Sellerýrótar - mangó - karrýsúpa  – Celleryroot - mango
+  and curry soup  (G\,V)\nKryddhjúpaðar kjúklingabringur með sítrónuj
+ ógúrtsósu og pilau hrísgrjónum (M)\nBlack pepper chicken breast with 
+ lemon yogurt sauce and pilau rice (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
- potle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflubát
- um (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriander co
- leslaw served with\npotato wedges (G\,E)
+SUMMARY:Grjónagrautur  – Rice pudding (M)\nHamborgari með grænmeti\, 
+ osti og sósu ásamt  kartöflubátum  (M\,G)\nHamburger with vegetables\,
+  cheese and sauce served with  potato wedges (M\,G)
 DTSTART:20231110T110000
 DTEND:20231110T130000
 DTSTAMP:20231110T110000Z
 UID:2023-11-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
-  chipotle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflu
- bátum (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriande
- r coleslaw served with\npotato wedges (G\,E)
+DESCRIPTION:Grjónagrautur  – Rice pudding (M)\nHamborgari með grænmet
+ i\, osti og sósu ásamt  kartöflubátum  (M\,G)\nHamburger with vegetabl
+ es\, cheese and sauce served with  potato wedges (M\,G)
 END:VEVENT
 END:VCALENDAR

@@ -2,63 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
- , basil - and cannellini bean rissole served with poatatoes
+SUMMARY:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartöflur
+ \, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa  (S
+ )\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, black 
+ beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
 DTSTART:20231106T110000
 DTEND:20231106T130000
 DTSTAMP:20231106T110000Z
 UID:2023-11-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
- o -\, basil - and cannellini bean rissole served with poatatoes
+DESCRIPTION:Eggaldin ragú\nEggaldin\, sveppir\, gulrætur\, sætar kartö
+ flur\, svartar baunir\,\ntómatar og döðlur ásamt balsamik -soja gljáa
+   (S)\nEggplant ragu\nEggplant\, mushrooms\, carrots\, sweet potatoes\, bl
+ ack beans\,\ntomatoes and dates with a balsamic -soja glaze  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Byggotto með grænmeti  og baunum  í kókoskarrýsósu  (G)\nRis
- otto made from barley with vegetables  and beans\, in a coconut curry sauc
- e  (G)
+SUMMARY:Marokkóskt Tagine  með grænmeti \, tofu og hrísgrjónum  (S)\n
+ Maroccan Tagine  with vegetables \, tofu  and rice  (S)
 DTSTART:20231107T110000
 DTEND:20231107T130000
 DTSTAMP:20231107T110000Z
 UID:2023-11-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Byggotto með grænmeti  og baunum  í kókoskarrýsósu  (G)\
- nRisotto made from barley with vegetables  and beans\, in a coconut curry 
- sauce  (G)
+DESCRIPTION:Marokkóskt Tagine  með grænmeti \, tofu og hrísgrjónum  (
+ S)\nMaroccan Tagine  with vegetables \, tofu  and rice  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis enchilada með tómat\, baunum og osti ásamt nachos og
-  salsa (G)\nVegetable enchilada with tomato\, beans and  cheese served wit
- h salsa and nachos  (G)
+SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
+ \,H)
 DTSTART:20231108T110000
 DTEND:20231108T130000
 DTSTAMP:20231108T110000Z
 UID:2023-11-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis enchilada með tómat\, baunum og osti ásamt nacho
- s og salsa (G)\nVegetable enchilada with tomato\, beans and  cheese served
-  with salsa and nachos  (G)
+DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
+ o (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu massaaman karrý með hrísgrjónum\nSweet potato ma
- ssaman curry with rice
+SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
+ sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
+ alapeno sauce
 DTSTART:20231109T110000
 DTEND:20231109T130000
 DTSTAMP:20231109T110000Z
 UID:2023-11-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu massaaman karrý með hrísgrjónum\nSweet potat
- o massaman curry with rice
+DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
+ penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
+ go jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
- m\nCauliflower and broccoli tots served with garlic sauce and potatoes\n(G
- ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
- ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
- ase note that we use a lot of onion and garlic for our vegan courses
+SUMMARY:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\nVega
+ n burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Glúten
+ /Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið 
+ að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that
+  we use a lot of onion and garlic for our vegan courses
 DTSTART:20231110T110000
 DTEND:20231110T130000
 DTSTAMP:20231110T110000Z
 UID:2023-11-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
- öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
- s\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVins
- amlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti
- \nPlease note that we use a lot of onion and garlic for our vegan courses
+DESCRIPTION:Vegan burger með grænmeti\, sósu  og kartöflubátum  (S)\n
+ Vegan burger  with vegetables\, sauce and  potato wedges  (S)\n(G) – Gl
+ úten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athu
+ gið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note
+  that we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
