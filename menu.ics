@@ -2,73 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur – Spring rolls ( V)\nSalat dagsins – Salad of the d
- ay : Gulrætur – Carrots  (V)\nRamen núðlusúpa með kjúkling\, eggi\
- , vorlauk\, chili og fleira (G\,E)\nRamen noodlesoup with chicken\, egg\, 
- spring onion\, chili and more (G\,E)
-DTSTART:20231113T110000
-DTEND:20231113T130000
-DTSTAMP:20231113T110000Z
-UID:2023-11-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur – Spring rolls ( V)\nSalat dagsins – Salad of t
- he day : Gulrætur – Carrots  (V)\nRamen núðlusúpa með kjúkling\, e
- ggi\, vorlauk\, chili og fleira (G\,E)\nRamen noodlesoup with chicken\, eg
- g\, spring onion\, chili and more (G\,E)
+SUMMARY:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með stei
+ ktum kartöflum\nHaddock in red pesto with  fried potatoes
+DTSTART:20231120T110000
+DTEND:20231120T130000
+DTSTAMP:20231120T110000Z
+UID:2023-11-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með 
+ steiktum kartöflum\nHaddock in red pesto with  fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skosk soðsúpa með grænmeti og byggi – Scotch broth soup with
-  vegetables and barley ( V)\nNautapottréttur "Bourguignon" með kartöflu
- mús\nBeef “ Bourguignon ” with mashed potatoes
-DTSTART:20231114T110000
-DTEND:20231114T130000
-DTSTAMP:20231114T110000Z
-UID:2023-11-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Skosk soðsúpa með grænmeti og byggi – Scotch broth soup 
- with vegetables and barley ( V)\nNautapottréttur "Bourguignon" með kart
- öflumús\nBeef “ Bourguignon ” with mashed potatoes
+SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
+ paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
+  garlic bread  (G\,M)
+DTSTART:20231121T110000
+DTEND:20231121T130000
+DTSTAMP:20231121T110000Z
+UID:2023-11-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
+ )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
+ with garlic bread  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins – Sa
- lad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSteiktur
-  steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G\,E)\n
- Fried catfish in breadcrumbs served with warm potato salad and remoulade  
- (G\,E)
-DTSTART:20231115T110000
-DTEND:20231115T130000
-DTSTAMP:20231115T110000Z
-UID:2023-11-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins 
- – Salad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSt
- eiktur steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G
- \,E)\nFried catfish in breadcrumbs served with warm potato salad and remou
- lade  (G\,E)
+SUMMARY:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (M\,G
+ )\nSteiktur þorskur í truffl u panko rasp með piparmajó og steiktum ka
+ rtöflum (G\,E)\nFried cod in truffle panko breadcrumbs with peppermayo an
+ d fried potatoes (G\,E)
+DTSTART:20231122T110000
+DTEND:20231122T130000
+DTSTAMP:20231122T110000Z
+UID:2023-11-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (
+ M\,G)\nSteiktur þorskur í truffl u panko rasp með piparmajó og steiktu
+ m kartöflum (G\,E)\nFried cod in truffle panko breadcrumbs with peppermay
+ o and fried potatoes (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis og linsubaunasúpa – vegetable and lentil soup (M\,G)
- \nGrillað íslens kt Nauta Ribeye með pipar sósu\, kartöflugratín og 
- rótargrænmeti  (M)\nGrilled Icelandic Beef ribeye with pepper sauce \, p
- otato au gratin and root vegetables  (M)
-DTSTART:20231116T110000
-DTEND:20231116T130000
-DTSTAMP:20231116T110000Z
-UID:2023-11-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis og linsubaunasúpa – vegetable and lentil soup (M
- \,G)\nGrillað íslens kt Nauta Ribeye með pipar sósu\, kartöflugratín
-  og rótargrænmeti  (M)\nGrilled Icelandic Beef ribeye with pepper sauce 
- \, potato au gratin and root vegetables  (M)
+SUMMARY:Eplabaka með vanillurjóma – Applepie with vanilla cream\nKalk
+ únabringur með sætkartöflumús\, gravy og fyllingu með beikoni og fer
+ skjum (M\,G)\nTurkey breast with mashed sweet potatoes\, gravy and stuffin
+ g with bacon and peaches\n(M\,G)
+DTSTART:20231123T110000
+DTEND:20231123T130000
+DTSTAMP:20231123T110000Z
+UID:2023-11-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eplabaka með vanillurjóma – Applepie with vanilla cream\nK
+ alkúnabringur með sætkartöflumús\, gravy og fyllingu með beikoni og 
+ ferskjum (M\,G)\nTurkey breast with mashed sweet potatoes\, gravy and stuf
+ fing with bacon and peaches\n(M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nGrísk ur “Souvlaki ” – 
- Kjúklingur í pít ubrauði ásamt lauk\, grænmeti og tzatziki sósu  (M
- \,G)\nGreek “Souvlaki ” – Chicken in pita bread with onion\, vegetab
- les and tzatziki sauce  (M\,G)
-DTSTART:20231117T110000
-DTEND:20231117T130000
-DTSTAMP:20231117T110000Z
-UID:2023-11-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nGrísk ur “Souvlaki ” 
- – Kjúklingur í pít ubrauði ásamt lauk\, grænmeti og tzatziki sósu
-   (M\,G)\nGreek “Souvlaki ” – Chicken in pita bread with onion\, veg
- etables and tzatziki sauce  (M\,G)
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nSuðurríkja steiktur kj
+ úklingur með buffalósósu\, gráðostadressingu\, hrásalati og rösti\
+ nkartöflum (G\,M\,E)\nSouthern fried chicken with buffalo sauce\, blue ch
+ eese dressing\, coleslaw and rösti\npotatoes (G\,M\,E)
+DTSTART:20231124T110000
+DTEND:20231124T130000
+DTSTAMP:20231124T110000Z
+UID:2023-11-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nSuðurríkja steiktur
+  kjúklingur með buffalósósu\, gráðostadressingu\, hrásalati og rös
+ ti\nkartöflum (G\,M\,E)\nSouthern fried chicken with buffalo sauce\, blue
+  cheese dressing\, coleslaw and rösti\npotatoes (G\,M\,E)
 END:VEVENT
 END:VCALENDAR
