@@ -2,67 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðlauku
- r\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kartöf
- lum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\, gar
- lic and bell pepper in\ndates - and rosemary sauce served with potatoes
-DTSTART:20231120T110000
-DTEND:20231120T130000
-DTSTAMP:20231120T110000Z
-UID:2023-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðl
- aukur\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kar
- töflum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\,
-  garlic and bell pepper in\ndates - and rosemary sauce served with potatoe
- s
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
+ as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
+DTSTART:20231127T110000
+DTEND:20231127T130000
+DTSTAMP:20231127T110000Z
+UID:2023-11-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
+ ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
+ oli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S\,G)
-DTSTART:20231121T110000
-DTEND:20231121T130000
-DTSTAMP:20231121T110000Z
-UID:2023-11-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S
- \,G)
+SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
+ lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kidn
+ ey beans and onion with cous cous  (S)
+DTSTART:20231128T110000
+DTEND:20231128T130000
+DTSTAMP:20231128T110000Z
+UID:2023-11-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
+ nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, 
+ kidney beans and onion with cous cous  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
- k með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Cheese 
- covered sweet potato - and bean mash with broccoli chunks\nserved with pot
- atoes
-DTSTART:20231122T110000
-DTEND:20231122T130000
-DTSTAMP:20231122T110000Z
-UID:2023-11-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
- amauk með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Che
- ese covered sweet potato - and bean mash with broccoli chunks\nserved with
-  potatoes
+SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
+  sósu\nVeggie tots with pasta and mango jalapeno sauce
+DTSTART:20231129T110000
+DTEND:20231129T130000
+DTSTAMP:20231129T110000Z
+UID:2023-11-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
+ esam sósu\nVeggie tots with pasta and mango jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með sveppasósu og sætkartöflumús\nVegan snitzel
-  with mushroom sauce and mashed sweet potatoes
-DTSTART:20231123T110000
-DTEND:20231123T130000
-DTSTAMP:20231123T110000Z
-UID:2023-11-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með sveppasósu og sætkartöflumús\nVegan sni
- tzel with mushroom sauce and mashed sweet potatoes
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn (H)
+DTSTART:20231130T110000
+DTEND:20231130T130000
+DTSTAMP:20231130T110000Z
+UID:2023-11-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
-  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
- eð mangó -\, karrý - og kókossósu (G)\nBaked “BRICK”\nWith fried 
- cabbage\, carrots\, turnip\, chick peas\, sweet potatoes\, bell pepper and
-  spinach\nserved with mango -\, curry - and coconut sauce (G)
-DTSTART:20231124T110000
-DTEND:20231124T130000
-DTSTAMP:20231124T110000Z
-UID:2023-11-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
- um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
- am með mangó -\, karrý - og kókossósu (G)\nBaked “BRICK”\nWith fr
- ied cabbage\, carrots\, turnip\, chick peas\, sweet potatoes\, bell pepper
-  and spinach\nserved with mango -\, curry - and coconut sauce (G)
+SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
+DTSTART:20231201T110000
+DTEND:20231201T130000
+DTSTAMP:20231201T110000Z
+UID:2023-12-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
+ (s)
 END:VEVENT
 END:VCALENDAR

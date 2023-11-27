@@ -2,67 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með stei
- ktum kartöflum\nHaddock in red pesto with  fried potatoes
-DTSTART:20231120T110000
-DTEND:20231120T130000
-DTSTAMP:20231120T110000Z
-UID:2023-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppa - og portvíns súpa\nÝsa í rauðu pestói með 
- steiktum kartöflum\nHaddock in red pesto with  fried potatoes
+SUMMARY:Rjómalöguð tómatsúpa  – Creamy tomato soup  (M\,G)\nLambakj
+ öt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and v
+ egetable stew with rice
+DTSTART:20231127T110000
+DTEND:20231127T130000
+DTSTAMP:20231127T110000Z
+UID:2023-11-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð tómatsúpa  – Creamy tomato soup  (M\,G)\nLam
+ bakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb a
+ nd vegetable stew with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
- paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
-  garlic bread  (G\,M)
-DTSTART:20231121T110000
-DTEND:20231121T130000
-DTSTAMP:20231121T110000Z
-UID:2023-11-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
- )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
- with garlic bread  (G\,M)
+SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
+ up ( V)\nSalat dagsins – Salad of the day: Brokkolí – Broccoli (V)\nG
+ ratineraður plokkfiskur með bearnaise ásamt rúgbrauði  (G\,M\,E)\nFis
+ hstew Au Gratin with bearnaise sauce and rye bread (G\,M\,E)
+DTSTART:20231128T110000
+DTEND:20231128T130000
+DTSTAMP:20231128T110000Z
+UID:2023-11-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
+ s soup ( V)\nSalat dagsins – Salad of the day: Brokkolí – Broccoli (V
+ )\nGratineraður plokkfiskur með bearnaise ásamt rúgbrauði  (G\,M\,E)\
+ nFishstew Au Gratin with bearnaise sauce and rye bread (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (M\,G
- )\nSteiktur þorskur í truffl u panko rasp með piparmajó og steiktum ka
- rtöflum (G\,E)\nFried cod in truffle panko breadcrumbs with peppermayo an
- d fried potatoes (G\,E)
-DTSTART:20231122T110000
-DTEND:20231122T130000
-DTSTAMP:20231122T110000Z
-UID:2023-11-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertu - og beikonsúpa  – Green peas - and bacon soup  (
- M\,G)\nSteiktur þorskur í truffl u panko rasp með piparmajó og steiktu
- m kartöflum (G\,E)\nFried cod in truffle panko breadcrumbs with peppermay
- o and fried potatoes (G\,E)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur me
+ ð hvítvíns - og hvítlaukssósu ásamt kartöflu - og blómkálsgratín
+ i\nChicken breasts with white wine - and garlic sauce served with potatoe 
+ - and cauliflower\nAu Gratin
+DTSTART:20231129T110000
+DTEND:20231129T130000
+DTSTAMP:20231129T110000Z
+UID:2023-11-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur
+  með hvítvíns - og hvítlaukssósu ásamt kartöflu - og blómkálsgrat
+ íni\nChicken breasts with white wine - and garlic sauce served with potat
+ oe - and cauliflower\nAu Gratin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eplabaka með vanillurjóma – Applepie with vanilla cream\nKalk
- únabringur með sætkartöflumús\, gravy og fyllingu með beikoni og fer
- skjum (M\,G)\nTurkey breast with mashed sweet potatoes\, gravy and stuffin
- g with bacon and peaches\n(M\,G)
-DTSTART:20231123T110000
-DTEND:20231123T130000
-DTSTAMP:20231123T110000Z
-UID:2023-11-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eplabaka með vanillurjóma – Applepie with vanilla cream\nK
- alkúnabringur með sætkartöflumús\, gravy og fyllingu með beikoni og 
- ferskjum (M\,G)\nTurkey breast with mashed sweet potatoes\, gravy and stuf
- fing with bacon and peaches\n(M\,G)
+SUMMARY:Graskerssúpa – Pumpkin soup ( V\,G)\nHamborgarhryggur með syku
+ rbrúðum kartöflum\, eplasalati\, rauðkáli og jólasósu\nIcelandic Ch
+ ristmas ham with caramelized potatoes\, apple salad\, red cabbage and\nChr
+ istmas sauce
+DTSTART:20231130T110000
+DTEND:20231130T130000
+DTSTAMP:20231130T110000Z
+UID:2023-11-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – Pumpkin soup ( V\,G)\nHamborgarhryggur með 
+ sykurbrúðum kartöflum\, eplasalati\, rauðkáli og jólasósu\nIcelandi
+ c Christmas ham with caramelized potatoes\, apple salad\, red cabbage and\
+ nChristmas sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nSuðurríkja steiktur kj
- úklingur með buffalósósu\, gráðostadressingu\, hrásalati og rösti\
- nkartöflum (G\,M\,E)\nSouthern fried chicken with buffalo sauce\, blue ch
- eese dressing\, coleslaw and rösti\npotatoes (G\,M\,E)
-DTSTART:20231124T110000
-DTEND:20231124T130000
-DTSTAMP:20231124T110000Z
-UID:2023-11-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nSuðurríkja steiktur
-  kjúklingur með buffalósósu\, gráðostadressingu\, hrásalati og rös
- ti\nkartöflum (G\,M\,E)\nSouthern fried chicken with buffalo sauce\, blue
-  cheese dressing\, coleslaw and rösti\npotatoes (G\,M\,E)
+SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar með nau tahakki
+ \, salsa og sýrðum rjóma  (M\,S)\nTaco with minced beef \, salsa and so
+ ur cream (M\,S)
+DTSTART:20231201T110000
+DTEND:20231201T130000
+DTSTAMP:20231201T110000Z
+UID:2023-12-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar með nau tah
+ akki\, salsa og sýrðum rjóma  (M\,S)\nTaco with minced beef \, salsa an
+ d sour cream (M\,S)
 END:VEVENT
 END:VCALENDAR
