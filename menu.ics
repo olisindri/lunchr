@@ -2,69 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Rjómalöguð tómatsúpa  – Creamy tomato soup  (M\,G)\nLambakj
- öt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb and v
- egetable stew with rice
-DTSTART:20231127T110000
-DTEND:20231127T130000
-DTSTAMP:20231127T110000Z
-UID:2023-11-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rjómalöguð tómatsúpa  – Creamy tomato soup  (M\,G)\nLam
- bakjöt  í karrýsósu með  grænmeti ásamt hrísgrjónum\nCurry lamb a
- nd vegetable stew with rice
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti mö
+ mmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls with cu
+ rry sauce and rice  (M\,G\,E)
+DTSTART:20231204T110000
+DTEND:20231204T130000
+DTSTAMP:20231204T110000Z
+UID:2023-12-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti
+  mömmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls wit
+ h curry sauce and rice  (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoes so
- up ( V)\nSalat dagsins – Salad of the day: Brokkolí – Broccoli (V)\nG
- ratineraður plokkfiskur með bearnaise ásamt rúgbrauði  (G\,M\,E)\nFis
- hstew Au Gratin with bearnaise sauce and rye bread (G\,M\,E)
-DTSTART:20231128T110000
-DTEND:20231128T130000
-DTSTAMP:20231128T110000Z
-UID:2023-11-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og tómatsúpa – Sweeet potato - and tomatoe
- s soup ( V)\nSalat dagsins – Salad of the day: Brokkolí – Broccoli (V
- )\nGratineraður plokkfiskur með bearnaise ásamt rúgbrauði  (G\,M\,E)\
- nFishstew Au Gratin with bearnaise sauce and rye bread (G\,M\,E)
+SUMMARY:Kókos - tómatsúpa  – Coconut - tomato  soup  (V)\nSmalabaka m
+ eð grænum baunum og rabbabarasultu (M)\nShepardspie  with peas and rhuba
+ rb jam (M)
+DTSTART:20231205T110000
+DTEND:20231205T130000
+DTSTAMP:20231205T110000Z
+UID:2023-12-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos - tómatsúpa  – Coconut - tomato  soup  (V)\nSmalaba
+ ka með grænum baunum og rabbabarasultu (M)\nShepardspie  with peas and r
+ hubarb jam (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur me
- ð hvítvíns - og hvítlaukssósu ásamt kartöflu - og blómkálsgratín
- i\nChicken breasts with white wine - and garlic sauce served with potatoe 
- - and cauliflower\nAu Gratin
-DTSTART:20231129T110000
-DTEND:20231129T130000
-DTSTAMP:20231129T110000Z
-UID:2023-11-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nKjúklingabringur
-  með hvítvíns - og hvítlaukssósu ásamt kartöflu - og blómkálsgrat
- íni\nChicken breasts with white wine - and garlic sauce served with potat
- oe - and cauliflower\nAu Gratin
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nCajun krydd aður  lax með ana
+ nassalsa og steiktum kartöflum\nCajun spiced salmon  with pineapple salsa
+  and fried potatoes
+DTSTART:20231206T110000
+DTEND:20231206T130000
+DTSTAMP:20231206T110000Z
+UID:2023-12-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nCajun krydd aður  lax með
+  ananassalsa og steiktum kartöflum\nCajun spiced salmon  with pineapple s
+ alsa and fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup ( V\,G)\nHamborgarhryggur með syku
- rbrúðum kartöflum\, eplasalati\, rauðkáli og jólasósu\nIcelandic Ch
- ristmas ham with caramelized potatoes\, apple salad\, red cabbage and\nChr
- istmas sauce
-DTSTART:20231130T110000
-DTEND:20231130T130000
-DTSTAMP:20231130T110000Z
-UID:2023-11-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup ( V\,G)\nHamborgarhryggur með 
- sykurbrúðum kartöflum\, eplasalati\, rauðkáli og jólasósu\nIcelandi
- c Christmas ham with caramelized potatoes\, apple salad\, red cabbage and\
- nChristmas sauce
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
+ grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
+ ith root vegetables\, potato au gratin and herb gravy  (M)
+DTSTART:20231207T110000
+DTEND:20231207T130000
+DTSTAMP:20231207T110000Z
+UID:2023-12-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
+ ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
+ mb  with root vegetables\, potato au gratin and herb gravy  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar með nau tahakki
- \, salsa og sýrðum rjóma  (M\,S)\nTaco with minced beef \, salsa and so
- ur cream (M\,S)
-DTSTART:20231201T110000
-DTEND:20231201T130000
-DTSTAMP:20231201T110000Z
-UID:2023-12-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar með nau tah
- akki\, salsa og sýrðum rjóma  (M\,S)\nTaco with minced beef \, salsa an
- d sour cream (M\,S)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
+ ð maisstöngli og southern krydduðum smælki kartöflum\nChicken in BBQ 
+ sauce with corn on the cob and southern spiced potatoes
+DTSTART:20231208T110000
+DTEND:20231208T130000
+DTSTAMP:20231208T110000Z
+UID:2023-12-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
+ u með maisstöngli og southern krydduðum smælki kartöflum\nChicken in 
+ BBQ sauce with corn on the cob and southern spiced potatoes
 END:VEVENT
 END:VCALENDAR

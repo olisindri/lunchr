@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
- as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
-DTSTART:20231127T110000
-DTEND:20231127T130000
-DTSTAMP:20231127T110000Z
-UID:2023-11-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
- ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
- oli
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt hrísgrjónum
+  og dressingu (G)\nPotato and red beets rissole with lens beans  served wi
+ th rice and dressing  (G)
+DTSTART:20231204T110000
+DTEND:20231204T130000
+DTSTAMP:20231204T110000Z
+UID:2023-12-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt hrísgrj
+ ónum og dressingu (G)\nPotato and red beets rissole with lens beans  serv
+ ed with rice and dressing  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, kidn
- ey beans and onion with cous cous  (S)
-DTSTART:20231128T110000
-DTEND:20231128T130000
-DTSTAMP:20231128T110000Z
-UID:2023-11-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt cous cous  (S)\nVegetable ragu with mushrooms\, spinach\, 
- kidney beans and onion with cous cous  (S)
+SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum\nSweet potato b
+ alls  with curry and rice
+DTSTART:20231205T110000
+DTEND:20231205T130000
+DTSTAMP:20231205T110000Z
+UID:2023-12-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum\nSweet pota
+ to balls  with curry and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
-  sósu\nVeggie tots with pasta and mango jalapeno sauce
-DTSTART:20231129T110000
-DTEND:20231129T130000
-DTSTAMP:20231129T110000Z
-UID:2023-11-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
- esam sósu\nVeggie tots with pasta and mango jalapeno sauce
+SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
+ um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
+  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
+ ery root\nand carrots with mustard mayo
+DTSTART:20231206T110000
+DTEND:20231206T130000
+DTSTAMP:20231206T110000Z
+UID:2023-12-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
+ baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
+ umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
+  celery root\nand carrots with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn (H)
-DTSTART:20231130T110000
-DTEND:20231130T130000
-DTSTAMP:20231130T110000Z
-UID:2023-11-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn (H)
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
+ dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
+ es  and cold dressing
+DTSTART:20231207T110000
+DTEND:20231207T130000
+DTSTAMP:20231207T110000Z
+UID:2023-12-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
+  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
+ tatoes  and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa (s)
-DTSTART:20231201T110000
-DTEND:20231201T130000
-DTSTAMP:20231201T110000Z
-UID:2023-12-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco með vegan hakki og salsa (S)\nTacos with omph and salsa 
- (s)
+SUMMARY:Grænmetisbollur með maisstöngli\, southern krydduðum smælki k
+ artöflum og dressingu\nVeggie balls with corn on the cob\, southern spice
+ d potatoes and dressing
+DTSTART:20231208T110000
+DTEND:20231208T130000
+DTSTAMP:20231208T110000Z
+UID:2023-12-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisbollur með maisstöngli\, southern krydduðum smæl
+ ki kartöflum og dressingu\nVeggie balls with corn on the cob\, southern s
+ piced potatoes and dressing
 END:VEVENT
 END:VCALENDAR
