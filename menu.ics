@@ -2,67 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
- he day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti mö
- mmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls with cu
- rry sauce and rice  (M\,G\,E)
-DTSTART:20231204T110000
-DTEND:20231204T130000
-DTSTAMP:20231204T110000Z
-UID:2023-12-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
- of the day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti
-  mömmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls wit
- h curry sauce and rice  (M\,G\,E)
+SUMMARY:Graskerssúpa – butternut squash soup ( G)\nOfnbökuð ýsa með
+  lauksmjöri og steiktum kartöflum (M)\nOven baked haddock with onion but
+ ter and fried potatoes (M)
+DTSTART:20231211T110000
+DTEND:20231211T130000
+DTSTAMP:20231211T110000Z
+UID:2023-12-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Graskerssúpa – butternut squash soup ( G)\nOfnbökuð ýsa 
+ með lauksmjöri og steiktum kartöflum (M)\nOven baked haddock with onion
+  butter and fried potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kókos - tómatsúpa  – Coconut - tomato  soup  (V)\nSmalabaka m
- eð grænum baunum og rabbabarasultu (M)\nShepardspie  with peas and rhuba
- rb jam (M)
-DTSTART:20231205T110000
-DTEND:20231205T130000
-DTSTAMP:20231205T110000Z
-UID:2023-12-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos - tómatsúpa  – Coconut - tomato  soup  (V)\nSmalaba
- ka með grænum baunum og rabbabarasultu (M)\nShepardspie  with peas and r
- hubarb jam (M)
+SUMMARY:Gulrótarsúpa  – Carrot  soup  (V\,G)\nKjúklingabringur með p
+ iparsósu og ofbökuðum kartöflum (M)\nChicken breast with pepper sauce 
+ and over roasted potatoes (M)
+DTSTART:20231212T110000
+DTEND:20231212T130000
+DTSTAMP:20231212T110000Z
+UID:2023-12-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótarsúpa  – Carrot  soup  (V\,G)\nKjúklingabringur me
+ ð piparsósu og ofbökuðum kartöflum (M)\nChicken breast with pepper sa
+ uce and over roasted potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
- f the day: Blómkál – Cauliflower  (V)\nCajun krydd aður  lax með ana
- nassalsa og steiktum kartöflum\nCajun spiced salmon  with pineapple salsa
-  and fried potatoes
-DTSTART:20231206T110000
-DTEND:20231206T130000
-DTSTAMP:20231206T110000Z
-UID:2023-12-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
- ad of the day: Blómkál – Cauliflower  (V)\nCajun krydd aður  lax með
-  ananassalsa og steiktum kartöflum\nCajun spiced salmon  with pineapple s
- alsa and fried potatoes
+SUMMARY:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dagsins 
+ – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í 
+ parmesan pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalat
+ i  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with pota
+ toes\, cocktail sauce and\ncoleslaw  (G\,E\,M)
+DTSTART:20231213T110000
+DTEND:20231213T130000
+DTSTAMP:20231213T110000Z
+UID:2023-12-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dags
+ ins – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur
+  í parmesan pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrás
+ alati  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with 
+ potatoes\, cocktail sauce and\ncoleslaw  (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
- grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
- ith root vegetables\, potato au gratin and herb gravy  (M)
-DTSTART:20231207T110000
-DTEND:20231207T130000
-DTSTAMP:20231207T110000Z
-UID:2023-12-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
- ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
- mb  with root vegetables\, potato au gratin and herb gravy  (M)
+SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nPurusteik með
+  sykurbúnuðum kartöflum\, rauðkáli og soðsós u (M)\nCrispy pork bel
+ ly with caramelized potatoes\, red cabbage and demi -glaze (M)
+DTSTART:20231214T110000
+DTEND:20231214T130000
+DTSTAMP:20231214T110000Z
+UID:2023-12-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nPurusteik 
+ með sykurbúnuðum kartöflum\, rauðkáli og soðsós u (M)\nCrispy pork
+  belly with caramelized potatoes\, red cabbage and demi -glaze (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
- ð maisstöngli og southern krydduðum smælki kartöflum\nChicken in BBQ 
- sauce with corn on the cob and southern spiced potatoes
-DTSTART:20231208T110000
-DTEND:20231208T130000
-DTSTAMP:20231208T110000Z
-UID:2023-12-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
- u með maisstöngli og southern krydduðum smælki kartöflum\nChicken in 
- BBQ sauce with corn on the cob and southern spiced potatoes
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklinga Gyros með kebab
+  salati og kartöflubátum (M)\nChicken Gyros with kebab salad and potato 
+ wedges (M)\nÍ eldhúsi Kokkanna er notuð hráefni sem geta valdið ofnæ
+ mi eins og  hnetur\, mjólk\, egg\, baunir og ýmiskonar fræ.
+DTSTART:20231215T110000
+DTEND:20231215T130000
+DTSTAMP:20231215T110000Z
+UID:2023-12-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklinga Gyros með k
+ ebab salati og kartöflubátum (M)\nChicken Gyros with kebab salad and pot
+ ato wedges (M)\nÍ eldhúsi Kokkanna er notuð hráefni sem geta valdið o
+ fnæmi eins og  hnetur\, mjólk\, egg\, baunir og ýmiskonar fræ.
 END:VEVENT
 END:VCALENDAR

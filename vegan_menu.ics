@@ -2,63 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt hrísgrjónum
-  og dressingu (G)\nPotato and red beets rissole with lens beans  served wi
- th rice and dressing  (G)
-DTSTART:20231204T110000
-DTEND:20231204T130000
-DTSTAMP:20231204T110000Z
-UID:2023-12-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt hrísgrj
- ónum og dressingu (G)\nPotato and red beets rissole with lens beans  serv
- ed with rice and dressing  (G)
+SUMMARY:Falafel á cous cous beði með grænmeti og hvítlauks mæjó\nFa
+ lafel with cous cous\, vegetables and garlic mayo
+DTSTART:20231211T110000
+DTEND:20231211T130000
+DTSTAMP:20231211T110000Z
+UID:2023-12-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel á cous cous beði með grænmeti og hvítlauks mæjó
+ \nFalafel with cous cous\, vegetables and garlic mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu og karrý bollur  með hrísgrjónum\nSweet potato b
- alls  with curry and rice
-DTSTART:20231205T110000
-DTEND:20231205T130000
-DTSTAMP:20231205T110000Z
-UID:2023-12-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu og karrý bollur  með hrísgrjónum\nSweet pota
- to balls  with curry and rice
+SUMMARY:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai green cu
+ rry with vegetables and tofu  (S)
+DTSTART:20231212T110000
+DTEND:20231212T130000
+DTSTAMP:20231212T110000Z
+UID:2023-12-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai gree
+ n curry with vegetables and tofu  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklingabaun
- um\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nCumin
-  and chili spiced rissole with potatoes\, chicken peas\, black beans\, cel
- ery root\nand carrots with mustard mayo
-DTSTART:20231206T110000
-DTEND:20231206T130000
-DTSTAMP:20231206T110000Z
-UID:2023-12-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kúmen  og eldpipar krydduð buff með kartöflum\, kjúklinga
- baunum\, svartbaunum\,\nsellerírót og gulrótum ásamt sinneps mæjó\nC
- umin and chili spiced rissole with potatoes\, chicken peas\, black beans\,
-  celery root\nand carrots with mustard mayo
+SUMMARY:Sterkur Oumph hakkréttur með baunum\, hrísgrjónum og nachos  (
+ S)\nSpicy Oumph with beans\, rice and nachos  (S)
+DTSTART:20231213T110000
+DTEND:20231213T130000
+DTSTAMP:20231213T110000Z
+UID:2023-12-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sterkur Oumph hakkréttur með baunum\, hrísgrjónum og nacho
+ s  (S)\nSpicy Oumph with beans\, rice and nachos  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
- dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
- es  and cold dressing
-DTSTART:20231207T110000
-DTEND:20231207T130000
-DTSTAMP:20231207T110000Z
-UID:2023-12-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
-  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
- tatoes  and cold dressing
+SUMMARY:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,G)\n
+ Vegan schnitzel with cold herb dressing  and potatoes  (S\,G)
+DTSTART:20231214T110000
+DTEND:20231214T130000
+DTSTAMP:20231214T110000Z
+UID:2023-12-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S\,
+ G)\nVegan schnitzel with cold herb dressing  and potatoes  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með maisstöngli\, southern krydduðum smælki k
- artöflum og dressingu\nVeggie balls with corn on the cob\, southern spice
- d potatoes and dressing
-DTSTART:20231208T110000
-DTEND:20231208T130000
-DTSTAMP:20231208T110000Z
-UID:2023-12-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með maisstöngli\, southern krydduðum smæl
- ki kartöflum og dressingu\nVeggie balls with corn on the cob\, southern s
- piced potatoes and dressing
+SUMMARY:Jambalayo með sætum kartöflum og koriander\nJambalayo  with swe
+ et potatoes and coriander\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts 
+  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítla
+ uk í okkar vegan rétti\nPlease note that we use a lot of onion and garli
+ c for our vegan courses
+DTSTART:20231215T110000
+DTEND:20231215T130000
+DTSTAMP:20231215T110000Z
+UID:2023-12-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Jambalayo með sætum kartöflum og koriander\nJambalayo  with
+  sweet potatoes and coriander\n(G) – Glúten/Gluten  (H) – Hnetur/Pean
+ uts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
+ ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
+ garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
