@@ -2,69 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – butternut squash soup ( G)\nOfnbökuð ýsa með
-  lauksmjöri og steiktum kartöflum (M)\nOven baked haddock with onion but
- ter and fried potatoes (M)
-DTSTART:20231211T110000
-DTEND:20231211T130000
-DTSTAMP:20231211T110000Z
-UID:2023-12-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – butternut squash soup ( G)\nOfnbökuð ýsa 
- með lauksmjöri og steiktum kartöflum (M)\nOven baked haddock with onion
-  butter and fried potatoes (M)
+SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (G)\nSalat dags
+ ins - Salad of the day: Brokkólí  - Broccoli  (V)\nOfnbakaður þorskur 
+ með sítrónu og timian sósu og steiktum kartöflum (M)\nOvenbaked cod w
+ ith lemon and thyme sauce and fried potatoes (M)
+DTSTART:20231218T110000
+DTEND:20231218T130000
+DTSTAMP:20231218T110000Z
+UID:2023-12-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (G)\nSalat 
+ dagsins - Salad of the day: Brokkólí  - Broccoli  (V)\nOfnbakaður þors
+ kur með sítrónu og timian sósu og steiktum kartöflum (M)\nOvenbaked c
+ od with lemon and thyme sauce and fried potatoes (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – Carrot  soup  (V\,G)\nKjúklingabringur með p
- iparsósu og ofbökuðum kartöflum (M)\nChicken breast with pepper sauce 
- and over roasted potatoes (M)
-DTSTART:20231212T110000
-DTEND:20231212T130000
-DTSTAMP:20231212T110000Z
-UID:2023-12-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – Carrot  soup  (V\,G)\nKjúklingabringur me
- ð piparsósu og ofbökuðum kartöflum (M)\nChicken breast with pepper sa
- uce and over roasted potatoes (M)
+SUMMARY:Gulrótar - og kókossúpa – Carrot - and coconutsoup ( V)\nKjú
+ klinga „Supreme“ pottréttur með hrísgrjónum og mais (M)\nChicken S
+ upreme stew with rice and sweet corn (M)
+DTSTART:20231219T110000
+DTEND:20231219T130000
+DTSTAMP:20231219T110000Z
+UID:2023-12-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar - og kókossúpa – Carrot - and coconutsoup ( V)\n
+ Kjúklinga „Supreme“ pottréttur með hrísgrjónum og mais (M)\nChick
+ en Supreme stew with rice and sweet corn (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dagsins 
- – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í 
- parmesan pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrásalat
- i  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with pota
- toes\, cocktail sauce and\ncoleslaw  (G\,E\,M)
-DTSTART:20231213T110000
-DTEND:20231213T130000
-DTSTAMP:20231213T110000Z
-UID:2023-12-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dags
- ins – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur
-  í parmesan pankó raspi með soðnum kartöflum\, kokteilsósu og\nhrás
- alati  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with 
- potatoes\, cocktail sauce and\ncoleslaw  (G\,E\,M)
+SUMMARY:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins – Salad of
+  the day: Blandaðir ávextir – Mixed fruits  (V)\nOfnbökuð ýsa með 
+ kryddjurtarrasp og sjávarrétta sósu með  rækjum  (G\,M)\nOvenbaked  h
+ addock with herb breadcrumbs and seafood sauce with  shrimps (G\,M)
+DTSTART:20231220T110000
+DTEND:20231220T130000
+DTSTAMP:20231220T110000Z
+UID:2023-12-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa – Mushrooms soup  (G\,M)\nSalat dagsins – Sala
+ d of the day: Blandaðir ávextir – Mixed fruits  (V)\nOfnbökuð ýsa m
+ eð kryddjurtarrasp og sjávarrétta sósu með  rækjum  (G\,M)\nOvenbake
+ d  haddock with herb breadcrumbs and seafood sauce with  shrimps (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nPurusteik með
-  sykurbúnuðum kartöflum\, rauðkáli og soðsós u (M)\nCrispy pork bel
- ly with caramelized potatoes\, red cabbage and demi -glaze (M)
-DTSTART:20231214T110000
-DTEND:20231214T130000
-DTSTAMP:20231214T110000Z
-UID:2023-12-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nPurusteik 
- með sykurbúnuðum kartöflum\, rauðkáli og soðsós u (M)\nCrispy pork
-  belly with caramelized potatoes\, red cabbage and demi -glaze (M)
+SUMMARY:Rabbabara baka – Rhubarb pie (G\,M)\nKalt hangikjöt og hamborga
+ rhryggur með uppstúf\, kartöflum\, laufabrauði og kartöflusalati\n(M\
+ ,G)\nSmoked lamb and Christmas ham served cold with sweet bechamel sauce\,
+  potatoes\,\n“laufabrauð” and potatosalad (M\,G)
+DTSTART:20231221T110000
+DTEND:20231221T130000
+DTSTAMP:20231221T110000Z
+UID:2023-12-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rabbabara baka – Rhubarb pie (G\,M)\nKalt hangikjöt og hamb
+ orgarhryggur með uppstúf\, kartöflum\, laufabrauði og kartöflusalati\
+ n(M\,G)\nSmoked lamb and Christmas ham served cold with sweet bechamel sau
+ ce\, potatoes\,\n“laufabrauð” and potatosalad (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklinga Gyros með kebab
-  salati og kartöflubátum (M)\nChicken Gyros with kebab salad and potato 
- wedges (M)\nÍ eldhúsi Kokkanna er notuð hráefni sem geta valdið ofnæ
- mi eins og  hnetur\, mjólk\, egg\, baunir og ýmiskonar fræ.
-DTSTART:20231215T110000
-DTEND:20231215T130000
-DTSTAMP:20231215T110000Z
-UID:2023-12-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklinga Gyros með k
- ebab salati og kartöflubátum (M)\nChicken Gyros with kebab salad and pot
- ato wedges (M)\nÍ eldhúsi Kokkanna er notuð hráefni sem geta valdið o
- fnæmi eins og  hnetur\, mjólk\, egg\, baunir og ýmiskonar fræ.
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexókóskt kjúklinga l
+ asagna borið fram með sýrðum rjóma og nachos (M\,G)\nMexican chicken 
+ lasagna with sour cream and nachos (M\,G)
+DTSTART:20231222T110000
+DTEND:20231222T130000
+DTSTAMP:20231222T110000Z
+UID:2023-12-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexókóskt kjúklin
+ ga lasagna borið fram með sýrðum rjóma og nachos (M\,G)\nMexican chic
+ ken lasagna with sour cream and nachos (M\,G)
 END:VEVENT
 END:VCALENDAR
