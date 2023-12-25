@@ -2,63 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og brokkólí naggar með steiktum kartöflum og kald
- ri dressingu\nCauliflower - and broccoli tots with fried potatoes and cold
-  dressing
-DTSTART:20231218T110000
-DTEND:20231218T130000
-DTSTAMP:20231218T110000Z
-UID:2023-12-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og brokkólí naggar með steiktum kartöflum og 
- kaldri dressingu\nCauliflower - and broccoli tots with fried potatoes and 
- cold dressing
+SUMMARY:Lokað
+DTSTART:20231225T110000
+DTEND:20231225T130000
+DTSTAMP:20231225T110000Z
+UID:2023-12-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Thai karrý með baunum og grænmeti\nThai curry with beans and ve
- getables
-DTSTART:20231219T110000
-DTEND:20231219T130000
-DTSTAMP:20231219T110000Z
-UID:2023-12-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Thai karrý með baunum og grænmeti\nThai curry with beans an
- d vegetables
+SUMMARY:Lokað
+DTSTART:20231226T110000
+DTEND:20231226T130000
+DTSTAMP:20231226T110000Z
+UID:2023-12-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
- mt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots serv
- ed with sweet chili sauce (G)
-DTSTART:20231220T110000
-DTEND:20231220T130000
-DTSTAMP:20231220T110000Z
-UID:2023-12-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
- ásamt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots 
- served with sweet chili sauce (G)
+SUMMARY:Linsubaunapottréttur með tómat\, grænmeti\, lauk og hvítlauk\
+ nLentil stew with tomatoes\, vegetables\, onion and garlic
+DTSTART:20231227T110000
+DTEND:20231227T130000
+DTSTAMP:20231227T110000Z
+UID:2023-12-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Linsubaunapottréttur með tómat\, grænmeti\, lauk og hvítl
+ auk\nLentil stew with tomatoes\, vegetables\, onion and garlic
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbauna - og hnetusteik í smjördeigi með villisveppasósu og
-  smælki kartöflum (G\,H)\nBlack bean - and cashew nut steak  in puff pas
- try  with wild mushroom sauce and small\npotatoes (G\,H)
-DTSTART:20231221T110000
-DTEND:20231221T130000
-DTSTAMP:20231221T110000Z
-UID:2023-12-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbauna - og hnetusteik í smjördeigi með villisveppasós
- u og smælki kartöflum (G\,H)\nBlack bean - and cashew nut steak  in puff
-  pastry  with wild mushroom sauce and small\npotatoes (G\,H)
+SUMMARY:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætri ch
+ ili sósu og bakaðri kartöflu  (H)\nRisso le made from nuts\, black bean
+ s\, potatoes and vegetables\nwith sweet chili sauce and baked potatoes  (H
+ )
+DTSTART:20231228T110000
+DTEND:20231228T130000
+DTSTAMP:20231228T110000Z
+UID:2023-12-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætr
+ i chili sósu og bakaðri kartöflu  (H)\nRisso le made from nuts\, black 
+ beans\, potatoes and vegetables\nwith sweet chili sauce and baked potatoes
+   (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur\, t
- ómatur og basil ásamt salati\,\npestó og brauði  (G)\nLasagna: paprika
- \, onion\, celery\, carrots\, leek\, tomato and basil served with salad\, 
- pesto\nand bread  (G)
-DTSTART:20231222T110000
-DTEND:20231222T130000
-DTSTAMP:20231222T110000Z
-UID:2023-12-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur
- \, tómatur og basil ásamt salati\,\npestó og brauði  (G)\nLasagna: pap
- rika\, onion\, celery\, carrots\, leek\, tomato and basil served with sala
- d\, pesto\nand bread  (G)
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
+ Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20231229T110000
+DTEND:20231229T130000
+DTSTAMP:20231229T110000Z
+UID:2023-12-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
