@@ -2,53 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20231225T110000
-DTEND:20231225T130000
-DTSTAMP:20231225T110000Z
-UID:2023-12-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Gleðilegt nýtt ár
+DTSTART:20240101T110000
+DTEND:20240101T130000
+DTSTAMP:20240101T110000Z
+UID:2024-01-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gleðilegt nýtt ár
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20231226T110000
-DTEND:20231226T130000
-DTSTAMP:20231226T110000Z
-UID:2023-12-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
+ úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
+  with rice
+DTSTART:20240102T110000
+DTEND:20240102T130000
+DTSTAMP:20240102T110000Z
+UID:2024-01-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
+ \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
+ cken with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomatoe soup\nFiskibollur með brú
- nni sósu\, steiktum kartöflum og hrásalati (G\,M\,E)\nFish patties with
-  brown sauce\, fried potatoes and coleslaw (G\,M\,E)
-DTSTART:20231227T110000
-DTEND:20231227T130000
-DTSTAMP:20231227T110000Z
-UID:2023-12-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomatoe soup\nFiskibollur með 
- brúnni sósu\, steiktum kartöflum og hrásalati (G\,M\,E)\nFish patties 
- with brown sauce\, fried potatoes and coleslaw (G\,M\,E)
+SUMMARY:Kókos -spínatsúpa – coconut and spinach soup   (V)\nÞorskur 
+ með rauðu pestói ásamt kartöflum og miðjarðarhafsgrænmeti\nCod wit
+ h red pesto\, potatoes and Mediterranean vegetables
+DTSTART:20240103T110000
+DTEND:20240103T130000
+DTSTAMP:20240103T110000Z
+UID:2024-01-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup   (V)\nÞors
+ kur með rauðu pestói ásamt kartöflum og miðjarðarhafsgrænmeti\nCod
+  with red pesto\, potatoes and Mediterranean vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sellerýrótar - og karrýsósa  – Celleryroot - and curry soup 
- ( V)\nSvínahnakki með kryddjurtarsoðsósu\, kartöflum og blönduðu gr
- ænmeti\nPork shoulder with herb gravy\, potatoes and mixed vegetables
-DTSTART:20231228T110000
-DTEND:20231228T130000
-DTSTAMP:20231228T110000Z
-UID:2023-12-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sellerýrótar - og karrýsósa  – Celleryroot - and curry s
- oup ( V)\nSvínahnakki með kryddjurtarsoðsósu\, kartöflum og blönduð
- u grænmeti\nPork shoulder with herb gravy\, potatoes and mixed vegetables
+SUMMARY:Blómkálssúpa – cauliflower soup  (M)\nLambalæri með steiktu
+ m kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and bearn
+ aise sauce (M\,E)
+DTSTART:20240104T110000
+DTEND:20240104T130000
+DTSTAMP:20240104T110000Z
+UID:2024-01-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – cauliflower soup  (M)\nLambalæri með ste
+ iktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and b
+ earnaise sauce (M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum\nChicken thigh tikka masala with ric e
-DTSTART:20231229T110000
-DTEND:20231229T130000
-DTSTAMP:20231229T110000Z
-UID:2023-12-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum\nChicken thigh tikka masala with ric e
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
+ potle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflubát
+ um (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriander co
+ leslaw served with\npotato wedges (G\,E)\nInnihaldslýsingar – ingredien
+ ts descriptions
+DTSTART:20240105T110000
+DTEND:20240105T130000
+DTSTAMP:20240105T110000Z
+UID:2024-01-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
+  chipotle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflu
+ bátum (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriande
+ r coleslaw served with\npotato wedges (G\,E)\nInnihaldslýsingar – ingre
+ dients descriptions
 END:VEVENT
 END:VCALENDAR
