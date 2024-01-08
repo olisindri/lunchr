@@ -2,63 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Gleðilegt nýtt ár
-DTSTART:20240101T110000
-DTEND:20240101T130000
-DTSTAMP:20240101T110000Z
-UID:2024-01-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gleðilegt nýtt ár
+SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
+ p (G)\nKjúklingur satay með hrísgrjónum  (H)\nChicken satay with rice 
+ (H)
+DTSTART:20240108T110000
+DTEND:20240108T130000
+DTSTAMP:20240108T110000Z
+UID:2024-01-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
+  soup (G)\nKjúklingur satay með hrísgrjónum  (H)\nChicken satay with r
+ ice (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)\nKj
- úklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chicken
-  with rice
-DTSTART:20240102T110000
-DTEND:20240102T130000
-DTSTAMP:20240102T110000Z
-UID:2024-01-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (G\,V)
- \nKjúklingur í súrsætri sósu með hrísgrjónum\nSweet’n’sour chi
- cken with rice
+SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\nSala
+ t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
+ pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
+  in orange and basil with citrus s auce  (G\,M)
+DTSTART:20240109T110000
+DTEND:20240109T130000
+DTSTAMP:20240109T110000Z
+UID:2024-01-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\n
+ Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
+  pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
+ dock in orange and basil with citrus s auce  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kókos -spínatsúpa – coconut and spinach soup   (V)\nÞorskur 
- með rauðu pestói ásamt kartöflum og miðjarðarhafsgrænmeti\nCod wit
- h red pesto\, potatoes and Mediterranean vegetables
-DTSTART:20240103T110000
-DTEND:20240103T130000
-DTSTAMP:20240103T110000Z
-UID:2024-01-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos -spínatsúpa – coconut and spinach soup   (V)\nÞors
- kur með rauðu pestói ásamt kartöflum og miðjarðarhafsgrænmeti\nCod
-  with red pesto\, potatoes and Mediterranean vegetables
+SUMMARY:Kókos - og kóriandersúpa – Coconut and coriander soup\nLasagn
+ a á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasa
+ gna with garlic bread and coleslaw  (G\,M\,E)
+DTSTART:20240110T110000
+DTEND:20240110T130000
+DTSTAMP:20240110T110000Z
+UID:2024-01-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos - og kóriandersúpa – Coconut and coriander soup\nLa
+ sagna á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\n
+ Lasagna with garlic bread and coleslaw  (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – cauliflower soup  (M)\nLambalæri með steiktu
- m kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and bearn
- aise sauce (M\,E)
-DTSTART:20240104T110000
-DTEND:20240104T130000
-DTSTAMP:20240104T110000Z
-UID:2024-01-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – cauliflower soup  (M)\nLambalæri með ste
- iktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and b
- earnaise sauce (M\,E)
+SUMMARY:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway see
+ d soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ásamt 
+ rauðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and red 
+ cabbage (M)
+DTSTART:20240111T110000
+DTEND:20240111T130000
+DTSTAMP:20240111T110000Z
+UID:2024-01-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway
+  seed soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ás
+ amt rauðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and 
+ red cabbage (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með chi
- potle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflubát
- um (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriander co
- leslaw served with\npotato wedges (G\,E)\nInnihaldslýsingar – ingredien
- ts descriptions
-DTSTART:20240105T110000
-DTEND:20240105T130000
-DTSTAMP:20240105T110000Z
-UID:2024-01-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
-  chipotle mæjónesi\, hrásalati í lime og kóríander ásamt\nkartöflu
- bátum (G\,E)\nChicken burger with chipotle mayonnaise\, lime and coriande
- r coleslaw served with\npotato wedges (G\,E)\nInnihaldslýsingar – ingre
- dients descriptions
+SUMMARY:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur í f
+ latbrauði (G)\nChimmichurri chicken in a flatbread (G)
+DTSTART:20240112T110000
+DTEND:20240112T130000
+DTSTAMP:20240112T110000Z
+UID:2024-01-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur 
+ í flatbrauði (G)\nChimmichurri chicken in a flatbread (G)
 END:VEVENT
 END:VCALENDAR

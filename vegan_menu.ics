@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Gleðilegt nýtt ár
-DTSTART:20240101T110000
-DTEND:20240101T130000
-DTSTAMP:20240101T110000Z
-UID:2024-01-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gleðilegt nýtt ár
+SUMMARY:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum\nSw
+ eet and sour vegetable - and bean stew served with rice
+DTSTART:20240108T110000
+DTEND:20240108T130000
+DTSTAMP:20240108T110000Z
+UID:2024-01-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum
+ \nSweet and sour vegetable - and bean stew served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai green cu
- rry with vegetables and tofu (S)
-DTSTART:20240102T110000
-DTEND:20240102T130000
-DTSTAMP:20240102T110000Z
-UID:2024-01-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tælenskt grænt karrý með grænmeti og tofu  (S)\nThai gree
- n curry with vegetables and tofu (S)
+SUMMARY:Sætkartöflu -\, paprika - og baunabollur með heitri tómat - og
+  kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and bea
+ nballs served with hot tomato - and cumin sauce\nand rice
+DTSTART:20240109T110000
+DTEND:20240109T130000
+DTSTAMP:20240109T110000Z
+UID:2024-01-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu -\, paprika - og baunabollur með heitri tómat 
+ - og kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and
+  beanballs served with hot tomato - and cumin sauce\nand rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis enchilada með tómat\, baunum og osti ásamt nachos og
-  salsa (G)\nVegetable enchilada with tomato\, beans and  cheese served wit
- h salsa and nachos  (G)
-DTSTART:20240103T110000
-DTEND:20240103T130000
-DTSTAMP:20240103T110000Z
-UID:2024-01-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis enchilada með tómat\, baunum og osti ásamt nacho
- s og salsa (G)\nVegetable enchilada with tomato\, beans and  cheese served
-  with salsa and nachos  (G)
+SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
+ \,H)
+DTSTART:20240110T110000
+DTEND:20240110T130000
+DTSTAMP:20240110T110000Z
+UID:2024-01-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
+ o (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu massaaman karrý með hrísgrjónum\nSweet potato ma
- ssaman curry with rice
-DTSTART:20240104T110000
-DTEND:20240104T130000
-DTSTAMP:20240104T110000Z
-UID:2024-01-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu massaaman karrý með hrísgrjónum\nSweet potat
- o massaman curry with rice
+SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
+ sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
+ alapeno sauce
+DTSTART:20240111T110000
+DTEND:20240111T130000
+DTSTAMP:20240111T110000Z
+UID:2024-01-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
+ penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
+ go jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
- m\nCauliflower and broccoli tots served with garlic sauce and potatoes\n(G
- ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
- ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
- ase note that we use a lot of onion and garlic for our vegan courses
-DTSTART:20240105T110000
-DTEND:20240105T130000
-DTSTAMP:20240105T110000Z
-UID:2024-01-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
- öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
- s\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVins
- amlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti
- \nPlease note that we use a lot of onion and garlic for our vegan courses
+SUMMARY:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\nChim
+ michurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
+  of onion and garlic for our vegan courses
+DTSTART:20240112T110000
+DTEND:20240112T130000
+DTSTAMP:20240112T110000Z
+UID:2024-01-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\n
+ Chimmichurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (
+ H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum 
+ mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a 
+ lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
