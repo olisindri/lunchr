@@ -2,63 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum\nSw
- eet and sour vegetable - and bean stew served with rice
-DTSTART:20240108T110000
-DTEND:20240108T130000
-DTSTAMP:20240108T110000Z
-UID:2024-01-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum
- \nSweet and sour vegetable - and bean stew served with rice
+SUMMARY:Hrísgrjónanúðlur með sveppasoði ásamt grænmeti (S\,G)\nRic
+ e noodles with mushroombroth and vegetables (S\,G)
+DTSTART:20240115T110000
+DTEND:20240115T130000
+DTSTAMP:20240115T110000Z
+UID:2024-01-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hrísgrjónanúðlur með sveppasoði ásamt grænmeti (S\,G)\
+ nRice noodles with mushroombroth and vegetables (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu -\, paprika - og baunabollur með heitri tómat - og
-  kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and bea
- nballs served with hot tomato - and cumin sauce\nand rice
-DTSTART:20240109T110000
-DTEND:20240109T130000
-DTSTAMP:20240109T110000Z
-UID:2024-01-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu -\, paprika - og baunabollur með heitri tómat 
- - og kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and
-  beanballs served with hot tomato - and cumin sauce\nand rice
+SUMMARY:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kaldri d
+ ressing\nCauliflower - and almond rissole with brown rice and cold dressin
+ g
+DTSTART:20240116T110000
+DTEND:20240116T130000
+DTSTAMP:20240116T110000Z
+UID:2024-01-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kald
+ ri dressing\nCauliflower - and almond rissole with brown rice and cold dre
+ ssing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20240110T110000
-DTEND:20240110T130000
-DTSTAMP:20240110T110000Z
-UID:2024-01-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
+ hvítlauk\, lauk og grænmeti\nCauliflower and black been stew with coconu
+ t milk\, tomatoes\,\ngarlic\, onion and vegetables
+DTSTART:20240117T110000
+DTEND:20240117T130000
+DTSTAMP:20240117T110000Z
+UID:2024-01-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
+ \,\nhvítlauk\, lauk og grænmeti\nCauliflower and black been stew with co
+ conut milk\, tomatoes\,\ngarlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
- sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
- alapeno sauce
-DTSTART:20240111T110000
-DTEND:20240111T130000
-DTSTAMP:20240111T110000Z
-UID:2024-01-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
- penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
- go jalapeno sauce
+SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
+ small potatoes
+DTSTART:20240118T110000
+DTEND:20240118T130000
+DTSTAMP:20240118T110000Z
+UID:2024-01-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
+ ith small potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\nChim
- michurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
- inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
-  of onion and garlic for our vegan courses
-DTSTART:20240112T110000
-DTEND:20240112T130000
-DTSTAMP:20240112T110000Z
-UID:2024-01-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\n
- Chimmichurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (
- H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum 
- mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a 
- lot of onion and garlic for our vegan courses
+SUMMARY:Hamborgari með rauðrófuaioli ásamt salati\, kartöflubátum og
+  kokteilsósu (G\,S)\nHamburger with beet aioli served with lettuce\, pota
+ to wedges and cocktailsauce  (G\,S)
+DTSTART:20240119T110000
+DTEND:20240119T130000
+DTSTAMP:20240119T110000Z
+UID:2024-01-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hamborgari með rauðrófuaioli ásamt salati\, kartöflubátu
+ m og kokteilsósu (G\,S)\nHamburger with beet aioli served with lettuce\, 
+ potato wedges and cocktailsauce  (G\,S)
 END:VEVENT
 END:VCALENDAR

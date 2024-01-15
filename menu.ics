@@ -2,65 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
- p (G)\nKjúklingur satay með hrísgrjónum  (H)\nChicken satay with rice 
- (H)
-DTSTART:20240108T110000
-DTEND:20240108T130000
-DTSTAMP:20240108T110000Z
-UID:2024-01-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
-  soup (G)\nKjúklingur satay með hrísgrjónum  (H)\nChicken satay with r
- ice (H)
+SUMMARY:Miðjarðarhafs ribollita súpa  – Mediterranean ribollita soup 
+ (G)\nSalat dagsins – Salad of the day : Gulrætur – Carrots  (V)\nOfnb
+ akaður þorskur með steinseljusóasu\, kartöflum og kryddjurtarasp (M\,
+ G)\nOvenbaked cod with parsley sauce\, potatoes and herb breadcrumbs (M\,G
+ )
+DTSTART:20240115T110000
+DTEND:20240115T130000
+DTSTAMP:20240115T110000Z
+UID:2024-01-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Miðjarðarhafs ribollita súpa  – Mediterranean ribollita s
+ oup (G)\nSalat dagsins – Salad of the day : Gulrætur – Carrots  (V)\n
+ Ofnbakaður þorskur með steinseljusóasu\, kartöflum og kryddjurtarasp 
+ (M\,G)\nOvenbaked cod with parsley sauce\, potatoes and herb breadcrumbs (
+ M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\nSala
- t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
- pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
-  in orange and basil with citrus s auce  (G\,M)
-DTSTART:20240109T110000
-DTEND:20240109T130000
-DTSTAMP:20240109T110000Z
-UID:2024-01-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\n
- Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
-  pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
- dock in orange and basil with citrus s auce  (G\,M)
+SUMMARY:Indversk karrýsúpa  – Indian curry soup  (V)\nNautapottréttur
+  "Bourguignon" með kartöflumús  (M)\nBeef “ Bourguignon ” with mash
+ ed potatoes
+DTSTART:20240116T110000
+DTEND:20240116T130000
+DTSTAMP:20240116T110000Z
+UID:2024-01-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indversk karrýsúpa  – Indian curry soup  (V)\nNautapottré
+ ttur "Bourguignon" með kartöflumús  (M)\nBeef “ Bourguignon ” with 
+ mashed potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kókos - og kóriandersúpa – Coconut and coriander soup\nLasagn
- a á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasa
- gna with garlic bread and coleslaw  (G\,M\,E)
-DTSTART:20240110T110000
-DTEND:20240110T130000
-DTSTAMP:20240110T110000Z
-UID:2024-01-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos - og kóriandersúpa – Coconut and coriander soup\nLa
- sagna á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\n
- Lasagna with garlic bread and coleslaw  (G\,M\,E)
+SUMMARY:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins – Sa
+ lad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSteiktur
+  steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G\,E)\n
+ Fried catfish in breadcrumbs served with warm potato salad and remoulade  
+ (G\,E)
+DTSTART:20240117T110000
+DTEND:20240117T130000
+DTSTAMP:20240117T110000Z
+UID:2024-01-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins 
+ – Salad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSt
+ eiktur steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G
+ \,E)\nFried catfish in breadcrumbs served with warm potato salad and remou
+ lade  (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway see
- d soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ásamt 
- rauðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and red 
- cabbage (M)
-DTSTART:20240111T110000
-DTEND:20240111T130000
-DTSTAMP:20240111T110000Z
-UID:2024-01-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway
-  seed soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ás
- amt rauðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and 
- red cabbage (M)
+SUMMARY:Grænmetis - og bygg súpa – Vegetable - and barley soup  (V)\nG
+ rillað íslens kt Nauta Ribeye með nautasoð sósu  og kartöflugratín 
+ i (M)\nGrilled Icelandic Beef ribeye with  beef broth sauce \, and potato 
+ au gratin  (M)
+DTSTART:20240118T110000
+DTEND:20240118T130000
+DTSTAMP:20240118T110000Z
+UID:2024-01-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis - og bygg súpa – Vegetable - and barley soup  (V
+ )\nGrillað íslens kt Nauta Ribeye með nautasoð sósu  og kartöflugrat
+ ín i (M)\nGrilled Icelandic Beef ribeye with  beef broth sauce \, and pot
+ ato au gratin  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur í f
- latbrauði (G)\nChimmichurri chicken in a flatbread (G)
-DTSTART:20240112T110000
-DTEND:20240112T130000
-DTSTAMP:20240112T110000Z
-UID:2024-01-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur 
- í flatbrauði (G)\nChimmichurri chicken in a flatbread (G)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nHamborgari með bearnaise sós
+ u og beikonkurli ásamt salati\, kartöflubátum og kokteilsósu\n(G\,E)\n
+ Hamburger with bearnaise sauce and baconbits served with lettuce\, potato 
+ wedges and\ncocktailsauce (G\,E)
+DTSTART:20240119T110000
+DTEND:20240119T130000
+DTSTAMP:20240119T110000Z
+UID:2024-01-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nHamborgari með bearnaise 
+ sósu og beikonkurli ásamt salati\, kartöflubátum og kokteilsósu\n(G\,
+ E)\nHamburger with bearnaise sauce and baconbits served with lettuce\, pot
+ ato wedges and\ncocktailsauce (G\,E)
 END:VEVENT
 END:VCALENDAR
