@@ -2,59 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Hrísgrjónanúðlur með sveppasoði ásamt grænmeti (S\,G)\nRic
- e noodles with mushroombroth and vegetables (S\,G)
-DTSTART:20240115T110000
-DTEND:20240115T130000
-DTSTAMP:20240115T110000Z
-UID:2024-01-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hrísgrjónanúðlur með sveppasoði ásamt grænmeti (S\,G)\
- nRice noodles with mushroombroth and vegetables (S\,G)
+SUMMARY:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðlauku
+ r\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kartöf
+ lum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\, gar
+ lic and bell pepper in\ndates - and rosemary sauce served with potatoes
+DTSTART:20240122T110000
+DTEND:20240122T130000
+DTSTAMP:20240122T110000Z
+UID:2024-01-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ratatouille” Kúrbítur\, blómkál\, brokkólí\, rauðl
+ aukur\, hvítlaukur og paprika í\ndöðlu - og rósmarínsósu ásamt kar
+ töflum\n“Ratatouille” Zucchini\, cauliflower\, broccoli\, red onion\,
+  garlic and bell pepper in\ndates - and rosemary sauce served with potatoe
+ s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kaldri d
- ressing\nCauliflower - and almond rissole with brown rice and cold dressin
- g
-DTSTART:20240116T110000
-DTEND:20240116T130000
-DTSTAMP:20240116T110000Z
-UID:2024-01-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kald
- ri dressing\nCauliflower - and almond rissole with brown rice and cold dre
- ssing
+SUMMARY:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S\,G)
+DTSTART:20240123T110000
+DTEND:20240123T130000
+DTSTAMP:20240123T110000Z
+UID:2024-01-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S
+ \,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
- hvítlauk\, lauk og grænmeti\nCauliflower and black been stew with coconu
- t milk\, tomatoes\,\ngarlic\, onion and vegetables
-DTSTART:20240117T110000
-DTEND:20240117T130000
-DTSTAMP:20240117T110000Z
-UID:2024-01-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
- \,\nhvítlauk\, lauk og grænmeti\nCauliflower and black been stew with co
- conut milk\, tomatoes\,\ngarlic\, onion and vegetables
+SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
+ k með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Cheese 
+ covered sweet potato - and bean mash with broccoli chunks\nserved with pot
+ atoes
+DTSTART:20240124T110000
+DTEND:20240124T130000
+DTSTAMP:20240124T110000Z
+UID:2024-01-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
+ amauk með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Che
+ ese covered sweet potato - and bean mash with broccoli chunks\nserved with
+  potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisgratín með kartöflusmælki\nVegetable au gratin with 
- small potatoes
-DTSTART:20240118T110000
-DTEND:20240118T130000
-DTSTAMP:20240118T110000Z
-UID:2024-01-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisgratín með kartöflusmælki\nVegetable au gratin w
- ith small potatoes
+SUMMARY:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, rófum\,
+  kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fram m
+ eð mangó -karrý og kókossósu\nBaked “BRICK”\nWith fried cabbage\,
+  carrots\, turnip\, chick peas\, sweet potatoes\, bell pepper and spinach\
+ nserved with mango -\, curry - and coconut sauce (G)
+DTSTART:20240125T110000
+DTEND:20240125T130000
+DTSTAMP:20240125T110000Z
+UID:2024-01-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað „BRICK“\nmeð steiktu hvítkáli\, gulrótum\, róf
+ um\, kjúklingabaunum\, sætum kartöflum\, papriku og\nspínati borið fr
+ am með mangó -karrý og kókossósu\nBaked “BRICK”\nWith fried cabba
+ ge\, carrots\, turnip\, chick peas\, sweet potatoes\, bell pepper and spin
+ ach\nserved with mango -\, curry - and coconut sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamborgari með rauðrófuaioli ásamt salati\, kartöflubátum og
-  kokteilsósu (G\,S)\nHamburger with beet aioli served with lettuce\, pota
- to wedges and cocktailsauce  (G\,S)
-DTSTART:20240119T110000
-DTEND:20240119T130000
-DTSTAMP:20240119T110000Z
-UID:2024-01-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hamborgari með rauðrófuaioli ásamt salati\, kartöflubátu
- m og kokteilsósu (G\,S)\nHamburger with beet aioli served with lettuce\, 
- potato wedges and cocktailsauce  (G\,S)
+SUMMARY:BBQ  blómkálsvængir með kartöflubátum og maissalati (G)\nBBQ
+  cauliflower wings with potato wedges and yellow corn salad (G)
+DTSTART:20240126T110000
+DTEND:20240126T130000
+DTSTAMP:20240126T110000Z
+UID:2024-01-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:BBQ  blómkálsvængir með kartöflubátum og maissalati (G)\
+ nBBQ cauliflower wings with potato wedges and yellow corn salad (G)
 END:VEVENT
 END:VCALENDAR

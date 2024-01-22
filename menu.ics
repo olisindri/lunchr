@@ -2,75 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Miðjarðarhafs ribollita súpa  – Mediterranean ribollita soup 
- (G)\nSalat dagsins – Salad of the day : Gulrætur – Carrots  (V)\nOfnb
- akaður þorskur með steinseljusóasu\, kartöflum og kryddjurtarasp (M\,
- G)\nOvenbaked cod with parsley sauce\, potatoes and herb breadcrumbs (M\,G
- )
-DTSTART:20240115T110000
-DTEND:20240115T130000
-DTSTAMP:20240115T110000Z
-UID:2024-01-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Miðjarðarhafs ribollita súpa  – Mediterranean ribollita s
- oup (G)\nSalat dagsins – Salad of the day : Gulrætur – Carrots  (V)\n
- Ofnbakaður þorskur með steinseljusóasu\, kartöflum og kryddjurtarasp 
- (M\,G)\nOvenbaked cod with parsley sauce\, potatoes and herb breadcrumbs (
- M\,G)
+SUMMARY:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa með lauksmj
+ öri steiktum kartöflum  (M)\nHaddock with  onion butter and fried potato
+ es  (M)
+DTSTART:20240122T110000
+DTEND:20240122T130000
+DTSTAMP:20240122T110000Z
+UID:2024-01-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa með lau
+ ksmjöri steiktum kartöflum  (M)\nHaddock with  onion butter and fried po
+ tatoes  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indversk karrýsúpa  – Indian curry soup  (V)\nNautapottréttur
-  "Bourguignon" með kartöflumús  (M)\nBeef “ Bourguignon ” with mash
- ed potatoes
-DTSTART:20240116T110000
-DTEND:20240116T130000
-DTSTAMP:20240116T110000Z
-UID:2024-01-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indversk karrýsúpa  – Indian curry soup  (V)\nNautapottré
- ttur "Bourguignon" með kartöflumús  (M)\nBeef “ Bourguignon ” with 
- mashed potatoes
+SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
+ paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
+  garlic bread  (G\,M)
+DTSTART:20240123T110000
+DTEND:20240123T130000
+DTSTAMP:20240123T110000Z
+UID:2024-01-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
+ )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
+ with garlic bread  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins – Sa
- lad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSteiktur
-  steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G\,E)\n
- Fried catfish in breadcrumbs served with warm potato salad and remoulade  
- (G\,E)
-DTSTART:20240117T110000
-DTEND:20240117T130000
-DTSTAMP:20240117T110000Z
-UID:2024-01-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítaspassúpa – White asparagus soup (M)\nSalat dagsins 
- – Salad of the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSt
- eiktur steinbítur í raspi ásamt volgu kartöflusalati og remúlaði  (G
- \,E)\nFried catfish in breadcrumbs served with warm potato salad and remou
- lade  (G\,E)
+SUMMARY:Brauðsúpa og rjómi  – Rye bread soup and cream (G)(M)\nSuður
+ ríkja steiktur þorskur með kaldri dressing og smælki kartöflum (G\,E)
+ \nSouthern fried cod with small potatoes and cold dressing (G\,E)
+DTSTART:20240124T110000
+DTEND:20240124T130000
+DTSTAMP:20240124T110000Z
+UID:2024-01-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brauðsúpa og rjómi  – Rye bread soup and cream (G)(M)\nSu
+ ðurríkja steiktur þorskur með kaldri dressing og smælki kartöflum (G
+ \,E)\nSouthern fried cod with small potatoes and cold dressing (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis - og bygg súpa – Vegetable - and barley soup  (V)\nG
- rillað íslens kt Nauta Ribeye með nautasoð sósu  og kartöflugratín 
- i (M)\nGrilled Icelandic Beef ribeye with  beef broth sauce \, and potato 
- au gratin  (M)
-DTSTART:20240118T110000
-DTEND:20240118T130000
-DTSTAMP:20240118T110000Z
-UID:2024-01-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis - og bygg súpa – Vegetable - and barley soup  (V
- )\nGrillað íslens kt Nauta Ribeye með nautasoð sósu  og kartöflugrat
- ín i (M)\nGrilled Icelandic Beef ribeye with  beef broth sauce \, and pot
- ato au gratin  (M)
+SUMMARY:Spínat - og karrýsúpa  – Spinach - and curry soup ( V)\nLamba
+ snitsel með steiktum kartöflum\, rauðkáli og rjómalagaðri sveppasós
+ u (G\,E\,M)\nLamb schnitzel with fried potatoes\, red cabbage and creamy m
+ ushroom sauce  (G\,E\,M )
+DTSTART:20240125T110000
+DTEND:20240125T130000
+DTSTAMP:20240125T110000Z
+UID:2024-01-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat - og karrýsúpa  – Spinach - and curry soup ( V)\nL
+ ambasnitsel með steiktum kartöflum\, rauðkáli og rjómalagaðri sveppa
+ sósu (G\,E\,M)\nLamb schnitzel with fried potatoes\, red cabbage and crea
+ my mushroom sauce  (G\,E\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nHamborgari með bearnaise sós
- u og beikonkurli ásamt salati\, kartöflubátum og kokteilsósu\n(G\,E)\n
- Hamburger with bearnaise sauce and baconbits served with lettuce\, potato 
- wedges and\ncocktailsauce (G\,E)
-DTSTART:20240119T110000
-DTEND:20240119T130000
-DTSTAMP:20240119T110000Z
-UID:2024-01-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nHamborgari með bearnaise 
- sósu og beikonkurli ásamt salati\, kartöflubátum og kokteilsósu\n(G\,
- E)\nHamburger with bearnaise sauce and baconbits served with lettuce\, pot
- ato wedges and\ncocktailsauce (G\,E)
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nBBQ kjúklingur með mais
+ brauði\, kartöflubátum og maissalati (G\,E\,M)\nBBQ chicken with cornbr
+ ead\, potato wedges and yellow corn salad (G\,E\,M)
+DTSTART:20240126T110000
+DTEND:20240126T130000
+DTSTAMP:20240126T110000Z
+UID:2024-01-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nBBQ kjúklingur með 
+ maisbrauði\, kartöflubátum og maissalati (G\,E\,M)\nBBQ chicken with co
+ rnbread\, potato wedges and yellow corn salad (G\,E\,M)
 END:VEVENT
 END:VCALENDAR
