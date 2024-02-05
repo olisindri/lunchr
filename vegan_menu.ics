@@ -2,60 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chickpe
- as\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Aioli
-DTSTART:20240129T110000
-DTEND:20240129T130000
-DTSTAMP:20240129T110000Z
-UID:2024-01-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum\nog grænmeti ásamt Aioli\nFilled paprika with chi
- ckpeas\, carrots\, broccoli\, cauliflower\, mushrooms\,\nvegetables and Ai
- oli
+SUMMARY:Falafel á cous cous beði með grænmeti og hvítlauks mæjó\nFa
+ lafel with cous cous\, vegetables and garlic mayo
+DTSTART:20240205T110000
+DTEND:20240205T130000
+DTSTAMP:20240205T110000Z
+UID:2024-02-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel á cous cous beði með grænmeti og hvítlauks mæjó
+ \nFalafel with cous cous\, vegetables and garlic mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
- y beans and onion with rice
-DTSTART:20240130T110000
-DTEND:20240130T130000
-DTSTAMP:20240130T110000Z
-UID:2024-01-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
- idney beans and onion with rice
+SUMMARY:Tælenskt rautt  karrý með grænmeti og tofu  (S)\nThai green cu
+ rry with vegetables and tofu  (S)
+DTSTART:20240206T110000
+DTEND:20240206T130000
+DTSTAMP:20240206T110000Z
+UID:2024-02-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tælenskt rautt  karrý með grænmeti og tofu  (S)\nThai gree
+ n curry with vegetables and tofu  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
-  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
-DTSTART:20240131T110000
-DTEND:20240131T130000
-DTSTAMP:20240131T110000Z
-UID:2024-01-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
- esam sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
+SUMMARY:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S)\nVeg
+ an schnitzel with cold herb dressing and potatoes (S)
+DTSTART:20240207T110000
+DTEND:20240207T130000
+DTSTAMP:20240207T110000Z
+UID:2024-02-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan snitsel með kaldri kryddjurtarsósu og kartöflum  (S)\
+ nVegan schnitzel with cold herb dressing and potatoes (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn ( H)
-DTSTART:20240201T110000
-DTEND:20240201T130000
-DTSTAMP:20240201T110000Z
-UID:2024-02-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn ( H)
+SUMMARY:Blómkáls korma karrý með sætum kartöflum og koríander ásam
+ t hrísgrjónum\nCauliflower korma curry with sweet potatoes and coriander
+  served with rice
+DTSTART:20240208T110000
+DTEND:20240208T130000
+DTSTAMP:20240208T110000Z
+UID:2024-02-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls korma karrý með sætum kartöflum og koríander 
+ ásamt hrísgrjónum\nCauliflower korma curry with sweet potatoes and cori
+ ander served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar og soft taco  með vegan hakki og salsa  (S\,G)\nTac
- o  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
-DTSTART:20240202T110000
-DTEND:20240202T130000
-DTSTAMP:20240202T110000Z
-UID:2024-02-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar og soft taco  með vegan hakki og salsa  (S\,G)\
- nTaco  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
+SUMMARY:Vegan Kung Pao með núðlum (G\,S)\nVegan Kung Pao with noodles  
+ (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\
+ nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan r
+ étti\nPlease note that we use a lot of onion and garlic for our vegan cou
+ rses
+DTSTART:20240209T110000
+DTEND:20240209T130000
+DTSTAMP:20240209T110000Z
+UID:2024-02-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan Kung Pao með núðlum (G\,S)\nVegan Kung Pao with noodl
+ es  (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/S
+ oya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar veg
+ an rétti\nPlease note that we use a lot of onion and garlic for our vegan
+  courses
 END:VEVENT
 END:VCALENDAR
