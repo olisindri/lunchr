@@ -2,63 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – butternut squash soup ( G)\nOfnb akaður þorsku
- r í grænu karrý ásamt hrísgrjónum og blönduðu grænmeti\nOven bake
- d cod in green curry served with rice and mixed vegetables
-DTSTART:20240205T110000
-DTEND:20240205T130000
-DTSTAMP:20240205T110000Z
-UID:2024-02-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – butternut squash soup ( G)\nOfnb akaður þo
- rskur í grænu karrý ásamt hrísgrjónum og blönduðu grænmeti\nOven 
- baked cod in green curry served with rice and mixed vegetables
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti mö
+ mmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls with cu
+ rry sauce and rice  (M\,G\,E)
+DTSTART:20240212T110000
+DTEND:20240212T130000
+DTSTAMP:20240212T110000Z
+UID:2024-02-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Rauðrófur – beetroot ( V)\nSteiktar fiskibollur að hætti
+  mömmu með karrý sósu og hrísgrjónum (M\,G\,E)\nFried fish balls wit
+ h curry sauce and rice  (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótarsúpa  – Carrot  soup  (V\,G)\nLamb Navarin  ásamt kar
- töflugratíni (M)\nLamb Navarin  served with potatoes au gratin (M)
-DTSTART:20240206T110000
-DTEND:20240206T130000
-DTSTAMP:20240206T110000Z
-UID:2024-02-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótarsúpa  – Carrot  soup  (V\,G)\nLamb Navarin  ásamt
-  kartöflugratíni (M)\nLamb Navarin  served with potatoes au gratin (M)
+SUMMARY:Íslensk baunasúpa  – Classic Icelandic bean  soup\nSaltkjöt o
+ g baunir túkall\nSalted meat with vegetables and beans
+DTSTART:20240213T110000
+DTEND:20240213T130000
+DTSTAMP:20240213T110000Z
+UID:2024-02-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Íslensk baunasúpa  – Classic Icelandic bean  soup\nSaltkj
+ öt og baunir túkall\nSalted meat with vegetables and beans
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dagsins 
- – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur í 
- parmesan pankó raspi með soðnum kartöflum\, piparm æjó og\nhrásalat
- i  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with pota
- toes\, pepper mayo  and\ncoleslaw  (G\,E\,M)
-DTSTART:20240207T110000
-DTEND:20240207T130000
-DTSTAMP:20240207T110000Z
-UID:2024-02-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Mulligatawny súpa  – Mullingatawny  soup (M\,G)\nSalat dags
- ins – Salad of the day: Brokkoli – Broccoli ( V)\nSteiktur steinbítur
-  í parmesan pankó raspi með soðnum kartöflum\, piparm æjó og\nhrás
- alati  (G\,E\,M)\nFried catfish in parmesan panko breadcrumbs served with 
- potatoes\, pepper mayo  and\ncoleslaw  (G\,E\,M)
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nHarissa  krydd uð bleikja  me
+ ð ananassalsa og steiktum kartöflum\nHarissa  spiced trout  with pineapp
+ le salsa and roasted potatoes
+DTSTART:20240214T110000
+DTEND:20240214T130000
+DTSTAMP:20240214T110000Z
+UID:2024-02-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nHarissa  krydd uð bleikja 
+  með ananassalsa og steiktum kartöflum\nHarissa  spiced trout  with pine
+ apple salsa and roasted potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasíða 
- án puru með soðsósu og sætum kartöflum  (M)\nPork belly with demi -g
- laze  and sweet potatoes  (M)
-DTSTART:20240208T110000
-DTEND:20240208T130000
-DTSTAMP:20240208T110000Z
-UID:2024-02-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð linsubaunasúpa – Spiced lentilsoup (V)\nSvínasí
- ða án puru með soðsósu og sætum kartöflum  (M)\nPork belly with dem
- i -glaze  and sweet potatoes  (M)
+SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nLamb 
+ alæri  með rótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  
+ (M)\nLeg of lamb  with root vegetables\, potato gratin and herb gravy  (M)
+DTSTART:20240215T110000
+DTEND:20240215T130000
+DTSTAMP:20240215T110000Z
+UID:2024-02-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nL
+ amb alæri  með rótargrænmeti\, kartöflugratíni og kryddjurtarsoðsó
+ su  (M)\nLeg of lamb  with root vegetables\, potato gratin and herb gravy 
+  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKung Pao kjúklingur með n
- úðlum (G \,H)\nKung Pao chicken with noodles (G \,H)
-DTSTART:20240209T110000
-DTEND:20240209T130000
-DTSTAMP:20240209T110000Z
-UID:2024-02-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKung Pao kjúklingur me
- ð núðlum (G \,H)\nKung Pao chicken with noodles (G \,H)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\n“Pulled pork” samloka m
+ eð  sýrðu rauðkáli\, "spicy mæjó" ásamt bátum og kokteilsósu\n(G
+ \,M\,E)\nPulled pork sandwich with pickled red cabbage\, spicy mayo\, pota
+ to wedges and\ncocktailsauce  (G\,M\,E)
+DTSTART:20240216T110000
+DTEND:20240216T130000
+DTSTAMP:20240216T110000Z
+UID:2024-02-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\n“Pulled pork” samlo
+ ka með  sýrðu rauðkáli\, "spicy mæjó" ásamt bátum og kokteilsósu
+ \n(G\,M\,E)\nPulled pork sandwich with pickled red cabbage\, spicy mayo\, 
+ potato wedges and\ncocktailsauce  (G\,M\,E)
 END:VEVENT
 END:VCALENDAR
