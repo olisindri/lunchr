@@ -2,64 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
- töflum\nPotato and beets rissole with len tils served with herb spiced po
- tatoes
-DTSTART:20240212T110000
-DTEND:20240212T130000
-DTSTAMP:20240212T110000Z
-UID:2024-02-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
- akartöflum\nPotato and beets rissole with len tils served with herb spice
- d potatoes
+SUMMARY:Grænmetis Frikadellur með kaldri dressing og cous cous  (G)\nVeg
+ etable Frikadeller with cold dressing and cous cous  (G)
+DTSTART:20240219T110000
+DTEND:20240219T130000
+DTSTAMP:20240219T110000Z
+UID:2024-02-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis Frikadellur með kaldri dressing og cous cous  (G)\
+ nVegetable Frikadeller with cold dressing and cous cous  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
- t potato balls  with curry sauce  and rice  (G)
-DTSTART:20240213T110000
-DTEND:20240213T130000
-DTSTAMP:20240213T110000Z
-UID:2024-02-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
- Sweet potato balls  with curry sauce  and rice  (G)
+SUMMARY:Rautt karrý með baunum og grænmeti\nRed curry with beans and ve
+ getables
+DTSTART:20240220T110000
+DTEND:20240220T130000
+DTSTAMP:20240220T110000Z
+UID:2024-02-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rautt karrý með baunum og grænmeti\nRed curry with beans an
+ d vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum  og
-  rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes\, c
- hicken peas\, black beans  and root vegetables served with\nmustard mayo
-DTSTART:20240214T110000
-DTEND:20240214T130000
-DTSTAMP:20240214T110000Z
-UID:2024-02-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
-   og rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes
- \, chicken peas\, black beans  and root vegetables served with\nmustard ma
- yo
+SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
+ mt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots serv
+ ed with sweet chili sauce (G)
+DTSTART:20240221T110000
+DTEND:20240221T130000
+DTSTAMP:20240221T110000Z
+UID:2024-02-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
+ ásamt sætri chili sósu (G)\nSamosa filled with rice\, peas and carrots 
+ served with sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og kald
- ri dressingu\nWhite kidney bean and root vegetable cashew steak with potat
- oes and cold dressing
-DTSTART:20240215T110000
-DTEND:20240215T130000
-DTSTAMP:20240215T110000Z
-UID:2024-02-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og 
- kaldri dressingu\nWhite kidney bean and root vegetable cashew steak with p
- otatoes and cold dressing
+SUMMARY:Indverskt Dahl með linsubaunum og hrísgrjónum\nIndian Dahl with
+  lentils and rice
+DTSTART:20240222T110000
+DTEND:20240222T130000
+DTSTAMP:20240222T110000Z
+UID:2024-02-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskt Dahl með linsubaunum og hrísgrjónum\nIndian Dahl 
+ with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Pulled BBQ vegan ” samloka með sýrðu rauðkáli\, “vegan
-  spicy -mæjó ” ásamt\nkartöflubátum (G\,S)\nPulled BBQ vegan  sandw
- ich with pickled cabbage\, vegan spicy -mayo  served with\npotato wedges  
- (G\,S)
-DTSTART:20240216T110000
-DTEND:20240216T130000
-DTSTAMP:20240216T110000Z
-UID:2024-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Pulled BBQ vegan ” samloka með sýrðu rauðkáli\, “v
- egan spicy -mæjó ” ásamt\nkartöflubátum (G\,S)\nPulled BBQ vegan  s
- andwich with pickled cabbage\, vegan spicy -mayo  served with\npotato wedg
- es  (G\,S)
+SUMMARY:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur\, t
+ ómatur og basil ásamt pestó\n(G\,H)\nLasagna: paprika\, onion\, celery\
+ , carrots\, leek\, tomato and basil served with pesto (G\,H)
+DTSTART:20240223T110000
+DTEND:20240223T130000
+DTSTAMP:20240223T110000Z
+UID:2024-02-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lasagna: paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur
+ \, tómatur og basil ásamt pestó\n(G\,H)\nLasagna: paprika\, onion\, cel
+ ery\, carrots\, leek\, tomato and basil served with pesto (G\,H)
 END:VEVENT
 END:VCALENDAR
