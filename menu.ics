@@ -2,69 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppa súpa  - Mushroom  soup  (G)\nSalat dagsins - Salad of the 
- day: Brokkólí  - Broccoli  (V)\nKjúklingur Tagine með krydduðu cous -
- cous\nChicken Tagine with spiced cous -cous
-DTSTART:20240219T110000
-DTEND:20240219T130000
-DTSTAMP:20240219T110000Z
-UID:2024-02-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppa súpa  - Mushroom  soup  (G)\nSalat dagsins - Salad of 
- the day: Brokkólí  - Broccoli  (V)\nKjúklingur Tagine með krydduðu co
- us -cous\nChicken Tagine with spiced cous -cous
+SUMMARY:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nSalat dagsin
+ s – Salad of the day: Bragðmikið blómkál – cauliflower  (V)\nSítr
+ ónu kjúklingabringur með brúnum hrísgrjónum og kaldri pipar - og tru
+ fflusósu  (E)\nLemon chicken breasts  with brown rice and cold pepper - a
+ nd truffle sauce  (E)
+DTSTART:20240226T110000
+DTEND:20240226T130000
+DTSTAMP:20240226T110000Z
+UID:2024-02-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nSalat da
+ gsins – Salad of the day: Bragðmikið blómkál – cauliflower  (V)\nS
+ ítrónu kjúklingabringur með brúnum hrísgrjónum og kaldri pipar - og
+  trufflusósu  (E)\nLemon chicken breasts  with brown rice and cold pepper
+  - and truffle sauce  (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolaldakj
- öt í Guinness með sveppum og kartöflumús  (M\,G)\nFoal meat in Guinne
- ss with mushrooms and mashed potatoes (M\,G)
-DTSTART:20240220T110000
-DTEND:20240220T130000
-DTSTAMP:20240220T110000Z
-UID:2024-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolald
- akjöt í Guinness með sveppum og kartöflumús  (M\,G)\nFoal meat in Gui
- nness with mushrooms and mashed potatoes (M\,G)
+SUMMARY:Tómat súpa  – tomato  soup  (V)\nUngverskt “reykt” gúllas
+  með sinneps kartöflumús  (M)\nHungarian smokey goulash with mustard ma
+ shed potatoes  (M)
+DTSTART:20240227T110000
+DTEND:20240227T130000
+DTSTAMP:20240227T110000Z
+UID:2024-02-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat súpa  – tomato  soup  (V)\nUngverskt “reykt” gú
+ llas með sinneps kartöflumús  (M)\nHungarian smokey goulash with mustar
+ d mashed potatoes  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og koriandersúpa – Carrot - and coriander soup (M)\
- nSalat dagsins – Salad of the day: Blandaðir ávextir – Mixed fruits 
-  (V)\nSteikt ýsa í raspi með remúlaði\, súrum agúrkum og steiktum k
- artöflum  (G\,E)\nFried haddock in breadcrumbs with remoulade\, pickles a
- nd roasted potatoes (G\,E)
-DTSTART:20240221T110000
-DTEND:20240221T130000
-DTSTAMP:20240221T110000Z
-UID:2024-02-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og koriandersúpa – Carrot - and coriander soup 
- (M)\nSalat dagsins – Salad of the day: Blandaðir ávextir – Mixed fru
- its  (V)\nSteikt ýsa í raspi með remúlaði\, súrum agúrkum og steikt
- um kartöflum  (G\,E)\nFried haddock in breadcrumbs with remoulade\, pickl
- es and roasted potatoes (G\,E)
+SUMMARY:Rjómalöguð mexíkósk kjúklingasúpa  – Creamy Mexican chick
+ en soup  (M)\nSalat dagsins – Salad of the day: Sætar kartöflur – sw
+ eet potatoes\nGrískur steinbítur með hrísgrjónum og heitri tómatsós
+ u\nGreek catfish with rice and hot tomato sauce
+DTSTART:20240228T110000
+DTEND:20240228T130000
+DTSTAMP:20240228T110000Z
+UID:2024-02-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð mexíkósk kjúklingasúpa  – Creamy Mexican c
+ hicken soup  (M)\nSalat dagsins – Salad of the day: Sætar kartöflur 
+ – sweet potatoes\nGrískur steinbítur með hrísgrjónum og heitri tóm
+ atsósu\nGreek catfish with rice and hot tomato sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum smælki kartöflum\, bökuðu grænmeti og sveppasósu  (M\,
- G\,E)\nSchnitzel with roasted potatoes\, baked vegetables and mushroom sau
- ce (M\,G\,E)
-DTSTART:20240222T110000
-DTEND:20240222T130000
-DTSTAMP:20240222T110000Z
-UID:2024-02-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum smælki kartöflum\, bökuðu grænmeti og sveppasósu  
- (M\,G\,E)\nSchnitzel with roasted potatoes\, baked vegetables and mushroom
-  sauce (M\,G\,E)
+SUMMARY:Blómkálssúpa með karrýolíu  – Cauliflower soup with curry 
+ oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blönduð
+ u grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed vegeta
+ bles  (G\,M)
+DTSTART:20240229T110000
+DTEND:20240229T130000
+DTSTAMP:20240229T110000Z
+UID:2024-02-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa með karrýolíu  – Cauliflower soup with cu
+ rry oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blön
+ duðu grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed ve
+ getables  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur í korma kar
- rý með hrísgrjónum og Naan brauði  (M\,G)\nChicken in korma curry ser
- ved with rice and Naan bread (M\,G)
-DTSTART:20240223T110000
-DTEND:20240223T130000
-DTSTAMP:20240223T110000Z
-UID:2024-02-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur í korma
-  karrý með hrísgrjónum og Naan brauði  (M\,G)\nChicken in korma curry
-  served with rice and Naan bread (M\,G)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
+  með hrísgrjónum\nChicken thigh tikka masala with ric e
+DTSTART:20240301T110000
+DTEND:20240301T130000
+DTSTAMP:20240301T110000Z
+UID:2024-03-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
+ sala með hrísgrjónum\nChicken thigh tikka masala with ric e
 END:VEVENT
 END:VCALENDAR
