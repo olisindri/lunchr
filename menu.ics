@@ -2,69 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nSalat dagsin
- s – Salad of the day: Bragðmikið blómkál – cauliflower  (V)\nSítr
- ónu kjúklingabringur með brúnum hrísgrjónum og kaldri pipar - og tru
- fflusósu  (E)\nLemon chicken breasts  with brown rice and cold pepper - a
- nd truffle sauce  (E)
-DTSTART:20240226T110000
-DTEND:20240226T130000
-DTSTAMP:20240226T110000Z
-UID:2024-02-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nSalat da
- gsins – Salad of the day: Bragðmikið blómkál – cauliflower  (V)\nS
- ítrónu kjúklingabringur með brúnum hrísgrjónum og kaldri pipar - og
-  trufflusósu  (E)\nLemon chicken breasts  with brown rice and cold pepper
-  - and truffle sauce  (E)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
+ u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in thai red curry an
+ d coconut served with rice  (G)
+DTSTART:20240304T110000
+DTEND:20240304T130000
+DTSTAMP:20240304T110000Z
+UID:2024-03-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
+ auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in thai red curr
+ y and coconut served with rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat súpa  – tomato  soup  (V)\nUngverskt “reykt” gúllas
-  með sinneps kartöflumús  (M)\nHungarian smokey goulash with mustard ma
- shed potatoes  (M)
-DTSTART:20240227T110000
-DTEND:20240227T130000
-DTSTAMP:20240227T110000Z
-UID:2024-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat súpa  – tomato  soup  (V)\nUngverskt “reykt” gú
- llas með sinneps kartöflumús  (M)\nHungarian smokey goulash with mustar
- d mashed potatoes  (M)
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nSmala
+ baka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie with 
+ peas and rhubarb jam  (G\,M)
+DTSTART:20240305T110000
+DTEND:20240305T130000
+DTSTAMP:20240305T110000Z
+UID:2024-03-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nS
+ malabaka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie w
+ ith peas and rhubarb jam  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rjómalöguð mexíkósk kjúklingasúpa  – Creamy Mexican chick
- en soup  (M)\nSalat dagsins – Salad of the day: Sætar kartöflur – sw
- eet potatoes\nGrískur steinbítur með hrísgrjónum og heitri tómatsós
- u\nGreek catfish with rice and hot tomato sauce
-DTSTART:20240228T110000
-DTEND:20240228T130000
-DTSTAMP:20240228T110000Z
-UID:2024-02-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rjómalöguð mexíkósk kjúklingasúpa  – Creamy Mexican c
- hicken soup  (M)\nSalat dagsins – Salad of the day: Sætar kartöflur 
- – sweet potatoes\nGrískur steinbítur með hrísgrjónum og heitri tóm
- atsósu\nGreek catfish with rice and hot tomato sauce
+SUMMARY:Kakósúpa með tvíbökum  – Coco soup with biscuits  (M)\nLax 
+ með grænu pesto og bulgur salati  (M\,E\,G)\nSalmon with green pesto and
+  bulgur salad  (M\,E\,G)
+DTSTART:20240306T110000
+DTEND:20240306T130000
+DTSTAMP:20240306T110000Z
+UID:2024-03-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíbökum  – Coco soup with biscuits  (M)\n
+ Lax með grænu pesto og bulgur salati  (M\,E\,G)\nSalmon with green pesto
+  and bulgur salad  (M\,E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa með karrýolíu  – Cauliflower soup with curry 
- oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blönduð
- u grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed vegeta
- bles  (G\,M)
-DTSTART:20240229T110000
-DTEND:20240229T130000
-DTSTAMP:20240229T110000Z
-UID:2024-02-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa með karrýolíu  – Cauliflower soup with cu
- rry oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blön
- duðu grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed ve
- getables  (G\,M)
+SUMMARY:Blómkálssúpa – cauliflower soup  (V)\nLambalæri með steiktu
+ m kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and bearn
+ aise sauce (M\,E)
+DTSTART:20240307T110000
+DTEND:20240307T130000
+DTSTAMP:20240307T110000Z
+UID:2024-03-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – cauliflower soup  (V)\nLambalæri með ste
+ iktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and b
+ earnaise sauce (M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum\nChicken thigh tikka masala with ric e
-DTSTART:20240301T110000
-DTEND:20240301T130000
-DTSTAMP:20240301T110000Z
-UID:2024-03-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum\nChicken thigh tikka masala with ric e
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
+ eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
+ ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
+ (G\,M\,E)
+DTSTART:20240308T110000
+DTEND:20240308T130000
+DTSTAMP:20240308T110000Z
+UID:2024-03-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
+ ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
+ ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
+ ad\n(G\,M\,E)
 END:VEVENT
 END:VCALENDAR

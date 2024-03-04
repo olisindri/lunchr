@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kúrbíts -\, dill - og súrgúrku buff með byggi\nZucchini -\, d
- ill - and pickle rissole with barley
-DTSTART:20240226T110000
-DTEND:20240226T130000
-DTSTAMP:20240226T110000Z
-UID:2024-02-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kúrbíts -\, dill - og súrgúrku buff með byggi\nZucchini -
- \, dill - and pickle rissole with barley
+SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
+ , basil - and cannellini bean rissole served with p otatoes
+DTSTART:20240304T110000
+DTEND:20240304T130000
+DTSTAMP:20240304T110000Z
+UID:2024-03-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
+ o -\, basil - and cannellini bean rissole served with p otatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cajun pottréttur  með k júklingabaun um\, kúrbít\, svepp um\,
-  lauk\, seller írót\,\ngulrótum\, paprik u og sæt um kartöflu m\nCaju
- n stew with chicken beans\, zucchini\, mushrooms\, onion\, celery root\,\n
- carrots\, bell pepper  and sweet potatoes
-DTSTART:20240227T110000
-DTEND:20240227T130000
-DTSTAMP:20240227T110000Z
-UID:2024-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Cajun pottréttur  með k júklingabaun um\, kúrbít\, svepp 
- um\, lauk\, seller írót\,\ngulrótum\, paprik u og sæt um kartöflu m\n
- Cajun stew with chicken beans\, zucchini\, mushrooms\, onion\, celery root
- \,\ncarrots\, bell pepper  and sweet potatoes
+SUMMARY:Sætkartöflu\, paprika og baunabollur með heitri tómat - og kú
+ mensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole wit
+ h hot tomato - and caraway sauce and\nrice
+DTSTART:20240305T110000
+DTEND:20240305T130000
+DTSTAMP:20240305T110000Z
+UID:2024-03-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, paprika og baunabollur með heitri tómat - og
+  kúmensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole
+  with hot tomato - and caraway sauce and\nrice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætri ch
- ili sósu og kartöflu m (H)\nRisso le made from nuts\, black beans\, pota
- toes and vegetables\nwith sweet chili sauce and potatoes  (H)
-DTSTART:20240228T110000
-DTEND:20240228T130000
-DTSTAMP:20240228T110000Z
-UID:2024-02-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu\, svartbauna\, kartöflu og grænmetisbuff\,\nmeð sætr
- i chili sósu og kartöflu m (H)\nRisso le made from nuts\, black beans\, 
- potatoes and vegetables\nwith sweet chili sauce and potatoes  (H)
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20240306T110000
+DTEND:20240306T130000
+DTSTAMP:20240306T110000Z
+UID:2024-03-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk  og hvítlauk 
-  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic  (
- G)
-DTSTART:20240229T110000
-DTEND:20240229T130000
-DTSTAMP:20240229T110000Z
-UID:2024-02-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk  og hvítl
- auk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garli
- c  (G)
+SUMMARY:Grænmetis  massaaman karrý með hrísgrjónum\nVegetable  massam
+ an curry with rice
+DTSTART:20240307T110000
+DTEND:20240307T130000
+DTSTAMP:20240307T110000Z
+UID:2024-03-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis  massaaman karrý með hrísgrjónum\nVegetable  ma
+ ssaman curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
- Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20240301T110000
-DTEND:20240301T130000
-DTSTAMP:20240301T110000Z
-UID:2024-03-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
+ m\nCauliflower and broccoli tots served with garlic sauce and potatoes\n(G
+ ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
+ ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
+ ase note that we use a lot of onion and garlic for our vegan courses
+DTSTART:20240308T110000
+DTEND:20240308T130000
+DTSTAMP:20240308T110000Z
+UID:2024-03-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
+ öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
+ s\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVins
+ amlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti
+ \nPlease note that we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
