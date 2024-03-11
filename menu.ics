@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
- u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in thai red curry an
- d coconut served with rice  (G)
-DTSTART:20240304T110000
-DTEND:20240304T130000
-DTSTAMP:20240304T110000Z
-UID:2024-03-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
- auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in thai red curr
- y and coconut served with rice  (G)
+SUMMARY:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon  sou
+ p (G)\nKjúklingur satay með eggjanúðlum  (G\,H)\nChicken satay with ri
+ ce (G\,H)
+DTSTART:20240311T110000
+DTEND:20240311T130000
+DTSTAMP:20240311T110000Z
+UID:2024-03-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kanilsúpa  – sweet potato  and cinnamon 
+  soup (G)\nKjúklingur satay með eggjanúðlum  (G\,H)\nChicken satay wit
+ h rice (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nSmala
- baka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie with 
- peas and rhubarb jam  (G\,M)
-DTSTART:20240305T110000
-DTEND:20240305T130000
-DTSTAMP:20240305T110000Z
-UID:2024-03-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nS
- malabaka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie w
- ith peas and rhubarb jam  (G\,M)
+SUMMARY:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\nSala
+ t dagsins – Salad of the day: Brokkólí og grasker – broccoli and pum
+ pkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHaddock
+  in orange and basil with citrus s auce  (G\,M)
+DTSTART:20240312T110000
+DTEND:20240312T130000
+DTSTAMP:20240312T110000Z
+UID:2024-03-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku og fennel súpa  – Paprika and fennel soup  (G\,V)\n
+ Salat dagsins – Salad of the day: Brokkólí og grasker – broccoli and
+  pumpkin  (V)\nÝsa í appelsínu og basil með sítrussósu\, (G\,M)\nHad
+ dock in orange and basil with citrus s auce  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kakósúpa með tvíbökum  – Coco soup with biscuits  (M)\nLax 
- með grænu pesto og bulgur salati  (M\,E\,G)\nSalmon with green pesto and
-  bulgur salad  (M\,E\,G)
-DTSTART:20240306T110000
-DTEND:20240306T130000
-DTSTAMP:20240306T110000Z
-UID:2024-03-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kakósúpa með tvíbökum  – Coco soup with biscuits  (M)\n
- Lax með grænu pesto og bulgur salati  (M\,E\,G)\nSalmon with green pesto
-  and bulgur salad  (M\,E\,G)
+SUMMARY:Kókos - og kóriandersúpa – Coconut and coriander soup\nLasagn
+ a á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasa
+ gna with garlic bread and coleslaw  (G\,M\,E)
+DTSTART:20240313T110000
+DTEND:20240313T130000
+DTSTAMP:20240313T110000Z
+UID:2024-03-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos - og kóriandersúpa – Coconut and coriander soup\nLa
+ sagna á ítalskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\n
+ Lasagna with garlic bread and coleslaw  (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – cauliflower soup  (V)\nLambalæri með steiktu
- m kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and bearn
- aise sauce (M\,E)
-DTSTART:20240307T110000
-DTEND:20240307T130000
-DTSTAMP:20240307T110000Z
-UID:2024-03-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – cauliflower soup  (V)\nLambalæri með ste
- iktum kartöflum og bearnaise sósu (M\,E)\nLamb with fried potatoes and b
- earnaise sauce (M\,E)
+SUMMARY:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway see
+ d soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og grav
+ y (M\,G)\nTurkey breast with apple salad and gravy (M\,G)
+DTSTART:20240314T110000
+DTEND:20240314T130000
+DTSTAMP:20240314T110000Z
+UID:2024-03-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kúmensúpa  – Sweet potato - and caraway
+  seed soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og 
+ gravy (M\,G)\nTurkey breast with apple salad and gravy (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
- eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
- ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
- (G\,M\,E)
-DTSTART:20240308T110000
-DTEND:20240308T130000
-DTSTAMP:20240308T110000Z
-UID:2024-03-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
- ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
- ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
- ad\n(G\,M\,E)
+SUMMARY:Grjónagrautur – Rice pudding (M)\n“Classic rock” borgari\nN
+ autaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\nClassi
+ c rock burger\nBeef burger with cheese\, bacon bits\, onion rings and sals
+ a (G\,M)
+DTSTART:20240315T110000
+DTEND:20240315T130000
+DTSTAMP:20240315T110000Z
+UID:2024-03-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grjónagrautur – Rice pudding (M)\n“Classic rock” borgar
+ i\nNautaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\nCl
+ assic rock burger\nBeef burger with cheese\, bacon bits\, onion rings and 
+ salsa (G\,M)
 END:VEVENT
 END:VCALENDAR
