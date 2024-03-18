@@ -2,61 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis - og baunapottréttur í súrsætri sósu ásamt hrísg
- rjónum\nSweet and sour vegetable - and bean stew served with rice
-DTSTART:20240311T110000
-DTEND:20240311T130000
-DTSTAMP:20240311T110000Z
-UID:2024-03-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis - og baunapottréttur í súrsætri sósu ásamt hr
- ísgrjónum\nSweet and sour vegetable - and bean stew served with rice
+SUMMARY:Falafel með tagine sósu og cous -cous (G)\nFalafel with tagine s
+ auce and cous -cous (G)
+DTSTART:20240318T110000
+DTEND:20240318T130000
+DTSTAMP:20240318T110000Z
+UID:2024-03-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel með tagine sósu og cous -cous (G)\nFalafel with tagi
+ ne sauce and cous -cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nCauli
- flower - and almond rissole served with rice and dressing
-DTSTART:20240312T110000
-DTEND:20240312T130000
-DTSTAMP:20240312T110000Z
-UID:2024-03-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nC
- auliflower - and almond rissole served with rice and dressing
+SUMMARY:Polentu - og linsubaunabollur með sesam sósu og kartöflum (G \,
+ S)\nPolenta - and lentil balls with sesame sauce and potatoes (G \,S)
+DTSTART:20240319T110000
+DTEND:20240319T130000
+DTSTAMP:20240319T110000Z
+UID:2024-03-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Polentu - og linsubaunabollur með sesam sósu og kartöflum (
+ G \,S)\nPolenta - and lentil balls with sesame sauce and potatoes (G \,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20240313T110000
-DTEND:20240313T130000
-DTSTAMP:20240313T110000Z
-UID:2024-03-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
+ hvítlauk\, lauk og grænmeti\nCauliflower and black been stew with coconu
+ t milk\, tomatoes\,\ngarlic\, onion and vegetables
+DTSTART:20240320T110000
+DTEND:20240320T130000
+DTSTAMP:20240320T110000Z
+UID:2024-03-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
+ \,\nhvítlauk\, lauk og grænmeti\nCauliflower and black been stew with co
+ conut milk\, tomatoes\,\ngarlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
- sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
- alapeno sauce
-DTSTART:20240314T110000
-DTEND:20240314T130000
-DTSTAMP:20240314T110000Z
-UID:2024-03-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
- penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
- go jalapeno sauce
+SUMMARY:Grænmetis bollur með brúnum hrísgrjónum og chili sósu\nVeggi
+ e tots with brown rice and chili sauce
+DTSTART:20240321T110000
+DTEND:20240321T130000
+DTSTAMP:20240321T110000Z
+UID:2024-03-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis bollur með brúnum hrísgrjónum og chili sósu\nV
+ eggie tots with brown rice and chili sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, laukhringjum og salsa (G\,S)\nVegan 
- burger with vegetables\, onion rings and salsa (G\,S)\n(G) – Glúten/Glu
- ten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að 
- notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we 
- use a lot of onion and garlic for our vegan courses
-DTSTART:20240315T110000
-DTEND:20240315T130000
-DTSTAMP:20240315T110000Z
-UID:2024-03-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, laukhringjum og salsa (G\,S)\nVe
- gan burger with vegetables\, onion rings and salsa (G\,S)\n(G) – Glúten
- /Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið 
- að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that
-  we use a lot of onion and garlic for our vegan courses
+SUMMARY:Blómkáls - og möndlubuff með sætum kartöflum og dressingu\nC
+ auliflower - and almond rissole with sweet potatoes and chili dressing
+DTSTART:20240322T110000
+DTEND:20240322T130000
+DTSTAMP:20240322T110000Z
+UID:2024-03-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með sætum kartöflum og dressing
+ u\nCauliflower - and almond rissole with sweet potatoes and chili dressing
 END:VEVENT
 END:VCALENDAR
