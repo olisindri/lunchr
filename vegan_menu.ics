@@ -2,55 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous -cous (G)\nFalafel with tagine s
- auce and cous -cous (G)
-DTSTART:20240318T110000
-DTEND:20240318T130000
-DTSTAMP:20240318T110000Z
-UID:2024-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous -cous (G)\nFalafel with tagi
- ne sauce and cous -cous (G)
+SUMMARY:Chili sin Carne með soja hakki ásamt brúnum hrísgrjónum og na
+ chos\nChili sin carne with soy mince together with brown rice and nachos
+DTSTART:20240325T110000
+DTEND:20240325T130000
+DTSTAMP:20240325T110000Z
+UID:2024-03-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chili sin Carne með soja hakki ásamt brúnum hrísgrjónum o
+ g nachos\nChili sin carne with soy mince together with brown rice and nach
+ os
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Polentu - og linsubaunabollur með sesam sósu og kartöflum (G \,
- S)\nPolenta - and lentil balls with sesame sauce and potatoes (G \,S)
-DTSTART:20240319T110000
-DTEND:20240319T130000
-DTSTAMP:20240319T110000Z
-UID:2024-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Polentu - og linsubaunabollur með sesam sósu og kartöflum (
- G \,S)\nPolenta - and lentil balls with sesame sauce and potatoes (G \,S)
+SUMMARY:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S\,G)
+DTSTART:20240326T110000
+DTEND:20240326T130000
+DTSTAMP:20240326T110000Z
+UID:2024-03-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S
+ \,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat\,\n
- hvítlauk\, lauk og grænmeti\nCauliflower and black been stew with coconu
- t milk\, tomatoes\,\ngarlic\, onion and vegetables
-DTSTART:20240320T110000
-DTEND:20240320T130000
-DTSTAMP:20240320T110000Z
-UID:2024-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls og svartbaunapottréttur með kókosmjólk\, tómat
- \,\nhvítlauk\, lauk og grænmeti\nCauliflower and black been stew with co
- conut milk\, tomatoes\,\ngarlic\, onion and vegetables
+SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
+ k með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Cheese 
+ covered sweet potato - and bean mash with broccoli chunks\nserved with pot
+ atoes
+DTSTART:20240327T110000
+DTEND:20240327T130000
+DTSTAMP:20240327T110000Z
+UID:2024-03-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
+ amauk með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Che
+ ese covered sweet potato - and bean mash with broccoli chunks\nserved with
+  potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis bollur með brúnum hrísgrjónum og chili sósu\nVeggi
- e tots with brown rice and chili sauce
-DTSTART:20240321T110000
-DTEND:20240321T130000
-DTSTAMP:20240321T110000Z
-UID:2024-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis bollur með brúnum hrísgrjónum og chili sósu\nV
- eggie tots with brown rice and chili sauce
+SUMMARY:Lokað
+DTSTART:20240328T110000
+DTEND:20240328T130000
+DTSTAMP:20240328T110000Z
+UID:2024-03-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með sætum kartöflum og dressingu\nC
- auliflower - and almond rissole with sweet potatoes and chili dressing
-DTSTART:20240322T110000
-DTEND:20240322T130000
-DTSTAMP:20240322T110000Z
-UID:2024-03-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með sætum kartöflum og dressing
- u\nCauliflower - and almond rissole with sweet potatoes and chili dressing
+SUMMARY:Lokað
+DTSTART:20240329T110000
+DTEND:20240329T130000
+DTSTAMP:20240329T110000Z
+UID:2024-03-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 END:VCALENDAR

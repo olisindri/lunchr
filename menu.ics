@@ -2,71 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Ristuð blómkáls súpa  – Roasted cauliflower  soup (G \,M)\nS
- alat dagsins – Salad of the day : Gulrætur – Carrots  (V)\nOfnbakaðu
- r þorskur með steinseljusósu\, kartöflum og kryddjurtarasp (M\,G)\nOve
- nbaked cod with parsley sauce\, potatoes and herb breadcrumbs (M\,G)
-DTSTART:20240318T110000
-DTEND:20240318T130000
-DTSTAMP:20240318T110000Z
-UID:2024-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristuð blómkáls súpa  – Roasted cauliflower  soup (G \,M
- )\nSalat dagsins – Salad of the day : Gulrætur – Carrots  (V)\nOfnbak
- aður þorskur með steinseljusósu\, kartöflum og kryddjurtarasp (M\,G)\
- nOvenbaked cod with parsley sauce\, potatoes and herb breadcrumbs (M\,G)
+SUMMARY:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauðu pe
+ stói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven roa
+ sted potatoes (H \,M)
+DTSTART:20240325T110000
+DTEND:20240325T130000
+DTSTAMP:20240325T110000Z
+UID:2024-03-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauð
+ u pestói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven
+  roasted potatoes (H \,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (V)\n
- Nautapottréttur "Bourguignon" með kartöflumús  (M)\nBeef “ Bourguign
- on ” with mashed potatoes
-DTSTART:20240319T110000
-DTEND:20240319T130000
-DTSTAMP:20240319T110000Z
-UID:2024-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (
- V)\nNautapottréttur "Bourguignon" með kartöflumús  (M)\nBeef “ Bourg
- uignon ” with mashed potatoes
+SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
+ paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
+  garlic bread  (G\,M)
+DTSTART:20240326T110000
+DTEND:20240326T130000
+DTSTAMP:20240326T110000Z
+UID:2024-03-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
+ )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
+ with garlic bread  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M)\nSalat dagsins – Salad of the 
- day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSteiktur steinbítu
- r í raspi ásamt volgu kartöflusalati og remúlaði  (G\,E)\nFried catfi
- sh in breadcrumbs served with warm potato salad and remoulade  (G\,E)
-DTSTART:20240320T110000
-DTEND:20240320T130000
-DTSTAMP:20240320T110000Z
-UID:2024-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M)\nSalat dagsins – Salad of 
- the day: Blandað ávaxtasalat – Mixed fruit salad  (V)\nSteiktur steinb
- ítur í raspi ásamt volgu kartöflusalati og remúlaði  (G\,E)\nFried c
- atfish in breadcrumbs served with warm potato salad and remoulade  (G\,E)
+SUMMARY:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  lasagn
+ a borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken lasag
+ na served with sour cream and nachos (G\,M)
+DTSTART:20240327T110000
+DTEND:20240327T130000
+DTSTAMP:20240327T110000Z
+UID:2024-03-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  la
+ sagna borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken l
+ asagna served with sour cream and nachos (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa ( V) með rjóma (M)  – Rye bread  soup  (V) with cr
- eam (M)\nNautasnitsel með ofnbökuðu kartöflusmælki\, sveppasósu og r
- auðkáli (M\,G\,E)\nBeef schnitzel with oven roasted small potatoes\, mus
- hroomsauce and red cabbage (M\,G\,E)
-DTSTART:20240321T110000
-DTEND:20240321T130000
-DTSTAMP:20240321T110000Z
-UID:2024-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa ( V) með rjóma (M)  – Rye bread  soup  (V) wit
- h cream (M)\nNautasnitsel með ofnbökuðu kartöflusmælki\, sveppasósu 
- og rauðkáli (M\,G\,E)\nBeef schnitzel with oven roasted small potatoes\,
-  mushroomsauce and red cabbage (M\,G\,E)
+SUMMARY:Lokað
+DTSTART:20240328T110000
+DTEND:20240328T130000
+DTSTAMP:20240328T110000Z
+UID:2024-03-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúklingu
- r í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu (G\,
- M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato wedge
- s and tzatziki sauce (G\,M)
-DTSTART:20240322T110000
-DTEND:20240322T130000
-DTSTAMP:20240322T110000Z
-UID:2024-03-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúkl
- ingur í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu 
- (G\,M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato w
- edges and tzatziki sauce (G\,M)
+SUMMARY:Lokað
+DTSTART:20240329T110000
+DTEND:20240329T130000
+DTSTAMP:20240329T110000Z
+UID:2024-03-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 END:VCALENDAR
