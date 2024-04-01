@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauðu pe
  stói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven roa
  sted potatoes (H \,M)
-DTSTART:20240325T110000
-DTEND:20240325T130000
-DTSTAMP:20240325T110000Z
-UID:2024-03-25T11:00:00/olisindri@gmail.com
+DTSTART:20240401T110000
+DTEND:20240401T130000
+DTSTAMP:20240401T110000Z
+UID:2024-04-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauð
  u pestói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven
   roasted potatoes (H \,M)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
  paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
   garlic bread  (G\,M)
-DTSTART:20240326T110000
-DTEND:20240326T130000
-DTSTAMP:20240326T110000Z
-UID:2024-03-26T11:00:00/olisindri@gmail.com
+DTSTART:20240402T110000
+DTEND:20240402T130000
+DTSTAMP:20240402T110000Z
+UID:2024-04-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
  )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
  with garlic bread  (G\,M)
@@ -29,28 +29,28 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  lasagn
  a borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken lasag
  na served with sour cream and nachos (G\,M)
-DTSTART:20240327T110000
-DTEND:20240327T130000
-DTSTAMP:20240327T110000Z
-UID:2024-03-27T11:00:00/olisindri@gmail.com
+DTSTART:20240403T110000
+DTEND:20240403T130000
+DTSTAMP:20240403T110000Z
+UID:2024-04-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  la
  sagna borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken l
  asagna served with sour cream and nachos (G\,M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240328T110000
-DTEND:20240328T130000
-DTSTAMP:20240328T110000Z
-UID:2024-03-28T11:00:00/olisindri@gmail.com
+DTSTART:20240404T110000
+DTEND:20240404T130000
+DTSTAMP:20240404T110000Z
+UID:2024-04-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240329T110000
-DTEND:20240329T130000
-DTSTAMP:20240329T110000Z
-UID:2024-03-29T11:00:00/olisindri@gmail.com
+DTSTART:20240405T110000
+DTEND:20240405T130000
+DTSTAMP:20240405T110000Z
+UID:2024-04-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 END:VCALENDAR
