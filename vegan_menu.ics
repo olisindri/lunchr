@@ -2,53 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Chili sin Carne með soja hakki ásamt brúnum hrísgrjónum og na
- chos\nChili sin carne with soy mince together with brown rice and nachos
+SUMMARY:Lokað
 DTSTART:20240401T110000
 DTEND:20240401T130000
 DTSTAMP:20240401T110000Z
 UID:2024-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin Carne með soja hakki ásamt brúnum hrísgrjónum o
- g nachos\nChili sin carne with soy mince together with brown rice and nach
- os
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S\,G)
+SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
+ lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
+ y beans and onion with rice
 DTSTART:20240402T110000
 DTEND:20240402T130000
 DTSTAMP:20240402T110000Z
 UID:2024-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti vegan bolognese (S\,G)\nSpaghetti vegan Bolognese (S
- \,G)
+DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
+ nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
+ idney beans and onion with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
- k með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Cheese 
- covered sweet potato - and bean mash with broccoli chunks\nserved with pot
- atoes
+SUMMARY:Ristað  blómkál á hummus með hrísgrjónum og mango -jallaben
+ jo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
 DTSTART:20240403T110000
 DTEND:20240403T130000
 DTSTAMP:20240403T110000Z
 UID:2024-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
- amauk með brokkólí bitum ásamt\nkartöflum\nBroccoli au gratin – Che
- ese covered sweet potato - and bean mash with broccoli chunks\nserved with
-  potatoes
+DESCRIPTION:Ristað  blómkál á hummus með hrísgrjónum og mango -jall
+ abenjo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn ( H)
 DTSTART:20240404T110000
 DTEND:20240404T130000
 DTSTAMP:20240404T110000Z
 UID:2024-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn ( H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Taco  skeljar og soft taco  með vegan hakki og salsa  (S\,G)\nTac
+ o  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
 DTSTART:20240405T110000
 DTEND:20240405T130000
 DTSTAMP:20240405T110000Z
 UID:2024-04-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Taco  skeljar og soft taco  með vegan hakki og salsa  (S\,G)\
+ nTaco  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
 END:VEVENT
 END:VCALENDAR

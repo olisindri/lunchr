@@ -2,55 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauðu pe
- stói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven roa
- sted potatoes (H \,M)
+SUMMARY:Lokað
 DTSTART:20240401T110000
 DTEND:20240401T130000
 DTSTAMP:20240401T110000Z
 UID:2024-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa  – Wild mushroom soup (M\,G)\nÝsa í rauð
- u pestói með steiktum kartöflum (H \,M)\nHaddock in red pesto with oven
-  roasted potatoes (H \,M)
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V)\nS
- paghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with
-  garlic bread  (G\,M)
+SUMMARY:Rjómalöguð tómatsúpa – Creamy tomatosoup  (V)\nSteiktar fis
+ kibollur með brúnni sósu og soðnum kartöflum (G\,M\,E)\nFried fishbal
+ ls with brown sauce and boiled potatoes (G\,M\,E)
 DTSTART:20240402T110000
 DTEND:20240402T130000
 DTSTAMP:20240402T110000Z
 UID:2024-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og tómatsúpa – Bell pepper - and tomato soup ( V
- )\nSpaghetti Bolognese með hvítlauksbrauði (G\,M)\nSpaghetti Bolognese 
- with garlic bread  (G\,M)
+DESCRIPTION:Rjómalöguð tómatsúpa – Creamy tomatosoup  (V)\nSteiktar
+  fiskibollur með brúnni sósu og soðnum kartöflum (G\,M\,E)\nFried fis
+ hballs with brown sauce and boiled potatoes (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  lasagn
- a borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken lasag
- na served with sour cream and nachos (G\,M)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
+ pasta (G\,M\,E)\nBeef stroganoff with pasta (G\,M\,E)
 DTSTART:20240403T110000
 DTEND:20240403T130000
 DTSTAMP:20240403T110000Z
 UID:2024-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (G\,H\,M)\nMexíkóskt kjúklinga  la
- sagna borið fram með sýrðum rjóma og nachos (G\,M)\nMexican chicken l
- asagna served with sour cream and nachos (G\,M)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
+ eð pasta (G\,M\,E)\nBeef stroganoff with pasta (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Graskerssúpa  – Pumpkin soup ( V)\nKjúklingabringur með pipar
+ rjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pepper
+ sauce\, yellow corn and rice (M)
 DTSTART:20240404T110000
 DTEND:20240404T130000
 DTSTAMP:20240404T110000Z
 UID:2024-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Graskerssúpa  – Pumpkin soup ( V)\nKjúklingabringur með p
+ iparrjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pe
+ ppersauce\, yellow corn and rice (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft taco  m
+ eð nau tahakki \, salsa og sýrðum rjóma  (G\,M)\nTaco shells and soft 
+ taco with minced beef \, salsa and sour cream ( G\,M)
 DTSTART:20240405T110000
 DTEND:20240405T130000
 DTSTAMP:20240405T110000Z
 UID:2024-04-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft tac
+ o  með nau tahakki \, salsa og sýrðum rjóma  (G\,M)\nTaco shells and s
+ oft taco with minced beef \, salsa and sour cream ( G\,M)
 END:VEVENT
 END:VCALENDAR
