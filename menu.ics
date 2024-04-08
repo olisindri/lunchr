@@ -2,57 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20240401T110000
-DTEND:20240401T130000
-DTSTAMP:20240401T110000Z
-UID:2024-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Blómkál  – Cauliflower  (V)\nSítrónu kjúklingabringur með 
+ brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon chicken
+  breasts with brown rice and cold pepper - and truffle sauce (E)
+DTSTART:20240408T110000
+DTEND:20240408T130000
+DTSTAMP:20240408T110000Z
+UID:2024-04-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Blómkál  – Cauliflower  (V)\nSítrónu kjúklingabringur m
+ eð brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon chi
+ cken breasts with brown rice and cold pepper - and truffle sauce (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rjómalöguð tómatsúpa – Creamy tomatosoup  (V)\nSteiktar fis
- kibollur með brúnni sósu og soðnum kartöflum (G\,M\,E)\nFried fishbal
- ls with brown sauce and boiled potatoes (G\,M\,E)
-DTSTART:20240402T110000
-DTEND:20240402T130000
-DTSTAMP:20240402T110000Z
-UID:2024-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rjómalöguð tómatsúpa – Creamy tomatosoup  (V)\nSteiktar
-  fiskibollur með brúnni sósu og soðnum kartöflum (G\,M\,E)\nFried fis
- hballs with brown sauce and boiled potatoes (G\,M\,E)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSteikt
+  ýsa í raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G)\nF
+ ried haddock in breadcrumbs with cocktailsauce\, potato wedges and colesla
+ w (E\,G)
+DTSTART:20240409T110000
+DTEND:20240409T130000
+DTSTAMP:20240409T110000Z
+UID:2024-04-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSt
+ eikt ýsa í raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G
+ )\nFried haddock in breadcrumbs with cocktailsauce\, potato wedges and col
+ eslaw (E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff með 
- pasta (G\,M\,E)\nBeef stroganoff with pasta (G\,M\,E)
-DTSTART:20240403T110000
-DTEND:20240403T130000
-DTSTAMP:20240403T110000Z
-UID:2024-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nNautastroganoff m
- eð pasta (G\,M\,E)\nBeef stroganoff with pasta (G\,M\,E)
+SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nRa
+ men núðlusúpa með nautakjöti og kjúkling ásamt eggjum\, vorlauk\, c
+ hili og fleira (G\,E)\nRamen noodlesoup with beef and chicken served with 
+ eggs\, spring onion\, chili and more\n(G\,E)
+DTSTART:20240410T110000
+DTEND:20240410T130000
+DTSTAMP:20240410T110000Z
+UID:2024-04-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
+ \nRamen núðlusúpa með nautakjöti og kjúkling ásamt eggjum\, vorlauk
+ \, chili og fleira (G\,E)\nRamen noodlesoup with beef and chicken served w
+ ith eggs\, spring onion\, chili and more\n(G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa  – Pumpkin soup ( V)\nKjúklingabringur með pipar
- rjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pepper
- sauce\, yellow corn and rice (M)
-DTSTART:20240404T110000
-DTEND:20240404T130000
-DTSTAMP:20240404T110000Z
-UID:2024-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa  – Pumpkin soup ( V)\nKjúklingabringur með p
- iparrjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pe
- ppersauce\, yellow corn and rice (M)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
+ grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
+ ith root vegetables\, potato au gratin and herb gravy  (M)
+DTSTART:20240411T110000
+DTEND:20240411T130000
+DTSTAMP:20240411T110000Z
+UID:2024-04-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
+ ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
+ mb  with root vegetables\, potato au gratin and herb gravy  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft taco  m
- eð nau tahakki \, salsa og sýrðum rjóma  (G\,M)\nTaco shells and soft 
- taco with minced beef \, salsa and sour cream ( G\,M)
-DTSTART:20240405T110000
-DTEND:20240405T130000
-DTSTAMP:20240405T110000Z
-UID:2024-04-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft tac
- o  með nau tahakki \, salsa og sýrðum rjóma  (G\,M)\nTaco shells and s
- oft taco with minced beef \, salsa and sour cream ( G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
+ ð southern krydduðum smælki kartöflum\nChicken in BBQ sauce with south
+ ern spiced potatoes
+DTSTART:20240412T110000
+DTEND:20240412T130000
+DTSTAMP:20240412T110000Z
+UID:2024-04-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
+ u með southern krydduðum smælki kartöflum\nChicken in BBQ sauce with s
+ outhern spiced potatoes
 END:VEVENT
 END:VCALENDAR
