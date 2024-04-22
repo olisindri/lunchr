@@ -2,63 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum\nSw
- eet and sour vegetable - and bean stew served with rice
-DTSTART:20240415T110000
-DTEND:20240415T130000
-DTSTAMP:20240415T110000Z
-UID:2024-04-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sweet and sour grænmetis - og baunaréttur með hrísgrjónum
- \nSweet and sour vegetable - and bean stew served with rice
+SUMMARY:Samósur  fylltar með grænmeti\, núðlum og baunum ásamt hrís
+ grjónum og sætri chili\nsósu (G\,S)\nSamosas  filled with vegetables\, 
+ noodles and peas served with rice and sweet chili sauce\n(G\,S)
+DTSTART:20240422T110000
+DTEND:20240422T130000
+DTSTAMP:20240422T110000Z
+UID:2024-04-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur  fylltar með grænmeti\, núðlum og baunum ásamt h
+ rísgrjónum og sætri chili\nsósu (G\,S)\nSamosas  filled with vegetable
+ s\, noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu -\, paprika - og baunabollur með heitri tómat - og
-  kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and bea
- nballs served with hot tomato - and cumin sauce\nand rice
-DTSTART:20240416T110000
-DTEND:20240416T130000
-DTSTAMP:20240416T110000Z
-UID:2024-04-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu -\, paprika - og baunabollur með heitri tómat 
- - og kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and
-  beanballs served with hot tomato - and cumin sauce\nand rice
+SUMMARY:Grænmetis thai  karrý með baunum og grænmeti  ásamt hrísgrj
+ ónum\nVegetables thai  curry with beans and vegetables  served with rice
+DTSTART:20240423T110000
+DTEND:20240423T130000
+DTSTAMP:20240423T110000Z
+UID:2024-04-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis thai  karrý með baunum og grænmeti  ásamt hrís
+ grjónum\nVegetables thai  curry with beans and vegetables  served with ri
+ ce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20240417T110000
-DTEND:20240417T130000
-DTSTAMP:20240417T110000Z
-UID:2024-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Grillað brokkolí á hummus ásamt teriyaki sósu (S\,G)\nGrilled
+  broccoli on hummus served with teriyaki sauce (S\,G)
+DTSTART:20240424T110000
+DTEND:20240424T130000
+DTSTAMP:20240424T110000Z
+UID:2024-04-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grillað brokkolí á hummus ásamt teriyaki sósu (S\,G)\nGri
+ lled broccoli on hummus served with teriyaki sauce (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
- sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
- alapeno sauce
-DTSTART:20240418T110000
-DTEND:20240418T130000
-DTSTAMP:20240418T110000Z
-UID:2024-04-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
- penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
- go jalapeno sauce
+SUMMARY:Lokað
+DTSTART:20240425T110000
+DTEND:20240425T130000
+DTSTAMP:20240425T110000Z
+UID:2024-04-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\nChim
- michurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
- inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
-  of onion and garlic for our vegan courses
-DTSTART:20240419T110000
-DTEND:20240419T130000
-DTSTAMP:20240419T110000Z
-UID:2024-04-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chimmichurry vegan “kjúklingur ” í flatbrauði  (S\,G)\n
- Chimmichurry vegan chicken in flatbread  (S\,G)\n(G) – Glúten/Gluten  (
- H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum 
- mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a 
- lot of onion and garlic for our vegan courses
+SUMMARY:Vegan burger með dillsósu og grillaðri paprika ásamt rösti ka
+ rtöflum (G\,S)\nVegan burger with dill sauce and grilled paprika served w
+ ith rösti potatoes (G\,S)
+DTSTART:20240426T110000
+DTEND:20240426T130000
+DTSTAMP:20240426T110000Z
+UID:2024-04-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan burger með dillsósu og grillaðri paprika ásamt röst
+ i kartöflum (G\,S)\nVegan burger with dill sauce and grilled paprika serv
+ ed with rösti potatoes (G\,S)
 END:VEVENT
 END:VCALENDAR
