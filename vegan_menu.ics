@@ -2,56 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur  fylltar með grænmeti\, núðlum og baunum ásamt hrís
- grjónum og sætri chili\nsósu (G\,S)\nSamosas  filled with vegetables\, 
- noodles and peas served with rice and sweet chili sauce\n(G\,S)
-DTSTART:20240422T110000
-DTEND:20240422T130000
-DTSTAMP:20240422T110000Z
-UID:2024-04-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur  fylltar með grænmeti\, núðlum og baunum ásamt h
- rísgrjónum og sætri chili\nsósu (G\,S)\nSamosas  filled with vegetable
- s\, noodles and peas served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
+ egetables and peas served with rice and sweet chili\nsauce (G)
+DTSTART:20240429T110000
+DTEND:20240429T130000
+DTSTAMP:20240429T110000Z
+UID:2024-04-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
+ \, vegetables and peas served with rice and sweet chili\nsauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai  karrý með baunum og grænmeti  ásamt hrísgrj
- ónum\nVegetables thai  curry with beans and vegetables  served with rice
-DTSTART:20240423T110000
-DTEND:20240423T130000
-DTSTAMP:20240423T110000Z
-UID:2024-04-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai  karrý með baunum og grænmeti  ásamt hrís
- grjónum\nVegetables thai  curry with beans and vegetables  served with ri
- ce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grillað brokkolí á hummus ásamt teriyaki sósu (S\,G)\nGrilled
-  broccoli on hummus served with teriyaki sauce (S\,G)
-DTSTART:20240424T110000
-DTEND:20240424T130000
-DTSTAMP:20240424T110000Z
-UID:2024-04-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað brokkolí á hummus ásamt teriyaki sósu (S\,G)\nGri
- lled broccoli on hummus served with teriyaki sauce (S\,G)
+SUMMARY:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk ás
+ amt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney beans 
+ and onion served with cous\ncous (G)
+DTSTART:20240430T110000
+DTEND:20240430T130000
+DTSTAMP:20240430T110000Z
+UID:2024-04-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk
+  ásamt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney be
+ ans and onion served with cous\ncous (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240425T110000
-DTEND:20240425T130000
-DTSTAMP:20240425T110000Z
-UID:2024-04-25T11:00:00/olisindri@gmail.com
+DTSTART:20240501T110000
+DTEND:20240501T130000
+DTSTAMP:20240501T110000Z
+UID:2024-05-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með dillsósu og grillaðri paprika ásamt rösti ka
- rtöflum (G\,S)\nVegan burger with dill sauce and grilled paprika served w
- ith rösti potatoes (G\,S)
-DTSTART:20240426T110000
-DTEND:20240426T130000
-DTSTAMP:20240426T110000Z
-UID:2024-04-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með dillsósu og grillaðri paprika ásamt röst
- i kartöflum (G\,S)\nVegan burger with dill sauce and grilled paprika serv
- ed with rösti potatoes (G\,S)
+SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
+ (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic  (G
+ )
+DTSTART:20240502T110000
+DTEND:20240502T130000
+DTSTAMP:20240502T110000Z
+UID:2024-05-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
+ uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
+   (G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
+ Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20240503T110000
+DTEND:20240503T130000
+DTSTAMP:20240503T110000Z
+UID:2024-05-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
