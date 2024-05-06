@@ -2,59 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
- egetables and peas served with rice and sweet chili\nsauce (G)
-DTSTART:20240429T110000
-DTEND:20240429T130000
-DTSTAMP:20240429T110000Z
-UID:2024-04-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas served with rice and sweet chili\nsauce (G)
+SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
+ , basil - and cannellini bean rissole served with p otatoes
+DTSTART:20240506T110000
+DTEND:20240506T130000
+DTSTAMP:20240506T110000Z
+UID:2024-05-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
+ o -\, basil - and cannellini bean rissole served with p otatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk ás
- amt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney beans 
- and onion served with cous\ncous (G)
-DTSTART:20240430T110000
-DTEND:20240430T130000
-DTSTAMP:20240430T110000Z
-UID:2024-04-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk
-  ásamt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney be
- ans and onion served with cous\ncous (G)
+SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
+ m\nCauliflower and broccoli tots served with garlic sauce and potatoes
+DTSTART:20240507T110000
+DTEND:20240507T130000
+DTSTAMP:20240507T110000Z
+UID:2024-05-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
+ öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20240508T110000
+DTEND:20240508T130000
+DTSTAMP:20240508T110000Z
+UID:2024-05-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240501T110000
-DTEND:20240501T130000
-DTSTAMP:20240501T110000Z
-UID:2024-05-01T11:00:00/olisindri@gmail.com
+DTSTART:20240509T110000
+DTEND:20240509T130000
+DTSTAMP:20240509T110000Z
+UID:2024-05-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
- (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic  (G
- )
-DTSTART:20240502T110000
-DTEND:20240502T130000
-DTSTAMP:20240502T110000Z
-UID:2024-05-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
-   (G)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
- Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20240503T110000
-DTEND:20240503T130000
-DTSTAMP:20240503T110000Z
-UID:2024-05-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Sætkartöflu\, paprika og baunabollur með heitri tómat - og kú
+ mensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole wit
+ h hot tomato - and cumin sauce and rice\n(G) – Glúten/Gluten  (H) – H
+ netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
+ auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
+ nion and garlic for our vegan courses
+DTSTART:20240510T110000
+DTEND:20240510T130000
+DTSTAMP:20240510T110000Z
+UID:2024-05-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, paprika og baunabollur með heitri tómat - og
+  kúmensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole
+  with hot tomato - and cumin sauce and rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
+  of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR

@@ -2,63 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nKjúklingabr
- ingur með sveppa -\, beikon - og portvínssósu ásamt steiktum kartöflu
- m (M)\nChicken breasts with mushroom -\, bacon - and port sauce served wit
- h roasted potatoes\n(M)
-DTSTART:20240429T110000
-DTEND:20240429T130000
-DTSTAMP:20240429T110000Z
-UID:2024-04-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít Aspas súpa  – White Asparagus  soup  (M\,G)\nKjúklin
- gabringur með sveppa -\, beikon - og portvínssósu ásamt steiktum kart
- öflum (M)\nChicken breasts with mushroom -\, bacon - and port sauce serve
- d with roasted potatoes\n(M)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa me
+ ð lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overnigh
+ t with onion butter\, potatoes and rye bread (M\,G)
+DTSTART:20240506T110000
+DTEND:20240506T130000
+DTSTAMP:20240506T110000Z
+UID:2024-05-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa
+  með lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overn
+ ight with onion butter\, potatoes and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat súpa  – tomato  soup  (V)\nSalat dagsins – Salad of th
- e day: Bragðmikið blómkál – cauliflower  (V)\nOfnbökuð ýsa með r
- auðri karrý sósu og hrísgrjónum\nOvenbaked haddock with red curry sau
- ce and rice
-DTSTART:20240430T110000
-DTEND:20240430T130000
-DTSTAMP:20240430T110000Z
-UID:2024-04-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat súpa  – tomato  soup  (V)\nSalat dagsins – Salad o
- f the day: Bragðmikið blómkál – cauliflower  (V)\nOfnbökuð ýsa me
- ð rauðri karrý sósu og hrísgrjónum\nOvenbaked haddock with red curry
-  sauce and rice
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nSmala
+ baka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie with 
+ peas and rhubarb jam  (G\,M)
+DTSTART:20240507T110000
+DTEND:20240507T130000
+DTSTAMP:20240507T110000Z
+UID:2024-05-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nS
+ malabaka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie w
+ ith peas and rhubarb jam  (G\,M)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nLamba
+ læri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mushroom
+  sauce and potatoes au Gratin (M)
+DTSTART:20240508T110000
+DTEND:20240508T130000
+DTSTAMP:20240508T110000Z
+UID:2024-05-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nL
+ ambalæri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mush
+ room sauce and potatoes au Gratin (M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240501T110000
-DTEND:20240501T130000
-DTSTAMP:20240501T110000Z
-UID:2024-05-01T11:00:00/olisindri@gmail.com
+DTSTART:20240509T110000
+DTEND:20240509T130000
+DTSTAMP:20240509T110000Z
+UID:2024-05-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa með karrýolíu  – Cauliflower soup with curry 
- oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blönduð
- u grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed vegeta
- bles  (G\,M)
-DTSTART:20240502T110000
-DTEND:20240502T130000
-DTSTAMP:20240502T110000Z
-UID:2024-05-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa með karrýolíu  – Cauliflower soup with cu
- rry oil  (V)\nSvínahnakki með kryddjurta soðsósu\, kartöflum og blön
- duðu grænmeti  (G\,M)\nPork neck with herb gravy\, potatoes and mixed ve
- getables  (G\,M)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum\nChicken thigh tikka masala with ric e
-DTSTART:20240503T110000
-DTEND:20240503T130000
-DTSTAMP:20240503T110000Z
-UID:2024-05-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum\nChicken thigh tikka masala with ric e
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
+ eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
+ ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
+ (G\,M\,E)
+DTSTART:20240510T110000
+DTEND:20240510T130000
+DTSTAMP:20240510T110000Z
+UID:2024-05-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
+ ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
+ ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
+ ad\n(G\,M\,E)
 END:VEVENT
 END:VCALENDAR
