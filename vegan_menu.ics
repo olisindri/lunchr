@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
  , basil - and cannellini bean rissole served with p otatoes
-DTSTART:20240506T110000
-DTEND:20240506T130000
-DTSTAMP:20240506T110000Z
-UID:2024-05-06T11:00:00/olisindri@gmail.com
+DTSTART:20240513T110000
+DTEND:20240513T130000
+DTSTAMP:20240513T110000Z
+UID:2024-05-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
  o -\, basil - and cannellini bean rissole served with p otatoes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
  m\nCauliflower and broccoli tots served with garlic sauce and potatoes
-DTSTART:20240507T110000
-DTEND:20240507T130000
-DTSTAMP:20240507T110000Z
-UID:2024-05-07T11:00:00/olisindri@gmail.com
+DTSTART:20240514T110000
+DTEND:20240514T130000
+DTSTAMP:20240514T110000Z
+UID:2024-05-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
  öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
  s
@@ -26,20 +26,20 @@ BEGIN:VEVENT
 SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
  i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
   salad  (G)
-DTSTART:20240508T110000
-DTEND:20240508T130000
-DTSTAMP:20240508T110000Z
-UID:2024-05-08T11:00:00/olisindri@gmail.com
+DTSTART:20240515T110000
+DTEND:20240515T130000
+DTSTAMP:20240515T110000Z
+UID:2024-05-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
  alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
  lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240509T110000
-DTEND:20240509T130000
-DTSTAMP:20240509T110000Z
-UID:2024-05-09T11:00:00/olisindri@gmail.com
+DTSTART:20240516T110000
+DTEND:20240516T130000
+DTSTAMP:20240516T110000Z
+UID:2024-05-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
@@ -49,10 +49,10 @@ SUMMARY:Sætkartöflu\, paprika og baunabollur með heitri tómat - og kú
  netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
  auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
  nion and garlic for our vegan courses
-DTSTART:20240510T110000
-DTEND:20240510T130000
-DTSTAMP:20240510T110000Z
-UID:2024-05-10T11:00:00/olisindri@gmail.com
+DTSTART:20240517T110000
+DTEND:20240517T130000
+DTSTAMP:20240517T110000Z
+UID:2024-05-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sætkartöflu\, paprika og baunabollur með heitri tómat - og
   kúmensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole
   with hot tomato - and cumin sauce and rice\n(G) – Glúten/Gluten  (H) 

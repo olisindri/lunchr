@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa me
  ð lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overnigh
  t with onion butter\, potatoes and rye bread (M\,G)
-DTSTART:20240506T110000
-DTEND:20240506T130000
-DTSTAMP:20240506T110000Z
-UID:2024-05-06T11:00:00/olisindri@gmail.com
+DTSTART:20240513T110000
+DTEND:20240513T130000
+DTSTAMP:20240513T110000Z
+UID:2024-05-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa
   með lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overn
  ight with onion butter\, potatoes and rye bread (M\,G)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nSmala
  baka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie with 
  peas and rhubarb jam  (G\,M)
-DTSTART:20240507T110000
-DTEND:20240507T130000
-DTSTAMP:20240507T110000Z
-UID:2024-05-07T11:00:00/olisindri@gmail.com
+DTSTART:20240514T110000
+DTEND:20240514T130000
+DTSTAMP:20240514T110000Z
+UID:2024-05-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nS
  malabaka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie w
  ith peas and rhubarb jam  (G\,M)
@@ -29,20 +29,20 @@ BEGIN:VEVENT
 SUMMARY:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nLamba
  læri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mushroom
   sauce and potatoes au Gratin (M)
-DTSTART:20240508T110000
-DTEND:20240508T130000
-DTSTAMP:20240508T110000Z
-UID:2024-05-08T11:00:00/olisindri@gmail.com
+DTSTART:20240515T110000
+DTEND:20240515T130000
+DTSTAMP:20240515T110000Z
+UID:2024-05-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nL
  ambalæri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mush
  room sauce and potatoes au Gratin (M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20240509T110000
-DTEND:20240509T130000
-DTSTAMP:20240509T110000Z
-UID:2024-05-09T11:00:00/olisindri@gmail.com
+DTSTART:20240516T110000
+DTEND:20240516T130000
+DTSTAMP:20240516T110000Z
+UID:2024-05-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
@@ -50,10 +50,10 @@ SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
  eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
  ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
  (G\,M\,E)
-DTSTART:20240510T110000
-DTEND:20240510T130000
-DTSTAMP:20240510T110000Z
-UID:2024-05-10T11:00:00/olisindri@gmail.com
+DTSTART:20240517T110000
+DTEND:20240517T130000
+DTSTAMP:20240517T110000Z
+UID:2024-05-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
  ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
  ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
