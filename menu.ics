@@ -2,61 +2,70 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa me
- ð lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overnigh
- t with onion butter\, potatoes and rye bread (M\,G)
+SUMMARY:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur satay 
+ með eggjanúðlum  (G\,H)\nChicken satay with egg noodles  (G\,H)
 DTSTART:20240513T110000
 DTEND:20240513T130000
 DTSTAMP:20240513T110000Z
 UID:2024-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætursöltuð ýsa
-  með lauksmjöri\, kartöflum og rúgbrauði (M\,G)\nHaddock salted overn
- ight with onion butter\, potatoes and rye bread (M\,G)
+DESCRIPTION:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur sa
+ tay með eggjanúðlum  (G\,H)\nChicken satay with egg noodles  (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nSmala
- baka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie with 
- peas and rhubarb jam  (G\,M)
+SUMMARY:Papriku  og fennel súpa  – Paprika and fennel soup  (G\,V)\nSal
+ at dagsins – Salad of the day: Brokkólí og grasker – broccoli and pu
+ mpkin  (V)\nSteiktur steinbítur í “Smokey Arizona” krydd pankó rasp
+ i ásamt steiktum kartöflum og\njógúrtsósu (G\,E\,M)\nFried catfish in
+  “Smokey Arizona” spiced panko breadcrumbs served with roasted\npotato
+ es and yogurt sauce (G\,E\,M)
 DTSTART:20240514T110000
 DTEND:20240514T130000
 DTSTAMP:20240514T110000Z
 UID:2024-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili- tomato soup  (V)\nS
- malabaka með grænum baunum og rabbabarasultu  (G\,M)\nShepherd’s pie w
- ith peas and rhubarb jam  (G\,M)
+DESCRIPTION:Papriku  og fennel súpa  – Paprika and fennel soup  (G\,V)\
+ nSalat dagsins – Salad of the day: Brokkólí og grasker – broccoli an
+ d pumpkin  (V)\nSteiktur steinbítur í “Smokey Arizona” krydd pankó 
+ raspi ásamt steiktum kartöflum og\njógúrtsósu (G\,E\,M)\nFried catfis
+ h in “Smokey Arizona” spiced panko breadcrumbs served with roasted\npo
+ tatoes and yogurt sauce (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nLamba
- læri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mushroom
-  sauce and potatoes au Gratin (M)
+SUMMARY:Sveppasúpa  – Mushroom  soup (G\,M)\nSpaghetti Bolognese með h
+ vítlauksbrauði (G\, E)\nSpaghetti Bolognese  with garlic bread  (G\,E)
 DTSTART:20240515T110000
 DTEND:20240515T130000
 DTSTAMP:20240515T110000Z
 UID:2024-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kakósúpa með tvíbökum – Coco soup with biscuits  (M)\nL
- ambalæri með sveppasósu og kartöflugratíni (M)\nLeg of lamb with mush
- room sauce and potatoes au Gratin (M)
+DESCRIPTION:Sveppasúpa  – Mushroom  soup (G\,M)\nSpaghetti Bolognese me
+ ð hvítlauksbrauði (G\, E)\nSpaghetti Bolognese  with garlic bread  (G\,
+ E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway seed
+  soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og gravy
+  (M\,G)\nTurkey breast with mashed sweet potatoes\, apple salad and gravy 
+ (M\,G)
 DTSTART:20240516T110000
 DTEND:20240516T130000
 DTSTAMP:20240516T110000Z
 UID:2024-05-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway 
+ seed soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og g
+ ravy (M\,G)\nTurkey breast with mashed sweet potatoes\, apple salad and gr
+ avy (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
- eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
- ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
- (G\,M\,E)
+SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” borgari\
+ nNautaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\nClas
+ sic rock burger\nBeef burger with cheese\, bacon bits\, onion rings and sa
+ lsa (G\,M)
 DTSTART:20240517T110000
 DTEND:20240517T130000
 DTSTAMP:20240517T110000Z
 UID:2024-05-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
- ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
- ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
- ad\n(G\,M\,E)
+DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” borg
+ ari\nNautaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\n
+ Classic rock burger\nBeef burger with cheese\, bacon bits\, onion rings an
+ d salsa (G\,M)
 END:VEVENT
 END:VCALENDAR

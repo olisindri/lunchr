@@ -2,62 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomato -\
- , basil - and cannellini bean rissole served with p otatoes
+SUMMARY:Grænmetis - og baunapottréttur í súrsætri sósu ásamt hrísg
+ rjónum\nSweet and sour vegetable - and bean stew served with rice
 DTSTART:20240513T110000
 DTEND:20240513T130000
 DTSTAMP:20240513T110000Z
 UID:2024-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat -\, basil - og smjörbaunabuff ásamt kartöflum\nTomat
- o -\, basil - and cannellini bean rissole served with p otatoes
+DESCRIPTION:Grænmetis - og baunapottréttur í súrsætri sósu ásamt hr
+ ísgrjónum\nSweet and sour vegetable - and bean stew served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og brokkólí bollur með hvílaukssósu og kartöflu
- m\nCauliflower and broccoli tots served with garlic sauce and potatoes
+SUMMARY:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nCauli
+ flower - and almond rissole served with rice and dressing
 DTSTART:20240514T110000
 DTEND:20240514T130000
 DTSTAMP:20240514T110000Z
 UID:2024-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og brokkólí bollur með hvílaukssósu og kart
- öflum\nCauliflower and broccoli tots served with garlic sauce and potatoe
- s
+DESCRIPTION:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nC
+ auliflower - and almond rissole served with rice and dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
- i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
-  salad  (G)
+SUMMARY:Spaghetti vegan Bolognese með hvítlauksbrauði (G\,S)\nSpaghetti
+  vegan Bolognese with garlic bread (G\,S)
 DTSTART:20240515T110000
 DTEND:20240515T130000
 DTSTAMP:20240515T110000Z
 UID:2024-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
- alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
- lgur salad  (G)
+DESCRIPTION:Spaghetti vegan Bolognese með hvítlauksbrauði (G\,S)\nSpagh
+ etti vegan Bolognese with garlic bread (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
+ sósu\nVegetable frikadeller served with mashed sweet potatoes and mango j
+ alapeno sauce
 DTSTART:20240516T110000
 DTEND:20240516T130000
 DTSTAMP:20240516T110000Z
 UID:2024-05-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
+ penosósu\nVegetable frikadeller served with mashed sweet potatoes and man
+ go jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, paprika og baunabollur með heitri tómat - og kú
- mensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole wit
- h hot tomato - and cumin sauce and rice\n(G) – Glúten/Gluten  (H) – H
- netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
- auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
- nion and garlic for our vegan courses
+SUMMARY:Vegan burger með grænmeti\, laukhringjum og salsa (G\,S)\nVegan 
+ burger with vegetables\, onion rings and salsa (G\,S)\n(G) – Glúten/Glu
+ ten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að 
+ notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we 
+ use a lot of onion and garlic for our vegan courses
 DTSTART:20240517T110000
 DTEND:20240517T130000
 DTSTAMP:20240517T110000Z
 UID:2024-05-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, paprika og baunabollur með heitri tómat - og
-  kúmensósu og hrísgrjónum\nSweet potato\, bell pepper and bean rissole
-  with hot tomato - and cumin sauce and rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
- inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
-  of onion and garlic for our vegan courses
+DESCRIPTION:Vegan burger með grænmeti\, laukhringjum og salsa (G\,S)\nVe
+ gan burger with vegetables\, onion rings and salsa (G\,S)\n(G) – Glúten
+ /Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið 
+ að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that
+  we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
