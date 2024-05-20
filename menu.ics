@@ -2,70 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur satay 
- með eggjanúðlum  (G\,H)\nChicken satay with egg noodles  (G\,H)
-DTSTART:20240513T110000
-DTEND:20240513T130000
-DTSTAMP:20240513T110000Z
-UID:2024-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur sa
- tay með eggjanúðlum  (G\,H)\nChicken satay with egg noodles  (G\,H)
+SUMMARY:Lokað
+DTSTART:20240520T110000
+DTEND:20240520T130000
+DTSTAMP:20240520T110000Z
+UID:2024-05-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku  og fennel súpa  – Paprika and fennel soup  (G\,V)\nSal
- at dagsins – Salad of the day: Brokkólí og grasker – broccoli and pu
- mpkin  (V)\nSteiktur steinbítur í “Smokey Arizona” krydd pankó rasp
- i ásamt steiktum kartöflum og\njógúrtsósu (G\,E\,M)\nFried catfish in
-  “Smokey Arizona” spiced panko breadcrumbs served with roasted\npotato
- es and yogurt sauce (G\,E\,M)
-DTSTART:20240514T110000
-DTEND:20240514T130000
-DTSTAMP:20240514T110000Z
-UID:2024-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku  og fennel súpa  – Paprika and fennel soup  (G\,V)\
- nSalat dagsins – Salad of the day: Brokkólí og grasker – broccoli an
- d pumpkin  (V)\nSteiktur steinbítur í “Smokey Arizona” krydd pankó 
- raspi ásamt steiktum kartöflum og\njógúrtsósu (G\,E\,M)\nFried catfis
- h in “Smokey Arizona” spiced panko breadcrumbs served with roasted\npo
- tatoes and yogurt sauce (G\,E\,M)
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (V)\n
+ Steiktar fiskibollur með karrýsósu\, hrísgrjónum  og hrásalati (G\,M
+ \,E)\nFried fishballs with curry sauce\, rice and coleslaw (G\,M\,E)
+DTSTART:20240521T110000
+DTEND:20240521T130000
+DTSTAMP:20240521T110000Z
+UID:2024-05-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (
+ V)\nSteiktar fiskibollur með karrýsósu\, hrísgrjónum  og hrásalati (
+ G\,M\,E)\nFried fishballs with curry sauce\, rice and coleslaw (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom  soup (G\,M)\nSpaghetti Bolognese með h
- vítlauksbrauði (G\, E)\nSpaghetti Bolognese  with garlic bread  (G\,E)
-DTSTART:20240515T110000
-DTEND:20240515T130000
-DTSTAMP:20240515T110000Z
-UID:2024-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom  soup (G\,M)\nSpaghetti Bolognese me
- ð hvítlauksbrauði (G\, E)\nSpaghetti Bolognese  with garlic bread  (G\,
- E)
+SUMMARY:Brauðsúpa með rjóma – Bread soup with cream  (G\,M)\nKjúkli
+ ngur Supreme með sveppum og tagliatelle pasta (E\,G\,M)\nChicken Supreme 
+ with mushrooms and tagliatelle pasta (E\,G\,M)
+DTSTART:20240522T110000
+DTEND:20240522T130000
+DTSTAMP:20240522T110000Z
+UID:2024-05-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brauðsúpa með rjóma – Bread soup with cream  (G\,M)\nKj
+ úklingur Supreme með sveppum og tagliatelle pasta (E\,G\,M)\nChicken Sup
+ reme with mushrooms and tagliatelle pasta (E\,G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway seed
-  soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og gravy
-  (M\,G)\nTurkey breast with mashed sweet potatoes\, apple salad and gravy 
- (M\,G)
-DTSTART:20240516T110000
-DTEND:20240516T130000
-DTSTAMP:20240516T110000Z
-UID:2024-05-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway 
- seed soup  (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og g
- ravy (M\,G)\nTurkey breast with mashed sweet potatoes\, apple salad and gr
- avy (M\,G)
+SUMMARY:Tómat  súpa – Tomato soup ( V)\nGrísas nitsel með ofnbökuð
+ u kartöflusmælki\,  grænmeti og soðsósu (M)\nPork  schnitzel with ove
+ n roasted small potatoes\, vegetables and gravy  (M)
+DTSTART:20240523T110000
+DTEND:20240523T130000
+DTSTAMP:20240523T110000Z
+UID:2024-05-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat  súpa – Tomato soup ( V)\nGrísas nitsel með ofnbö
+ kuðu kartöflusmælki\,  grænmeti og soðsósu (M)\nPork  schnitzel with
+  oven roasted small potatoes\, vegetables and gravy  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” borgari\
- nNautaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\nClas
- sic rock burger\nBeef burger with cheese\, bacon bits\, onion rings and sa
- lsa (G\,M)
-DTSTART:20240517T110000
-DTEND:20240517T130000
-DTSTAMP:20240517T110000Z
-UID:2024-05-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” borg
- ari\nNautaborgari með osti\, beikonkurli\, laukhringjum og salsa (G\,M)\n
- Classic rock burger\nBeef burger with cheese\, bacon bits\, onion rings an
- d salsa (G\,M)
+SUMMARY:Eftirréttur  – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúkling
+ ur í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu (G\
+ ,M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato wedg
+ es and tzatziki sauce (G\,M)
+DTSTART:20240524T110000
+DTEND:20240524T130000
+DTSTAMP:20240524T110000Z
+UID:2024-05-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúk
+ lingur í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu
+  (G\,M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato 
+ wedges and tzatziki sauce (G\,M)
 END:VEVENT
 END:VCALENDAR
