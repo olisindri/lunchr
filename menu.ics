@@ -2,61 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað
-DTSTART:20240520T110000
-DTEND:20240520T130000
-DTSTAMP:20240520T110000Z
-UID:2024-05-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+SUMMARY:Villisveppasúpa  – Wild mushroom soup (M\,G)\nSoðin ýsa með 
+ hrísgrjónum og karrýsósu (M)\nBoiled haddock with rice and curry sauce
+  (M)
+DTSTART:20240527T110000
+DTEND:20240527T130000
+DTSTAMP:20240527T110000Z
+UID:2024-05-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa  – Wild mushroom soup (M\,G)\nSoðin ýsa m
+ eð hrísgrjónum og karrýsósu (M)\nBoiled haddock with rice and curry s
+ auce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (V)\n
- Steiktar fiskibollur með karrýsósu\, hrísgrjónum  og hrásalati (G\,M
- \,E)\nFried fishballs with curry sauce\, rice and coleslaw (G\,M\,E)
-DTSTART:20240521T110000
-DTEND:20240521T130000
-DTSTAMP:20240521T110000Z
-UID:2024-05-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek - and potato  soup  (
- V)\nSteiktar fiskibollur með karrýsósu\, hrísgrjónum  og hrásalati (
- G\,M\,E)\nFried fishballs with curry sauce\, rice and coleslaw (G\,M\,E)
+SUMMARY:Ristuð blómkálssúpa – Roasted cauliflower soup ( V)\nÍtalsk
+ t lasagna með hrásalati og hvítlauksbrauði (M\,G\,E)\nItalian lasagna 
+ with coleslaw and garlic bread (M\,G\,E)
+DTSTART:20240528T110000
+DTEND:20240528T130000
+DTSTAMP:20240528T110000Z
+UID:2024-05-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristuð blómkálssúpa – Roasted cauliflower soup ( V)\nÍt
+ alskt lasagna með hrásalati og hvítlauksbrauði (M\,G\,E)\nItalian lasa
+ gna with coleslaw and garlic bread (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa með rjóma – Bread soup with cream  (G\,M)\nKjúkli
- ngur Supreme með sveppum og tagliatelle pasta (E\,G\,M)\nChicken Supreme 
- with mushrooms and tagliatelle pasta (E\,G\,M)
-DTSTART:20240522T110000
-DTEND:20240522T130000
-DTSTAMP:20240522T110000Z
-UID:2024-05-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa með rjóma – Bread soup with cream  (G\,M)\nKj
- úklingur Supreme með sveppum og tagliatelle pasta (E\,G\,M)\nChicken Sup
- reme with mushrooms and tagliatelle pasta (E\,G\,M)
+SUMMARY:Grænertu - og beikonsúpa  – Peas - and bacon soup\nSteiktur þ
+ orskur í trufflu panko raspi ásamt kaldri dressingu og kartöflum (G\,E)
+ \nFried cod in truffle panko breadcrumbs served with cold dressing and pot
+ atoes (G\,E)
+DTSTART:20240529T110000
+DTEND:20240529T130000
+DTSTAMP:20240529T110000Z
+UID:2024-05-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænertu - og beikonsúpa  – Peas - and bacon soup\nSteiktu
+ r þorskur í trufflu panko raspi ásamt kaldri dressingu og kartöflum (G
+ \,E)\nFried cod in truffle panko breadcrumbs served with cold dressing and
+  potatoes (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat  súpa – Tomato soup ( V)\nGrísas nitsel með ofnbökuð
- u kartöflusmælki\,  grænmeti og soðsósu (M)\nPork  schnitzel with ove
- n roasted small potatoes\, vegetables and gravy  (M)
-DTSTART:20240523T110000
-DTEND:20240523T130000
-DTSTAMP:20240523T110000Z
-UID:2024-05-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat  súpa – Tomato soup ( V)\nGrísas nitsel með ofnbö
- kuðu kartöflusmælki\,  grænmeti og soðsósu (M)\nPork  schnitzel with
-  oven roasted small potatoes\, vegetables and gravy  (M)
+SUMMARY:Rjómalöguð tómatsúpa  – Creamy tomato soup ( V)\nLambasnits
+ el með steiktum kartöflum\, rauðkáli og rjómalagaðri sveppasósu (G\
+ ,E\,M)\nLamb schnitzel with fried potatoes\, red cabbage and creamy mushro
+ om sauce  (G\,E\,M )
+DTSTART:20240530T110000
+DTEND:20240530T130000
+DTSTAMP:20240530T110000Z
+UID:2024-05-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rjómalöguð tómatsúpa  – Creamy tomato soup ( V)\nLambas
+ nitsel með steiktum kartöflum\, rauðkáli og rjómalagaðri sveppasósu
+  (G\,E\,M)\nLamb schnitzel with fried potatoes\, red cabbage and creamy mu
+ shroom sauce  (G\,E\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúkling
- ur í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu (G\
- ,M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato wedg
- es and tzatziki sauce (G\,M)
-DTSTART:20240524T110000
-DTEND:20240524T130000
-DTSTAMP:20240524T110000Z
-UID:2024-05-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert (M\,G\,E)\nGrísk Souvlaki – Kjúk
- lingur í pít ubrauði með grænmeti\, kartöflubátum og tzatziki sósu
-  (G\,M)\nGreek Souvlaki – Chicken in pitabread with vegetables\, potato 
- wedges and tzatziki sauce (G\,M)
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” samloka
+  með hvítkálssalati\, spicy mæjó og kartöflubátum (G\,E)\nPulled po
+ rk sandwich with white cabbage salad\, spicy mayo and potato wedges (G\,E)
+DTSTART:20240531T110000
+DTEND:20240531T130000
+DTSTAMP:20240531T110000Z
+UID:2024-05-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\n“Pulled pork” sam
+ loka með hvítkálssalati\, spicy mæjó og kartöflubátum (G\,E)\nPulle
+ d pork sandwich with white cabbage salad\, spicy mayo and potato wedges (G
+ \,E)
 END:VEVENT
 END:VCALENDAR
