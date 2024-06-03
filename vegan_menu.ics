@@ -2,65 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samosur fylltar með núðlum og grænmeti ásamt hrísgrjónum og
-  sætri chili sósu (G\,S)\nSamosas filled with noodles and vegbetables se
- rved with rice and sweet chili sauce\n(G\,S)
-DTSTART:20240527T110000
-DTEND:20240527T130000
-DTSTAMP:20240527T110000Z
-UID:2024-05-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samosur fylltar með núðlum og grænmeti ásamt hrísgrjónu
- m og sætri chili sósu (G\,S)\nSamosas filled with noodles and vegbetable
- s served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Sterkur Oumph hakkréttur með baunum\, salsa og  hrísgrjónum  (
+ S)\nSpicy minced Oumph with beans\, salsa  and rice (S)
+DTSTART:20240603T110000
+DTEND:20240603T130000
+DTSTAMP:20240603T110000Z
+UID:2024-06-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sterkur Oumph hakkréttur með baunum\, salsa og  hrísgrjónu
+ m  (S)\nSpicy minced Oumph with beans\, salsa  and rice (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk ás
- amt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney beans 
- and onion served with cous\ncous (G)
-DTSTART:20240528T110000
-DTEND:20240528T130000
-DTSTAMP:20240528T110000Z
-UID:2024-05-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis Ragu með sveppum\, spínati\, nýrnabaunum og lauk
-  ásamt cous cous (G)\nVegetable Ragu with mushrooms\, spinach\, kidney be
- ans and onion served with cous\ncous (G)
+SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
+ lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
+ y beans and onion with rice
+DTSTART:20240604T110000
+DTEND:20240604T130000
+DTSTAMP:20240604T110000Z
+UID:2024-06-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
+ nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
+ idney beans and onion with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað blómkál á hummus ásamt mango og jalapeno sósu (S)\nRo
- asted cauliflower on hummus served with mango and jalapeno sauce (S)
-DTSTART:20240529T110000
-DTEND:20240529T130000
-DTSTAMP:20240529T110000Z
-UID:2024-05-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað blómkál á hummus ásamt mango og jalapeno sósu (S)
- \nRoasted cauliflower on hummus served with mango and jalapeno sauce (S)
+SUMMARY:Ristað  blómkál á hummus með hrísgrjónum og mango -jallaben
+ jo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
+DTSTART:20240605T110000
+DTEND:20240605T130000
+DTSTAMP:20240605T110000Z
+UID:2024-06-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristað  blómkál á hummus með hrísgrjónum og mango -jall
+ abenjo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófum\, 
- kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt mango -
- \, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\, car
- rots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach serve
- d with mango -\, curry - and coconut sauce (G)
-DTSTART:20240530T110000
-DTEND:20240530T130000
-DTSTAMP:20240530T110000Z
-UID:2024-05-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófu
- m\, kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt man
- go -\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\,
-  carrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach s
- erved with mango -\, curry - and coconut sauce (G)
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn ( H)
+DTSTART:20240606T110000
+DTEND:20240606T130000
+DTSTAMP:20240606T110000Z
+UID:2024-06-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn ( H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Pulled o umph” samloka með hvítkálssalati\, spicy mæjó o
- g kartöflubátum  (S\,G)\nPulled oomph sandwich with white cabbage salad\
- , spicy mayo and potato wedges (S\,G)
-DTSTART:20240531T110000
-DTEND:20240531T130000
-DTSTAMP:20240531T110000Z
-UID:2024-05-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Pulled o umph” samloka með hvítkálssalati\, spicy mæj
- ó og kartöflubátum  (S\,G)\nPulled oomph sandwich with white cabbage sa
- lad\, spicy mayo and potato wedges (S\,G)
+SUMMARY:Taco  skeljar  og soft taco  með vegan hakki og salsa  (S\,G)\nTa
+ co  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
+DTSTART:20240607T110000
+DTEND:20240607T130000
+DTSTAMP:20240607T110000Z
+UID:2024-06-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco  skeljar  og soft taco  með vegan hakki og salsa  (S\,G)
+ \nTaco  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
 END:VEVENT
 END:VCALENDAR
