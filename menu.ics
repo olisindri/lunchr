@@ -2,63 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M\,G)\n“Chilli con carne” með 
- baunum\, rifnum osti\,  salsa\,  hrísgrjónum og nachos(M)\n“Chilli  co
- n carne” with beans\, cheese\, salsa\, rice  and nachos (M)
-DTSTART:20240603T110000
-DTEND:20240603T130000
-DTSTAMP:20240603T110000Z
-UID:2024-06-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\n“Chilli con carne” m
- eð baunum\, rifnum osti\,  salsa\,  hrísgrjónum og nachos(M)\n“Chilli
-   con carne” with beans\, cheese\, salsa\, rice  and nachos (M)
+SUMMARY:Kókos -\, gulrótar - og koríander súpa – Coconut -\, carrot 
+ - and coriander  soup (M\,G)\nSalat dagsins – Salad of the day: Blómká
+ l  – Cauliflower  (V)\nSítrónu kjúklingabringur með ofnsteiktum kart
+ öfflum  og kaldri pipar - og trufflusósu (E)\nLemon chicken breasts with
+  roasted potatoes  and cold pepper - and truffle sauce (E)
+DTSTART:20240610T110000
+DTEND:20240610T130000
+DTSTAMP:20240610T110000Z
+UID:2024-06-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kókos -\, gulrótar - og koríander súpa – Coconut -\, car
+ rot - and coriander  soup (M\,G)\nSalat dagsins – Salad of the day: Bló
+ mkál  – Cauliflower  (V)\nSítrónu kjúklingabringur með ofnsteiktum 
+ kartöfflum  og kaldri pipar - og trufflusósu (E)\nLemon chicken breasts 
+ with roasted potatoes  and cold pepper - and truffle sauce (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - karrýsúpa  – Spinach and curry soup  (V)\nLambakjöt
-  í karrýsósa og grænmeti ásamt hrísgrjónum (M\,G)\nLamb meat in cur
- ry sauce and vegetables served with rice (M\,G)
-DTSTART:20240604T110000
-DTEND:20240604T130000
-DTSTAMP:20240604T110000Z
-UID:2024-06-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - karrýsúpa  – Spinach and curry soup  (V)\nLambak
- jöt í karrýsósa og grænmeti ásamt hrísgrjónum (M\,G)\nLamb meat in
-  curry sauce and vegetables served with rice (M\,G)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSteikt
+  ýsa í  raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G)\n
+ Fried haddock in breadcrumbs with cocktailsauce\, potato wedges and colesl
+ aw (E\,G)
+DTSTART:20240611T110000
+DTEND:20240611T130000
+DTSTAMP:20240611T110000Z
+UID:2024-06-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSt
+ eikt ýsa í  raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,
+ G)\nFried haddock in breadcrumbs with cocktailsauce\, potato wedges and co
+ leslaw (E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nBleikja Kreóle með 
- sætum kartöflum  og sýrðum rjóma (M)\nTrout kreole with sweet potatoe
- s and sour cream (M)
-DTSTART:20240605T110000
-DTEND:20240605T130000
-DTSTAMP:20240605T110000Z
-UID:2024-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nBleikja Kreóle m
- eð sætum kartöflum  og sýrðum rjóma (M)\nTrout kreole with sweet pot
- atoes and sour cream (M)
+SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nRa
+ men núðlusúpa með svínasíða  ásamt eggjum\, vorlauk\, chili og fle
+ ira (G\,E)\nRamen noodlesoup with pork belly  served with eggs\, spring on
+ ion\, chili and more (G\,E)
+DTSTART:20240612T110000
+DTEND:20240612T130000
+DTSTAMP:20240612T110000Z
+UID:2024-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
+ \nRamen núðlusúpa með svínasíða  ásamt eggjum\, vorlauk\, chili og
+  fleira (G\,E)\nRamen noodlesoup with pork belly  served with eggs\, sprin
+ g onion\, chili and more (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup ( V)\nKjúklingabringur með piparr
- jómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy peppers
- auce\, yellow corn and rice (M)
-DTSTART:20240606T110000
-DTEND:20240606T130000
-DTSTAMP:20240606T110000Z
-UID:2024-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup ( V)\nKjúklingabringur með pi
- parrjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pep
- persauce\, yellow corn and rice (M)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
+ grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
+ ith root vegetables\, potato au gratin and herb gravy  (M)
+DTSTART:20240613T110000
+DTEND:20240613T130000
+DTSTAMP:20240613T110000Z
+UID:2024-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
+ ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
+ mb  with root vegetables\, potato au gratin and herb gravy  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft taco  m
- eð nau tahakki\, salsa og sýrðum rjóma  (G\,M)\nTaco shells and soft t
- aco with minced beef \, salsa and sour cream ( G\,M)
-DTSTART:20240607T110000
-DTEND:20240607T130000
-DTSTAMP:20240607T110000Z
-UID:2024-06-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og soft tac
- o  með nau tahakki\, salsa og sýrðum rjóma  (G\,M)\nTaco shells and so
- ft taco with minced beef \, salsa and sour cream ( G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í sterkri BBQ 
+ sósu með rösti kartöflum og maissalati\nChicken in spicy BBQ sauce wit
+ h rösti potatoes and corn salad
+DTSTART:20240614T110000
+DTEND:20240614T130000
+DTSTAMP:20240614T110000Z
+UID:2024-06-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í sterkri 
+ BBQ sósu með rösti kartöflum og maissalati\nChicken in spicy BBQ sauce
+  with rösti potatoes and corn salad
 END:VEVENT
 END:VCALENDAR

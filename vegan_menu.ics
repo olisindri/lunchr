@@ -2,57 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sterkur Oumph hakkréttur með baunum\, salsa og  hrísgrjónum  (
- S)\nSpicy minced Oumph with beans\, salsa  and rice (S)
-DTSTART:20240603T110000
-DTEND:20240603T130000
-DTSTAMP:20240603T110000Z
-UID:2024-06-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sterkur Oumph hakkréttur með baunum\, salsa og  hrísgrjónu
- m  (S)\nSpicy minced Oumph with beans\, salsa  and rice (S)
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt kartö
+ flum  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetables
+  and peas served with potatoes  and sweet chili\nsauce (G)
+DTSTART:20240610T110000
+DTEND:20240610T130000
+DTSTAMP:20240610T110000Z
+UID:2024-06-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt ka
+ rtöflum  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegeta
+ bles and peas served with potatoes  and sweet chili\nsauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
- y beans and onion with rice
-DTSTART:20240604T110000
-DTEND:20240604T130000
-DTSTAMP:20240604T110000Z
-UID:2024-06-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
- idney beans and onion with rice
+SUMMARY:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kaldri d
+ ressingu\nCauliflower - and almond rissole served with brown rice and cold
+  dressing
+DTSTART:20240611T110000
+DTEND:20240611T130000
+DTSTAMP:20240611T110000Z
+UID:2024-06-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kald
+ ri dressingu\nCauliflower - and almond rissole served with brown rice and 
+ cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað  blómkál á hummus með hrísgrjónum og mango -jallaben
- jo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
-DTSTART:20240605T110000
-DTEND:20240605T130000
-DTSTAMP:20240605T110000Z
-UID:2024-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað  blómkál á hummus með hrísgrjónum og mango -jall
- abenjo  sósu  (S)\nVeggie tots with rice and sesam -soy sauce  (S)
+SUMMARY:Ramen núðlusúpa með vorlauk\, chili\, súrsuðu engiferi og fl
+ eira (G\,S)\nRamen noodlesoup with spring onion\, chili\, pickled ginger a
+ nd more (G\,S)
+DTSTART:20240612T110000
+DTEND:20240612T130000
+DTSTAMP:20240612T110000Z
+UID:2024-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ramen núðlusúpa með vorlauk\, chili\, súrsuðu engiferi o
+ g fleira (G\,S)\nRamen noodlesoup with spring onion\, chili\, pickled ging
+ er and more (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn ( H)
-DTSTART:20240606T110000
-DTEND:20240606T130000
-DTSTAMP:20240606T110000Z
-UID:2024-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn ( H)
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
+ dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
+ es  and cold dressing
+DTSTART:20240613T110000
+DTEND:20240613T130000
+DTSTAMP:20240613T110000Z
+UID:2024-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
+  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
+ tatoes  and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar  og soft taco  með vegan hakki og salsa  (S\,G)\nTa
- co  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
-DTSTART:20240607T110000
-DTEND:20240607T130000
-DTSTAMP:20240607T110000Z
-UID:2024-06-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar  og soft taco  með vegan hakki og salsa  (S\,G)
- \nTaco  shells and soft taco  with vegan mincemeat  and salsa  (S\,G)
+SUMMARY:“Ekki kjúklingur” í sterkri BBQ sósu með rösti kartöflum
+  og maissalati (S)\n“Not chicken” in spicy BBQ sauce served with röst
+ i potatoes and corn salad (S)
+DTSTART:20240614T110000
+DTEND:20240614T130000
+DTSTAMP:20240614T110000Z
+UID:2024-06-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ekki kjúklingur” í sterkri BBQ sósu með rösti kartö
+ flum og maissalati (S)\n“Not chicken” in spicy BBQ sauce served with r
+ östi potatoes and corn salad (S)
 END:VEVENT
 END:VCALENDAR
