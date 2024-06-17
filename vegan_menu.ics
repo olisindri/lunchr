@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt kartö
- flum  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetables
-  and peas served with potatoes  and sweet chili\nsauce (G)
-DTSTART:20240610T110000
-DTEND:20240610T130000
-DTSTAMP:20240610T110000Z
-UID:2024-06-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt ka
- rtöflum  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegeta
- bles and peas served with potatoes  and sweet chili\nsauce (G)
+SUMMARY:Lokað - Closed
+DTSTART:20240617T110000
+DTEND:20240617T130000
+DTSTAMP:20240617T110000Z
+UID:2024-06-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað - Closed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kaldri d
- ressingu\nCauliflower - and almond rissole served with brown rice and cold
-  dressing
-DTSTART:20240611T110000
-DTEND:20240611T130000
-DTSTAMP:20240611T110000Z
-UID:2024-06-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með brúnum hrísgrjónum og kald
- ri dressingu\nCauliflower - and almond rissole served with brown rice and 
- cold dressing
+SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
+ G)\nSweet & sour vegetable - and bean stew  with  rice (S\,G)
+DTSTART:20240618T110000
+DTEND:20240618T130000
+DTSTAMP:20240618T110000Z
+UID:2024-06-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
+ (S\,G)\nSweet & sour vegetable - and bean stew  with  rice (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ramen núðlusúpa með vorlauk\, chili\, súrsuðu engiferi og fl
- eira (G\,S)\nRamen noodlesoup with spring onion\, chili\, pickled ginger a
- nd more (G\,S)
-DTSTART:20240612T110000
-DTEND:20240612T130000
-DTSTAMP:20240612T110000Z
-UID:2024-06-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ramen núðlusúpa með vorlauk\, chili\, súrsuðu engiferi o
- g fleira (G\,S)\nRamen noodlesoup with spring onion\, chili\, pickled ging
- er and more (G\,S)
+SUMMARY:Enchiladas með baunum og gænmeti ásamt hrísgrjónum\, salsa og
+  nachos (G)\nEnchiladas with beans and vegetables served with rice\, salsa
+  and nachos (G)
+DTSTART:20240619T110000
+DTEND:20240619T130000
+DTSTAMP:20240619T110000Z
+UID:2024-06-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchiladas með baunum og gænmeti ásamt hrísgrjónum\, sals
+ a og nachos (G)\nEnchiladas with beans and vegetables served with rice\, s
+ alsa and nachos (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
- dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
- es  and cold dressing
-DTSTART:20240613T110000
-DTEND:20240613T130000
-DTSTAMP:20240613T110000Z
-UID:2024-06-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
-  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
- tatoes  and cold dressing
+SUMMARY:Sætkartöflu -\, papriku - og baunasteik með byggi  og sveppasó
+ su\nSweet potato -\, bell pepper - and bean steak with barley  and mushroo
+ m sauce
+DTSTART:20240620T110000
+DTEND:20240620T130000
+DTSTAMP:20240620T110000Z
+UID:2024-06-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu -\, papriku - og baunasteik með byggi  og svepp
+ asósu\nSweet potato -\, bell pepper - and bean steak with barley  and mus
+ hroom sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Ekki kjúklingur” í sterkri BBQ sósu með rösti kartöflum
-  og maissalati (S)\n“Not chicken” in spicy BBQ sauce served with röst
- i potatoes and corn salad (S)
-DTSTART:20240614T110000
-DTEND:20240614T130000
-DTSTAMP:20240614T110000Z
-UID:2024-06-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Ekki kjúklingur” í sterkri BBQ sósu með rösti kartö
- flum og maissalati (S)\n“Not chicken” in spicy BBQ sauce served with r
- östi potatoes and corn salad (S)
+SUMMARY:Chimmichurry vegan “kjúklingur ” í flatbrauði  ásamt röst
+ i kartöflum og sósu  (S\,G)\nChimmichurry vegan chicken in flatbread  se
+ rved with rösti  potatoes and sauce  (S\,G)\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
+  of onion and garlic for our vegan courses
+DTSTART:20240621T110000
+DTEND:20240621T130000
+DTSTAMP:20240621T110000Z
+UID:2024-06-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chimmichurry vegan “kjúklingur ” í flatbrauði  ásamt r
+ östi kartöflum og sósu  (S\,G)\nChimmichurry vegan chicken in flatbread
+   served with rösti  potatoes and sauce  (S\,G)\n(G) – Glúten/Gluten  
+ (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum
+  mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a
+  lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR

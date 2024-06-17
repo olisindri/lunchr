@@ -2,71 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kókos -\, gulrótar - og koríander súpa – Coconut -\, carrot 
- - and coriander  soup (M\,G)\nSalat dagsins – Salad of the day: Blómká
- l  – Cauliflower  (V)\nSítrónu kjúklingabringur með ofnsteiktum kart
- öfflum  og kaldri pipar - og trufflusósu (E)\nLemon chicken breasts with
-  roasted potatoes  and cold pepper - and truffle sauce (E)
-DTSTART:20240610T110000
-DTEND:20240610T130000
-DTSTAMP:20240610T110000Z
-UID:2024-06-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kókos -\, gulrótar - og koríander súpa – Coconut -\, car
- rot - and coriander  soup (M\,G)\nSalat dagsins – Salad of the day: Bló
- mkál  – Cauliflower  (V)\nSítrónu kjúklingabringur með ofnsteiktum 
- kartöfflum  og kaldri pipar - og trufflusósu (E)\nLemon chicken breasts 
- with roasted potatoes  and cold pepper - and truffle sauce (E)
+SUMMARY:Lokað - Closed
+DTSTART:20240617T110000
+DTEND:20240617T130000
+DTSTAMP:20240617T110000Z
+UID:2024-06-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað - Closed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSteikt
-  ýsa í  raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G)\n
- Fried haddock in breadcrumbs with cocktailsauce\, potato wedges and colesl
- aw (E\,G)
-DTSTART:20240611T110000
-DTEND:20240611T130000
-DTSTAMP:20240611T110000Z
-UID:2024-06-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSt
- eikt ýsa í  raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,
- G)\nFried haddock in breadcrumbs with cocktailsauce\, potato wedges and co
- leslaw (E\,G)
+SUMMARY:Rótargrænmetis súpa – Root vegetable  soup ( V)\nKjúklingur 
+ í súrsætri sósu ásamt grænmeti og hrísgrjónum (S)\nChicken in swee
+ t and sour sauce\, vegetables and rice (S)
+DTSTART:20240618T110000
+DTEND:20240618T130000
+DTSTAMP:20240618T110000Z
+UID:2024-06-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rótargrænmetis súpa – Root vegetable  soup ( V)\nKjúklin
+ gur í súrsætri sósu ásamt grænmeti og hrísgrjónum (S)\nChicken in 
+ sweet and sour sauce\, vegetables and rice (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nRa
- men núðlusúpa með svínasíða  ásamt eggjum\, vorlauk\, chili og fle
- ira (G\,E)\nRamen noodlesoup with pork belly  served with eggs\, spring on
- ion\, chili and more (G\,E)
-DTSTART:20240612T110000
-DTEND:20240612T130000
-DTSTAMP:20240612T110000Z
-UID:2024-06-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
- \nRamen núðlusúpa með svínasíða  ásamt eggjum\, vorlauk\, chili og
-  fleira (G\,E)\nRamen noodlesoup with pork belly  served with eggs\, sprin
- g onion\, chili and more (G\,E)
+SUMMARY:Papriku og fennel súpa – Paprika and fennel soup (G)\nSalat dag
+ sins – Salad of the day: Brokkólí og grasker – broccoli and pumpkin 
+  (V)\nOfnbökuð ýsa með grænni karrý sósu og hrísgrjónum\nOvenbake
+ d haddock with green curry sauce and rice
+DTSTART:20240619T110000
+DTEND:20240619T130000
+DTSTAMP:20240619T110000Z
+UID:2024-06-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku og fennel súpa – Paprika and fennel soup (G)\nSalat
+  dagsins – Salad of the day: Brokkólí og grasker – broccoli and pump
+ kin  (V)\nOfnbökuð ýsa með grænni karrý sósu og hrísgrjónum\nOven
+ baked haddock with green curry sauce and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
- grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
- ith root vegetables\, potato au gratin and herb gravy  (M)
-DTSTART:20240613T110000
-DTEND:20240613T130000
-DTSTAMP:20240613T110000Z
-UID:2024-06-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
- ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
- mb  with root vegetables\, potato au gratin and herb gravy  (M)
+SUMMARY:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway seed
+  soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ásamt r
+ auðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and red c
+ abbage (M)
+DTSTART:20240620T110000
+DTEND:20240620T130000
+DTSTAMP:20240620T110000Z
+UID:2024-06-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway 
+ seed soup  (G\,V)\nLambaskankar með kartöflumús og rauðvínssósu ása
+ mt rauðkáli (M)\nLamb shanks with mashed potatoes\, red wine sauce and r
+ ed cabbage (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í sterkri BBQ 
- sósu með rösti kartöflum og maissalati\nChicken in spicy BBQ sauce wit
- h rösti potatoes and corn salad
-DTSTART:20240614T110000
-DTEND:20240614T130000
-DTSTAMP:20240614T110000Z
-UID:2024-06-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í sterkri 
- BBQ sósu með rösti kartöflum og maissalati\nChicken in spicy BBQ sauce
-  with rösti potatoes and corn salad
+SUMMARY:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur í f
+ latbrauði  ásamt rösti kartöflum og sósu  (G\,E)\nChimmichurri chicke
+ n in a flatbread  served with rösti potatoes and sauce  (G\,E)
+DTSTART:20240621T110000
+DTEND:20240621T130000
+DTSTAMP:20240621T110000Z
+UID:2024-06-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grjónagrautur – Rice pudding (M)\nChimmichurri kjúklingur 
+ í flatbrauði  ásamt rösti kartöflum og sósu  (G\,E)\nChimmichurri ch
+ icken in a flatbread  served with rösti potatoes and sauce  (G\,E)
 END:VEVENT
 END:VCALENDAR
