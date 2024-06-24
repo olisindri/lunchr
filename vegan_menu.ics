@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað - Closed
-DTSTART:20240617T110000
-DTEND:20240617T130000
-DTSTAMP:20240617T110000Z
-UID:2024-06-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað - Closed
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt krydduðu 
+ cous cous\nVegetables red  curry with beans and vegetables served with spi
+ ced cous cous
+DTSTART:20240624T110000
+DTEND:20240624T130000
+DTSTAMP:20240624T110000Z
+UID:2024-06-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt kryddu
+ ðu cous cous\nVegetables red  curry with beans and vegetables served with
+  spiced cous cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
- G)\nSweet & sour vegetable - and bean stew  with  rice (S\,G)
-DTSTART:20240618T110000
-DTEND:20240618T130000
-DTSTAMP:20240618T110000Z
-UID:2024-06-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
- (S\,G)\nSweet & sour vegetable - and bean stew  with  rice (S\,G)
+SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
+ sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
+ pesto (H)
+DTSTART:20240625T110000
+DTEND:20240625T130000
+DTSTAMP:20240625T110000Z
+UID:2024-06-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
+ a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
+ ola pesto (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enchiladas með baunum og gænmeti ásamt hrísgrjónum\, salsa og
-  nachos (G)\nEnchiladas with beans and vegetables served with rice\, salsa
-  and nachos (G)
-DTSTART:20240619T110000
-DTEND:20240619T130000
-DTSTAMP:20240619T110000Z
-UID:2024-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Enchiladas með baunum og gænmeti ásamt hrísgrjónum\, sals
- a og nachos (G)\nEnchiladas with beans and vegetables served with rice\, s
- alsa and nachos (G)
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice and sweet chili sauce\n(G\,S)
+DTSTART:20240626T110000
+DTEND:20240626T130000
+DTSTAMP:20240626T110000Z
+UID:2024-06-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu -\, papriku - og baunasteik með byggi  og sveppasó
- su\nSweet potato -\, bell pepper - and bean steak with barley  and mushroo
- m sauce
-DTSTART:20240620T110000
-DTEND:20240620T130000
-DTSTAMP:20240620T110000Z
-UID:2024-06-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu -\, papriku - og baunasteik með byggi  og svepp
- asósu\nSweet potato -\, bell pepper - and bean steak with barley  and mus
- hroom sauce
+SUMMARY:Vegan Snitzel með ofnbökuðum smælki kartöflum\, bökuðu græ
+ nmeti og sveppasósu (S)\nVegan Schnitzel with roasted small potatoes\, ro
+ asted vegetables and mushroom sauce\n(S)
+DTSTART:20240627T110000
+DTEND:20240627T130000
+DTSTAMP:20240627T110000Z
+UID:2024-06-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan Snitzel með ofnbökuðum smælki kartöflum\, bökuðu 
+ grænmeti og sveppasósu (S)\nVegan Schnitzel with roasted small potatoes\
+ , roasted vegetables and mushroom sauce\n(S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chimmichurry vegan “kjúklingur ” í flatbrauði  ásamt röst
- i kartöflum og sósu  (S\,G)\nChimmichurry vegan chicken in flatbread  se
- rved with rösti  potatoes and sauce  (S\,G)\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
- inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
-  of onion and garlic for our vegan courses
-DTSTART:20240621T110000
-DTEND:20240621T130000
-DTSTAMP:20240621T110000Z
-UID:2024-06-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chimmichurry vegan “kjúklingur ” í flatbrauði  ásamt r
- östi kartöflum og sósu  (S\,G)\nChimmichurry vegan chicken in flatbread
-   served with rösti  potatoes and sauce  (S\,G)\n(G) – Glúten/Gluten  
- (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum
-  mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a
-  lot of onion and garlic for our vegan courses
+SUMMARY:Indverskt dahl í korma karrý og linsubaunum ásamt hrísgrjónum
+  og Naan brauði (G)\nIndian dahl in korma curry and lentils served with r
+ ice and Naan bread (G)
+DTSTART:20240628T110000
+DTEND:20240628T130000
+DTSTAMP:20240628T110000Z
+UID:2024-06-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskt dahl í korma karrý og linsubaunum ásamt hrísgrj
+ ónum og Naan brauði (G)\nIndian dahl in korma curry and lentils served w
+ ith rice and Naan bread (G)
 END:VEVENT
 END:VCALENDAR
