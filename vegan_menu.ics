@@ -2,63 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt krydduðu 
- cous cous\nVegetables red  curry with beans and vegetables served with spi
- ced cous cous
-DTSTART:20240624T110000
-DTEND:20240624T130000
-DTSTAMP:20240624T110000Z
-UID:2024-06-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt kryddu
- ðu cous cous\nVegetables red  curry with beans and vegetables served with
-  spiced cous cous
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
+ egetables and peas served with rice and sweet chili\nsauce (G)
+DTSTART:20240701T110000
+DTEND:20240701T130000
+DTSTAMP:20240701T110000Z
+UID:2024-07-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
+ \, vegetables and peas served with rice and sweet chili\nsauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
- sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
- pesto (H)
-DTSTART:20240625T110000
-DTEND:20240625T130000
-DTSTAMP:20240625T110000Z
-UID:2024-06-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
- a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
- ola pesto (H)
+SUMMARY:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\, lau
+ k\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun stew w
+ ith chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\, bel
+ l\npepper and sweet potatoes
+DTSTART:20240702T110000
+DTEND:20240702T130000
+DTSTAMP:20240702T110000Z
+UID:2024-07-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\,
+  lauk\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun st
+ ew with chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\,
+  bell\npepper and sweet potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
- rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
- odles and peas served with rice and sweet chili sauce\n(G\,S)
-DTSTART:20240626T110000
-DTEND:20240626T130000
-DTSTAMP:20240626T110000Z
-UID:2024-06-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
- ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
- , noodles and peas served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk (
+ G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
+DTSTART:20240703T110000
+DTEND:20240703T130000
+DTSTAMP:20240703T110000Z
+UID:2024-07-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
+ uk (G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Snitzel með ofnbökuðum smælki kartöflum\, bökuðu græ
- nmeti og sveppasósu (S)\nVegan Schnitzel with roasted small potatoes\, ro
- asted vegetables and mushroom sauce\n(S)
-DTSTART:20240627T110000
-DTEND:20240627T130000
-DTSTAMP:20240627T110000Z
-UID:2024-06-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Snitzel með ofnbökuðum smælki kartöflum\, bökuðu 
- grænmeti og sveppasósu (S)\nVegan Schnitzel with roasted small potatoes\
- , roasted vegetables and mushroom sauce\n(S)
+SUMMARY:Kryddað og ristað blómkál á hummus ásamt kartöflusmælki\nS
+ piced and roasted cauliflower on hummus served with small potatoes
+DTSTART:20240704T110000
+DTEND:20240704T130000
+DTSTAMP:20240704T110000Z
+UID:2024-07-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kryddað og ristað blómkál á hummus ásamt kartöflusmælk
+ i\nSpiced and roasted cauliflower on hummus served with small potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indverskt dahl í korma karrý og linsubaunum ásamt hrísgrjónum
-  og Naan brauði (G)\nIndian dahl in korma curry and lentils served with r
- ice and Naan bread (G)
-DTSTART:20240628T110000
-DTEND:20240628T130000
-DTSTAMP:20240628T110000Z
-UID:2024-06-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskt dahl í korma karrý og linsubaunum ásamt hrísgrj
- ónum og Naan brauði (G)\nIndian dahl in korma curry and lentils served w
- ith rice and Naan bread (G)
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
+ Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20240705T110000
+DTEND:20240705T130000
+DTSTAMP:20240705T110000Z
+UID:2024-07-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
