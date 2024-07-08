@@ -2,62 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
- egetables and peas served with rice and sweet chili\nsauce (G)
-DTSTART:20240701T110000
-DTEND:20240701T130000
-DTSTAMP:20240701T110000Z
-UID:2024-07-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas served with rice and sweet chili\nsauce (G)
+SUMMARY:Fyllt paprika með quinoa og linsubaunum ásamt kaldri dressingu\n
+ Stuffed bell pepper with quinoa and lentils served with cold dressing
+DTSTART:20240708T110000
+DTEND:20240708T130000
+DTSTAMP:20240708T110000Z
+UID:2024-07-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með quinoa og linsubaunum ásamt kaldri dressin
+ gu\nStuffed bell pepper with quinoa and lentils served with cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\, lau
- k\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun stew w
- ith chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\, bel
- l\npepper and sweet potatoes
-DTSTART:20240702T110000
-DTEND:20240702T130000
-DTSTAMP:20240702T110000Z
-UID:2024-07-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\,
-  lauk\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun st
- ew with chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\,
-  bell\npepper and sweet potatoes
+SUMMARY:„Ekki kjúklingur“ Chasseur ásamt ofnbökuðum kartöflum (S)
+ \n“Not chicken” Chasseur served with roasted potatoes (S)
+DTSTART:20240709T110000
+DTEND:20240709T130000
+DTSTAMP:20240709T110000Z
+UID:2024-07-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:„Ekki kjúklingur“ Chasseur ásamt ofnbökuðum kartöflum
+  (S)\n“Not chicken” Chasseur served with roasted potatoes (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk (
- G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20240703T110000
-DTEND:20240703T130000
-DTSTAMP:20240703T110000Z
-UID:2024-07-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk (G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G
- )
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20240710T110000
+DTEND:20240710T130000
+DTSTAMP:20240710T110000Z
+UID:2024-07-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kryddað og ristað blómkál á hummus ásamt kartöflusmælki\nS
- piced and roasted cauliflower on hummus served with small potatoes
-DTSTART:20240704T110000
-DTEND:20240704T130000
-DTSTAMP:20240704T110000Z
-UID:2024-07-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kryddað og ristað blómkál á hummus ásamt kartöflusmælk
- i\nSpiced and roasted cauliflower on hummus served with small potatoes
+SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
+ curry with rice
+DTSTART:20240711T110000
+DTEND:20240711T130000
+DTSTAMP:20240711T110000Z
+UID:2024-07-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
- Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20240705T110000
-DTEND:20240705T130000
-DTSTAMP:20240705T110000Z
-UID:2024-07-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Spaghetti Arriabbiata – Heit tómatsósa með kirsuberjatómötu
+ m og hvítum baunum\násamt hvítlauksbrauði (G)\nSpaghetti Arriabbiata 
+ – Hot tomato sauce with cherry tomatoes and cannellini beans\nserved wit
+ h garlic bread (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)-
+  Soyja/Soya
+DTSTART:20240712T110000
+DTEND:20240712T130000
+DTSTAMP:20240712T110000Z
+UID:2024-07-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti Arriabbiata – Heit tómatsósa með kirsuberjatóm
+ ötum og hvítum baunum\násamt hvítlauksbrauði (G)\nSpaghetti Arriabbia
+ ta – Hot tomato sauce with cherry tomatoes and cannellini beans\nserved 
+ with garlic bread (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (
+ S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
