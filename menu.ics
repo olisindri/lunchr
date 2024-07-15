@@ -2,65 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
- u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai  curry a
- nd coconut served with rice  (G)
-DTSTART:20240708T110000
-DTEND:20240708T130000
-DTSTAMP:20240708T110000Z
-UID:2024-07-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
- auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai  cur
- ry and coconut served with rice  (G)
+SUMMARY:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur satay 
+ með hrísgrjónum  (G\,H)\nChicken satay with rice (G\,H)
+DTSTART:20240715T110000
+DTEND:20240715T130000
+DTSTAMP:20240715T110000Z
+UID:2024-07-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa  – cauliflower  soup (G \,M)\nKjúklingur sa
+ tay með hrísgrjónum  (G\,H)\nChicken satay with rice (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
- up  (V)\nKjúklingur Chasseur með ofnbökuðum kartöflum (M)\nChicken Ch
- asseur with roasted potatoes (M)
-DTSTART:20240709T110000
-DTEND:20240709T130000
-DTSTAMP:20240709T110000Z
-UID:2024-07-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
- o soup  (V)\nKjúklingur Chasseur með ofnbökuðum kartöflum (M)\nChicke
- n Chasseur with roasted potatoes (M)
+SUMMARY:Papriku - og tómat súpa  – Paprika and tomato  soup  (G\,V)\nS
+ alat dagsins – Salad of the day: Brokkólí og grasker – broccoli and 
+ pumpkin  (V)\nPönnusteiktur steinbítur í truffle pankó raspi ásamt ma
+ issalsa\, kartöflum og piparmajó\n(G\,M\,E)\nPan fried catfish in truffl
+ e panko breadcrumbs served with corn salsa\, potatoes and\npepper mayo (G\
+ ,M\,E)
+DTSTART:20240716T110000
+DTEND:20240716T130000
+DTSTAMP:20240716T110000Z
+UID:2024-07-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og tómat súpa  – Paprika and tomato  soup  (G\,V
+ )\nSalat dagsins – Salad of the day: Brokkólí og grasker – broccoli 
+ and pumpkin  (V)\nPönnusteiktur steinbítur í truffle pankó raspi ásam
+ t maissalsa\, kartöflum og piparmajó\n(G\,M\,E)\nPan fried catfish in tr
+ uffle panko breadcrumbs served with corn salsa\, potatoes and\npepper mayo
+  (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (G\,M)\nOfnbakaður lax me
- ð mangó salsa og bulgur salati (G)\nBaked salmon with mango salsa and bu
- lgur salad (G)
-DTSTART:20240710T110000
-DTEND:20240710T130000
-DTSTAMP:20240710T110000Z
-UID:2024-07-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (G\,M)\nOfnbakaður la
- x með mangó salsa og bulgur salati (G)\nBaked salmon with mango salsa an
- d bulgur salad (G)
+SUMMARY:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway seed
+  soup  (G\,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrása
+ lati (G\,M\,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
+DTSTART:20240717T110000
+DTEND:20240717T130000
+DTSTAMP:20240717T110000Z
+UID:2024-07-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu - og kúmensúpa – Sweet potato - and caraway 
+ seed soup  (G\,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hr
+ ásalati (G\,M\,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,
+ E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólísúpa – Broccoli soup (G)\nLambalæri með steiktum ka
- rtöflum og soðsósu ( M)\nLeg of lamb with roasted potatoes and demi -gl
- aze  sauce (M)
-DTSTART:20240711T110000
-DTEND:20240711T130000
-DTSTAMP:20240711T110000Z
-UID:2024-07-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólísúpa – Broccoli soup (G)\nLambalæri með steiktu
- m kartöflum og soðsósu ( M)\nLeg of lamb with roasted potatoes and demi
-  -glaze  sauce (M)
+SUMMARY:Gulrótar - og kóríandersúpa – Carrot - and coriander soup (G
+ \,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og gravy (M\,G)\n
+ Turkey breast with mashed sweet potatoes\, apple salad and gravy (M\,G)
+DTSTART:20240718T110000
+DTEND:20240718T130000
+DTSTAMP:20240718T110000Z
+UID:2024-07-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar - og kóríandersúpa – Carrot - and coriander sou
+ p (G\,V)\nKalkúnabringa með sætkartöflumús\, eplasalati og gravy (M\,
+ G)\nTurkey breast with mashed sweet potatoes\, apple salad and gravy (M\,G
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara með b
- eikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpaghet
- ti Carbonara with bacon\, mushrooms and chicken served with garlic bread\n
- (G\,M\,E)
-DTSTART:20240712T110000
-DTEND:20240712T130000
-DTSTAMP:20240712T110000Z
-UID:2024-07-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSpaghetti Carbonara me
- ð beikoni\, sveppum og kjúkling ásamt hvítlauksbrauði  (G\,M\,E)\nSpa
- ghetti Carbonara with bacon\, mushrooms and chicken served with garlic bre
- ad\n(G\,M\,E)
+SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\nKlassískur ostborgari með
+  hamborgarasósu og grænmeti ásamt kartöflubátum og\nkokteilsósu (G\,
+ M\,E)\nClassic cheese burger with burger sauce and vegetables served with 
+ potato wedges\nand cocktailsauce (G\,M\,E)
+DTSTART:20240719T110000
+DTEND:20240719T130000
+DTSTAMP:20240719T110000Z
+UID:2024-07-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\nKlassískur ostborgari 
+ með hamborgarasósu og grænmeti ásamt kartöflubátum og\nkokteilsósu 
+ (G\,M\,E)\nClassic cheese burger with burger sauce and vegetables served w
+ ith potato wedges\nand cocktailsauce (G\,M\,E)
 END:VEVENT
 END:VCALENDAR

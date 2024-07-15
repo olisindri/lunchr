@@ -2,61 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa og linsubaunum ásamt kaldri dressingu\n
- Stuffed bell pepper with quinoa and lentils served with cold dressing
-DTSTART:20240708T110000
-DTEND:20240708T130000
-DTSTAMP:20240708T110000Z
-UID:2024-07-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa og linsubaunum ásamt kaldri dressin
- gu\nStuffed bell pepper with quinoa and lentils served with cold dressing
+SUMMARY:Grænmetis - og baunapottréttur í satay  sósu ásamt hrísgrjó
+ num  (H\,S\,G)\nVegetable - and bean stew in satay sauce served with rice 
+  (H\,S\,G)
+DTSTART:20240715T110000
+DTEND:20240715T130000
+DTSTAMP:20240715T110000Z
+UID:2024-07-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis - og baunapottréttur í satay  sósu ásamt hrísg
+ rjónum  (H\,S\,G)\nVegetable - and bean stew in satay sauce served with r
+ ice  (H\,S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:„Ekki kjúklingur“ Chasseur ásamt ofnbökuðum kartöflum (S)
- \n“Not chicken” Chasseur served with roasted potatoes (S)
-DTSTART:20240709T110000
-DTEND:20240709T130000
-DTSTAMP:20240709T110000Z
-UID:2024-07-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:„Ekki kjúklingur“ Chasseur ásamt ofnbökuðum kartöflum
-  (S)\n“Not chicken” Chasseur served with roasted potatoes (S)
+SUMMARY:Asískar grænmetis - og hrísgrjónabollur með karrý\, kókos o
+ g döðlum ásamt brúnum\nhrísgrjónum og sætri mangó - og jalapeno s
+ ósu\nAsian vegetable - and rice balls with curry\, coconut and dates serv
+ ed with brown rice\nand sweet mango - and jalapeno sauce
+DTSTART:20240716T110000
+DTEND:20240716T130000
+DTSTAMP:20240716T110000Z
+UID:2024-07-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Asískar grænmetis - og hrísgrjónabollur með karrý\, kók
+ os og döðlum ásamt brúnum\nhrísgrjónum og sætri mangó - og jalapen
+ o sósu\nAsian vegetable - and rice balls with curry\, coconut and dates s
+ erved with brown rice\nand sweet mango - and jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
- i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
-  salad  (G)
-DTSTART:20240710T110000
-DTEND:20240710T130000
-DTSTAMP:20240710T110000Z
-UID:2024-07-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
- alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
- lgur salad  (G)
+SUMMARY:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pesto (G
+ \,H)
+DTSTART:20240717T110000
+DTEND:20240717T130000
+DTSTAMP:20240717T110000Z
+UID:2024-07-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pest
+ o (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
- curry with rice
-DTSTART:20240711T110000
-DTEND:20240711T130000
-DTSTAMP:20240711T110000Z
-UID:2024-07-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
- man curry with rice
+SUMMARY:Svarbauna - og hnetusteik í brick deigi ásamt kartöflusmælki o
+ g rjómalagaðri\nsveppasósu (H\,G)\nBlack bean - and cashew stake in bri
+ ck dough served with small potatoes and creamy\nmushroom sauce (H\,G)
+DTSTART:20240718T110000
+DTEND:20240718T130000
+DTSTAMP:20240718T110000Z
+UID:2024-07-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svarbauna - og hnetusteik í brick deigi ásamt kartöflusmæl
+ ki og rjómalagaðri\nsveppasósu (H\,G)\nBlack bean - and cashew stake in
+  brick dough served with small potatoes and creamy\nmushroom sauce (H\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti Arriabbiata – Heit tómatsósa með kirsuberjatómötu
- m og hvítum baunum\násamt hvítlauksbrauði (G)\nSpaghetti Arriabbiata 
- – Hot tomato sauce with cherry tomatoes and cannellini beans\nserved wit
- h garlic bread (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)-
-  Soyja/Soya
-DTSTART:20240712T110000
-DTEND:20240712T130000
-DTSTAMP:20240712T110000Z
-UID:2024-07-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti Arriabbiata – Heit tómatsósa með kirsuberjatóm
- ötum og hvítum baunum\násamt hvítlauksbrauði (G)\nSpaghetti Arriabbia
- ta – Hot tomato sauce with cherry tomatoes and cannellini beans\nserved 
- with garlic bread (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (
- S)- Soyja/Soya
+SUMMARY:Klassískur vegan ostborgari með hamborgarasósu og grænmeti ás
+ amt kartöflubátum og\nkokteilsósu (G\,S)\nClassic vegan cheese burger w
+ ith burger sauce and vegetables served with potato\nwedges and cocktail sa
+ uce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/S
+ oya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar veg
+ an rétti\nPlease note that we use a lot of onion and garlic for our vegan
+  courses
+DTSTART:20240719T110000
+DTEND:20240719T130000
+DTSTAMP:20240719T110000Z
+UID:2024-07-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Klassískur vegan ostborgari með hamborgarasósu og grænmeti
+  ásamt kartöflubátum og\nkokteilsósu (G\,S)\nClassic vegan cheese burg
+ er with burger sauce and vegetables served with potato\nwedges and cocktai
+ l sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soy
+ ja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar
+  vegan rétti\nPlease note that we use a lot of onion and garlic for our v
+ egan courses
 END:VEVENT
 END:VCALENDAR
