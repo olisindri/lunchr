@@ -2,71 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis - og baunapottréttur í satay  sósu ásamt hrísgrjó
- num  (H\,S\,G)\nVegetable - and bean stew in satay sauce served with rice 
-  (H\,S\,G)
-DTSTART:20240715T110000
-DTEND:20240715T130000
-DTSTAMP:20240715T110000Z
-UID:2024-07-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis - og baunapottréttur í satay  sósu ásamt hrísg
- rjónum  (H\,S\,G)\nVegetable - and bean stew in satay sauce served with r
- ice  (H\,S\,G)
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
+DTSTART:20240722T110000
+DTEND:20240722T130000
+DTSTAMP:20240722T110000Z
+UID:2024-07-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asískar grænmetis - og hrísgrjónabollur með karrý\, kókos o
- g döðlum ásamt brúnum\nhrísgrjónum og sætri mangó - og jalapeno s
- ósu\nAsian vegetable - and rice balls with curry\, coconut and dates serv
- ed with brown rice\nand sweet mango - and jalapeno sauce
-DTSTART:20240716T110000
-DTEND:20240716T130000
-DTSTAMP:20240716T110000Z
-UID:2024-07-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Asískar grænmetis - og hrísgrjónabollur með karrý\, kók
- os og döðlum ásamt brúnum\nhrísgrjónum og sætri mangó - og jalapen
- o sósu\nAsian vegetable - and rice balls with curry\, coconut and dates s
- erved with brown rice\nand sweet mango - and jalapeno sauce
+SUMMARY:Blómkáls - og svartbaunapottréttur með kókosmjólk\, tómat\,
+  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
+ onut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20240723T110000
+DTEND:20240723T130000
+DTSTAMP:20240723T110000Z
+UID:2024-07-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og svartbaunapottréttur með kókosmjólk\, tóm
+ at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
+  coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20240717T110000
-DTEND:20240717T130000
-DTSTAMP:20240717T110000Z
-UID:2024-07-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Kryddað og ristað blómkál á hummus með sætri mangó - og ja
+ lapeno sósu\nSpiced and roasted cauliflower on hummus with sweet mango - 
+ and jalapeno sauce
+DTSTART:20240724T110000
+DTEND:20240724T130000
+DTSTAMP:20240724T110000Z
+UID:2024-07-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kryddað og ristað blómkál á hummus með sætri mangó - o
+ g jalapeno sósu\nSpiced and roasted cauliflower on hummus with sweet mang
+ o - and jalapeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svarbauna - og hnetusteik í brick deigi ásamt kartöflusmælki o
- g rjómalagaðri\nsveppasósu (H\,G)\nBlack bean - and cashew stake in bri
- ck dough served with small potatoes and creamy\nmushroom sauce (H\,G)
-DTSTART:20240718T110000
-DTEND:20240718T130000
-DTSTAMP:20240718T110000Z
-UID:2024-07-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svarbauna - og hnetusteik í brick deigi ásamt kartöflusmæl
- ki og rjómalagaðri\nsveppasósu (H\,G)\nBlack bean - and cashew stake in
-  brick dough served with small potatoes and creamy\nmushroom sauce (H\,G)
+SUMMARY:Vegan snitsel með ofnbökuðu kartöflusmælki\, rauðkáli og sv
+ eppasósu  (S)\nVegan schnitzel with roasted small potatoes\, red cabbage 
+ and mushroom  sauce (S)
+DTSTART:20240725T110000
+DTEND:20240725T130000
+DTSTAMP:20240725T110000Z
+UID:2024-07-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan snitsel með ofnbökuðu kartöflusmælki\, rauðkáli o
+ g sveppasósu  (S)\nVegan schnitzel with roasted small potatoes\, red cabb
+ age and mushroom  sauce (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klassískur vegan ostborgari með hamborgarasósu og grænmeti ás
- amt kartöflubátum og\nkokteilsósu (G\,S)\nClassic vegan cheese burger w
- ith burger sauce and vegetables served with potato\nwedges and cocktail sa
- uce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/S
- oya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar veg
- an rétti\nPlease note that we use a lot of onion and garlic for our vegan
-  courses
-DTSTART:20240719T110000
-DTEND:20240719T130000
-DTSTAMP:20240719T110000Z
-UID:2024-07-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Klassískur vegan ostborgari með hamborgarasósu og grænmeti
-  ásamt kartöflubátum og\nkokteilsósu (G\,S)\nClassic vegan cheese burg
- er with burger sauce and vegetables served with potato\nwedges and cocktai
- l sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soy
- ja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar
-  vegan rétti\nPlease note that we use a lot of onion and garlic for our v
- egan courses
+SUMMARY:Grísk Souvlaki – “Ekki kjúklingur” í pítubrauði ásamt 
+ grænmeti\, kartöflubátum og kaldri\ndressing (S\,G)\nGreek Souvlaki –
+  “Not chicken” in pita bread served with vegetables\, potato wedges\na
+ nd cold dressing (S\,G)
+DTSTART:20240726T110000
+DTEND:20240726T130000
+DTSTAMP:20240726T110000Z
+UID:2024-07-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grísk Souvlaki – “Ekki kjúklingur” í pítubrauði ás
+ amt grænmeti\, kartöflubátum og kaldri\ndressing (S\,G)\nGreek Souvlaki
+  – “Not chicken” in pita bread served with vegetables\, potato wedge
+ s\nand cold dressing (S\,G)
 END:VEVENT
 END:VCALENDAR
