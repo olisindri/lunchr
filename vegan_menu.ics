@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
-DTSTART:20240722T110000
-DTEND:20240722T130000
-DTSTAMP:20240722T110000Z
-UID:2024-07-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+SUMMARY:Tofu í teriyaki ásamt hrísgrjónum (S)\nTofu in teriyaki served
+  with rice (S)
+DTSTART:20240729T110000
+DTEND:20240729T130000
+DTSTAMP:20240729T110000Z
+UID:2024-07-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tofu í teriyaki ásamt hrísgrjónum (S)\nTofu in teriyaki se
+ rved with rice (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og svartbaunapottréttur með kókosmjólk\, tómat\,
-  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
- onut milk\, tomato\, garlic\, onion and\nvegetables
-DTSTART:20240723T110000
-DTEND:20240723T130000
-DTSTAMP:20240723T110000Z
-UID:2024-07-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og svartbaunapottréttur með kókosmjólk\, tóm
- at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
-  coconut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti\nVegetable thai cu
+ rry with beans and vegetables
+DTSTART:20240730T110000
+DTEND:20240730T130000
+DTSTAMP:20240730T110000Z
+UID:2024-07-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti\nVegetable tha
+ i curry with beans and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kryddað og ristað blómkál á hummus með sætri mangó - og ja
- lapeno sósu\nSpiced and roasted cauliflower on hummus with sweet mango - 
- and jalapeno sauce
-DTSTART:20240724T110000
-DTEND:20240724T130000
-DTSTAMP:20240724T110000Z
-UID:2024-07-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kryddað og ristað blómkál á hummus með sætri mangó - o
- g jalapeno sósu\nSpiced and roasted cauliflower on hummus with sweet mang
- o - and jalapeno sauce
+SUMMARY:Brokkólígratín – Ostagratínerað sætkartöflu - og baunamau
+ k með brokkólí bitum\nBroccoli au gratin – Mashed sweet potatoes and 
+ beans with broccoli bites and cheese
+DTSTART:20240731T110000
+DTEND:20240731T130000
+DTSTAMP:20240731T110000Z
+UID:2024-07-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólígratín – Ostagratínerað sætkartöflu - og baun
+ amauk með brokkólí bitum\nBroccoli au gratin – Mashed sweet potatoes 
+ and beans with broccoli bites and cheese
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með ofnbökuðu kartöflusmælki\, rauðkáli og sv
- eppasósu  (S)\nVegan schnitzel with roasted small potatoes\, red cabbage 
- and mushroom  sauce (S)
-DTSTART:20240725T110000
-DTEND:20240725T130000
-DTSTAMP:20240725T110000Z
-UID:2024-07-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með ofnbökuðu kartöflusmælki\, rauðkáli o
- g sveppasósu  (S)\nVegan schnitzel with roasted small potatoes\, red cabb
- age and mushroom  sauce (S)
+SUMMARY:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófum\, 
+ kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt mang ó
+ -\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\, ca
+ rrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach serv
+ ed with mango -\, curry - and coconut sauce (G)
+DTSTART:20240801T110000
+DTEND:20240801T130000
+DTSTAMP:20240801T110000Z
+UID:2024-08-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófu
+ m\, kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt man
+ g ó-\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\
+ , carrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach 
+ served with mango -\, curry - and coconut sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grísk Souvlaki – “Ekki kjúklingur” í pítubrauði ásamt 
- grænmeti\, kartöflubátum og kaldri\ndressing (S\,G)\nGreek Souvlaki –
-  “Not chicken” in pita bread served with vegetables\, potato wedges\na
- nd cold dressing (S\,G)
-DTSTART:20240726T110000
-DTEND:20240726T130000
-DTSTAMP:20240726T110000Z
-UID:2024-07-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grísk Souvlaki – “Ekki kjúklingur” í pítubrauði ás
- amt grænmeti\, kartöflubátum og kaldri\ndressing (S\,G)\nGreek Souvlaki
-  – “Not chicken” in pita bread served with vegetables\, potato wedge
- s\nand cold dressing (S\,G)
+SUMMARY:Krispí jackfruit borgari með rauðkálshrásalati ásamt kartöf
+ lubátum og kokteilsósu (G)\nCrispy jackfruit burger with read cabbage co
+ leslaw served with potato wedges and\ncocktailsauce (G)
+DTSTART:20240802T110000
+DTEND:20240802T130000
+DTSTAMP:20240802T110000Z
+UID:2024-08-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krispí jackfruit borgari með rauðkálshrásalati ásamt kar
+ töflubátum og kokteilsósu (G)\nCrispy jackfruit burger with read cabbag
+ e coleslaw served with potato wedges and\ncocktailsauce (G)
 END:VEVENT
 END:VCALENDAR
