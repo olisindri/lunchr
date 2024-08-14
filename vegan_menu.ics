@@ -1,4 +1,58 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
+BEGIN:VEVENT
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt brúnu
+ m hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodles\, 
+ vegetables and peas served with brown rice and sweet\nchili sauce (G)
+DTSTART:20240812T110000
+DTEND:20240812T130000
+DTSTAMP:20240812T110000Z
+UID:2024-08-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt br
+ únum hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodle
+ s\, vegetables and peas served with brown rice and sweet\nchili sauce (G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steiktar núðlur með grænmeti\, baunum og sojasósu (S\,G)\nFri
+ ed noodles with vegetables beans and soy sauce (S\,G)
+DTSTART:20240813T110000
+DTEND:20240813T130000
+DTSTAMP:20240813T110000Z
+UID:2024-08-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Steiktar núðlur með grænmeti\, baunum og sojasósu (S\,G)\
+ nFried noodles with vegetables beans and soy sauce (S\,G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mexíkósk grænmetissúpa með nachos (G\,S)\nMexico s oup with n
+ achos (G\,S)
+DTSTART:20240814T110000
+DTEND:20240814T130000
+DTSTAMP:20240814T110000Z
+UID:2024-08-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Mexíkósk grænmetissúpa með nachos (G\,S)\nMexico s oup wi
+ th nachos (G\,S)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
+ dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
+ es  and cold dressing
+DTSTART:20240815T110000
+DTEND:20240815T130000
+DTSTAMP:20240815T110000Z
+UID:2024-08-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
+  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
+ tatoes  and cold dressing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grænmetisbollur með southern krydduðum smælki kartöflum og dr
+ essingu\nVeggie tots with southern spiced potatoes and dressing
+DTSTART:20240816T110000
+DTEND:20240816T130000
+DTSTAMP:20240816T110000Z
+UID:2024-08-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisbollur með southern krydduðum smælki kartöflum o
+ g dressingu\nVeggie tots with southern spiced potatoes and dressing
+END:VEVENT
 END:VCALENDAR
