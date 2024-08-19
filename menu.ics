@@ -2,67 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad of t
- he day: Blómkál  – Cauliflower  (V)\nSítrónu kjúklingabringur með 
- brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon chicken
-  breasts with brown rice and cold pepper - and truffle sauce (E)
-DTSTART:20240812T110000
-DTEND:20240812T130000
-DTSTAMP:20240812T110000Z
-UID:2024-08-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad 
- of the day: Blómkál  – Cauliflower  (V)\nSítrónu kjúklingabringur m
- eð brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon chi
- cken breasts with brown rice and cold pepper - and truffle sauce (E)
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýsa me
+ ð grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with gree
+ n curry sauce served with rice
+DTSTART:20240819T110000
+DTEND:20240819T130000
+DTSTAMP:20240819T110000Z
+UID:2024-08-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýs
+ a með grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with 
+ green curry sauce served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSteikt
-  ýsa í raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G)\nF
- ried haddock in breadcrumbs with cocktailsauce\, potato wedges and colesla
- w (E\,G)
-DTSTART:20240813T110000
-DTEND:20240813T130000
-DTSTAMP:20240813T110000Z
-UID:2024-08-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSt
- eikt ýsa í raspi með kokteilsósu\, kartöflubátum og hrásalati (E\,G
- )\nFried haddock in breadcrumbs with cocktailsauce\, potato wedges and col
- eslaw (E\,G)
+SUMMARY:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V)\nL
+ ambapottréttur í brúnni sósu ásamt steiktum kartölfum\, rauðkáli o
+ g rababarasultu\nLamb stew in brown sauce served with roasted potatoes\, r
+ ed cabbage and rhubarb jam
+DTSTART:20240820T110000
+DTEND:20240820T130000
+DTSTAMP:20240820T110000Z
+UID:2024-08-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V
+ )\nLambapottréttur í brúnni sósu ásamt steiktum kartölfum\, rauðká
+ li og rababarasultu\nLamb stew in brown sauce served with roasted potatoes
+ \, red cabbage and rhubarb jam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nMe
- xíkósk kjúklingasúpa með nachos\, rifnum osti og sýrðum rjóma (G\,
- E)\nMexico chicken soup with sour cream and nachos  (G\,E)
-DTSTART:20240814T110000
-DTEND:20240814T130000
-DTSTAMP:20240814T110000Z
-UID:2024-08-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
- \nMexíkósk kjúklingasúpa með nachos\, rifnum osti og sýrðum rjóma 
- (G\,E)\nMexico chicken soup with sour cream and nachos  (G\,E)
+SUMMARY:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Salad o
+ f the day: Brokkólí og grasker – broccoli and pumpkin  (V)\nLasagna á
+  ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian l
+ asagna with garlic bread and cold slaw (M\,G\,E)
+DTSTART:20240821T110000
+DTEND:20240821T130000
+DTSTAMP:20240821T110000Z
+UID:2024-08-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Sal
+ ad of the day: Brokkólí og grasker – broccoli and pumpkin  (V)\nLasagn
+ a á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItali
+ an lasagna with garlic bread and cold slaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
- grænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of lamb  w
- ith root vegetables\, potato au gratin and herb gravy  (M)
-DTSTART:20240815T110000
-DTEND:20240815T130000
-DTSTAMP:20240815T110000Z
-UID:2024-08-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
- ótargrænmeti\, kartöflugratíni og kryddjurtarsoðsósu  (M)\nLeg of la
- mb  with root vegetables\, potato au gratin and herb gravy  (M)
+SUMMARY:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísalund
+ ir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjómaos
+ ta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and appl
+ es served with small potatoes and\ncream cheese pepper sauce (M)
+DTSTART:20240822T110000
+DTEND:20240822T130000
+DTSTAMP:20240822T110000Z
+UID:2024-08-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísa
+ lundir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjó
+ maosta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and 
+ apples served with small potatoes and\ncream cheese pepper sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
- ð southern krydduðum smælki kartöflum\nChicken in BBQ sauce with south
- ern spiced potatoes
-DTSTART:20240816T110000
-DTEND:20240816T130000
-DTSTAMP:20240816T110000Z
-UID:2024-08-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
- u með southern krydduðum smælki kartöflum\nChicken in BBQ sauce with s
- outhern spiced potatoes
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nSoft taco með rifnu nauta b
+ risket\, súrsuðu rauðkáli\, stökkum hnetu raspi og vorlauk\n(G)\nSoft
+  taco with pulled brisket\, pickled red cabbage\, crispy nut bread crumbs 
+ and spring\nonion (G)
+DTSTART:20240823T110000
+DTEND:20240823T130000
+DTSTAMP:20240823T110000Z
+UID:2024-08-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nSoft taco með rifnu nau
+ ta brisket\, súrsuðu rauðkáli\, stökkum hnetu raspi og vorlauk\n(G)\n
+ Soft taco with pulled brisket\, pickled red cabbage\, crispy nut bread cru
+ mbs and spring\nonion (G)
 END:VEVENT
 END:VCALENDAR
