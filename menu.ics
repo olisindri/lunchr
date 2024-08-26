@@ -2,71 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýsa me
- ð grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with gree
- n curry sauce served with rice
-DTSTART:20240819T110000
-DTEND:20240819T130000
-DTSTAMP:20240819T110000Z
-UID:2024-08-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýs
- a með grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with 
- green curry sauce served with rice
+SUMMARY:Hvítaspa ssúpa   - White asparagus  soup  (G\,M)\nSalat dagsins 
+ - Salad of the day: Sætar kartöflur  – Sweet potatoes  (V)\nGratínera
+ ður plokkfiskur með bearnaise sósu ásamt rúgbrauði (G\,M\,E)\nEau de
+  gratin fish stew with bearnaise sauce and ryebread (G\,M\,E)
+DTSTART:20240826T110000
+DTEND:20240826T130000
+DTSTAMP:20240826T110000Z
+UID:2024-08-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítaspa ssúpa   - White asparagus  soup  (G\,M)\nSalat dags
+ ins - Salad of the day: Sætar kartöflur  – Sweet potatoes  (V)\nGratí
+ neraður plokkfiskur með bearnaise sósu ásamt rúgbrauði (G\,M\,E)\nEa
+ u de gratin fish stew with bearnaise sauce and ryebread (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V)\nL
- ambapottréttur í brúnni sósu ásamt steiktum kartölfum\, rauðkáli o
- g rababarasultu\nLamb stew in brown sauce served with roasted potatoes\, r
- ed cabbage and rhubarb jam
-DTSTART:20240820T110000
-DTEND:20240820T130000
-DTSTAMP:20240820T110000Z
-UID:2024-08-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V
- )\nLambapottréttur í brúnni sósu ásamt steiktum kartölfum\, rauðká
- li og rababarasultu\nLamb stew in brown sauce served with roasted potatoes
- \, red cabbage and rhubarb jam
+SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolaldakj
+ öt í Guinness með sveppum og grænmeti ásamt  kartöflumús  (M\,G)\nF
+ oal meat in Guinness with mushrooms and mashed potatoes (M\,G)
+DTSTART:20240827T110000
+DTEND:20240827T130000
+DTSTAMP:20240827T110000Z
+UID:2024-08-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolald
+ akjöt í Guinness með sveppum og grænmeti ásamt  kartöflumús  (M\,G)
+ \nFoal meat in Guinness with mushrooms and mashed potatoes (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Salad o
- f the day: Brokkólí og grasker – broccoli and pumpkin  (V)\nLasagna á
-  ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian l
- asagna with garlic bread and cold slaw (M\,G\,E)
-DTSTART:20240821T110000
-DTEND:20240821T130000
-DTSTAMP:20240821T110000Z
-UID:2024-08-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Sal
- ad of the day: Brokkólí og grasker – broccoli and pumpkin  (V)\nLasagn
- a á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItali
- an lasagna with garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Lauk súpa – Onion  soup  (G\,M)\nSalat dagsins – Salad of the
+  day: Paprika og basilíka – Bell pepper and basil\nHarissa krydduð ble
+ ikja með ananassalsa og steiktum kartöflum\nHarissa spiced char with pin
+ eapple salsa and roasted potatoes
+DTSTART:20240828T110000
+DTEND:20240828T130000
+DTSTAMP:20240828T110000Z
+UID:2024-08-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lauk súpa – Onion  soup  (G\,M)\nSalat dagsins – Salad of
+  the day: Paprika og basilíka – Bell pepper and basil\nHarissa krydduð
+  bleikja með ananassalsa og steiktum kartöflum\nHarissa spiced char with
+  pineapple salsa and roasted potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísalund
- ir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjómaos
- ta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and appl
- es served with small potatoes and\ncream cheese pepper sauce (M)
-DTSTART:20240822T110000
-DTEND:20240822T130000
-DTSTAMP:20240822T110000Z
-UID:2024-08-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísa
- lundir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjó
- maosta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and 
- apples served with small potatoes and\ncream cheese pepper sauce (M)
+SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nLambaskankar með k
+ artöflumús ásamt rauðkáli og rauðvínssósu (M)\nLamb skanks with ma
+ shed potatoes\, red cabbage and red wine sauce (M)
+DTSTART:20240829T110000
+DTEND:20240829T130000
+DTSTAMP:20240829T110000Z
+UID:2024-08-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nLambaskankar me
+ ð kartöflumús ásamt rauðkáli og rauðvínssósu (M)\nLamb skanks wit
+ h mashed potatoes\, red cabbage and red wine sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nSoft taco með rifnu nauta b
- risket\, súrsuðu rauðkáli\, stökkum hnetu raspi og vorlauk\n(G)\nSoft
-  taco with pulled brisket\, pickled red cabbage\, crispy nut bread crumbs 
- and spring\nonion (G)
-DTSTART:20240823T110000
-DTEND:20240823T130000
-DTSTAMP:20240823T110000Z
-UID:2024-08-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nSoft taco með rifnu nau
- ta brisket\, súrsuðu rauðkáli\, stökkum hnetu raspi og vorlauk\n(G)\n
- Soft taco with pulled brisket\, pickled red cabbage\, crispy nut bread cru
- mbs and spring\nonion (G)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexíkóskt lasagna með
+  kjúkling ásamt nachos og sýrðum rjóma (G\,M)\nMexican lasagna with c
+ hicken served with nachos and sour cream (G\,M)
+DTSTART:20240830T110000
+DTEND:20240830T130000
+DTSTAMP:20240830T110000Z
+UID:2024-08-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexíkóskt lasagna 
+ með kjúkling ásamt nachos og sýrðum rjóma (G\,M)\nMexican lasagna wi
+ th chicken served with nachos and sour cream (G\,M)
 END:VEVENT
 END:VCALENDAR

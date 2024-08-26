@@ -2,66 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
- G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
-DTSTART:20240819T110000
-DTEND:20240819T130000
-DTSTAMP:20240819T110000Z
-UID:2024-08-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
- (S\,G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt krydduðu 
+ cous cous\nVegetables red curry with beans and vegetables served with spic
+ ed cous cous
+DTSTART:20240826T110000
+DTEND:20240826T130000
+DTSTAMP:20240826T110000Z
+UID:2024-08-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt kryddu
+ ðu cous cous\nVegetables red curry with beans and vegetables served with 
+ spiced cous cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu -\, paprika - og baunabollur með heitri tómat - og
-  kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper and bean 
- balls with hot tomato - and caraway sauce served\nwith rice
-DTSTART:20240820T110000
-DTEND:20240820T130000
-DTSTAMP:20240820T110000Z
-UID:2024-08-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu -\, paprika - og baunabollur með heitri tómat 
- - og kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper and b
- ean balls with hot tomato - and caraway sauce served\nwith rice
+SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
+ sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
+ pesto (H)
+DTSTART:20240827T110000
+DTEND:20240827T130000
+DTSTAMP:20240827T110000Z
+UID:2024-08-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
+ a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
+ ola pesto (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
-DTSTART:20240821T110000
-DTEND:20240821T130000
-DTSTAMP:20240821T110000Z
-UID:2024-08-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
- G)
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice and sweet chili sauce\n(G\,S)
+DTSTART:20240828T110000
+DTEND:20240828T130000
+DTSTAMP:20240828T110000Z
+UID:2024-08-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt sætkartöflumús og mangó jalapeno
- sósu\nVegetable frikadeller  served with mashed sweet potatoes and mango 
- jalapeno sauce
-DTSTART:20240822T110000
-DTEND:20240822T130000
-DTSTAMP:20240822T110000Z
-UID:2024-08-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt sætkartöflumús og mangó jala
- penosósu\nVegetable frikadeller  served with mashed sweet potatoes and ma
- ngo jalapeno sauce
+SUMMARY:Indverskt  dahl í korma karrý og linsubaunum ásamt hrísgrjónu
+ m og Naan brauði (G)\nIndian dahl in korma curry and lentils served with 
+ rice and Naan bread (G)
+DTSTART:20240829T110000
+DTEND:20240829T130000
+DTSTAMP:20240829T110000Z
+UID:2024-08-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Indverskt  dahl í korma karrý og linsubaunum ásamt hrísgrj
+ ónum og Naan brauði (G)\nIndian dahl in korma curry and lentils served w
+ ith rice and Naan bread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, súrsu
- ðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco with s
- moked beets\, “not chicken”\, pickled red cabbage\, crispy nut bread\n
- crumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetur/Pea
- nuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
- ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
- garlic for our vegan courses
-DTSTART:20240823T110000
-DTEND:20240823T130000
-DTSTAMP:20240823T110000Z
-UID:2024-08-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, s
- úrsuðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco w
- ith smoked beets\, “not chicken”\, pickled red cabbage\, crispy nut br
- ead\ncrumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetu
- r/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk 
- og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion
-  and garlic for our vegan courses
+SUMMARY:Mexíkóskt lasagna með baunum ásamt nachos (G)\nMexican lasagna
+  with beans served with nachos (G)
+DTSTART:20240830T110000
+DTEND:20240830T130000
+DTSTAMP:20240830T110000Z
+UID:2024-08-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Mexíkóskt lasagna með baunum ásamt nachos (G)\nMexican las
+ agna with beans served with nachos (G)
 END:VEVENT
 END:VCALENDAR
