@@ -2,64 +2,64 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
- egetables and peas served with rice and sweet chili\nsauce (G)
-DTSTART:20240902T110000
-DTEND:20240902T130000
-DTSTAMP:20240902T110000Z
-UID:2024-09-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas served with rice and sweet chili\nsauce (G)
+SUMMARY:Sætkartöflu\, papriku og baunabollur með heitri tómat - og kú
+ mensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and bean ba
+ lls with a hot tomato - and cumin sauce served\nwith rice
+DTSTART:20240909T110000
+DTEND:20240909T130000
+DTSTAMP:20240909T110000Z
+UID:2024-09-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með heitri tómat - og
+  kúmensósu ásamt\nhrísgrjónum\nSweet potato -\, bell pepper - and bea
+ n balls with a hot tomato - and cumin sauce served\nwith rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\, lau
- k\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun stew w
- ith chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\, bel
- l\npepper and sweet potatoes
-DTSTART:20240903T110000
-DTEND:20240903T130000
-DTSTAMP:20240903T110000Z
-UID:2024-09-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Cajun pottréttur með kjúklingabaunum\, kúrbít\, sveppum\,
-  lauk\, sellerýrót\, gulrótum\,\npaprika og sætum kartöflum\nCajun st
- ew with chickpeas\, zucchini\, mushrooms\, onion\, celery root\, carrots\,
-  bell\npepper and sweet potatoes
+SUMMARY:"Ekki kjúklingur" í kremaðri sósu með basil\, timian og sól
+ þurrkuðum tómötum ásamt\nhrísgrjónum (S)\n“Not chicken” in a cr
+ eamy sauce with basil\, thyme and sundried tomatoes served with\nrice (S)
+DTSTART:20240910T110000
+DTEND:20240910T130000
+DTSTAMP:20240910T110000Z
+UID:2024-09-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:"Ekki kjúklingur" í kremaðri sósu með basil\, timian og s
+ ólþurrkuðum tómötum ásamt\nhrísgrjónum (S)\n“Not chicken” in a
+  creamy sauce with basil\, thyme and sundried tomatoes served with\nrice (
+ S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetisbuff ásamt kald
- ri dressingu og bakaðri\nkartöflu\nCashew -\, black bean -\, potato - an
- d vegetable rissole served with cold dressing and a\nbaked potato
-DTSTART:20240904T110000
-DTEND:20240904T130000
-DTSTAMP:20240904T110000Z
-UID:2024-09-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetisbuff ásamt 
- kaldri dressingu og bakaðri\nkartöflu\nCashew -\, black bean -\, potato 
- - and vegetable rissole served with cold dressing and a\nbaked potato
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20240911T110000
+DTEND:20240911T130000
+DTSTAMP:20240911T110000Z
+UID:2024-09-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk (
- G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20240905T110000
-DTEND:20240905T130000
-DTSTAMP:20240905T110000Z
-UID:2024-09-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk (G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G
- )
+SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
+ curry with rice
+DTSTART:20240912T110000
+DTEND:20240912T130000
+DTSTAMP:20240912T110000Z
+UID:2024-09-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
- Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20240906T110000
-DTEND:20240906T130000
-DTSTAMP:20240906T110000Z
-UID:2024-09-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:"Ekki Kjúklingaborgari" með kóreskri BBQ sósu og kimchi hrása
+ lati ásamt rösti\nkartöflum  (S\,G)\n“Not chicken” burger with Kore
+ an BBQ sauce and kimchi coleslaw served rösti potatoes\n(S\,G)\n(G) – G
+ lúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20240913T110000
+DTEND:20240913T130000
+DTSTAMP:20240913T110000Z
+UID:2024-09-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:"Ekki Kjúklingaborgari" með kóreskri BBQ sósu og kimchi hr
+ ásalati ásamt rösti\nkartöflum  (S\,G)\n“Not chicken” burger with 
+ Korean BBQ sauce and kimchi coleslaw served rösti potatoes\n(S\,G)\n(G) 
+ – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR

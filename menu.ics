@@ -2,71 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup\nKjúklingabringur með svepp
- a -\, beikon - og portvínssósu ásamt steiktum kartöflum (M)\nChicken b
- reasts with mushroom -\, bacon - and port sauce served with roasted potato
- es\n(M)
-DTSTART:20240902T110000
-DTEND:20240902T130000
-DTSTAMP:20240902T110000Z
-UID:2024-09-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup\nKjúklingabringur með s
- veppa -\, beikon - og portvínssósu ásamt steiktum kartöflum (M)\nChick
- en breasts with mushroom -\, bacon - and port sauce served with roasted po
- tatoes\n(M)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
+ u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curry an
+ d coconut served with rice (G)
+DTSTART:20240909T110000
+DTEND:20240909T130000
+DTSTAMP:20240909T110000Z
+UID:2024-09-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
+ auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curr
+ y and coconut served with rice (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kartöflu - og blaðlauks súpa  – Potato - and leek  soup  (V)\
- nUngverskt “reykt” nautagúllas með sinneps kartöflumús\nHungarian 
- “smoked” beef goulash served with mustard mashed potatoes
-DTSTART:20240903T110000
-DTEND:20240903T130000
-DTSTAMP:20240903T110000Z
-UID:2024-09-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu - og blaðlauks súpa  – Potato - and leek  soup  
- (V)\nUngverskt “reykt” nautagúllas með sinneps kartöflumús\nHungar
- ian “smoked” beef goulash served with mustard mashed potatoes
+SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
+ up  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sólþurr
+ kuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce with 
+ basil\, parmesan and sundried tomatoes served with rice\n(M)
+DTSTART:20240910T110000
+DTEND:20240910T130000
+DTSTAMP:20240910T110000Z
+UID:2024-09-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
+ o soup  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sól
+ þurrkuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce 
+ with basil\, parmesan and sundried tomatoes served with rice\n(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  með truffluolíu  – Mushroom with truffle oil soup
-  (G\,M)\nSalat dagsins – Salad of the day: Bragðmikið blómkál – ca
- uliflower  (V)\nEggjasteikt ýsa með fersku kartöflusalati og kaldri  dr
- essing (E\,G\,M)\nEgg fried haddock with fresh potato salad and cold dress
- ing (E\,G\,M)
-DTSTART:20240904T110000
-DTEND:20240904T130000
-DTSTAMP:20240904T110000Z
-UID:2024-09-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  með truffluolíu  – Mushroom with truffle oil 
- soup (G\,M)\nSalat dagsins – Salad of the day: Bragðmikið blómkál 
- – cauliflower  (V)\nEggjasteikt ýsa með fersku kartöflusalati og kald
- ri  dressing (E\,G\,M)\nEgg fried haddock with fresh potato salad and cold
-  dressing (E\,G\,M)
+SUMMARY:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\,M)\
+ nLax með steiktum kartöflum og Hollandaise sósu  (E\,M )\nSalmon with r
+ oasted potatoes and Hollandaise sauce (E\,M)
+DTSTART:20240911T110000
+DTEND:20240911T130000
+DTSTAMP:20240911T110000Z
+UID:2024-09-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\
+ ,M)\nLax með steiktum kartöflum og Hollandaise sósu  (E\,M )\nSalmon wi
+ th roasted potatoes and Hollandaise sauce (E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rótargrænmetis súpa  með byggi  – Root vegetable  soup  with
-  barley  (V\,G)\nGrísa Snitzel með steiktum kartöflum\, grænum baunum 
- og soð sósu (E\,G\,M)\nPork Schnitzel with roasted potatoes\, peas and g
- ravy (E\,G\,M)
-DTSTART:20240905T110000
-DTEND:20240905T130000
-DTSTAMP:20240905T110000Z
-UID:2024-09-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rótargrænmetis súpa  með byggi  – Root vegetable  soup  
- with barley  (V\,G)\nGrísa Snitzel með steiktum kartöflum\, grænum bau
- num og soð sósu (E\,G\,M)\nPork Schnitzel with roasted potatoes\, peas a
- nd gravy (E\,G\,M)
+SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með kartö
+ flugratín og soðsósu  (M)\nLeg of lamb with au Gratin potatoes  and dem
+ i -glaze  sauce (M)
+DTSTART:20240912T110000
+DTEND:20240912T130000
+DTSTAMP:20240912T110000Z
+UID:2024-09-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með ka
+ rtöflugratín og soðsósu  (M)\nLeg of lamb with au Gratin potatoes  and
+  demi -glaze  sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum  og Naan brauði (G\,M)\nChicken thigh tikka masala wi
- th ric e and Naan bread (G\,M)
-DTSTART:20240906T110000
-DTEND:20240906T130000
-DTSTAMP:20240906T110000Z
-UID:2024-09-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum  og Naan brauði (G\,M)\nChicken thigh tikka masal
- a with ric e and Naan bread (G\,M)
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með kó
+ reskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\,S\,
+ M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served with r
+ östi potatoes\n(G\,E\,S\,M)
+DTSTART:20240913T110000
+DTEND:20240913T130000
+DTSTAMP:20240913T110000Z
+UID:2024-09-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
+  kóreskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\
+ ,S\,M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served wi
+ th rösti potatoes\n(G\,E\,S\,M)
 END:VEVENT
 END:VCALENDAR
