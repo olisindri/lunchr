@@ -2,74 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppa súpa  – Mushroom  soup (G \,M)\nVorrúllur með nautakj
- öti ásamt hrísgrjónum\, steiktu hvítkáli\, kaldri mangó jalapeno s
- ósu\nog heitri karrý sósy (G)\nSpring rolls with beef served with rice\
- , fried white cabbage\, cold mango jalapeno sauce\nand hot curry sauce (G)
-DTSTART:20240916T110000
-DTEND:20240916T130000
-DTSTAMP:20240916T110000Z
-UID:2024-09-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppa súpa  – Mushroom  soup (G \,M)\nVorrúllur með naut
- akjöti ásamt hrísgrjónum\, steiktu hvítkáli\, kaldri mangó jalapeno
-  sósu\nog heitri karrý sósy (G)\nSpring rolls with beef served with ric
- e\, fried white cabbage\, cold mango jalapeno sauce\nand hot curry sauce (
- G)
+SUMMARY:Villis veppasúpa – Wild Mushroom soup (M\,G)\nLambakjöt í kar
+ rýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sauce ser
+ ved with rice  (M\,G)
+DTSTART:20240923T110000
+DTEND:20240923T130000
+DTSTAMP:20240923T110000Z
+UID:2024-09-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villis veppasúpa – Wild Mushroom soup (M\,G)\nLambakjöt í
+  karrýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sauce
+  served with rice  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Salad 
- of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cous\,\
- ntomato\, bell pepper and ruccola  (V)\nPönnusteiktur steinbítur í truf
- fle pankó raspi ásamt steiktum kartöflum\, fersku hrásalati\nog piparm
- ajó  (G\,M\,E)\nPan fried catfish in truffle panko breadcrumbs served wit
- h roasted potatoes\, fresh\ncoleslaw and  pepper mayo (G\,M\,E)
-DTSTART:20240917T110000
-DTEND:20240917T130000
-DTSTAMP:20240917T110000Z
-UID:2024-09-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Sa
- lad of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cou
- s\,\ntomato\, bell pepper and ruccola  (V)\nPönnusteiktur steinbítur í 
- truffle pankó raspi ásamt steiktum kartöflum\, fersku hrásalati\nog pi
- parmajó  (G\,M\,E)\nPan fried catfish in truffle panko breadcrumbs served
-  with roasted potatoes\, fresh\ncoleslaw and  pepper mayo (G\,M\,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup (V\,G)\nCoq au vin - Kj
+ úklingur í rauðvínssósu með beikoni og sveppum ásamt kartöflumús 
+ (M)\nCoq au vin – Chicken in red wine sauce with bacon and mushrooms ser
+ ved with mashed\npotatoes  (M)
+DTSTART:20240924T110000
+DTEND:20240924T130000
+DTSTAMP:20240924T110000Z
+UID:2024-09-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvít aspassúpa – White asparagus soup (V\,G)\nCoq au vin -
+  Kjúklingur í rauðvínssósu með beikoni og sveppum ásamt kartöflum
+ ús (M)\nCoq au vin – Chicken in red wine sauce with bacon and mushrooms
+  served with mashed\npotatoes  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóríander súpa – Carrot - coriander  soup  (G\
- ,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (G\,M
- \,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
-DTSTART:20240918T110000
-DTEND:20240918T130000
-DTSTAMP:20240918T110000Z
-UID:2024-09-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóríander súpa – Carrot - coriander  soup 
-  (G\,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
- G\,M\,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
+SUMMARY:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)\nSa
+ lat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktur fi
+ skur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði 
+ (G\,E)\nFried fish in bread crumbs served with war m potato salad \, pickl
+ es  and remoulade (G\,E)
+DTSTART:20240925T110000
+DTEND:20240925T130000
+DTSTAMP:20240925T110000Z
+UID:2024-09-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)
+ \nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktu
+ r fiskur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúla
+ ði (G\,E)\nFried fish in bread crumbs served with war m potato salad \, p
+ ickles  and remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa með s
- ætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mashed s
- weet potatoes\, apple salad and gravy (M\,G)
-DTSTART:20240919T110000
-DTEND:20240919T130000
-DTSTAMP:20240919T110000Z
-UID:2024-09-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa me
- ð sætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mash
- ed sweet potatoes\, apple salad and gravy (M\,G)
+SUMMARY:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)\nNa
+ uta rib eye með steiktum kartöflum\, brokkolí og rauðrófum ásamt bea
+ rnaise sósu (E\,M)\nBeef rib eye with fried potatoes\, broccoli and beets
+  served with bearnaise sauce  (E\,M)
+DTSTART:20240926T110000
+DTEND:20240926T130000
+DTSTAMP:20240926T110000Z
+UID:2024-09-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)
+ \nNauta rib eye með steiktum kartöflum\, brokkolí og rauðrófum ásamt
+  bearnaise sósu (E\,M)\nBeef rib eye with fried potatoes\, broccoli and b
+ eets served with bearnaise sauce  (E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\nKlassískur ostborgari með
-  hamborgarasósu og grænmeti ásamt kartöflubátum og\nkokteilsósu (G\,
- M\,E)\nClassic cheese burger with burger sauce and vegetables served with 
- potato wedges\nand cocktailsauce (G\,M\,E)
-DTSTART:20240920T110000
-DTEND:20240920T130000
-DTSTAMP:20240920T110000Z
-UID:2024-09-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\nKlassískur ostborgari 
- með hamborgarasósu og grænmeti ásamt kartöflubátum og\nkokteilsósu 
- (G\,M\,E)\nClassic cheese burger with burger sauce and vegetables served w
- ith potato wedges\nand cocktailsauce (G\,M\,E)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænmeti o
+ g pítusósu ásamt kartöflubátum (G\,M \,E)\nPita bread with beef\, veg
+ etables and pita sauce served with potatoes wedges  (G\,M \,E)
+DTSTART:20240927T110000
+DTEND:20240927T130000
+DTSTAMP:20240927T110000Z
+UID:2024-09-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænme
+ ti og pítusósu ásamt kartöflubátum (G\,M \,E)\nPita bread with beef\,
+  vegetables and pita sauce served with potatoes wedges  (G\,M \,E)
 END:VEVENT
 END:VCALENDAR
