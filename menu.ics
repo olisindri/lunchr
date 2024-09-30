@@ -2,71 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villis veppasúpa – Wild Mushroom soup (M\,G)\nLambakjöt í kar
- rýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sauce ser
- ved with rice  (M\,G)
-DTSTART:20240923T110000
-DTEND:20240923T130000
-DTSTAMP:20240923T110000Z
-UID:2024-09-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villis veppasúpa – Wild Mushroom soup (M\,G)\nLambakjöt í
-  karrýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sauce
-  served with rice  (M\,G)
+SUMMARY:Frönsk lauksúpa  – French onion  soup\nKjúklingur í rauðu k
+ arrý og kókós ásamt hrísgrjónum\nChicken in red curry serced with ri
+ ce
+DTSTART:20240930T110000
+DTEND:20240930T130000
+DTSTAMP:20240930T110000Z
+UID:2024-09-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Frönsk lauksúpa  – French onion  soup\nKjúklingur í rau
+ ðu karrý og kókós ásamt hrísgrjónum\nChicken in red curry serced wi
+ th rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup (V\,G)\nCoq au vin - Kj
- úklingur í rauðvínssósu með beikoni og sveppum ásamt kartöflumús 
- (M)\nCoq au vin – Chicken in red wine sauce with bacon and mushrooms ser
- ved with mashed\npotatoes  (M)
-DTSTART:20240924T110000
-DTEND:20240924T130000
-DTSTAMP:20240924T110000Z
-UID:2024-09-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup (V\,G)\nCoq au vin -
-  Kjúklingur í rauðvínssósu með beikoni og sveppum ásamt kartöflum
- ús (M)\nCoq au vin – Chicken in red wine sauce with bacon and mushrooms
-  served with mashed\npotatoes  (M)
+SUMMARY:Grænertu súpa – Pea soup ( V)\nSpaghetti Bolognese með hrása
+ lati og hvítlauksbrauði (G\,M )\nSpaghetti Bolognese with coleslaw and g
+ arlic bread (G\,M )
+DTSTART:20241001T110000
+DTEND:20241001T130000
+DTSTAMP:20241001T110000Z
+UID:2024-10-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænertu súpa – Pea soup ( V)\nSpaghetti Bolognese með hr
+ ásalati og hvítlauksbrauði (G\,M )\nSpaghetti Bolognese with coleslaw a
+ nd garlic bread (G\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)\nSa
- lat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktur fi
- skur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði 
- (G\,E)\nFried fish in bread crumbs served with war m potato salad \, pickl
- es  and remoulade (G\,E)
-DTSTART:20240925T110000
-DTEND:20240925T130000
-DTSTAMP:20240925T110000Z
-UID:2024-09-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)
- \nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktu
- r fiskur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúla
- ði (G\,E)\nFried fish in bread crumbs served with war m potato salad \, p
- ickles  and remoulade (G\,E)
+SUMMARY:Kremuð tómat súpa – Creamy tomato  soup\nSuðurríkja steiktu
+ r steinbítur  með kaldri dressingu og kartöflum  (G\,E)\nSouthern fried
+  catfish  with cold dressing and potatoes  (G\,E)
+DTSTART:20241002T110000
+DTEND:20241002T130000
+DTSTAMP:20241002T110000Z
+UID:2024-10-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómat súpa – Creamy tomato  soup\nSuðurríkja ste
+ iktur steinbítur  með kaldri dressingu og kartöflum  (G\,E)\nSouthern f
+ ried catfish  with cold dressing and potatoes  (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)\nNa
- uta rib eye með steiktum kartöflum\, brokkolí og rauðrófum ásamt bea
- rnaise sósu (E\,M)\nBeef rib eye with fried potatoes\, broccoli and beets
-  served with bearnaise sauce  (E\,M)
-DTSTART:20240926T110000
-DTEND:20240926T130000
-DTSTAMP:20240926T110000Z
-UID:2024-09-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)
- \nNauta rib eye með steiktum kartöflum\, brokkolí og rauðrófum ásamt
-  bearnaise sósu (E\,M)\nBeef rib eye with fried potatoes\, broccoli and b
- eets served with bearnaise sauce  (E\,M)
+SUMMARY:Spínat - og karrý súpa – Spinach - and curry  soup ( V)\nLamb
+ akótelettur  með steiktum kartöflum\, rauðkáli og rjómalagaðri svep
+ pasósu (G\,E\,M)\nLamb chop  with fried potatoes\, red cabbage and creamy
+  mushroom sauce  (G\,E\,M )
+DTSTART:20241003T110000
+DTEND:20241003T130000
+DTSTAMP:20241003T110000Z
+UID:2024-10-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat - og karrý súpa – Spinach - and curry  soup ( V)\n
+ Lambakótelettur  með steiktum kartöflum\, rauðkáli og rjómalagaðri 
+ sveppasósu (G\,E\,M)\nLamb chop  with fried potatoes\, red cabbage and cr
+ eamy mushroom sauce  (G\,E\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænmeti o
- g pítusósu ásamt kartöflubátum (G\,M \,E)\nPita bread with beef\, veg
- etables and pita sauce served with potatoes wedges  (G\,M \,E)
-DTSTART:20240927T110000
-DTEND:20240927T130000
-DTSTAMP:20240927T110000Z
-UID:2024-09-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænme
- ti og pítusósu ásamt kartöflubátum (G\,M \,E)\nPita bread with beef\,
-  vegetables and pita sauce served with potatoes wedges  (G\,M \,E)
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nSoft taco með krispý kj
+ úkling\, hvítkálssalati\, hot sauce og gráðostasósu (G\,S\,E\,M)\nSo
+ ft taco with crispy chicken\, white cabbage\, hot sauce and blue cheese dr
+ essing\n(G\,S\,E\,M)
+DTSTART:20241004T110000
+DTEND:20241004T130000
+DTSTAMP:20241004T110000Z
+UID:2024-10-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nSoft taco með krisp
+ ý kjúkling\, hvítkálssalati\, hot sauce og gráðostasósu (G\,S\,E\,M
+ )\nSoft taco with crispy chicken\, white cabbage\, hot sauce and blue chee
+ se dressing\n(G\,S\,E\,M)
 END:VEVENT
 END:VCALENDAR
