@@ -2,61 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti\nVegetable thai cu
- rry with beans and vegetables
-DTSTART:20240930T110000
-DTEND:20240930T130000
-DTSTAMP:20240930T110000Z
-UID:2024-09-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti\nVegetable tha
- i curry with beans and vegetables
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
+ ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
+ ed with Aioli
+DTSTART:20241007T110000
+DTEND:20241007T130000
+DTSTAMP:20241007T110000Z
+UID:2024-10-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
+ h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
+ served with Aioli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghetti an
- d vegan Bolognese with coleslaw (S\,G)
-DTSTART:20241001T110000
-DTEND:20241001T130000
-DTSTAMP:20241001T110000Z
-UID:2024-10-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghett
- i and vegan Bolognese with coleslaw (S\,G)
+SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
+ lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
+ y beans and onion with rice
+DTSTART:20241008T110000
+DTEND:20241008T130000
+DTSTAMP:20241008T110000Z
+UID:2024-10-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
+ nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
+ idney beans and onion with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nRoast
- ed broccoli with hummus and lentils served with dressing
-DTSTART:20241002T110000
-DTEND:20241002T130000
-DTSTAMP:20241002T110000Z
-UID:2024-10-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nR
- oasted broccoli with hummus and lentils served with dressing
+SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
+ esam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
+DTSTART:20241009T110000
+DTEND:20241009T130000
+DTSTAMP:20241009T110000Z
+UID:2024-10-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
+ og sesam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófum\, 
- kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt mang ó
- -\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\, ca
- rrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach serv
- ed with mango -\, curry - and coconut sauce (G)
-DTSTART:20241003T110000
-DTEND:20241003T130000
-DTSTAMP:20241003T110000Z
-UID:2024-10-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófu
- m\, kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt man
- g ó-\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\
- , carrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach 
- served with mango -\, curry - and coconut sauce (G)
+SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
+  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
+ orn ( H)
+DTSTART:20241010T110000
+DTEND:20241010T130000
+DTSTAMP:20241010T110000Z
+UID:2024-10-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
+ ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
+ et corn ( H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soft taco með krispý "ekki kjúkling"\, hvítkálssalati\, hot s
- auce og dressingu (G\,S)\nSoft taco with “not chicken”\, white cabbage
- \, hot sauce and dressing  (G\,S)
-DTSTART:20241004T110000
-DTEND:20241004T130000
-DTSTAMP:20241004T110000Z
-UID:2024-10-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Soft taco með krispý "ekki kjúkling"\, hvítkálssalati\, h
- ot sauce og dressingu (G\,S)\nSoft taco with “not chicken”\, white cab
- bage\, hot sauce and dressing  (G\,S)
+SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
+ vegan mincemeat  and salsa  (S)
+DTSTART:20241011T110000
+DTEND:20241011T130000
+DTSTAMP:20241011T110000Z
+UID:2024-10-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
+ ith vegan mincemeat  and salsa  (S)
 END:VEVENT
 END:VCALENDAR
