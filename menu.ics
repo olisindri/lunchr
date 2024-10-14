@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetissoð súpa með byggi – Vegetable stock soup with barl
- ey\nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSoði
- n ýsa með kartöflum\, rúgbrauði og karrý sósu  (M)\nBoiled haddock 
- with potatoes\, rye bread and curry sauce (M)
-DTSTART:20241007T110000
-DTEND:20241007T130000
-DTSTAMP:20241007T110000Z
-UID:2024-10-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissoð súpa með byggi – Vegetable stock soup with 
- barley\nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nS
- oðin ýsa með kartöflum\, rúgbrauði og karrý sósu  (M)\nBoiled hadd
- ock with potatoes\, rye bread and curry sauce (M)
+SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabringur 
+ með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon ch
+ icken breasts with brown rice and cold pepper - and truffle sauce (E)
+DTSTART:20241014T110000
+DTEND:20241014T130000
+DTSTAMP:20241014T110000Z
+UID:2024-10-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabrin
+ gur með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemo
+ n chicken breasts with brown rice and cold pepper - and truffle sauce (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nNauta Bourguignon með kartöflumús og fersku salati (G\,M)\nBeef Bour
- guignin  with mashed potatoes and fresh salad  (G\,M)
-DTSTART:20241008T110000
-DTEND:20241008T130000
-DTSTAMP:20241008T110000Z
-UID:2024-10-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nNauta Bourguignon með kartöflumús og fersku salati (G\,M)\nBeef 
- Bourguignin  with mashed potatoes and fresh salad  (G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSalat 
+ dagsins – Salad of the day: Blómkál – Cauliflower ( V)\nLétt salta
+ ður þorskur með tómat\, paprika og ólífum ásamt steiktum kartöflum
+ \nLightly salted cod with tomato\, bell pepper and olives served with roas
+ ted potatoes
+DTSTART:20241015T110000
+DTEND:20241015T130000
+DTSTAMP:20241015T110000Z
+UID:2024-10-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSa
+ lat dagsins – Salad of the day: Blómkál – Cauliflower ( V)\nLétt sa
+ ltaður þorskur með tómat\, paprika og ólífum ásamt steiktum kartöf
+ lum\nLightly salted cod with tomato\, bell pepper and olives served with r
+ oasted potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nLax Kreóle með sæt
- um kartöflum  og sýrðum rjóma  (M)\nSalmon  with creole spice served w
- ith sweet potatoes and sour cream (M)
-DTSTART:20241009T110000
-DTEND:20241009T130000
-DTSTAMP:20241009T110000Z
-UID:2024-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nLax Kreóle með 
- sætum kartöflum  og sýrðum rjóma  (M)\nSalmon  with creole spice serv
- ed with sweet potatoes and sour cream (M)
+SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nÍ
+ slensk kjötsúpa með lambakjöti\, bankabyggi og grænmeti (G)\nIcelandi
+ c meat soup with lamb meat\, barley and vegetables (G)
+DTSTART:20241016T110000
+DTEND:20241016T130000
+DTSTAMP:20241016T110000Z
+UID:2024-10-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
+ \nÍslensk kjötsúpa með lambakjöti\, bankabyggi og grænmeti (G)\nIcel
+ andic meat soup with lamb meat\, barley and vegetables (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup ( V)\nKjúklingabringur með piparr
- jómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy peppers
- auce\, yellow corn and rice (M)
-DTSTART:20241010T110000
-DTEND:20241010T130000
-DTSTAMP:20241010T110000Z
-UID:2024-10-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup ( V)\nKjúklingabringur með pi
- parrjómasósu\, mais og hrísgrjónum (M)\nChicken breast with creamy pep
- persauce\, yellow corn and rice (M)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með rótar
+ grænmeti\, kartöflugratín  og kryddjurtarsoð sósu  (M)\nLeg of lamb  
+ with root vegetables\, potato au gratin  and herb au jus (M)
+DTSTART:20241017T110000
+DTEND:20241017T130000
+DTSTAMP:20241017T110000Z
+UID:2024-10-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLamb alæri  með r
+ ótargrænmeti\, kartöflugratín  og kryddjurtarsoð sósu  (M)\nLeg of l
+ amb  with root vegetables\, potato au gratin  and herb au jus (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau tah
- akki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \, 
- salsa and sour cream ( G\,M)
-DTSTART:20241011T110000
-DTEND:20241011T130000
-DTSTAMP:20241011T110000Z
-UID:2024-10-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau
-  tahakki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef
-  \, salsa and sour cream ( G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
+ ð southern krydduðum smælki kartöflum\nChicken in BBQ sauce with south
+ ern spiced potatoes
+DTSTART:20241018T110000
+DTEND:20241018T130000
+DTSTAMP:20241018T110000Z
+UID:2024-10-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
+ u með southern krydduðum smælki kartöflum\nChicken in BBQ sauce with s
+ outhern spiced potatoes
 END:VEVENT
 END:VCALENDAR

@@ -2,61 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
- ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
- ed with Aioli
-DTSTART:20241007T110000
-DTEND:20241007T130000
-DTSTAMP:20241007T110000Z
-UID:2024-10-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
- h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
- served with Aioli
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt brúnu
+ m hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodles\, 
+ vegetables and peas served with brown rice and sweet\nchili sauce (G)
+DTSTART:20241014T110000
+DTEND:20241014T130000
+DTSTAMP:20241014T110000Z
+UID:2024-10-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt br
+ únum hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodle
+ s\, vegetables and peas served with brown rice and sweet\nchili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, kidne
- y beans and onion with rice
-DTSTART:20241008T110000
-DTEND:20241008T130000
-DTSTAMP:20241008T110000Z
-UID:2024-10-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt hrísgrjónum\nVegetable ragu with mushrooms\, spinach\, k
- idney beans and onion with rice
+SUMMARY:Blómkáls - og möndlubuff með dressingu\nCauliflower - and almo
+ nd rissole with dressing
+DTSTART:20241015T110000
+DTEND:20241015T130000
+DTSTAMP:20241015T110000Z
+UID:2024-10-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með dressingu\nCauliflower - and 
+ almond rissole with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
- esam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
-DTSTART:20241009T110000
-DTEND:20241009T130000
-DTSTAMP:20241009T110000Z
-UID:2024-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
- og sesam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
+SUMMARY:Matarmikil grænmetissúpa með bankabyggi og baunum (G)\nHardy ve
+ getable soup with barley and beans (G)
+DTSTART:20241016T110000
+DTEND:20241016T130000
+DTSTAMP:20241016T110000Z
+UID:2024-10-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Matarmikil grænmetissúpa með bankabyggi og baunum (G)\nHard
+ y vegetable soup with barley and beans (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn ( H)
-DTSTART:20241010T110000
-DTEND:20241010T130000
-DTSTAMP:20241010T110000Z
-UID:2024-10-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn ( H)
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kaldri dressingu\n
+ Cannelini  bean and root vegetable cashew steak with cold dressing
+DTSTART:20241017T110000
+DTEND:20241017T130000
+DTSTAMP:20241017T110000Z
+UID:2024-10-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kaldri dressin
+ gu\nCannelini  bean and root vegetable cashew steak with cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
- vegan mincemeat  and salsa  (S)
-DTSTART:20241011T110000
-DTEND:20241011T130000
-DTSTAMP:20241011T110000Z
-UID:2024-10-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
- ith vegan mincemeat  and salsa  (S)
+SUMMARY:“Ekki kjúklingur” í BBQ sósu með southern krydduðum smæl
+ ki kartöflum  (S)\n“Not chicken” in BBQ sauce served  with southern s
+ piced potatoes  (S)
+DTSTART:20241018T110000
+DTEND:20241018T130000
+DTSTAMP:20241018T110000Z
+UID:2024-10-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ekki kjúklingur” í BBQ sósu með southern krydduðum s
+ mælki kartöflum  (S)\n“Not chicken” in BBQ sauce served  with southe
+ rn spiced potatoes  (S)
 END:VEVENT
 END:VCALENDAR
