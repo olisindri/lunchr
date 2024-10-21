@@ -2,57 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt brúnu
- m hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodles\, 
- vegetables and peas served with brown rice and sweet\nchili sauce (G)
-DTSTART:20241014T110000
-DTEND:20241014T130000
-DTSTAMP:20241014T110000Z
-UID:2024-10-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt br
- únum hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodle
- s\, vegetables and peas served with brown rice and sweet\nchili sauce (G)
+SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
+ G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
+DTSTART:20241021T110000
+DTEND:20241021T130000
+DTSTAMP:20241021T110000Z
+UID:2024-10-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
+ (S\,G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með dressingu\nCauliflower - and almo
- nd rissole with dressing
-DTSTART:20241015T110000
-DTEND:20241015T130000
-DTSTAMP:20241015T110000Z
-UID:2024-10-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með dressingu\nCauliflower - and 
- almond rissole with dressing
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
+ ables served with a cold\ndressing
+DTSTART:20241022T110000
+DTEND:20241022T130000
+DTSTAMP:20241022T110000Z
+UID:2024-10-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
+ egetables served with a cold\ndressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matarmikil grænmetissúpa með bankabyggi og baunum (G)\nHardy ve
- getable soup with barley and beans (G)
-DTSTART:20241016T110000
-DTEND:20241016T130000
-DTSTAMP:20241016T110000Z
-UID:2024-10-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Matarmikil grænmetissúpa með bankabyggi og baunum (G)\nHard
- y vegetable soup with barley and beans (G)
+SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
+DTSTART:20241023T110000
+DTEND:20241023T130000
+DTSTAMP:20241023T110000Z
+UID:2024-10-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
+ G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kaldri dressingu\n
- Cannelini  bean and root vegetable cashew steak with cold dressing
-DTSTART:20241017T110000
-DTEND:20241017T130000
-DTSTAMP:20241017T110000Z
-UID:2024-10-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kaldri dressin
- gu\nCannelini  bean and root vegetable cashew steak with cold dressing
+SUMMARY:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jalapeno
+ sósu\nVegetable frikadeller served with small potatoes  and mango jalapen
+ o sauce
+DTSTART:20241024T110000
+DTEND:20241024T130000
+DTSTAMP:20241024T110000Z
+UID:2024-10-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jala
+ penosósu\nVegetable frikadeller served with small potatoes  and mango jal
+ apeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Ekki kjúklingur” í BBQ sósu með southern krydduðum smæl
- ki kartöflum  (S)\n“Not chicken” in BBQ sauce served  with southern s
- piced potatoes  (S)
-DTSTART:20241018T110000
-DTEND:20241018T130000
-DTSTAMP:20241018T110000Z
-UID:2024-10-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:“Ekki kjúklingur” í BBQ sósu með southern krydduðum s
- mælki kartöflum  (S)\n“Not chicken” in BBQ sauce served  with southe
- rn spiced potatoes  (S)
+SUMMARY:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, súrsu
+ ðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco with s
+ moked beets\, “not chicken”\, pickled red cabbage\, crispy nut bread\n
+ crumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetur/Pea
+ nuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
+ ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
+ garlic for our vegan courses
+DTSTART:20241025T110000
+DTEND:20241025T130000
+DTSTAMP:20241025T110000Z
+UID:2024-10-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, s
+ úrsuðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco w
+ ith smoked beets\, “not chicken”\, pickled red cabbage\, crispy nut br
+ ead\ncrumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetu
+ r/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk 
+ og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion
+  and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
