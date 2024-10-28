@@ -2,66 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
- G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
-DTSTART:20241021T110000
-DTEND:20241021T130000
-DTSTAMP:20241021T110000Z
-UID:2024-10-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
- (S\,G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
+ töflum\nPotato and beets rissole with len tils served with herb spiced po
+ tatoes
+DTSTART:20241028T110000
+DTEND:20241028T130000
+DTSTAMP:20241028T110000Z
+UID:2024-10-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
+ akartöflum\nPotato and beets rissole with len tils served with herb spice
+ d potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
- ables served with a cold\ndressing
-DTSTART:20241022T110000
-DTEND:20241022T130000
-DTSTAMP:20241022T110000Z
-UID:2024-10-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
- egetables served with a cold\ndressing
+SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
+ t potato balls  with curry sauce  and rice  (G)
+DTSTART:20241029T110000
+DTEND:20241029T130000
+DTSTAMP:20241029T110000Z
+UID:2024-10-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
+ Sweet potato balls  with curry sauce  and rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
-DTSTART:20241023T110000
-DTEND:20241023T130000
-DTSTAMP:20241023T110000Z
-UID:2024-10-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
- G)
+SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum  og
+  rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes\, c
+ hicken peas\, black beans  and root vegetables served with\nmustard mayo
+DTSTART:20241030T110000
+DTEND:20241030T130000
+DTSTAMP:20241030T110000Z
+UID:2024-10-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
+   og rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes
+ \, chicken peas\, black beans  and root vegetables served with\nmustard ma
+ yo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jalapeno
- sósu\nVegetable frikadeller served with small potatoes  and mango jalapen
- o sauce
-DTSTART:20241024T110000
-DTEND:20241024T130000
-DTSTAMP:20241024T110000Z
-UID:2024-10-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jala
- penosósu\nVegetable frikadeller served with small potatoes  and mango jal
- apeno sauce
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og kald
+ ri dressingu\nWhite kidney bean and root vegetable cashew steak with potat
+ oes and cold dressing
+DTSTART:20241031T110000
+DTEND:20241031T130000
+DTSTAMP:20241031T110000Z
+UID:2024-10-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og 
+ kaldri dressingu\nWhite kidney bean and root vegetable cashew steak with p
+ otatoes and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, súrsu
- ðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco with s
- moked beets\, “not chicken”\, pickled red cabbage\, crispy nut bread\n
- crumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetur/Pea
- nuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
- ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
- garlic for our vegan courses
-DTSTART:20241025T110000
-DTEND:20241025T130000
-DTSTAMP:20241025T110000Z
-UID:2024-10-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Soft taco með reyktum rauðrófum\, “ekki kjúkling”\, s
- úrsuðu rauðkáli\, stökkum hnetu\nraspi og vorlauk (S\,G)\nSoft taco w
- ith smoked beets\, “not chicken”\, pickled red cabbage\, crispy nut br
- ead\ncrumbs and spring onion (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetu
- r/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk 
- og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion
-  and garlic for our vegan courses
+SUMMARY:Vegan Mexico Lasagna top pað með doritos og avacado mauki  (G\,S
+ )\nVegan Mexico Lasagna toped with Dorito’s and mashed avocado (G\,S)\nI
+ nnihaldslýsingar – Ingredients
+DTSTART:20241101T110000
+DTEND:20241101T130000
+DTSTAMP:20241101T110000Z
+UID:2024-11-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan Mexico Lasagna top pað með doritos og avacado mauki  (
+ G\,S)\nVegan Mexico Lasagna toped with Dorito’s and mashed avocado (G\,S
+ )\nInnihaldslýsingar – Ingredients
 END:VEVENT
 END:VCALENDAR
