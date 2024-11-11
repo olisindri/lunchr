@@ -2,63 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel bollur á rauðrófupestói ásamt hrísgrjónum og jógú
- rtsósu\nVegetables red curry with beans and vegetables served with spiced
-  cous cous
-DTSTART:20241104T110000
-DTEND:20241104T130000
-DTSTAMP:20241104T110000Z
-UID:2024-11-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel bollur á rauðrófupestói ásamt hrísgrjónum og j
- ógúrtsósu\nVegetables red curry with beans and vegetables served with s
- piced cous cous
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
+ egetables and peas served with rice and sweet chili\nsauce (G)
+DTSTART:20241111T110000
+DTEND:20241111T130000
+DTSTAMP:20241111T110000Z
+UID:2024-11-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
+ \, vegetables and peas served with rice and sweet chili\nsauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt krydduðu 
- cous cous\nVegetables red curry with beans and vegetables served with spic
- ed cous cous
-DTSTART:20241105T110000
-DTEND:20241105T130000
-DTSTAMP:20241105T110000Z
-UID:2024-11-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt kryddu
- ðu cous cous\nVegetables red curry with beans and vegetables served with 
- spiced cous cous
+SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
+ samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
+ ved with rice
+DTSTART:20241112T110000
+DTEND:20241112T130000
+DTSTAMP:20241112T110000Z
+UID:2024-11-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
+ m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
+  served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
- rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
- odles and peas served with rice and sweet chili sauce\n(G\,S)
-DTSTART:20241106T110000
-DTEND:20241106T130000
-DTSTAMP:20241106T110000Z
-UID:2024-11-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
- ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
- , noodles and peas served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk (
+ G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
+DTSTART:20241113T110000
+DTEND:20241113T130000
+DTSTAMP:20241113T110000Z
+UID:2024-11-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
+ uk (G)\nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, grænum baunum og sve
- ppasósu  (S)\nVegan Schnitzel with roasted potatoes\, peas and mushroom s
- auce  (S)
-DTSTART:20241107T110000
-DTEND:20241107T130000
-DTSTAMP:20241107T110000Z
-UID:2024-11-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, grænum baunum og
-  sveppasósu  (S)\nVegan Schnitzel with roasted potatoes\, peas and mushro
- om sauce  (S)
+SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
+ töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
+ ble steak served with small potatoes and\npepper sauce
+DTSTART:20241114T110000
+DTEND:20241114T130000
+DTSTAMP:20241114T110000Z
+UID:2024-11-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
+  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
+ getable steak served with small potatoes and\npepper sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis - og baunapottréttur í Korma karrý með hrísgrjónu
- m og Naan brauði  (G)\nVegetable - and bean stew in Korma curry with rice
-  and Naan bread  (G)
-DTSTART:20241108T110000
-DTEND:20241108T130000
-DTSTAMP:20241108T110000Z
-UID:2024-11-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis - og baunapottréttur í Korma karrý með hrísgrj
- ónum og Naan brauði  (G)\nVegetable - and bean stew in Korma curry with 
- rice and Naan bread  (G)
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
+ Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20241115T110000
+DTEND:20241115T130000
+DTSTAMP:20241115T110000Z
+UID:2024-11-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
