@@ -2,69 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa með truffluolíu – Mushroom with truffle oil soup (
- G\,M)\nKjúklin gur í sveppa -\, beikon - og portvínssósu ásamt steikt
- um kartöflum (M)\nChicken in mushroom -\, bacon - and port sauce served w
- ith roasted potatoes (M)
-DTSTART:20241111T110000
-DTEND:20241111T130000
-DTSTAMP:20241111T110000Z
-UID:2024-11-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa með truffluolíu – Mushroom with truffle oil so
- up (G\,M)\nKjúklin gur í sveppa -\, beikon - og portvínssósu ásamt st
- eiktum kartöflum (M)\nChicken in mushroom -\, bacon - and port sauce serv
- ed with roasted potatoes (M)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
+ u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curry an
+ d coconut served with rice (G)
+DTSTART:20241118T110000
+DTEND:20241118T130000
+DTSTAMP:20241118T110000Z
+UID:2024-11-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
+ auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curr
+ y and coconut served with rice (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)\nMa
- rokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lam
- b with apricots\, vegetables and rice
-DTSTART:20241112T110000
-DTEND:20241112T130000
-DTSTAMP:20241112T110000Z
-UID:2024-11-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)
- \nMarokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan
-  lamb with apricots\, vegetables and rice
+SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
+ up  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sólþurr
+ kuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce with 
+ basil\, parmesan and sundried tomatoes served with rice\n(M)
+DTSTART:20241119T110000
+DTEND:20241119T130000
+DTSTAMP:20241119T110000Z
+UID:2024-11-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
+ o soup  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sól
+ þurrkuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce 
+ with basil\, parmesan and sundried tomatoes served with rice\n(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup\nSalat dagsins – Salad of t
- he day: Bragðmikið brokkolí  – Spicy broccoli  (V)\nSítrónu - og fe
- nnel marineruð ýsa með steiktum kartöflum\, grænmeti og hvítvínssó
- su  (M)\nLemon - and fennel marinated haddock with roasted potatoes\, vege
- tables and white wine\nsauce  (M)
-DTSTART:20241113T110000
-DTEND:20241113T130000
-DTSTAMP:20241113T110000Z
-UID:2024-11-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup\nSalat dagsins – Salad 
- of the day: Bragðmikið brokkolí  – Spicy broccoli  (V)\nSítrónu - o
- g fennel marineruð ýsa með steiktum kartöflum\, grænmeti og hvítvín
- ssósu  (M)\nLemon - and fennel marinated haddock with roasted potatoes\, 
- vegetables and white wine\nsauce  (M)
+SUMMARY:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\,M)\
+ nIndverskur l ax með steiktum kartöflum og sítus sósu  ásamt bokkolí
+  - og blómkálssalati með\nristuðum graskresfræjum (E\,M )\nIndian s a
+ lmon with roasted potatoes and citrus  sauce  served with broccoli - and\n
+ cauliflower salad toped with roasted pumpkin seeds  (E\,M)
+DTSTART:20241120T110000
+DTEND:20241120T130000
+DTSTAMP:20241120T110000Z
+UID:2024-11-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\
+ ,M)\nIndverskur l ax með steiktum kartöflum og sítus sósu  ásamt bokk
+ olí - og blómkálssalati með\nristuðum graskresfræjum (E\,M )\nIndian
+  s almon with roasted potatoes and citrus  sauce  served with broccoli - a
+ nd\ncauliflower salad toped with roasted pumpkin seeds  (E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rótargrænmetis súpa  með byggi  – Root vegetable  soup  with
-  barley  (V\,G)\nNauta rib eye með kartöflugratíni og piparsósu  (M)\n
- Beef Rib Eye with Potato au Gratin and pepper sauce  (M)
-DTSTART:20241114T110000
-DTEND:20241114T130000
-DTSTAMP:20241114T110000Z
-UID:2024-11-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rótargrænmetis súpa  með byggi  – Root vegetable  soup  
- with barley  (V\,G)\nNauta rib eye með kartöflugratíni og piparsósu  (
- M)\nBeef Rib Eye with Potato au Gratin and pepper sauce  (M)
+SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með steikt
+ um kartöflum\, grænum baunum og soðsósu  (M)\nLeg of lamb with roasted
+  potatoes\, green peas  and demi -glaze  sauce (M)
+DTSTART:20241121T110000
+DTEND:20241121T130000
+DTSTAMP:20241121T110000Z
+UID:2024-11-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með st
+ eiktum kartöflum\, grænum baunum og soðsósu  (M)\nLeg of lamb with roa
+ sted potatoes\, green peas  and demi -glaze  sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka masala
-  með hrísgrjónum  og Naan brauði  (G\,M)\nChicken thigh tikka masala w
- ith ric e and Naan bread  (G\,M)
-DTSTART:20241115T110000
-DTEND:20241115T130000
-DTSTAMP:20241115T110000Z
-UID:2024-11-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingur tikka ma
- sala með hrísgrjónum  og Naan brauði  (G\,M)\nChicken thigh tikka masa
- la with ric e and Naan bread  (G\,M)
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með kó
+ reskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\,S\,
+ M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served with r
+ östi potatoes\n(G\,E\,S\,M)
+DTSTART:20241122T110000
+DTEND:20241122T130000
+DTSTAMP:20241122T110000Z
+UID:2024-11-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
+  kóreskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\
+ ,S\,M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served wi
+ th rösti potatoes\n(G\,E\,S\,M)
 END:VEVENT
 END:VCALENDAR
