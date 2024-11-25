@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
- samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with mad
- ras curry  sauce served with rice
-DTSTART:20241118T110000
-DTEND:20241118T130000
-DTSTAMP:20241118T110000Z
-UID:2024-11-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
-   ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
-  madras curry  sauce served with rice
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\, steiktu hvítkáli\nog mangó jalapeno sósu (G)\nSpring rolls
+  filled with noodles\, vegetables and peas served with rice\, fried white\
+ ncabbage and mango jalapeno sauce (G)
+DTSTART:20241125T110000
+DTEND:20241125T130000
+DTSTAMP:20241125T110000Z
+UID:2024-11-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\, steiktu hvítkáli\nog mangó jalapeno sósu (G)\nSpring r
+ olls filled with noodles\, vegetables and peas served with rice\, fried wh
+ ite\ncabbage and mango jalapeno sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Ekki kjúklingur" í sósu með basil\, timian og sólþurrkuðum
-  tómötum ásamt hrísgrjónum\n(S)\n“Not chicken” in sauce with basi
- l\, thyme and sundried tomatoes served with rice (S)
-DTSTART:20241119T110000
-DTEND:20241119T130000
-DTSTAMP:20241119T110000Z
-UID:2024-11-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:"Ekki kjúklingur" í sósu með basil\, timian og sólþurrku
- ðum tómötum ásamt hrísgrjónum\n(S)\n“Not chicken” in sauce with 
- basil\, thyme and sundried tomatoes served with rice (S)
+SUMMARY:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nCauli
+ flower - and almond rissole served with rice and dressing
+DTSTART:20241126T110000
+DTEND:20241126T130000
+DTSTAMP:20241126T110000Z
+UID:2024-11-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nC
+ auliflower - and almond rissole served with rice and dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
- i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
-  salad  (G)
-DTSTART:20241120T110000
-DTEND:20241120T130000
-DTSTAMP:20241120T110000Z
-UID:2024-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
- alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
- lgur salad  (G)
+SUMMARY:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pesto (G
+ \,H)
+DTSTART:20241127T110000
+DTEND:20241127T130000
+DTSTAMP:20241127T110000Z
+UID:2024-11-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pest
+ o (G\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
- curry with rice
-DTSTART:20241121T110000
-DTEND:20241121T130000
-DTSTAMP:20241121T110000Z
-UID:2024-11-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
- man curry with rice
+SUMMARY:Grænmetisbollur með sætkartöflumús og kaldri dressingu\nVeggi
+ e tots with mashed sweet potatoes and cold dressing
+DTSTART:20241128T110000
+DTEND:20241128T130000
+DTSTAMP:20241128T110000Z
+UID:2024-11-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisbollur með sætkartöflumús og kaldri dressingu\nV
+ eggie tots with mashed sweet potatoes and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Ekki Kjúklingaborgari" með kóreskri BBQ sósu og kimchi hrása
- lati ásamt rösti\nkartöflum  (S\,G)\n“Not chicken” burger with Kore
- an BBQ sauce and kimchi coleslaw served rösti potatoes\n(S\,G)\n(G) – G
- lúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20241122T110000
-DTEND:20241122T130000
-DTSTAMP:20241122T110000Z
-UID:2024-11-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:"Ekki Kjúklingaborgari" með kóreskri BBQ sósu og kimchi hr
- ásalati ásamt rösti\nkartöflum  (S\,G)\n“Not chicken” burger with 
- Korean BBQ sauce and kimchi coleslaw served rösti potatoes\n(S\,G)\n(G) 
- – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Vegan borgari með grænmeti \, laukhringjum og salsa  (G\,S)\nVeg
+ an burger with vegetables \, onion rings and salsa sauce (G\,S)\n(G) – G
+ lúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast ath
+ ugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease not
+ e that we use a lot of onion and garlic for our vegan courses
+DTSTART:20241129T110000
+DTEND:20241129T130000
+DTSTAMP:20241129T110000Z
+UID:2024-11-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan borgari með grænmeti \, laukhringjum og salsa  (G\,S)\
+ nVegan burger with vegetables \, onion rings and salsa sauce (G\,S)\n(G) 
+ – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegas
+ t athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPleas
+ e note that we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR

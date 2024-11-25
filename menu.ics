@@ -2,71 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
- u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curry an
- d coconut served with rice (G)
-DTSTART:20241118T110000
-DTEND:20241118T130000
-DTSTAMP:20241118T110000Z
-UID:2024-11-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
- auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curr
- y and coconut served with rice (G)
+SUMMARY:Sveppa súpa  – Mushroom  soup (G \,M)\nSweet and sour kjúkling
+ ur með grænmeti og hrísgrjónum\nSweet and sour chicken with vegetables
+  and rice
+DTSTART:20241125T110000
+DTEND:20241125T130000
+DTSTAMP:20241125T110000Z
+UID:2024-11-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppa súpa  – Mushroom  soup (G \,M)\nSweet and sour kjúk
+ lingur með grænmeti og hrísgrjónum\nSweet and sour chicken with vegeta
+ bles and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
- up  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sólþurr
- kuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce with 
- basil\, parmesan and sundried tomatoes served with rice\n(M)
-DTSTART:20241119T110000
-DTEND:20241119T130000
-DTSTAMP:20241119T110000Z
-UID:2024-11-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
- o soup  (V)\nKjúklingur í kremaðri sósu með basil\, parmesan og sól
- þurrkuðum tómötum ásamt\nhrísgrjónum  (M)\nChicken in creamy sauce 
- with basil\, parmesan and sundried tomatoes served with rice\n(M)
+SUMMARY:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Salad 
+ of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cous\,\
+ ntomato\, bell pepper and ruccola  (V)\nEggjsteikt ýsa með steiktum kart
+ öflum og kaldri dressing (G\,M\,E)\nEgg fried haddock with roasted potato
+ es and cold dressing (G\,M\,E)
+DTSTART:20241126T110000
+DTEND:20241126T130000
+DTSTAMP:20241126T110000Z
+UID:2024-11-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Sa
+ lad of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cou
+ s\,\ntomato\, bell pepper and ruccola  (V)\nEggjsteikt ýsa með steiktum 
+ kartöflum og kaldri dressing (G\,M\,E)\nEgg fried haddock with roasted po
+ tatoes and cold dressing (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\,M)\
- nIndverskur l ax með steiktum kartöflum og sítus sósu  ásamt bokkolí
-  - og blómkálssalati með\nristuðum graskresfræjum (E\,M )\nIndian s a
- lmon with roasted potatoes and citrus  sauce  served with broccoli - and\n
- cauliflower salad toped with roasted pumpkin seeds  (E\,M)
-DTSTART:20241120T110000
-DTEND:20241120T130000
-DTSTAMP:20241120T110000Z
-UID:2024-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\
- ,M)\nIndverskur l ax með steiktum kartöflum og sítus sósu  ásamt bokk
- olí - og blómkálssalati með\nristuðum graskresfræjum (E\,M )\nIndian
-  s almon with roasted potatoes and citrus  sauce  served with broccoli - a
- nd\ncauliflower salad toped with roasted pumpkin seeds  (E\,M)
+SUMMARY:Gulrótar - og kóríander súpa – Carrot - coriander  soup  (G\
+ ,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (G\,M
+ \,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
+DTSTART:20241127T110000
+DTEND:20241127T130000
+DTSTAMP:20241127T110000Z
+UID:2024-11-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar - og kóríander súpa – Carrot - coriander  soup 
+  (G\,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
+ G\,M\,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með steikt
- um kartöflum\, grænum baunum og soðsósu  (M)\nLeg of lamb with roasted
-  potatoes\, green peas  and demi -glaze  sauce (M)
-DTSTART:20241121T110000
-DTEND:20241121T130000
-DTSTAMP:20241121T110000Z
-UID:2024-11-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambalæri með st
- eiktum kartöflum\, grænum baunum og soðsósu  (M)\nLeg of lamb with roa
- sted potatoes\, green peas  and demi -glaze  sauce (M)
+SUMMARY:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa með s
+ ætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mashed s
+ weet potatoes\, apple salad and gravy (M\,G)
+DTSTART:20241128T110000
+DTEND:20241128T130000
+DTSTAMP:20241128T110000Z
+UID:2024-11-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa me
+ ð sætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mash
+ ed sweet potatoes\, apple salad and gravy (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með kó
- reskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\,S\,
- M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served with r
- östi potatoes\n(G\,E\,S\,M)
-DTSTART:20241122T110000
-DTEND:20241122T130000
-DTSTAMP:20241122T110000Z
-UID:2024-11-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nKjúklingaborgari með
-  kóreskri BBQ sósu og kimchi hrásalati ásamt rösti kartöflum\n(G\,E\
- ,S\,M)\nChicken burger with Korean BBQ sauce and kimchi coleslaw served wi
- th rösti potatoes\n(G\,E\,S\,M)
+SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” hamborga
+ ri – Nautaborgari með osti\, beikonkurli\, laukhringjum og salsa\n(G\,M
+ \,E)\n“Classic Rock” Burger – Beef burger with cheese\, bacon\, onio
+ n rings and salsa  (G\,M\,E)
+DTSTART:20241129T110000
+DTEND:20241129T130000
+DTSTAMP:20241129T110000Z
+UID:2024-11-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” hamb
+ orgari – Nautaborgari með osti\, beikonkurli\, laukhringjum og salsa\n(
+ G\,M\,E)\n“Classic Rock” Burger – Beef burger with cheese\, bacon\, 
+ onion rings and salsa  (G\,M\,E)
 END:VEVENT
 END:VCALENDAR
