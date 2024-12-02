@@ -2,69 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppa súpa  – Mushroom  soup (G \,M)\nSweet and sour kjúkling
- ur með grænmeti og hrísgrjónum\nSweet and sour chicken with vegetables
-  and rice
-DTSTART:20241125T110000
-DTEND:20241125T130000
-DTSTAMP:20241125T110000Z
-UID:2024-11-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppa súpa  – Mushroom  soup (G \,M)\nSweet and sour kjúk
- lingur með grænmeti og hrísgrjónum\nSweet and sour chicken with vegeta
- bles and rice
+SUMMARY:Villis veppasúpa – Wild Mushroom soup (M\,G)\nSteiktar fiskibol
+ lur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried fish ba
+ lls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
+DTSTART:20241202T110000
+DTEND:20241202T130000
+DTSTAMP:20241202T110000Z
+UID:2024-12-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villis veppasúpa – Wild Mushroom soup (M\,G)\nSteiktar fisk
+ ibollur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried fis
+ h balls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Salad 
- of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cous\,\
- ntomato\, bell pepper and ruccola  (V)\nEggjsteikt ýsa með steiktum kart
- öflum og kaldri dressing (G\,M\,E)\nEgg fried haddock with roasted potato
- es and cold dressing (G\,M\,E)
-DTSTART:20241126T110000
-DTEND:20241126T130000
-DTSTAMP:20241126T110000Z
-UID:2024-11-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspas súpa  – Asparagus  soup  (G\,V)\nSalat dagsins – Sa
- lad of the day: Cous cous\, tómatar\, paprika og klettasalat – Cous cou
- s\,\ntomato\, bell pepper and ruccola  (V)\nEggjsteikt ýsa með steiktum 
- kartöflum og kaldri dressing (G\,M\,E)\nEgg fried haddock with roasted po
- tatoes and cold dressing (G\,M\,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup (V\,G)\nLambakjöt í ka
+ rrýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sauce se
+ rved with rice (M\,G)
+DTSTART:20241203T110000
+DTEND:20241203T130000
+DTSTAMP:20241203T110000Z
+UID:2024-12-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvít aspassúpa – White asparagus soup (V\,G)\nLambakjöt 
+ í karrýsósu ásamt hrísgrjónum  (M\,G)\nLamb meat in yellow curry sau
+ ce served with rice (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóríander súpa – Carrot - coriander  soup  (G\
- ,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (G\,M
- \,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
-DTSTART:20241127T110000
-DTEND:20241127T130000
-DTSTAMP:20241127T110000Z
-UID:2024-11-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóríander súpa – Carrot - coriander  soup 
-  (G\,M)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
- G\,M\,E)\nItalian Lasagna with garlic bread and coleslaw (G\,M\,E)
+SUMMARY:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)\nSa
+ lat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktur fi
+ skur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði 
+ (G\,E)\nFried fish in bread crumbs served with war m potato salad \, pickl
+ es  and remoulade (G\,E)
+DTSTART:20241204T110000
+DTEND:20241204T130000
+DTSTAMP:20241204T110000Z
+UID:2024-12-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brauðsúpa með rjóma  – Rye bread soup with cream  (M\,G)
+ \nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSteiktu
+ r fiskur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúla
+ ði (G\,E)\nFried fish in bread crumbs served with war m potato salad \, p
+ ickles  and remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa með s
- ætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mashed s
- weet potatoes\, apple salad and gravy (M\,G)
-DTSTART:20241128T110000
-DTEND:20241128T130000
-DTSTAMP:20241128T110000Z
-UID:2024-11-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis súpa – Vegetable  soup (G\,V)\nKalkúnabringa me
- ð sætkartöflumús\, eplasalati og gravy (M\,G)\nTurkey breast with mash
- ed sweet potatoes\, apple salad and gravy (M\,G)
+SUMMARY:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)\nPu
+ rusteik með sykur brúnuðum kartöflum\, rauðkáli\, eplasalati og rau
+ ðvíns sósu (M)\nPork roast with crackling\, caramel glazed potatoes\, r
+ ed cabbage\, apple salad and red wine\nsauce  (M)
+DTSTART:20241205T110000
+DTEND:20241205T130000
+DTSTAMP:20241205T110000Z
+UID:2024-12-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks - og kartöflusúpa – Leek - and potato soup ( V)
+ \nPurusteik með sykur brúnuðum kartöflum\, rauðkáli\, eplasalati og 
+ rauðvíns sósu (M)\nPork roast with crackling\, caramel glazed potatoes\
+ , red cabbage\, apple salad and red wine\nsauce  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” hamborga
- ri – Nautaborgari með osti\, beikonkurli\, laukhringjum og salsa\n(G\,M
- \,E)\n“Classic Rock” Burger – Beef burger with cheese\, bacon\, onio
- n rings and salsa  (G\,M\,E)
-DTSTART:20241129T110000
-DTEND:20241129T130000
-DTSTAMP:20241129T110000Z
-UID:2024-11-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (G\,E\,H\,M)\n“Classic rock” hamb
- orgari – Nautaborgari með osti\, beikonkurli\, laukhringjum og salsa\n(
- G\,M\,E)\n“Classic Rock” Burger – Beef burger with cheese\, bacon\, 
- onion rings and salsa  (G\,M\,E)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nSteikt hrísgrjón með eggjum
+  og kjúkling toppað með karrý -lime hnetum (S\,H)\nFried rice with egg
+ s and chicken toped with curry -lime nuts  (S\,H)
+DTSTART:20241206T110000
+DTEND:20241206T130000
+DTSTAMP:20241206T110000Z
+UID:2024-12-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nSteikt hrísgrjón með eg
+ gjum og kjúkling toppað með karrý -lime hnetum (S\,H)\nFried rice with
+  eggs and chicken toped with curry -lime nuts  (S\,H)
 END:VEVENT
 END:VCALENDAR

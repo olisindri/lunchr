@@ -2,63 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum\, steiktu hvítkáli\nog mangó jalapeno sósu (G)\nSpring rolls
-  filled with noodles\, vegetables and peas served with rice\, fried white\
- ncabbage and mango jalapeno sauce (G)
-DTSTART:20241125T110000
-DTEND:20241125T130000
-DTSTAMP:20241125T110000Z
-UID:2024-11-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum\, steiktu hvítkáli\nog mangó jalapeno sósu (G)\nSpring r
- olls filled with noodles\, vegetables and peas served with rice\, fried wh
- ite\ncabbage and mango jalapeno sauce (G)
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
+DTSTART:20241202T110000
+DTEND:20241202T130000
+DTSTAMP:20241202T110000Z
+UID:2024-12-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nCauli
- flower - and almond rissole served with rice and dressing
-DTSTART:20241126T110000
-DTEND:20241126T130000
-DTSTAMP:20241126T110000Z
-UID:2024-11-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með hrísgrjónum og dressingu\nC
- auliflower - and almond rissole served with rice and dressing
+SUMMARY:Polentu - og linsubaunabollur með sesam sósu og kartöflum\nPole
+ nta - and lentil balls with sesam sauce and potatoes
+DTSTART:20241203T110000
+DTEND:20241203T130000
+DTSTAMP:20241203T110000Z
+UID:2024-12-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Polentu - og linsubaunabollur með sesam sósu og kartöflum\n
+ Polenta - and lentil balls with sesam sauce and potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pesto (G
- \,H)
-DTSTART:20241127T110000
-DTEND:20241127T130000
-DTSTAMP:20241127T110000Z
-UID:2024-11-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G\,H)\nSpinach lasagna with pest
- o (G\,H)
+SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
+ , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
+ conut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20241204T110000
+DTEND:20241204T130000
+DTSTAMP:20241204T110000Z
+UID:2024-12-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
+ mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
+ h coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með sætkartöflumús og kaldri dressingu\nVeggi
- e tots with mashed sweet potatoes and cold dressing
-DTSTART:20241128T110000
-DTEND:20241128T130000
-DTSTAMP:20241128T110000Z
-UID:2024-11-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með sætkartöflumús og kaldri dressingu\nV
- eggie tots with mashed sweet potatoes and cold dressing
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and chimichurri
+DTSTART:20241205T110000
+DTEND:20241205T130000
+DTSTAMP:20241205T110000Z
+UID:2024-12-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan borgari með grænmeti \, laukhringjum og salsa  (G\,S)\nVeg
- an burger with vegetables \, onion rings and salsa sauce (G\,S)\n(G) – G
- lúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast ath
- ugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease not
- e that we use a lot of onion and garlic for our vegan courses
-DTSTART:20241129T110000
-DTEND:20241129T130000
-DTSTAMP:20241129T110000Z
-UID:2024-11-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan borgari með grænmeti \, laukhringjum og salsa  (G\,S)\
- nVegan burger with vegetables \, onion rings and salsa sauce (G\,S)\n(G) 
- – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegas
- t athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPleas
- e note that we use a lot of onion and garlic for our vegan courses
+SUMMARY:Steikt hrísgrjón með tofu toppað með karrý -lime hnetum  (S\
+ ,G\,H)\nFried rice with tofu toped with curry -lime nuts  (S\,G\,H)
+DTSTART:20241206T110000
+DTEND:20241206T130000
+DTSTAMP:20241206T110000Z
+UID:2024-12-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Steikt hrísgrjón með tofu toppað með karrý -lime hnetum 
+  (S\,G\,H)\nFried rice with tofu toped with curry -lime nuts  (S\,G\,H)
 END:VEVENT
 END:VCALENDAR
