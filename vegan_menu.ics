@@ -2,61 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
- ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
- ed with Aioli
-DTSTART:20241216T110000
-DTEND:20241216T130000
-DTSTAMP:20241216T110000Z
-UID:2024-12-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
- h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
- served with Aioli
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt brúnu
+ m hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodles\, 
+ vegetables and beans served with brown rice and sweet\nchili sauce  (G)
+DTSTART:20241223T110000
+DTEND:20241223T130000
+DTSTAMP:20241223T110000Z
+UID:2024-12-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt br
+ únum hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodle
+ s\, vegetables and beans served with brown rice and sweet\nchili sauce  (G
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\nog 
- lauk ásamt cous cous\nVegetable ragu with mushrooms\, spinach\, kidney be
- ans and onion with cous cous
-DTSTART:20241217T110000
-DTEND:20241217T130000
-DTSTAMP:20241217T110000Z
-UID:2024-12-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu“ með sveppum\, spínati\, nýrna baunum\
- nog lauk ásamt cous cous\nVegetable ragu with mushrooms\, spinach\, kidne
- y beans and onion with cous cous
+SUMMARY:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
+DTSTART:20241224T110000
+DTEND:20241224T130000
+DTSTAMP:20241224T110000Z
+UID:2024-12-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
- esam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
-DTSTART:20241218T110000
-DTEND:20241218T130000
-DTSTAMP:20241218T110000Z
-UID:2024-12-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
- og sesam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
+SUMMARY:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
+DTSTART:20241225T110000
+DTEND:20241225T130000
+DTSTAMP:20241225T110000Z
+UID:2024-12-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sætum kartöflum og mais 
-  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and sweet c
- orn ( H)
-DTSTART:20241219T110000
-DTEND:20241219T130000
-DTSTAMP:20241219T110000Z
-UID:2024-12-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sætum kartöflum og m
- ais  (H)\nBlackbeansteak with wild mushroom sauce\, sweet potatoes and swe
- et corn ( H)
+SUMMARY:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
+DTSTART:20241226T110000
+DTEND:20241226T130000
+DTSTAMP:20241226T110000Z
+UID:2024-12-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
- vegan mincemeat  and salsa  (S)
-DTSTART:20241220T110000
-DTEND:20241220T130000
-DTSTAMP:20241220T110000Z
-UID:2024-12-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
- ith vegan mincemeat  and salsa  (S)
+SUMMARY:Chili Sin Carne með hrísgrjónum og nachos (S)\nChili Sin Carne 
+ with rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts 
+  - (S)- Soyja/Soya
+DTSTART:20241227T110000
+DTEND:20241227T130000
+DTSTAMP:20241227T110000Z
+UID:2024-12-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chili Sin Carne með hrísgrjónum og nachos (S)\nChili Sin Ca
+ rne with rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Pean
+ uts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR

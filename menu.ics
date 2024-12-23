@@ -2,67 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetissoð súpa með byggi – Vegetable stock soup with barl
- ey\nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nSoði
- n ýsa með kartöflum\, rúgbrauði og karrý sósu  (M)\nBoiled haddock 
- with potatoes\, rye bread and curry sauce (M)
-DTSTART:20241216T110000
-DTEND:20241216T130000
-DTSTAMP:20241216T110000Z
-UID:2024-12-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissoð súpa með byggi – Vegetable stock soup with 
- barley\nSalat dagsins – Salad of the day : Gulrætur – Carrots ( V)\nS
- oðin ýsa með kartöflum\, rúgbrauði og karrý sósu  (M)\nBoiled hadd
- ock with potatoes\, rye bread and curry sauce (M)
+SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabringur 
+ með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon ch
+ icken breasts with brown rice and cold pepper - and truffle sauce (E)
+DTSTART:20241223T110000
+DTEND:20241223T130000
+DTSTAMP:20241223T110000Z
+UID:2024-12-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabrin
+ gur með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemo
+ n chicken breasts with brown rice and cold pepper - and truffle sauce (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nNauta Bourguignon með kartöflumús og fersku salati (G\,M)\nBeef Bour
- guignin with mashed potatoes and fresh salad  (G\,M)
-DTSTART:20241217T110000
-DTEND:20241217T130000
-DTSTAMP:20241217T110000Z
-UID:2024-12-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nNauta Bourguignon með kartöflumús og fersku salati (G\,M)\nBeef 
- Bourguignin with mashed potatoes and fresh salad  (G\,M)
+SUMMARY:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
+DTSTART:20241224T110000
+DTEND:20241224T130000
+DTSTAMP:20241224T110000Z
+UID:2024-12-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnbökuð bleikja me
- ð teriyaki og sesam ásamt núðlum og grænmeti  (G\,S)\nOvenbaked trout
-  with teriyaki and sesam served with noodles and vegetables  (G\,S)
-DTSTART:20241218T110000
-DTEND:20241218T130000
-DTSTAMP:20241218T110000Z
-UID:2024-12-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnbökuð bleikj
- a með teriyaki og sesam ásamt núðlum og grænmeti  (G\,S)\nOvenbaked t
- rout with teriyaki and sesam served with noodles and vegetables  (G\,S)
+SUMMARY:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
+DTSTART:20241225T110000
+DTEND:20241225T130000
+DTSTAMP:20241225T110000Z
+UID:2024-12-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riz a la mande með berjasósu  – Riz a la mande with berry sauc
- e  (M)\nHamborgarhryggur með sykurbrúnuðum kartöflum\, rauðkáli\, gr
- ænum baunum og\nrauðvínssósu  (M)\nGlazed ham with caramel glazed pota
- toes\, red cabbage\, peas and red wine sauce  (M)
-DTSTART:20241219T110000
-DTEND:20241219T130000
-DTSTAMP:20241219T110000Z
-UID:2024-12-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Riz a la mande með berjasósu  – Riz a la mande with berry 
- sauce  (M)\nHamborgarhryggur með sykurbrúnuðum kartöflum\, rauðkáli\
- , grænum baunum og\nrauðvínssósu  (M)\nGlazed ham with caramel glazed 
- potatoes\, red cabbage\, peas and red wine sauce  (M)
+SUMMARY:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
+DTSTART:20241226T110000
+DTEND:20241226T130000
+DTSTAMP:20241226T110000Z
+UID:2024-12-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau tah
- akki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \, 
- salsa and sour cream ( G\,M)
-DTSTART:20241220T110000
-DTEND:20241220T130000
-DTSTAMP:20241220T110000Z
-UID:2024-12-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau
-  tahakki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef
-  \, salsa and sour cream ( G\,M)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nChili Con Carne með hrísgr
+ jónum\, nachos og sýrðum rjóma  (M)\nChili Con Carne with rice\, nacho
+ s and sour cream  (M)
+DTSTART:20241227T110000
+DTEND:20241227T130000
+DTSTAMP:20241227T110000Z
+UID:2024-12-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nChili Con Carne með hr
+ ísgrjónum\, nachos og sýrðum rjóma  (M)\nChili Con Carne with rice\, 
+ nachos and sour cream  (M)
 END:VEVENT
 END:VCALENDAR
