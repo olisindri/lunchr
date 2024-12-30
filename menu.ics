@@ -2,51 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabringur 
- með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemon ch
- icken breasts with brown rice and cold pepper - and truffle sauce (E)
-DTSTART:20241223T110000
-DTEND:20241223T130000
-DTSTAMP:20241223T110000Z
-UID:2024-12-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSítrónu kjúklingabrin
- gur með brúnum hrísgrjónum og kaldri pipar - og trufflusósu (E)\nLemo
- n chicken breasts with brown rice and cold pepper - and truffle sauce (E)
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýsa me
+ ð grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with gree
+ n curry sauce served with rice
+DTSTART:20241230T110000
+DTEND:20241230T130000
+DTSTAMP:20241230T110000Z
+UID:2024-12-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýs
+ a með grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with 
+ green curry sauce served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
-DTSTART:20241224T110000
-DTEND:20241224T130000
-DTSTAMP:20241224T110000Z
-UID:2024-12-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
+SUMMARY:Gamlársdagur\nLOKAÐ
+DTSTART:20241231T110000
+DTEND:20241231T130000
+DTSTAMP:20241231T110000Z
+UID:2024-12-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gamlársdagur\nLOKAÐ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
-DTSTART:20241225T110000
-DTEND:20241225T130000
-DTSTAMP:20241225T110000Z
-UID:2024-12-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
+SUMMARY:Nýársdagur\nLOKAÐ
+DTSTART:20250101T110000
+DTEND:20250101T130000
+DTSTAMP:20250101T110000Z
+UID:2025-01-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Nýársdagur\nLOKAÐ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
-DTSTART:20241226T110000
-DTEND:20241226T130000
-DTSTAMP:20241226T110000Z
-UID:2024-12-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
+SUMMARY:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísalund
+ ir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjómaos
+ ta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and appl
+ es served with small potatoes and\ncream cheese pepper sauce (M)
+DTSTART:20250102T110000
+DTEND:20250102T130000
+DTSTAMP:20250102T110000Z
+UID:2025-01-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísa
+ lundir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjó
+ maosta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and 
+ apples served with small potatoes and\ncream cheese pepper sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nChili Con Carne með hrísgr
- jónum\, nachos og sýrðum rjóma  (M)\nChili Con Carne with rice\, nacho
- s and sour cream  (M)
-DTSTART:20241227T110000
-DTEND:20241227T130000
-DTSTAMP:20241227T110000Z
-UID:2024-12-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nChili Con Carne með hr
- ísgrjónum\, nachos og sýrðum rjóma  (M)\nChili Con Carne with rice\, 
- nachos and sour cream  (M)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklingur í BBQ sósu me
+ ð rösti kartöflum og mais  (G)\nChicken in BBQ sauce with rösti potato
+ es and yellow corn  (G)
+DTSTART:20250103T110000
+DTEND:20250103T130000
+DTSTAMP:20250103T110000Z
+UID:2025-01-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklingur í BBQ sósu
+  með rösti kartöflum og mais  (G)\nChicken in BBQ sauce with rösti pot
+ atoes and yellow corn  (G)
 END:VEVENT
 END:VCALENDAR

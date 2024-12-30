@@ -2,52 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt brúnu
- m hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodles\, 
- vegetables and beans served with brown rice and sweet\nchili sauce  (G)
-DTSTART:20241223T110000
-DTEND:20241223T130000
-DTSTAMP:20241223T110000Z
-UID:2024-12-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt br
- únum hrísgrjónum og\nsætri chili sósu (G)\nSamosas filled with noodle
- s\, vegetables and beans served with brown rice and sweet\nchili sauce  (G
- )
+SUMMARY:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  (S\,
+ G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
+DTSTART:20241230T110000
+DTEND:20241230T130000
+DTSTAMP:20241230T110000Z
+UID:2024-12-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sweet & sour grænmetis - og baunaréttur með hrísgrjónum  
+ (S\,G)\nSweet & sour vegetable - and bean stew with rice (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
-DTSTART:20241224T110000
-DTEND:20241224T130000
-DTSTAMP:20241224T110000Z
-UID:2024-12-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aðfangadagur – LOKAÐ\nChristmas Eve - CLOSED
+SUMMARY:Gamlársdagur\nLOKAÐ
+DTSTART:20241231T110000
+DTEND:20241231T130000
+DTSTAMP:20241231T110000Z
+UID:2024-12-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gamlársdagur\nLOKAÐ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
-DTSTART:20241225T110000
-DTEND:20241225T130000
-DTSTAMP:20241225T110000Z
-UID:2024-12-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Jóladagur – LOKAÐ\nChristmas Day - CLOSED
+SUMMARY:Nýársdagur\nLOKAÐ
+DTSTART:20250101T110000
+DTEND:20250101T130000
+DTSTAMP:20250101T110000Z
+UID:2025-01-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Nýársdagur\nLOKAÐ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
-DTSTART:20241226T110000
-DTEND:20241226T130000
-DTSTAMP:20241226T110000Z
-UID:2024-12-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Annar í jólum – LOKAÐ\nBoxing Day - CLOSED
+SUMMARY:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jalapeno
+ sósu\nVegetable frikadeller served with small potatoes  and mango jalapen
+ o sauce
+DTSTART:20250102T110000
+DTEND:20250102T130000
+DTSTAMP:20250102T110000Z
+UID:2025-01-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jala
+ penosósu\nVegetable frikadeller served with small potatoes  and mango jal
+ apeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili Sin Carne með hrísgrjónum og nachos (S)\nChili Sin Carne 
- with rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts 
-  - (S)- Soyja/Soya
-DTSTART:20241227T110000
-DTEND:20241227T130000
-DTSTAMP:20241227T110000Z
-UID:2024-12-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili Sin Carne með hrísgrjónum og nachos (S)\nChili Sin Ca
- rne with rice and nachos  (S)\n(G) – Glúten/Gluten  (H) – Hnetur/Pean
- uts  - (S)- Soyja/Soya
+SUMMARY:“Ekki kjúklingur” í BBQ sósu með rösti kartöflum og mais
+  (S\,G)\n“Not chicken” in BBQ sauce with rösti potatoes and yellow co
+ rn  (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/S
+ oya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar veg
+ an rétti\nPlease note that we use a lot of onion and garlic for our vegan
+  courses
+DTSTART:20250103T110000
+DTEND:20250103T130000
+DTSTAMP:20250103T110000Z
+UID:2025-01-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:“Ekki kjúklingur” í BBQ sósu með rösti kartöflum og 
+ mais (S\,G)\n“Not chicken” in BBQ sauce with rösti potatoes and yello
+ w corn  (S\,G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soy
+ ja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar
+  vegan rétti\nPlease note that we use a lot of onion and garlic for our v
+ egan courses
 END:VEVENT
 END:VCALENDAR
