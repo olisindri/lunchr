@@ -2,57 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýsa me
- ð grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with gree
- n curry sauce served with rice
-DTSTART:20241230T110000
-DTEND:20241230T130000
-DTSTAMP:20241230T110000Z
-UID:2024-12-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nOfnbökuð ýs
- a með grænni karrý sósu ásamt hrísgrjónum\nOven baked haddock with 
- green curry sauce served with rice
+SUMMARY:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Rauðrófur – beetroot ( V)\nPlokkfiskur með rúgbrauði  og sm
+ jöri (M\,G\,)\nFish stew  with bread and butter (M\,G\,)
+DTSTART:20250106T110000
+DTEND:20250106T130000
+DTSTAMP:20250106T110000Z
+UID:2025-01-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Aspassúpa – asparagus soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Rauðrófur – beetroot ( V)\nPlokkfiskur með rúgbrauði  o
+ g smjöri (M\,G\,)\nFish stew  with bread and butter (M\,G\,)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gamlársdagur\nLOKAÐ
-DTSTART:20241231T110000
-DTEND:20241231T130000
-DTSTAMP:20241231T110000Z
-UID:2024-12-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gamlársdagur\nLOKAÐ
+SUMMARY:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V)\nK
+ jötbollur með kartöflumús\, rauðkáli og búnni sósu  (M\,G\,E)\nMea
+ t balls with mashed potatoes \, red cabbage and brown sauce  (M\,G\,E)
+DTSTART:20250107T110000
+DTEND:20250107T130000
+DTSTAMP:20250107T110000Z
+UID:2025-01-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V
+ )\nKjötbollur með kartöflumús\, rauðkáli og búnni sósu  (M\,G\,E)\
+ nMeat balls with mashed potatoes \, red cabbage and brown sauce  (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nýársdagur\nLOKAÐ
-DTSTART:20250101T110000
-DTEND:20250101T130000
-DTSTAMP:20250101T110000Z
-UID:2025-01-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Nýársdagur\nLOKAÐ
+SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
+ f the day: Blómkál – Cauliflower  (V)\nLax með steiktum kartöflum\, 
+ hollandaise sósu og gulrótarsalati  (E\, M)\nSalmon with roasted potatoe
+ s\, hollandaise sauce an d carrots (E \,M)
+DTSTART:20250108T110000
+DTEND:20250108T130000
+DTSTAMP:20250108T110000Z
+UID:2025-01-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
+ ad of the day: Blómkál – Cauliflower  (V)\nLax með steiktum kartöflu
+ m\, hollandaise sósu og gulrótarsalati  (E\, M)\nSalmon with roasted pot
+ atoes\, hollandaise sauce an d carrots (E \,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísalund
- ir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjómaos
- ta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and appl
- es served with small potatoes and\ncream cheese pepper sauce (M)
-DTSTART:20250102T110000
-DTEND:20250102T130000
-DTSTAMP:20250102T110000Z
-UID:2025-01-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls súpa – Cauliflower  soup  (G\,V)\nFylltar grísa
- lundir með rjómaosti\, döðlum og eplum ásamt kartölfusmælki og rjó
- maosta\npiparsósu (M)\nStuffed pork fillet with cream cheese\, dates and 
- apples served with small potatoes and\ncream cheese pepper sauce (M)
+SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nLamb 
+ alæri  með  bökuðum kartöflum\, grænum baunum  og kryddjurtarsoðsó
+ su  (M)\nLeg of lamb  with potatoes \, green peas  and herb gravy  (M)
+DTSTART:20250109T110000
+DTEND:20250109T130000
+DTSTAMP:20250109T110000Z
+UID:2025-01-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nL
+ amb alæri  með  bökuðum kartöflum\, grænum baunum  og kryddjurtarso
+ ðsósu  (M)\nLeg of lamb  with potatoes \, green peas  and herb gravy  (M
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklingur í BBQ sósu me
- ð rösti kartöflum og mais  (G)\nChicken in BBQ sauce with rösti potato
- es and yellow corn  (G)
-DTSTART:20250103T110000
-DTEND:20250103T130000
-DTSTAMP:20250103T110000Z
-UID:2025-01-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklingur í BBQ sósu
-  með rösti kartöflum og mais  (G)\nChicken in BBQ sauce with rösti pot
- atoes and yellow corn  (G)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nMexico Lasagna með kjúkli
+ ng \, toppað með osta doritos ásamt sýrðum  rjóma og\navacado mauki 
+  (G\,M)\nMexico Lasagna with chicken \, toped with cheese doritos served w
+ ith  sour cream and\nmashed avocado (G\,M)
+DTSTART:20250110T110000
+DTEND:20250110T130000
+DTSTAMP:20250110T110000Z
+UID:2025-01-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nMexico Lasagna með kj
+ úkling \, toppað með osta doritos ásamt sýrðum  rjóma og\navacado m
+ auki  (G\,M)\nMexico Lasagna with chicken \, toped with cheese doritos ser
+ ved with  sour cream and\nmashed avocado (G\,M)
 END:VEVENT
 END:VCALENDAR
