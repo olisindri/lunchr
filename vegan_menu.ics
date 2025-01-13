@@ -2,62 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
- töflum\nPotato and beets rissole with len tils served with herb spiced po
- tatoes
-DTSTART:20250106T110000
-DTEND:20250106T130000
-DTSTAMP:20250106T110000Z
-UID:2025-01-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
- akartöflum\nPotato and beets rissole with len tils served with herb spice
- d potatoes
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice and sweet chili sauce\n(G\,S)
+DTSTART:20250113T110000
+DTEND:20250113T130000
+DTSTAMP:20250113T110000Z
+UID:2025-01-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
- t potato balls  with curry sauce  and rice  (G)
-DTSTART:20250107T110000
-DTEND:20250107T130000
-DTSTAMP:20250107T110000Z
-UID:2025-01-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
- Sweet potato balls  with curry sauce  and rice  (G)
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
+ num\nVegetables red curry with beans and vegetables served with rice
+DTSTART:20250114T110000
+DTEND:20250114T130000
+DTSTAMP:20250114T110000Z
+UID:2025-01-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
+ rjónum\nVegetables red curry with beans and vegetables served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum  og
-  rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes\, c
- hicken peas\, black beans  and root vegetables served with\nmustard mayo
-DTSTART:20250108T110000
-DTEND:20250108T130000
-DTSTAMP:20250108T110000Z
-UID:2025-01-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
-   og rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes
- \, chicken peas\, black beans  and root vegetables served with\nmustard ma
- yo
+SUMMARY:Blómkáls taco með baunum\, avakadó  og salsa (G)\nCauliflower 
+ taco with beans\, avocado and salsa (G)
+DTSTART:20250115T110000
+DTEND:20250115T130000
+DTSTAMP:20250115T110000Z
+UID:2025-01-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls taco með baunum\, avakadó  og salsa (G)\nCauliflo
+ wer taco with beans\, avocado and salsa (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og kald
- ri dressingu\nWhite kidney bean and root vegetable cashew steak with potat
- oes and cold dressing
-DTSTART:20250109T110000
-DTEND:20250109T130000
-DTSTAMP:20250109T110000Z
-UID:2025-01-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og 
- kaldri dressingu\nWhite kidney bean and root vegetable cashew steak with p
- otatoes and cold dressing
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmeti  o
+ g sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegetables
+   and mushroom sauce  (S\,G)
+DTSTART:20250116T110000
+DTEND:20250116T130000
+DTSTAMP:20250116T110000Z
+UID:2025-01-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmet
+ i  og sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegeta
+ bles  and mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Mexico Lasagna top pað með doritos og avacado mauki  (G\,S
- )\nVegan Mexico Lasagna toped with Dorito’s and mashed avocado (G\,S)\nI
- nnihaldslýsingar – Ingredients
-DTSTART:20250110T110000
-DTEND:20250110T130000
-DTSTAMP:20250110T110000Z
-UID:2025-01-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Mexico Lasagna top pað með doritos og avacado mauki  (
- G\,S)\nVegan Mexico Lasagna toped with Dorito’s and mashed avocado (G\,S
- )\nInnihaldslýsingar – Ingredients
+SUMMARY:Grænmetis - og baunapottréttur í Korma karrý með hrísgrjónu
+ m og Naan brauði  (G)\nVegetable - and bean stew in Korma curry with rice
+  and Naan bread  (G)
+DTSTART:20250117T110000
+DTEND:20250117T130000
+DTSTAMP:20250117T110000Z
+UID:2025-01-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis - og baunapottréttur í Korma karrý með hrísgrj
+ ónum og Naan brauði  (G)\nVegetable - and bean stew in Korma curry with 
+ rice and Naan bread  (G)
 END:VEVENT
 END:VCALENDAR
