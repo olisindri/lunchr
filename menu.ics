@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Rótargrænmetissúpa með byggi – Root vegetable soup with barl
- ey ( G)\nSítrónu - og fennel marineruð ýsa með steiktum kartöflum\, 
- grænmeti og hvítvínssósu  (M)\nHaddock with lemon and fennel marinade 
- served with roasted potatoes\, vegetables and\nwhite wine sauce (M)
-DTSTART:20250120T110000
-DTEND:20250120T130000
-DTSTAMP:20250120T110000Z
-UID:2025-01-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rótargrænmetissúpa með byggi – Root vegetable soup with 
- barley ( G)\nSítrónu - og fennel marineruð ýsa með steiktum kartöflu
- m\, grænmeti og hvítvínssósu  (M)\nHaddock with lemon and fennel marin
- ade served with roasted potatoes\, vegetables and\nwhite wine sauce (M)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
+ u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curry an
+ d coconut served with rice (G)
+DTSTART:20250127T110000
+DTEND:20250127T130000
+DTSTAMP:20250127T110000Z
+UID:2025-01-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
+ auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red thai curr
+ y and coconut served with rice (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)\nMa
- rokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lam
- b with apricots\, vegetables and rice
-DTSTART:20250121T110000
-DTEND:20250121T130000
-DTSTAMP:20250121T110000Z
-UID:2025-01-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)
- \nMarokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan
-  lamb with apricots\, vegetables and rice
+SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
+ up  (V)\nPenne pasta með kremaðr i sveppa sósu\, kjúkling og hvítlauk
+ sbrauð (G\,M)\nPenne pasta with creamy sauce\, chicken and garlic bread(G
+ \,M)
+DTSTART:20250128T110000
+DTEND:20250128T130000
+DTSTAMP:20250128T110000Z
+UID:2025-01-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
+ o soup  (V)\nPenne pasta með kremaðr i sveppa sósu\, kjúkling og hvít
+ lauksbrauð (G\,M)\nPenne pasta with creamy sauce\, chicken and garlic bre
+ ad(G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salat dagsins – Salad of the day: Bragðmikið brokkolí  – Sp
- icy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hummus\nH
- ungarian goulash soup with focaccia bread and hummus
-DTSTART:20250122T110000
-DTEND:20250122T130000
-DTSTAMP:20250122T110000Z
-UID:2025-01-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Salat dagsins – Salad of the day: Bragðmikið brokkolí  
- – Spicy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hum
- mus\nHungarian goulash soup with focaccia bread and hummus
+SUMMARY:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\,M)\
+ nOfnbakaður seinbítur í lemongras mareneringu með steiktum kartöflum 
+ og kaldri\ndressing (M\,S\,E)\nOven baked wolffish  inn lemon gras\, with 
+ fried potatoes and cold dressing(M\,S\,E)
+DTSTART:20250129T110000
+DTEND:20250129T130000
+DTSTAMP:20250129T110000Z
+UID:2025-01-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíbökuð  – Cocoa soup with biscuits  (G\
+ ,M)\nOfnbakaður seinbítur í lemongras mareneringu með steiktum kartöf
+ lum og kaldri\ndressing (M\,S\,E)\nOven baked wolffish  inn lemon gras\, w
+ ith fried potatoes and cold dressing(M\,S\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítlauk 
- og sítrónu ásamt grænmetistríó og soðsósu\nTurkey breast with garl
- ic and lemon served with vegetable trio and Au Jus
-DTSTART:20250123T110000
-DTEND:20250123T130000
-DTSTAMP:20250123T110000Z
-UID:2025-01-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítl
- auk og sítrónu ásamt grænmetistríó og soðsósu\nTurkey breast with 
- garlic and lemon served with vegetable trio and Au Jus
+SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
+ a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
+  – harissa with rice\, vegetable and raita sauce (M)
+DTSTART:20250130T110000
+DTEND:20250130T130000
+DTSTAMP:20250130T110000Z
+UID:2025-01-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
+ rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
+ lder – harissa with rice\, vegetable and raita sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotle me
- ð mac and cheese. maisstöngli og BBQ sósu  (M\,G)\nPork belly in chipot
- le served with mac and cheese\, corn on the cob and BBQ sauce (M\,G)
-DTSTART:20250124T110000
-DTEND:20250124T130000
-DTSTAMP:20250124T110000Z
-UID:2025-01-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotl
- e með mac and cheese. maisstöngli og BBQ sósu  (M\,G)\nPork belly in ch
- ipotle served with mac and cheese\, corn on the cob and BBQ sauce (M\,G)
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nChili con carne í hamorga
+ rabrauði með sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nChili con c
+ arne inn hamburger bun with crem fresh and cheese nachos (G\,M\,E)
+DTSTART:20250131T110000
+DTEND:20250131T130000
+DTSTAMP:20250131T110000Z
+UID:2025-01-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nChili con carne í ham
+ orgarabrauði með sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nChili c
+ on carne inn hamburger bun with crem fresh and cheese nachos (G\,M\,E)
 END:VEVENT
 END:VCALENDAR

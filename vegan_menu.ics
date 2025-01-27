@@ -2,61 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles\, v
- egetables and peas served with rice and sweet chili\nsauce (G)
-DTSTART:20250120T110000
-DTEND:20250120T130000
-DTSTAMP:20250120T110000Z
-UID:2025-01-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum og sætri chili\nsósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas served with rice and sweet chili\nsauce (G)
+SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
+ samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with mad
+ ras curry  sauce served with rice
+DTSTART:20250127T110000
+DTEND:20250127T130000
+DTSTAMP:20250127T110000Z
+UID:2025-01-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
+   ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
+  madras curry  sauce served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
- samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
- ved with rice
-DTSTART:20250121T110000
-DTEND:20250121T130000
-DTSTAMP:20250121T110000Z
-UID:2025-01-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
- m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
-  served with rice
+SUMMARY:Penne pasta"Ekki kjúklingur" í sósu með basil\, timian og sól
+ þurrkuðum tómötum (S\,G)\n“Penne pasta with mushrooms  sun dried tom
+ atoes and basil (S\,G)
+DTSTART:20250128T110000
+DTEND:20250128T130000
+DTSTAMP:20250128T110000Z
+UID:2025-01-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Penne pasta"Ekki kjúklingur" í sósu með basil\, timian og 
+ sólþurrkuðum tómötum (S\,G)\n“Penne pasta with mushrooms  sun dried
+  tomatoes and basil (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\nPen
- ne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20250122T110000
-DTEND:20250122T130000
-DTSTAMP:20250122T110000Z
-UID:2025-01-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\
- nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20250129T110000
+DTEND:20250129T130000
+DTSTAMP:20250129T110000Z
+UID:2025-01-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
- töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
- ble steak served with small potatoes and\npepper sauce
-DTSTART:20250123T110000
-DTEND:20250123T130000
-DTSTAMP:20250123T110000Z
-UID:2025-01-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
-  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
- getable steak served with small potatoes and\npepper sauce
+SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
+ curry with rice
+DTSTART:20250130T110000
+DTEND:20250130T130000
+DTSTAMP:20250130T110000Z
+UID:2025-01-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) – 
- Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20250124T110000
-DTEND:20250124T130000
-DTSTAMP:20250124T110000Z
-UID:2025-01-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes served with rice\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChili si
+ n carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hnetur/
+ Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og
+  hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion a
+ nd garlic for our vegan courses
+DTSTART:20250131T110000
+DTEND:20250131T130000
+DTSTAMP:20250131T110000Z
+UID:2025-01-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChil
+ i sin carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hne
+ tur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lau
+ k og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of oni
+ on and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
