@@ -3,6 +3,8 @@ import re
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 from pypdf import PdfReader
+from spire.doc import Document
+from spire.doc.common import FileFormat
 
 
 MENU_PAGE = "https://kokkarnir.is/maturinn/matsedill-fyrirtaekjathjonusta/"
@@ -10,20 +12,20 @@ MENU_PAGE = "https://kokkarnir.is/maturinn/matsedill-fyrirtaekjathjonusta/"
 USER_AGENT = "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 
 
-def download_pdf_files(page):
+def download_files(page):
     headers={
         "User-Agent": USER_AGENT
     }
     page_text = httpx.get(page, headers=headers).text
 
-    # Get menu PDFs as tuples of (URL, filename):
-    pdf_links = re.findall(r'(https://.*/(.*.pdf))', page_text)
+    # Get menu files as tuples of (URL, filename):
+    file_links = re.findall(r'(https://.*/(.*.(pdf|docx)))', page_text)
 
-    for menu in pdf_links:
+    for menu in file_links:
         with open(menu[1], 'wb') as f:
             f.write(httpx.get(menu[0], headers=headers, timeout=20).content)
 
-    return [pdf[1] for pdf in pdf_links]
+    return [file[1] for file in file_links]
 
 
 def parse_menus(filenames):
@@ -39,6 +41,13 @@ def parse_menus(filenames):
     }
 
     for filename in filenames:
+        if "docx" in filename:
+            word_doc = Document()
+            word_doc.LoadFromFile(filename)
+            filename = f"{filename}.pdf"
+            word_doc.SaveToFile(filename, FileFormat.PDF)
+            word_doc.Close()
+
         reader = PdfReader(filename)
         full_menu = reader.pages[0].extract_text()
         for date, pattern in day_patterns.items():
@@ -77,5 +86,5 @@ def generate_ics_files(menus):
             ics_file.write(calendar.to_ical())
 
 
-filenames = download_pdf_files(MENU_PAGE)
+filenames = download_files(MENU_PAGE)
 generate_ics_files(parse_menus(filenames))
