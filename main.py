@@ -3,8 +3,7 @@ import re
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 from pypdf import PdfReader
-from spire.doc import Document
-from spire.doc.common import FileFormat
+from spire.doc import Document, FileFormat
 
 
 MENU_PAGE = "https://kokkarnir.is/maturinn/matsedill-fyrirtaekjathjonusta/"
