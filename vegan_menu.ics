@@ -1,4 +1,63 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
+BEGIN:VEVENT
+SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og mang
+ ó jalapeno\nsósu(G\,S)\nSpring rolls with beens and vegetables\, rice an
+ d mango jalapeno sauce\n(G\,S)
+DTSTART:20250203T110000
+DTEND:20250203T130000
+DTSTAMP:20250203T110000Z
+UID:2025-02-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
+ mangó jalapeno\nsósu(G\,S)\nSpring rolls with beens and vegetables\, ric
+ e and mango jalapeno sauce\n(G\,S)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri\ndressingu\nStuffed bell pepper with quinoa\, beans\, tomato and vege
+ tables served with a\ncold dressing
+DTSTART:20250204T110000
+DTEND:20250204T130000
+DTSTAMP:20250204T110000Z
+UID:2025-02-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri\ndressingu\nStuffed bell pepper with quinoa\, beans\, tomato and 
+ vegetables served with a\ncold dressing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
+DTSTART:20250205T110000
+DTEND:20250205T130000
+DTSTAMP:20250205T110000Z
+UID:2025-02-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
+ G)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan buff 
+ with potatoes and sauce
+DTSTART:20250206T110000
+DTEND:20250206T130000
+DTSTAMP:20250206T110000Z
+UID:2025-02-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
+ uff with potatoes and sauce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan burger með grænmeti\,  "California style" (G)\nVegan burge
+ r with vegetables  “California style”(G)\n(G) – Glúten/Gluten (H) 
+ – Hnetur/Peanuts - (S)- Soyja/Soya\nVinsamlegast athugið að notum miki
+ nn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot 
+ of onion and garlic for our vegan courses
+DTSTART:20250207T110000
+DTEND:20250207T130000
+DTSTAMP:20250207T110000Z
+UID:2025-02-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan burger með grænmeti\,  "California style" (G)\nVegan b
+ urger with vegetables  “California style”(G)\n(G) – Glúten/Gluten (
+ H) – Hnetur/Peanuts - (S)- Soyja/Soya\nVinsamlegast athugið að notum m
+ ikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a l
+ ot of onion and garlic for our vegan courses
+END:VEVENT
 END:VCALENDAR

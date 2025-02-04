@@ -1,4 +1,72 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
+BEGIN:VEVENT
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nBjúga með soðnu
+ m kartöflum\, uppstúf ásamt grænum baunum og rauðkáli(M\,G)\nSausage
+  with potatoes\, bechamel\, green peas an red cabbages
+DTSTART:20250203T110000
+DTEND:20250203T130000
+DTSTAMP:20250203T110000Z
+UID:2025-02-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nBjúga með so
+ ðnum kartöflum\, uppstúf ásamt grænum baunum og rauðkáli(M\,G)\nSau
+ sage with potatoes\, bechamel\, green peas an red cabbages
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papriku- og fennelsúpa – Bell pepper and fennel soup (V)\nSteik
+ tur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, fersk
+ u hrásalati\nog piparmajó(G\,M)\nFried Seawolf in panko with white cabba
+ ge and cold pepper sauce
+DTSTART:20250204T110000
+DTEND:20250204T130000
+DTSTAMP:20250204T110000Z
+UID:2025-02-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku- og fennelsúpa – Bell pepper and fennel soup (V)\nS
+ teiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, f
+ ersku hrásalati\nog piparmajó(G\,M)\nFried Seawolf in panko with white c
+ abbage and cold pepper sauce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blaðlaukssúpa – Leek soup (M\,G)\nSalat dagsins – Salad of t
+ he day: Brokkólí og grasker – broccoli and pumpkin (V)\nLasagna á ít
+ alskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasag
+ na with garlic bread and cold slaw (M\,G\,E)
+DTSTART:20250205T110000
+DTEND:20250205T130000
+DTSTAMP:20250205T110000Z
+UID:2025-02-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlaukssúpa – Leek soup (M\,G)\nSalat dagsins – Salad 
+ of the day: Brokkólí og grasker – broccoli and pumpkin (V)\nLasagna á
+  ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian l
+ asagna with garlic bread and cold slaw (M\,G\,E)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grænmetissúpa – vegetable soup (G\,V)\nOfnsteiktur svínahnakk
+ i með sýrðu rauðkáli  bökuðum premium kartöflum og\nrjómalagðri 
+ sósu(G\,M)\nOven roasted pork with red cabbage\, premium potatoes and cre
+ amy sauce
+DTSTART:20250206T110000
+DTEND:20250206T130000
+DTSTAMP:20250206T110000Z
+UID:2025-02-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetissúpa – vegetable soup (G\,V)\nOfnsteiktur svínah
+ nakki með sýrðu rauðkáli  bökuðum premium kartöflum og\nrjómalag
+ ðri sósu(G\,M)\nOven roasted pork with red cabbage\, premium potatoes an
+ d creamy sauce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger "California 
+ style" með avókadó\, sinepssósu og wedges (G\,M)\nChicken burger”Cal
+ ifornia style”with avocado\, mustard sauce and wedges\nInnihaldslýsinga
+ r – Ingredients descriptions
+DTSTART:20250207T110000
+DTEND:20250207T130000
+DTSTAMP:20250207T110000Z
+UID:2025-02-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger "Califor
+ nia style" með avókadó\, sinepssósu og wedges (G\,M)\nChicken burger
+ ”California style”with avocado\, mustard sauce and wedges\nInnihaldsl
+ ýsingar – Ingredients descriptions
+END:VEVENT
 END:VCALENDAR
