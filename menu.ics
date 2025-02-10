@@ -2,71 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nBjúga með soðnu
- m kartöflum\, uppstúf ásamt grænum baunum og rauðkáli(M\,G)\nSausage
-  with potatoes\, bechamel\, green peas an red cabbages
-DTSTART:20250203T110000
-DTEND:20250203T130000
-DTSTAMP:20250203T110000Z
-UID:2025-02-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nBjúga með so
- ðnum kartöflum\, uppstúf ásamt grænum baunum og rauðkáli(M\,G)\nSau
- sage with potatoes\, bechamel\, green peas an red cabbages
+SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSteiktar fiski
+ bollur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried fish
+  balls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
+DTSTART:20250210T110000
+DTEND:20250210T130000
+DTSTAMP:20250210T110000Z
+UID:2025-02-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSteiktar f
+ iskibollur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried 
+ fish balls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku- og fennelsúpa – Bell pepper and fennel soup (V)\nSteik
- tur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, fersk
- u hrásalati\nog piparmajó(G\,M)\nFried Seawolf in panko with white cabba
- ge and cold pepper sauce
-DTSTART:20250204T110000
-DTEND:20250204T130000
-DTSTAMP:20250204T110000Z
-UID:2025-02-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku- og fennelsúpa – Bell pepper and fennel soup (V)\nS
- teiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, f
- ersku hrásalati\nog piparmajó(G\,M)\nFried Seawolf in panko with white c
- abbage and cold pepper sauce
+SUMMARY:Hvít aspassúpa – White asparagus soup ( V\,G)\nNauta Bourguign
+ on með kartöflumús (M)\nBeef bourguignon with mased potatoes   (M)
+DTSTART:20250211T110000
+DTEND:20250211T130000
+DTSTAMP:20250211T110000Z
+UID:2025-02-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V\,G)\nNauta Bourg
+ uignon með kartöflumús (M)\nBeef bourguignon with mased potatoes   (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlaukssúpa – Leek soup (M\,G)\nSalat dagsins – Salad of t
- he day: Brokkólí og grasker – broccoli and pumpkin (V)\nLasagna á ít
- alskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasag
- na with garlic bread and cold slaw (M\,G\,E)
-DTSTART:20250205T110000
-DTEND:20250205T130000
-DTSTAMP:20250205T110000Z
-UID:2025-02-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlaukssúpa – Leek soup (M\,G)\nSalat dagsins – Salad 
- of the day: Brokkólí og grasker – broccoli and pumpkin (V)\nLasagna á
-  ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian l
- asagna with garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
+ agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
+ í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði (G\,E
+ )\nFried fish in bread crumbs served with war m potato salad \, pickles  a
+ nd remoulade (G\,E)
+DTSTART:20250212T110000
+DTEND:20250212T130000
+DTSTAMP:20250212T110000Z
+UID:2025-02-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
+ at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
+ kur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði (
+ G\,E)\nFried fish in bread crumbs served with war m potato salad \, pickle
+ s  and remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa – vegetable soup (G\,V)\nOfnsteiktur svínahnakk
- i með sýrðu rauðkáli  bökuðum premium kartöflum og\nrjómalagðri 
- sósu(G\,M)\nOven roasted pork with red cabbage\, premium potatoes and cre
- amy sauce
-DTSTART:20250206T110000
-DTEND:20250206T130000
-DTSTAMP:20250206T110000Z
-UID:2025-02-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa – vegetable soup (G\,V)\nOfnsteiktur svínah
- nakki með sýrðu rauðkáli  bökuðum premium kartöflum og\nrjómalag
- ðri sósu(G\,M)\nOven roasted pork with red cabbage\, premium potatoes an
- d creamy sauce
+SUMMARY:Tælensk grænmetissúpa  – THai vegetable soup  (V)\nOfnsteikt 
+ Lambalæri með blönduðu rótargrænmeti\, kartöflugratín og bearnaise
+ \nRosted lamb with mixed vegetables\,  potato gratin and bearnaise   (M)
+DTSTART:20250213T110000
+DTEND:20250213T130000
+DTSTAMP:20250213T110000Z
+UID:2025-02-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tælensk grænmetissúpa  – THai vegetable soup  (V)\nOfnste
+ ikt Lambalæri með blönduðu rótargrænmeti\, kartöflugratín og bearn
+ aise\nRosted lamb with mixed vegetables\,  potato gratin and bearnaise   (
+ M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger "California 
- style" með avókadó\, sinepssósu og wedges (G\,M)\nChicken burger”Cal
- ifornia style”with avocado\, mustard sauce and wedges\nInnihaldslýsinga
- r – Ingredients descriptions
-DTSTART:20250207T110000
-DTEND:20250207T130000
-DTSTAMP:20250207T110000Z
-UID:2025-02-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger "Califor
- nia style" með avókadó\, sinepssósu og wedges (G\,M)\nChicken burger
- ”California style”with avocado\, mustard sauce and wedges\nInnihaldsl
- ýsingar – Ingredients descriptions
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri á be
+ ini með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandoori c
+ hicken with loaded potatoes and yogurt sauce
+DTSTART:20250214T110000
+DTEND:20250214T130000
+DTSTAMP:20250214T110000Z
+UID:2025-02-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri 
+ á beini með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTando
+ ori chicken with loaded potatoes and yogurt sauce
 END:VEVENT
 END:VCALENDAR
