@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSteiktar fiski
  bollur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried fish
   balls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
-DTSTART:20250210T110000
-DTEND:20250210T130000
-DTSTAMP:20250210T110000Z
-UID:2025-02-10T11:00:00/olisindri@gmail.com
+DTSTART:20250217T110000
+DTEND:20250217T130000
+DTSTAMP:20250217T110000Z
+UID:2025-02-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSteiktar f
  iskibollur með kartöflum\, hrásalati og brúnni sósu (M\,G\,E)\nFried 
  fish balls with potatoes\, coleslaw and brown sauce  (M\,G \,E)
@@ -16,10 +16,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hvít aspassúpa – White asparagus soup ( V\,G)\nNauta Bourguign
  on með kartöflumús (M)\nBeef bourguignon with mased potatoes   (M)
-DTSTART:20250211T110000
-DTEND:20250211T130000
-DTSTAMP:20250211T110000Z
-UID:2025-02-11T11:00:00/olisindri@gmail.com
+DTSTART:20250218T110000
+DTEND:20250218T130000
+DTSTAMP:20250218T110000Z
+UID:2025-02-18T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V\,G)\nNauta Bourg
  uignon með kartöflumús (M)\nBeef bourguignon with mased potatoes   (M)
 END:VEVENT
@@ -29,10 +29,10 @@ SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
  í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði (G\,E
  )\nFried fish in bread crumbs served with war m potato salad \, pickles  a
  nd remoulade (G\,E)
-DTSTART:20250212T110000
-DTEND:20250212T130000
-DTSTAMP:20250212T110000Z
-UID:2025-02-12T11:00:00/olisindri@gmail.com
+DTSTART:20250219T110000
+DTEND:20250219T130000
+DTSTAMP:20250219T110000Z
+UID:2025-02-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
  at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
  kur í raspi ásamt volgu kartöflusalati\, súrum gúrkum og remúlaði (
@@ -43,10 +43,10 @@ BEGIN:VEVENT
 SUMMARY:Tælensk grænmetissúpa  – THai vegetable soup  (V)\nOfnsteikt 
  Lambalæri með blönduðu rótargrænmeti\, kartöflugratín og bearnaise
  \nRosted lamb with mixed vegetables\,  potato gratin and bearnaise   (M)
-DTSTART:20250213T110000
-DTEND:20250213T130000
-DTSTAMP:20250213T110000Z
-UID:2025-02-13T11:00:00/olisindri@gmail.com
+DTSTART:20250220T110000
+DTEND:20250220T130000
+DTSTAMP:20250220T110000Z
+UID:2025-02-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tælensk grænmetissúpa  – THai vegetable soup  (V)\nOfnste
  ikt Lambalæri með blönduðu rótargrænmeti\, kartöflugratín og bearn
  aise\nRosted lamb with mixed vegetables\,  potato gratin and bearnaise   (
@@ -56,10 +56,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri á be
  ini með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandoori c
  hicken with loaded potatoes and yogurt sauce
-DTSTART:20250214T110000
-DTEND:20250214T130000
-DTSTAMP:20250214T110000Z
-UID:2025-02-14T11:00:00/olisindri@gmail.com
+DTSTART:20250221T110000
+DTEND:20250221T130000
+DTSTAMP:20250221T110000Z
+UID:2025-02-21T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri 
  á beini með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTando
  ori chicken with loaded potatoes and yogurt sauce
