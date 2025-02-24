@@ -2,61 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
- ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
- ed with Aioli
-DTSTART:20250217T110000
-DTEND:20250217T130000
-DTSTAMP:20250217T110000Z
-UID:2025-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
- h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
- served with Aioli
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti\nVegetable thai cu
+ rry with beans and vegetables
+DTSTART:20250224T110000
+DTEND:20250224T130000
+DTSTAMP:20250224T110000Z
+UID:2025-02-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti\nVegetable tha
+ i curry with beans and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunum\no
- g lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, kidne
- y beans and onion with cous cous
-DTSTART:20250218T110000
-DTEND:20250218T130000
-DTSTAMP:20250218T110000Z
-UID:2025-02-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunu
- m\nog lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, k
- idney beans and onion with cous cous
+SUMMARY:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghetti an
+ d vegan Bolognese with coleslaw (S\,G)
+DTSTART:20250225T110000
+DTEND:20250225T130000
+DTSTAMP:20250225T110000Z
+UID:2025-02-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghett
+ i and vegan Bolognese with coleslaw (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
- esam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
-DTSTART:20250219T110000
-DTEND:20250219T130000
-DTSTAMP:20250219T110000Z
-UID:2025-02-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
- og sesam sósu (S)\nVeggie tots with rice and soy- and sesam  sauce  (S)
+SUMMARY:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nRoast
+ ed broccoli with hummus and lentils served with dressing
+DTSTART:20250226T110000
+DTEND:20250226T130000
+DTSTAMP:20250226T110000Z
+UID:2025-02-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nR
+ oasted broccoli with hummus and lentils served with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartöflum
-   og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glazed p
- otatoes and sweet corn\n(H)
-DTSTART:20250220T110000
-DTEND:20250220T130000
-DTSTAMP:20250220T110000Z
-UID:2025-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartö
- flum  og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glaz
- ed potatoes and sweet corn\n(H)
+SUMMARY:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófum\, 
+ kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt mang ó
+ -\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\, ca
+ rrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach serv
+ ed with mango -\, curry - and coconut sauce (G)
+DTSTART:20250227T110000
+DTEND:20250227T130000
+DTSTAMP:20250227T110000Z
+UID:2025-02-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófu
+ m\, kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt man
+ g ó-\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\
+ , carrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach 
+ served with mango -\, curry - and coconut sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
- vegan mincemeat  and salsa  (S)
-DTSTART:20250221T110000
-DTEND:20250221T130000
-DTSTAMP:20250221T110000Z
-UID:2025-02-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
- ith vegan mincemeat  and salsa  (S)
+SUMMARY:Klúbsamloka með ekki kjúkling og rauðrófubeikoni (G\,H)\nClub
+  sandwich with not chicken  beetroot bacon
+DTSTART:20250228T110000
+DTEND:20250228T130000
+DTSTAMP:20250228T110000Z
+UID:2025-02-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Klúbsamloka með ekki kjúkling og rauðrófubeikoni (G\,H)\n
+ Club sandwich with not chicken  beetroot bacon
 END:VEVENT
 END:VCALENDAR
