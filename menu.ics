@@ -2,66 +2,73 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænertusúpa  og beikon  – Pea and bacon  soup\nKjúklingur í
-  rauðu karrý og kókós ásamt hrísgrjónum\nChicken in red curry ser v
- ed with rice
-DTSTART:20250224T110000
-DTEND:20250224T130000
-DTSTAMP:20250224T110000Z
-UID:2025-02-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertusúpa  og beikon  – Pea and bacon  soup\nKjúklingu
- r í rauðu karrý og kókós ásamt hrísgrjónum\nChicken in red curry s
- er ved with rice
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G \,)\nKjötbollur me
+ ð kartöflumús\, rau ðkáli og brú nni sósu  (G\,S\,M)\nMeet balls wi
+ th mashed potatoes and brown sauce
+DTSTART:20250303T110000
+DTEND:20250303T130000
+DTSTAMP:20250303T110000Z
+UID:2025-03-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G \,)\nKjötbollur
+  með kartöflumús\, rau ðkáli og brú nni sósu  (G\,S\,M)\nMeet balls
+  with mashed potatoes and brown sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svartar baunir og grænmeti – black -been and vegetable soup (V)
- \nSpaghetti Bolognese með hrásalati og hvítlauksbrauði (G\,M )\nSpaghe
- tti Bolognese with coleslaw and garlic bread (G\,M )
-DTSTART:20250225T110000
-DTEND:20250225T130000
-DTSTAMP:20250225T110000Z
-UID:2025-02-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Svartar baunir og grænmeti – black -been and vegetable soup
-  (V)\nSpaghetti Bolognese með hrásalati og hvítlauksbrauði (G\,M )\nSp
- aghetti Bolognese with coleslaw and garlic bread (G\,M )
+SUMMARY:Íslensk baunasúpa  – Classic Icelandic bean  soup\nSaltkjöt o
+ g baunir \, túkall\nSalted meat with vegetables and beans
+DTSTART:20250304T110000
+DTEND:20250304T130000
+DTSTAMP:20250304T110000Z
+UID:2025-03-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Íslensk baunasúpa  – Classic Icelandic bean  soup\nSaltkj
+ öt og baunir \, túkall\nSalted meat with vegetables and beans
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómat súpa – Creamy tomato  soup\nSuðurríkja steiktu
- r steinbítur  með kaldri dressingu og kartöflum  (G\,E)\nSouthern fried
-  catfish  with cold dressing and potatoes  (G\,E)
-DTSTART:20250226T110000
-DTEND:20250226T130000
-DTSTAMP:20250226T110000Z
-UID:2025-02-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómat súpa – Creamy tomato  soup\nSuðurríkja ste
- iktur steinbítur  með kaldri dressingu og kartöflum  (G\,E)\nSouthern f
- ried catfish  with cold dressing and potatoes  (G\,E)
+SUMMARY:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Salad o
+ f the day: Brokkólí og grasker  – broccoli and pumpkin  (V)\nÝsa í t
+ andori kryddi\, ba mbus\, papriku\, spínati með hrísgrjónum og sýrðu
+ m rjóma\nHaddock in tandoori\, bamboo\, bell peppers\, spinach with rice 
+ and  crème fraiche
+DTSTART:20250305T110000
+DTEND:20250305T130000
+DTSTAMP:20250305T110000Z
+UID:2025-03-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks súpa – Leek  soup ( M\,G)\nSalat dagsins – Sal
+ ad of the day: Brokkólí og grasker  – broccoli and pumpkin  (V)\nÝsa 
+ í tandori kryddi\, ba mbus\, papriku\, spínati með hrísgrjónum og sý
+ rðum rjóma\nHaddock in tandoori\, bamboo\, bell peppers\, spinach with r
+ ice and  crème fraiche
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrý súpa – Spinach - and curry  soup ( V)\nLang
- tímaeldaðir lambaskankar með rauðvínssósu\, kartöflumús og sýrðu
-  hvítkáli (M)\nLamb shank with red wine sauce\, mashed potatoes og with 
- cabbages  (M)
-DTSTART:20250227T110000
-DTEND:20250227T130000
-DTSTAMP:20250227T110000Z
-UID:2025-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrý súpa – Spinach - and curry  soup ( V)\n
- Langtímaeldaðir lambaskankar með rauðvínssósu\, kartöflumús og sý
- rðu hvítkáli (M)\nLamb shank with red wine sauce\, mashed potatoes og w
- ith cabbages  (M)
+SUMMARY:Blómkáls súpa – Cauliflower  soup  (G\,V)\nOfnsteiktar Grísa
+ lundir í rósmarín\,  timian með  epla og trönuberja hrásalati ásamt
+ \nsteiktum kartöflum og kremaðri Dijon sósu\nPork fillet inn rosemary\,
+  time\, with apple and cranberry cold slaw\, potatoes and creamy\nDijon sa
+ uce
+DTSTART:20250306T110000
+DTEND:20250306T130000
+DTSTAMP:20250306T110000Z
+UID:2025-03-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls súpa – Cauliflower  soup  (G\,V)\nOfnsteiktar Gr
+ ísalundir í rósmarín\,  timian með  epla og trönuberja hrásalati á
+ samt\nsteiktum kartöflum og kremaðri Dijon sósu\nPork fillet inn rosema
+ ry\, time\, with apple and cranberry cold slaw\, potatoes and creamy\nDijo
+ n sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKlúbsamloka með kjúkli
- ngi\, beikoni og mæjónesi  ásamt "loaded" kartöflum (G\,E\,M)\nClub sa
- ndwich with chicken\, beacon\, mayo and “loaded” potatoes (G\,E\,M)
-DTSTART:20250228T110000
-DTEND:20250228T130000
-DTSTAMP:20250228T110000Z
-UID:2025-02-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKlúbsamloka með kj
- úklingi\, beikoni og mæjónesi  ásamt "loaded" kartöflum (G\,E\,M)\nCl
- ub sandwich with chicken\, beacon\, mayo and “loaded” potatoes (G\,E\,
- M)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\n"Sliders" með rifnu nauta b
+ risket\,rifnu svínakjöti\, sýrðum fennel\, stökkum hnetu raspi\,\nkar
+ töflubát um og köldum sósum (G\,H\,S\,E)\n“Sliders” with confit br
+ isked\, confit pork pickled fennel\, crispy panko\, wedges and cold\nsauce
+ s  (G\,H\,S\,E)
+DTSTART:20250307T110000
+DTEND:20250307T130000
+DTSTAMP:20250307T110000Z
+UID:2025-03-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\n"Sliders" með rifnu nau
+ ta brisket\,rifnu svínakjöti\, sýrðum fennel\, stökkum hnetu raspi\,\
+ nkartöflubát um og köldum sósum (G\,H\,S\,E)\n“Sliders” with confi
+ t brisked\, confit pork pickled fennel\, crispy panko\, wedges and cold\ns
+ auces  (G\,H\,S\,E)
 END:VEVENT
 END:VCALENDAR

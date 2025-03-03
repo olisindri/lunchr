@@ -2,59 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti\nVegetable thai cu
- rry with beans and vegetables
-DTSTART:20250224T110000
-DTEND:20250224T130000
-DTSTAMP:20250224T110000Z
-UID:2025-02-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti\nVegetable tha
- i curry with beans and vegetables
+SUMMARY:Vegan bollur með kartöflum og sveppasósu (S\,G)\nvegan balls wi
+ th potatoes ans mushroom sauce  (S\,G)
+DTSTART:20250303T110000
+DTEND:20250303T130000
+DTSTAMP:20250303T110000Z
+UID:2025-03-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan bollur með kartöflum og sveppasósu (S\,G)\nvegan ball
+ s with potatoes ans mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghetti an
- d vegan Bolognese with coleslaw (S\,G)
-DTSTART:20250225T110000
-DTEND:20250225T130000
-DTSTAMP:20250225T110000Z
-UID:2025-02-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghett
- i and vegan Bolognese with coleslaw (S\,G)
+SUMMARY:Fyllt  paprika með quinoa\, baunum\, tómat og grænmeti ásamt k
+ aldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and vege
+ tables served with a cold\ndressing
+DTSTART:20250304T110000
+DTEND:20250304T130000
+DTSTAMP:20250304T110000Z
+UID:2025-03-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt  paprika með quinoa\, baunum\, tómat og grænmeti ása
+ mt kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and 
+ vegetables served with a cold\ndressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nRoast
- ed broccoli with hummus and lentils served with dressing
-DTSTART:20250226T110000
-DTEND:20250226T130000
-DTSTAMP:20250226T110000Z
-UID:2025-02-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað brokkolí með hummus og linsubaunum ásamt dressing\nR
- oasted broccoli with hummus and lentils served with dressing
+SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
+DTSTART:20250305T110000
+DTEND:20250305T130000
+DTSTAMP:20250305T110000Z
+UID:2025-03-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
+ G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófum\, 
- kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt mang ó
- -\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\, ca
- rrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach serv
- ed with mango -\, curry - and coconut sauce (G)
-DTSTART:20250227T110000
-DTEND:20250227T130000
-DTSTAMP:20250227T110000Z
-UID:2025-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Bakað “Brick” með steiktu hvítkáli\, gulrótum\, rófu
- m\, kjúklingabaunum\, sætum\nkartöflum\, paprika og spínati ásamt man
- g ó-\, karrý - og kókossósu (G)\nBaked Brick with fried white cabbage\
- , carrots\, swede\, chickpeas\, sweet potatoes\, bell\npepper and spinach 
- served with mango -\, curry - and coconut sauce (G)
+SUMMARY:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jalapeno
+ sósu\nVegetable frikadeller served with small potatoes  and mango jalapen
+ o sauce
+DTSTART:20250306T110000
+DTEND:20250306T130000
+DTSTAMP:20250306T110000Z
+UID:2025-03-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jala
+ penosósu\nVegetable frikadeller served with small potatoes  and mango jal
+ apeno sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klúbsamloka með ekki kjúkling og rauðrófubeikoni (G\,H)\nClub
-  sandwich with not chicken  beetroot bacon
-DTSTART:20250228T110000
-DTEND:20250228T130000
-DTSTAMP:20250228T110000Z
-UID:2025-02-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Klúbsamloka með ekki kjúkling og rauðrófubeikoni (G\,H)\n
- Club sandwich with not chicken  beetroot bacon
+SUMMARY:"Sliders"  með reyktum rauðrófum\, "ekki kjúkling"\, sýrðum 
+ fennel\, stökkum hnetu raspi\nog vorlauk (S\,G\,H)\n“sliders”  with s
+ moked beets\, “not chicken”\, pickled  fennel \, crispy nut bread crum
+ bs\nand spring onion (S\,G\,H)\n(G) – Glúten/Gluten  (H) – Hnetur/Pea
+ nuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
+ ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
+ garlic for our vegan courses
+DTSTART:20250307T110000
+DTEND:20250307T130000
+DTSTAMP:20250307T110000Z
+UID:2025-03-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:"Sliders"  með reyktum rauðrófum\, "ekki kjúkling"\, sýr
+ ðum fennel\, stökkum hnetu raspi\nog vorlauk (S\,G\,H)\n“sliders”  w
+ ith smoked beets\, “not chicken”\, pickled  fennel \, crispy nut bread
+  crumbs\nand spring onion (S\,G\,H)\n(G) – Glúten/Gluten  (H) – Hnetu
+ r/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk 
+ og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion
+  and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
