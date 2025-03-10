@@ -2,66 +2,60 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vegan bollur með kartöflum og sveppasósu (S\,G)\nvegan balls wi
- th potatoes ans mushroom sauce  (S\,G)
-DTSTART:20250303T110000
-DTEND:20250303T130000
-DTSTAMP:20250303T110000Z
-UID:2025-03-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan bollur með kartöflum og sveppasósu (S\,G)\nvegan ball
- s with potatoes ans mushroom sauce  (S\,G)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
+ töflum\nPotato and beets rissole with len tils served with herb spiced po
+ tatoes
+DTSTART:20250310T110000
+DTEND:20250310T130000
+DTSTAMP:20250310T110000Z
+UID:2025-03-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
+ akartöflum\nPotato and beets rissole with len tils served with herb spice
+ d potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt  paprika með quinoa\, baunum\, tómat og grænmeti ásamt k
- aldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and vege
- tables served with a cold\ndressing
-DTSTART:20250304T110000
-DTEND:20250304T130000
-DTSTAMP:20250304T110000Z
-UID:2025-03-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt  paprika með quinoa\, baunum\, tómat og grænmeti ása
- mt kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and 
- vegetables served with a cold\ndressing
+SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
+ t potato balls  with curry sauce  and rice  (G)
+DTSTART:20250311T110000
+DTEND:20250311T130000
+DTSTAMP:20250311T110000Z
+UID:2025-03-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
+ Sweet potato balls  with curry sauce  and rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
-DTSTART:20250305T110000
-DTEND:20250305T130000
-DTSTAMP:20250305T110000Z
-UID:2025-03-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
- G)
+SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum  og
+  rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes\, c
+ hicken peas\, black beans  and root vegetables served with\nmustard mayo
+DTSTART:20250312T110000
+DTEND:20250312T130000
+DTSTAMP:20250312T110000Z
+UID:2025-03-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
+   og rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes
+ \, chicken peas\, black beans  and root vegetables served with\nmustard ma
+ yo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jalapeno
- sósu\nVegetable frikadeller served with small potatoes  and mango jalapen
- o sauce
-DTSTART:20250306T110000
-DTEND:20250306T130000
-DTSTAMP:20250306T110000Z
-UID:2025-03-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis frikadellur ásamt kartöflusmælki  og mangó jala
- penosósu\nVegetable frikadeller served with small potatoes  and mango jal
- apeno sauce
+SUMMARY:Ekki kjúklingur tik ka með "Bombay" kartöflum\, (S)\nNot chicke
+ n tikka “Bombay” kartöflur( S)
+DTSTART:20250313T110000
+DTEND:20250313T130000
+DTSTAMP:20250313T110000Z
+UID:2025-03-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ekki kjúklingur tik ka með "Bombay" kartöflum\, (S)\nNot ch
+ icken tikka “Bombay” kartöflur( S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Sliders"  með reyktum rauðrófum\, "ekki kjúkling"\, sýrðum 
- fennel\, stökkum hnetu raspi\nog vorlauk (S\,G\,H)\n“sliders”  with s
- moked beets\, “not chicken”\, pickled  fennel \, crispy nut bread crum
- bs\nand spring onion (S\,G\,H)\n(G) – Glúten/Gluten  (H) – Hnetur/Pea
- nuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
- ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
- garlic for our vegan courses
-DTSTART:20250307T110000
-DTEND:20250307T130000
-DTSTAMP:20250307T110000Z
-UID:2025-03-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:"Sliders"  með reyktum rauðrófum\, "ekki kjúkling"\, sýr
- ðum fennel\, stökkum hnetu raspi\nog vorlauk (S\,G\,H)\n“sliders”  w
- ith smoked beets\, “not chicken”\, pickled  fennel \, crispy nut bread
-  crumbs\nand spring onion (S\,G\,H)\n(G) – Glúten/Gluten  (H) – Hnetu
- r/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk 
- og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion
-  and garlic for our vegan courses
+SUMMARY:Rifið soya kjöt souvlaki á pitubrauði með griskum sósum og k
+ artöflubátum (G\,S)\nSoy meet souvlaki on pita bread with Greek sauces a
+ nd wedges  (G\,S)\nInnihaldslýsingar – Ingredients
+DTSTART:20250314T110000
+DTEND:20250314T130000
+DTSTAMP:20250314T110000Z
+UID:2025-03-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rifið soya kjöt souvlaki á pitubrauði með griskum sósum 
+ og kartöflubátum (G\,S)\nSoy meet souvlaki on pita bread with Greek sauc
+ es and wedges  (G\,S)\nInnihaldslýsingar – Ingredients
 END:VEVENT
 END:VCALENDAR
