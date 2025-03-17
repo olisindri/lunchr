@@ -2,69 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad of t
- he day: Rauðrófur – Beetroot ( V)\nPlokkfiskur með rúgbrauði  og sm
- jöri (M\,G\,)\nFish stew  with bread and butter (M\,G\,)
+SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nBuff Lind
+ ström með kartöflumús\, rauðkál i og brún ni lauksósu (G\,M\,E)\nB
+ uff Lindström with mashed potatoes and brown sauce(G\,M\,E)
 DTSTART:20250317T110000
 DTEND:20250317T130000
 DTSTAMP:20250317T110000Z
 UID:2025-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nSalat dagsins – Salad 
- of the day: Rauðrófur – Beetroot ( V)\nPlokkfiskur með rúgbrauði  o
- g smjöri (M\,G\,)\nFish stew  with bread and butter (M\,G\,)
+DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nBuff 
+ Lindström með kartöflumús\, rauðkál i og brún ni lauksósu (G\,M\,E
+ )\nBuff Lindström with mashed potatoes and brown sauce(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V)\nP
- enne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítlauks
- brauð (M\,G\,E)\nPenne pasta with creamy mushroom sauce\, chicken\, beaco
- n and garlic bread (M\,G\,E)
+SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolaldakj
+ öt í Guinness með sveppum og grænmeti ásamt  steiktum kartöflum  (G)
+ \nFoal meat in Guinness with mushrooms and  fried potatoes  (G)
 DTSTART:20250318T110000
 DTEND:20250318T130000
 DTSTAMP:20250318T110000Z
 UID:2025-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V
- )\nPenne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítl
- auksbrauð (M\,G\,E)\nPenne pasta with creamy mushroom sauce\, chicken\, b
- eacon and garlic bread (M\,G\,E)
+DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolald
+ akjöt í Guinness með sveppum og grænmeti ásamt  steiktum kartöflum  
+ (G)\nFoal meat in Guinness with mushrooms and  fried potatoes  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
- f the day: Blómkál – Cauliflower  (V)\nEggjasteikt ýsa með steiktum 
- kartöflum \, tartar sósu fersku hrásal ati(G\,EM)\nEgg fried haddock wi
- th potatoes\, tartar sauce and col eslaw (G\,E\,M)
+SUMMARY:Lauk súpa – Onion  soup\nSalat dagsins – Salad of the day: Pa
+ prika og basilíka – Bell pepper and basil\nLétt saltaður þorskur í 
+ miðjar ðarhafs mareneringu með steiktum kartöflum\nSalted cod with Med
+ iterranean marinade and fried p otatoes
 DTSTART:20250319T110000
 DTEND:20250319T130000
 DTSTAMP:20250319T110000Z
 UID:2025-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
- ad of the day: Blómkál – Cauliflower  (V)\nEggjasteikt ýsa með steik
- tum kartöflum \, tartar sósu fersku hrásal ati(G\,EM)\nEgg fried haddoc
- k with potatoes\, tartar sauce and col eslaw (G\,E\,M)
+DESCRIPTION:Lauk súpa – Onion  soup\nSalat dagsins – Salad of the day
+ : Paprika og basilíka – Bell pepper and basil\nLétt saltaður þorskur
+  í miðjar ðarhafs mareneringu með steiktum kartöflum\nSalted cod with
+  Mediterranean marinade and fried p otatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nKjúk
- lingur ti kka með "Bombay" kartöflum\, smjörsósu og naan brauði\nChic
- ken tikka with “Bombay” potatoes\, butter sauce and naan
+SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
+  ofnbökuðum kartöflum\, grænum baunum og sveppasósu (M\,G\,E)\nPork S
+ chnitzel with roasted potatoes\, peas and mushroom sauce  (M\,G\,E)
 DTSTART:20250320T110000
 DTEND:20250320T130000
 DTSTAMP:20250320T110000Z
 UID:2025-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nK
- júklingur ti kka með "Bombay" kartöflum\, smjörsósu og naan brauði\n
- Chicken tikka with “Bombay” potatoes\, butter sauce and naan
+DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
+ með ofnbökuðum kartöflum\, grænum baunum og sveppasósu (M\,G\,E)\nPo
+ rk Schnitzel with roasted potatoes\, peas and mushroom sauce  (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nSvínakjöt souvlaki á pí
- tubrauði með Grískum sósum. Jógurt og feta \, chili\,  ásamt\nkartö
- flubátum (G\,M\,)\nPork souvlaki on  pita bread with Greek sauces. Yogurt
-  and feta\, spice and wedges\n(G\,M)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með avoc
+ ado mauki og nachos (M\,G)\nMexico lasagna with avocado mash(M\,G)
 DTSTART:20250321T110000
 DTEND:20250321T130000
 DTSTAMP:20250321T110000Z
 UID:2025-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nSvínakjöt souvlaki á
-  pítubrauði með Grískum sósum. Jógurt og feta \, chili\,  ásamt\nka
- rtöflubátum (G\,M\,)\nPork souvlaki on  pita bread with Greek sauces. Yo
- gurt and feta\, spice and wedges\n(G\,M)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með 
+ avocado mauki og nachos (M\,G)\nMexico lasagna with avocado mash(M\,G)
 END:VEVENT
 END:VCALENDAR

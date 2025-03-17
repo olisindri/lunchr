@@ -2,60 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
- töflum\nPotato and beets rissole with len tils served with herb spiced po
- tatoes
+SUMMARY:Vegan Lindström með kartöflum\nVegan Lindstrom
 DTSTART:20250317T110000
 DTEND:20250317T130000
 DTSTAMP:20250317T110000Z
 UID:2025-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
- akartöflum\nPotato and beets rissole with len tils served with herb spice
- d potatoes
+DESCRIPTION:Vegan Lindström með kartöflum\nVegan Lindstrom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
- t potato balls  with curry sauce  and rice  (G)
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
+ num\nVegetables red curry with beans and vegetables served with rice
 DTSTART:20250318T110000
 DTEND:20250318T130000
 DTSTAMP:20250318T110000Z
 UID:2025-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
- Sweet potato balls  with curry sauce  and rice  (G)
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
+ rjónum\nVegetables red curry with beans and vegetables served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum  og
-  rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes\, c
- hicken peas\, black beans  and root vegetables served with\nmustard mayo
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice and sweet chili sauce\n(G\,S)
 DTSTART:20250319T110000
 DTEND:20250319T130000
 DTSTAMP:20250319T110000Z
 UID:2025-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
-   og rótargrænmeti  ásamt\nsinneps mæjó\nSpiced rissole with potatoes
- \, chicken peas\, black beans  and root vegetables served with\nmustard ma
- yo
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúklingur tik ka með "Bombay" kartöflum\, (S)\nNot chicke
- n tikka “Bombay” kartöflur( S)
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmeti  o
+ g sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegetables
+   and mushroom sauce  (S\,G)
 DTSTART:20250320T110000
 DTEND:20250320T130000
 DTSTAMP:20250320T110000Z
 UID:2025-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúklingur tik ka með "Bombay" kartöflum\, (S)\nNot ch
- icken tikka “Bombay” kartöflur( S)
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmet
+ i  og sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegeta
+ bles  and mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rifið soya kjöt souvlaki á pitubrauði með griskum sósum og k
- artöflubátum (G\,S)\nSoy meet souvlaki on pita bread with Greek sauces a
- nd wedges  (G\,S)\nInnihaldslýsingar – Ingredients
+SUMMARY:Lasagna: Paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur\, t
+ ómatur og basil\, ásamt salati\,\npestó og brauði. (H)\nLasagna: bell 
+ peppers\, onion\, carrots\, leek\, basil\, with pesto  (H)
 DTSTART:20250321T110000
 DTEND:20250321T130000
 DTSTAMP:20250321T110000Z
 UID:2025-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rifið soya kjöt souvlaki á pitubrauði með griskum sósum 
- og kartöflubátum (G\,S)\nSoy meet souvlaki on pita bread with Greek sauc
- es and wedges  (G\,S)\nInnihaldslýsingar – Ingredients
+DESCRIPTION:Lasagna: Paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur
+ \, tómatur og basil\, ásamt salati\,\npestó og brauði. (H)\nLasagna: b
+ ell peppers\, onion\, carrots\, leek\, basil\, with pesto  (H)
 END:VEVENT
 END:VCALENDAR
