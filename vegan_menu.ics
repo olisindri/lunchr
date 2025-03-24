@@ -2,57 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vegan Lindström með kartöflum\nVegan Lindstrom
-DTSTART:20250317T110000
-DTEND:20250317T130000
-DTSTAMP:20250317T110000Z
-UID:2025-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Lindström með kartöflum\nVegan Lindstrom
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
+ ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
+ vegetables and peas\nserved with rice and sweet chili sauce (G)
+DTSTART:20250324T110000
+DTEND:20250324T130000
+DTSTAMP:20250324T110000Z
+UID:2025-03-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
+  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
+ \, vegetables and peas\nserved with rice and sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
- num\nVegetables red curry with beans and vegetables served with rice
-DTSTART:20250318T110000
-DTEND:20250318T130000
-DTSTAMP:20250318T110000Z
-UID:2025-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
- rjónum\nVegetables red curry with beans and vegetables served with rice
+SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
+ samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
+ ved with rice
+DTSTART:20250325T110000
+DTEND:20250325T130000
+DTSTAMP:20250325T110000Z
+UID:2025-03-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
+ m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
+  served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
- rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
- odles and peas served with rice and sweet chili sauce\n(G\,S)
-DTSTART:20250319T110000
-DTEND:20250319T130000
-DTSTAMP:20250319T110000Z
-UID:2025-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
- ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
- , noodles and peas served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\nPen
+ ne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
+DTSTART:20250326T110000
+DTEND:20250326T130000
+DTSTAMP:20250326T110000Z
+UID:2025-03-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\
+ nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmeti  o
- g sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegetables
-   and mushroom sauce  (S\,G)
-DTSTART:20250320T110000
-DTEND:20250320T130000
-DTSTAMP:20250320T110000Z
-UID:2025-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmet
- i  og sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegeta
- bles  and mushroom sauce  (S\,G)
+SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
+ töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
+ ble steak served with small potatoes and\npepper sauce
+DTSTART:20250327T110000
+DTEND:20250327T130000
+DTSTAMP:20250327T110000Z
+UID:2025-03-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
+  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
+ getable steak served with small potatoes and\npepper sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lasagna: Paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur\, t
- ómatur og basil\, ásamt salati\,\npestó og brauði. (H)\nLasagna: bell 
- peppers\, onion\, carrots\, leek\, basil\, with pesto  (H)
-DTSTART:20250321T110000
-DTEND:20250321T130000
-DTSTAMP:20250321T110000Z
-UID:2025-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lasagna: Paprika\, laukur\, sellerý\, gulrætur\, blaðlaukur
- \, tómatur og basil\, ásamt salati\,\npestó og brauði. (H)\nLasagna: b
- ell peppers\, onion\, carrots\, leek\, basil\, with pesto  (H)
+SUMMARY:Chana masala með hrísgrjónum (S)\nChana masala with rice( S)\n(
+ G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
+DTSTART:20250328T110000
+DTEND:20250328T130000
+DTSTAMP:20250328T110000Z
+UID:2025-03-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chana masala með hrísgrjónum (S)\nChana masala with rice( S
+ )\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR

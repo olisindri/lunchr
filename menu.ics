@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nBuff Lind
- ström með kartöflumús\, rauðkál i og brún ni lauksósu (G\,M\,E)\nB
- uff Lindström with mashed potatoes and brown sauce(G\,M\,E)
-DTSTART:20250317T110000
-DTEND:20250317T130000
-DTSTAMP:20250317T110000Z
-UID:2025-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nBuff 
- Lindström með kartöflumús\, rauðkál i og brún ni lauksósu (G\,M\,E
- )\nBuff Lindström with mashed potatoes and brown sauce(G\,M\,E)
+SUMMARY:Blaðlaukssúpa – Leek soup  (G)\nSítrónu - og fennel marineru
+ ð ýsa með steiktum kartöflum\, grænmeti og hvítvínssósu  (M)\nHadd
+ ock lemon and fennel marinade d\, served with roasted potatoes\, vegetable
+ s and\nwhite wine sauce (M)
+DTSTART:20250324T110000
+DTEND:20250324T130000
+DTSTAMP:20250324T110000Z
+UID:2025-03-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlaukssúpa – Leek soup  (G)\nSítrónu - og fennel mari
+ neruð ýsa með steiktum kartöflum\, grænmeti og hvítvínssósu  (M)\n
+ Haddock lemon and fennel marinade d\, served with roasted potatoes\, veget
+ ables and\nwhite wine sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolaldakj
- öt í Guinness með sveppum og grænmeti ásamt  steiktum kartöflum  (G)
- \nFoal meat in Guinness with mushrooms and  fried potatoes  (G)
-DTSTART:20250318T110000
-DTEND:20250318T130000
-DTSTAMP:20250318T110000Z
-UID:2025-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup  (V)\nFolald
- akjöt í Guinness með sveppum og grænmeti ásamt  steiktum kartöflum  
- (G)\nFoal meat in Guinness with mushrooms and  fried potatoes  (G)
+SUMMARY:Rótargrænmetissúpa  – Root vegetable  soup  (V)\nMarokkóskt 
+ lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lamb with apr
+ icots\, vegetables and rice
+DTSTART:20250325T110000
+DTEND:20250325T130000
+DTSTAMP:20250325T110000Z
+UID:2025-03-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rótargrænmetissúpa  – Root vegetable  soup  (V)\nMarokkó
+ skt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lamb with
+  apricots\, vegetables and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lauk súpa – Onion  soup\nSalat dagsins – Salad of the day: Pa
- prika og basilíka – Bell pepper and basil\nLétt saltaður þorskur í 
- miðjar ðarhafs mareneringu með steiktum kartöflum\nSalted cod with Med
- iterranean marinade and fried p otatoes
-DTSTART:20250319T110000
-DTEND:20250319T130000
-DTSTAMP:20250319T110000Z
-UID:2025-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lauk súpa – Onion  soup\nSalat dagsins – Salad of the day
- : Paprika og basilíka – Bell pepper and basil\nLétt saltaður þorskur
-  í miðjar ðarhafs mareneringu með steiktum kartöflum\nSalted cod with
-  Mediterranean marinade and fried p otatoes
+SUMMARY:Salat dagsins – Salad of the day: Bragðmikið brokkolí  – Sp
+ icy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hummus\nH
+ ungarian Goulash soup with focaccia bread and hummus
+DTSTART:20250326T110000
+DTEND:20250326T130000
+DTSTAMP:20250326T110000Z
+UID:2025-03-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins – Salad of the day: Bragðmikið brokkolí  
+ – Spicy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hum
+ mus\nHungarian Goulash soup with focaccia bread and hummus
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum kartöflum\, grænum baunum og sveppasósu (M\,G\,E)\nPork S
- chnitzel with roasted potatoes\, peas and mushroom sauce  (M\,G\,E)
-DTSTART:20250320T110000
-DTEND:20250320T130000
-DTSTAMP:20250320T110000Z
-UID:2025-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum kartöflum\, grænum baunum og sveppasósu (M\,G\,E)\nPo
- rk Schnitzel with roasted potatoes\, peas and mushroom sauce  (M\,G\,E)
+SUMMARY:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítlauk 
+ og sítrónu ásamt grænmetistríó i og soðsósu\nTurkey breast with ga
+ rlic and lemon served with vegetable trio and turkey j us
+DTSTART:20250327T110000
+DTEND:20250327T130000
+DTSTAMP:20250327T110000Z
+UID:2025-03-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítl
+ auk og sítrónu ásamt grænmetistríó i og soðsósu\nTurkey breast wit
+ h garlic and lemon served with vegetable trio and turkey j us
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með avoc
- ado mauki og nachos (M\,G)\nMexico lasagna with avocado mash(M\,G)
-DTSTART:20250321T110000
-DTEND:20250321T130000
-DTSTAMP:20250321T110000Z
-UID:2025-03-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með 
- avocado mauki og nachos (M\,G)\nMexico lasagna with avocado mash(M\,G)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotle me
+ ð “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork belly in
+  chipotle served with “Mac and Cheese”\, corn on the cob and BBQ sauce
+ \n(M\,G)
+DTSTART:20250328T110000
+DTEND:20250328T130000
+DTSTAMP:20250328T110000Z
+UID:2025-03-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotl
+ e með “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork bell
+ y in chipotle served with “Mac and Cheese”\, corn on the cob and BBQ s
+ auce\n(M\,G)
 END:VEVENT
 END:VCALENDAR
