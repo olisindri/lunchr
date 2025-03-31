@@ -2,67 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlaukssúpa – Leek soup  (G)\nSítrónu - og fennel marineru
- ð ýsa með steiktum kartöflum\, grænmeti og hvítvínssósu  (M)\nHadd
- ock lemon and fennel marinade d\, served with roasted potatoes\, vegetable
- s and\nwhite wine sauce (M)
-DTSTART:20250324T110000
-DTEND:20250324T130000
-DTSTAMP:20250324T110000Z
-UID:2025-03-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlaukssúpa – Leek soup  (G)\nSítrónu - og fennel mari
- neruð ýsa með steiktum kartöflum\, grænmeti og hvítvínssósu  (M)\n
- Haddock lemon and fennel marinade d\, served with roasted potatoes\, veget
- ables and\nwhite wine sauce (M)
+SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nOfnbökuð ýsa með so
+ ya - engifer dipp sósu og steiktum kartöflum (S)\nHaddock in with soya 
+ – ginger dipping sauce and  fried potatoes (S)
+DTSTART:20250331T110000
+DTEND:20250331T130000
+DTSTAMP:20250331T110000Z
+UID:2025-03-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nOfnbökuð ýsa me
+ ð soya - engifer dipp sósu og steiktum kartöflum (S)\nHaddock in with s
+ oya – ginger dipping sauce and  fried potatoes (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rótargrænmetissúpa  – Root vegetable  soup  (V)\nMarokkóskt 
- lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lamb with apr
- icots\, vegetables and rice
-DTSTART:20250325T110000
-DTEND:20250325T130000
-DTSTAMP:20250325T110000Z
-UID:2025-03-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Rótargrænmetissúpa  – Root vegetable  soup  (V)\nMarokkó
- skt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lamb with
-  apricots\, vegetables and rice
+SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
+ up  (V)\nKjúklingur shawarma með steiktum hrísgrjónum og hvítlauks -j
+ ógúrtsósu\nChicken shawarma with fried rice ang garlic cream fresh sauc
+ e
+DTSTART:20250401T110000
+DTEND:20250401T130000
+DTSTAMP:20250401T110000Z
+UID:2025-04-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
+ o soup  (V)\nKjúklingur shawarma með steiktum hrísgrjónum og hvítlauk
+ s -jógúrtsósu\nChicken shawarma with fried rice ang garlic cream fresh 
+ sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salat dagsins – Salad of the day: Bragðmikið brokkolí  – Sp
- icy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hummus\nH
- ungarian Goulash soup with focaccia bread and hummus
-DTSTART:20250326T110000
-DTEND:20250326T130000
-DTSTAMP:20250326T110000Z
-UID:2025-03-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Salat dagsins – Salad of the day: Bragðmikið brokkolí  
- – Spicy broccoli  (V)\nUngversk gúllasúpa með focaccia brauði og hum
- mus\nHungarian Goulash soup with focaccia bread and hummus
+SUMMARY:Kakósúpa með tvíböku m– Cocoa soup with biscuits  (G\,M)\nS
+ teiktur steinb ítur í villisveppa -raspi með steiktum kartöflum með p
+ apriku dressing(E)\nFried cat fish with mushroom crumble and bell pepper s
+ auce(E)
+DTSTART:20250402T110000
+DTEND:20250402T130000
+DTSTAMP:20250402T110000Z
+UID:2025-04-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kakósúpa með tvíböku m– Cocoa soup with biscuits  (G\,M
+ )\nSteiktur steinb ítur í villisveppa -raspi með steiktum kartöflum me
+ ð papriku dressing(E)\nFried cat fish with mushroom crumble and bell pepp
+ er sauce(E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítlauk 
- og sítrónu ásamt grænmetistríó i og soðsósu\nTurkey breast with ga
- rlic and lemon served with vegetable trio and turkey j us
-DTSTART:20250327T110000
-DTEND:20250327T130000
-DTSTAMP:20250327T110000Z
-UID:2025-03-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup\nKalkúnabringa í hvítl
- auk og sítrónu ásamt grænmetistríó i og soðsósu\nTurkey breast wit
- h garlic and lemon served with vegetable trio and turkey j us
+SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
+ a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
+  – Harissa with pilau rice\, vegetable s and raita sauce (M)
+DTSTART:20250403T110000
+DTEND:20250403T130000
+DTSTAMP:20250403T110000Z
+UID:2025-04-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
+ rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
+ lder – Harissa with pilau rice\, vegetable s and raita sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotle me
- ð “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork belly in
-  chipotle served with “Mac and Cheese”\, corn on the cob and BBQ sauce
- \n(M\,G)
-DTSTART:20250328T110000
-DTEND:20250328T130000
-DTSTAMP:20250328T110000Z
-UID:2025-03-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotl
- e með “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork bell
- y in chipotle served with “Mac and Cheese”\, corn on the cob and BBQ s
- auce\n(M\,G)
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili con 
+ carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger with C
+ hili con carne and crem fresh and cheese nachos (G\,M\,E)
+DTSTART:20250404T110000
+DTEND:20250404T130000
+DTSTAMP:20250404T110000Z
+UID:2025-04-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili 
+ con carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger wi
+ th Chili con carne and crem fresh and cheese nachos (G\,M\,E)
 END:VEVENT
 END:VCALENDAR

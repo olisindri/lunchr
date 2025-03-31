@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
- ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
- vegetables and peas\nserved with rice and sweet chili sauce (G)
-DTSTART:20250324T110000
-DTEND:20250324T130000
-DTSTAMP:20250324T110000Z
-UID:2025-03-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
-  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
+ samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with Mad
+ ras curry  sauce served with rice
+DTSTART:20250331T110000
+DTEND:20250331T130000
+DTSTAMP:20250331T110000Z
+UID:2025-03-31T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
+   ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
+  Madras curry  sauce served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
- samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
- ved with rice
-DTSTART:20250325T110000
-DTEND:20250325T130000
-DTSTAMP:20250325T110000Z
-UID:2025-03-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
- m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
-  served with rice
+SUMMARY:Vegan kjúklingur shawarma með steiktum hrísgrjónum (S\,G)\nVeg
+ an chicken shawarma with fri ed rice  (S\,G)
+DTSTART:20250401T110000
+DTEND:20250401T130000
+DTSTAMP:20250401T110000Z
+UID:2025-04-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan kjúklingur shawarma með steiktum hrísgrjónum (S\,G)\
+ nVegan chicken shawarma with fri ed rice  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\nPen
- ne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20250326T110000
-DTEND:20250326T130000
-DTSTAMP:20250326T110000Z
-UID:2025-03-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ungversk grænmetissúpa með focaccia brauði og hummus  (G)\
- nPenne pasta with tomato\, beans\, vegetables\, onion and garlic (G)
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, bean salad  and cheese se rved with bulgur
+  salad  (G)
+DTSTART:20250402T110000
+DTEND:20250402T130000
+DTSTAMP:20250402T110000Z
+UID:2025-04-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, bean salad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
- töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
- ble steak served with small potatoes and\npepper sauce
-DTSTART:20250327T110000
-DTEND:20250327T130000
-DTSTAMP:20250327T110000Z
-UID:2025-03-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
-  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
- getable steak served with small potatoes and\npepper sauce
+SUMMARY:Grænmetis Massaman karrý með hrísgrjónum\nVegetable Massaman 
+ curry with rice
+DTSTART:20250403T110000
+DTEND:20250403T130000
+DTSTAMP:20250403T110000Z
+UID:2025-04-03T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis Massaman karrý með hrísgrjónum\nVegetable Massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chana masala með hrísgrjónum (S)\nChana masala with rice( S)\n(
- G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20250328T110000
-DTEND:20250328T130000
-DTSTAMP:20250328T110000Z
-UID:2025-03-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chana masala með hrísgrjónum (S)\nChana masala with rice( S
- )\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya
+SUMMARY:Hamborgari með Chili si n carne og nachos  (S\,G)\nHamburger with
+  Chili sin carne with  nachos\n(G) – Glúten/Gluten  (H) – Hnetur/Pean
+ uts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hv
+ ítlauk í okkar vegan rétti\nPlease note that we use a lot of onion and 
+ garlic for our vegan courses
+DTSTART:20250404T110000
+DTEND:20250404T130000
+DTSTAMP:20250404T110000Z
+UID:2025-04-04T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hamborgari með Chili si n carne og nachos  (S\,G)\nHamburger 
+ with Chili sin carne with  nachos\n(G) – Glúten/Gluten  (H) – Hnetur/
+ Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og
+  hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion a
+ nd garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
