@@ -2,67 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nOfnbökuð ýsa með so
- ya - engifer dipp sósu og steiktum kartöflum (S)\nHaddock in with soya 
- – ginger dipping sauce and  fried potatoes (S)
-DTSTART:20250331T110000
-DTEND:20250331T130000
-DTSTAMP:20250331T110000Z
-UID:2025-03-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nOfnbökuð ýsa me
- ð soya - engifer dipp sósu og steiktum kartöflum (S)\nHaddock in with s
- oya – ginger dipping sauce and  fried potatoes (S)
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
+ í brúnni sósu ásamt steiktum kartöflum\,\ngrænar baunir  og rabbabar
+ asultu\nLamb goulash with fried potatoes\, green beans and  jam
+DTSTART:20250407T110000
+DTEND:20250407T130000
+DTSTAMP:20250407T110000Z
+UID:2025-04-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
+ ur í brúnni sósu ásamt steiktum kartöflum\,\ngrænar baunir  og rabba
+ barasultu\nLamb goulash with fried potatoes\, green beans and  jam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
- up  (V)\nKjúklingur shawarma með steiktum hrísgrjónum og hvítlauks -j
- ógúrtsósu\nChicken shawarma with fried rice ang garlic cream fresh sauc
- e
-DTSTART:20250401T110000
-DTEND:20250401T130000
-DTSTAMP:20250401T110000Z
-UID:2025-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
- o soup  (V)\nKjúklingur shawarma með steiktum hrísgrjónum og hvítlauk
- s -jógúrtsósu\nChicken shawarma with fried rice ang garlic cream fresh 
- sauce
+SUMMARY:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V)\nS
+ teiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, f
+ ersku hrásalati og\npiparmajó (G\,M)\nFried Seawolf in panko with white 
+ cabbage and cold pepper  sauce
+DTSTART:20250408T110000
+DTEND:20250408T130000
+DTSTAMP:20250408T110000Z
+UID:2025-04-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V
+ )\nSteiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum
+ \, fersku hrásalati og\npiparmajó (G\,M)\nFried Seawolf in panko with wh
+ ite cabbage and cold pepper  sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kakósúpa með tvíböku m– Cocoa soup with biscuits  (G\,M)\nS
- teiktur steinb ítur í villisveppa -raspi með steiktum kartöflum með p
- apriku dressing(E)\nFried cat fish with mushroom crumble and bell pepper s
- auce(E)
-DTSTART:20250402T110000
-DTEND:20250402T130000
-DTSTAMP:20250402T110000Z
-UID:2025-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kakósúpa með tvíböku m– Cocoa soup with biscuits  (G\,M
- )\nSteiktur steinb ítur í villisveppa -raspi með steiktum kartöflum me
- ð papriku dressing(E)\nFried cat fish with mushroom crumble and bell pepp
- er sauce(E)
+SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriandersoup  (M\,
+ G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\
+ ,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
+DTSTART:20250409T110000
+DTEND:20250409T130000
+DTSTAMP:20250409T110000Z
+UID:2025-04-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriandersoup  
+ (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M
+ \,G\,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
- a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
-  – Harissa with pilau rice\, vegetable s and raita sauce (M)
-DTSTART:20250403T110000
-DTEND:20250403T130000
-DTSTAMP:20250403T110000Z
-UID:2025-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
- rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
- lder – Harissa with pilau rice\, vegetable s and raita sauce (M)
+SUMMARY:Grænmetissúpa  – vegetable soup  (G\,V)\nOfnsteiktur svínahna
+ kki með sýrðu rauð káli  bökuðum premium kartöflu m og\nrjómalag 
+ aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium potatoe
+ s and creamy sauce
+DTSTART:20250410T110000
+DTEND:20250410T130000
+DTSTAMP:20250410T110000Z
+UID:2025-04-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetissúpa  – vegetable soup  (G\,V)\nOfnsteiktur svín
+ ahnakki með sýrðu rauð káli  bökuðum premium kartöflu m og\nrjóma
+ lag aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium pot
+ atoes and creamy sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili con 
- carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger with C
- hili con carne and crem fresh and cheese nachos (G\,M\,E)
-DTSTART:20250404T110000
-DTEND:20250404T130000
-DTSTAMP:20250404T110000Z
-UID:2025-04-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili 
- con carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger wi
- th Chili con carne and crem fresh and cheese nachos (G\,M\,E)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
+ ia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burger
+ ”California style”with  avocado\, mustard sauce and wedges
+DTSTART:20250411T110000
+DTEND:20250411T130000
+DTSTAMP:20250411T110000Z
+UID:2025-04-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
+ fornia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burg
+ er”California style”with  avocado\, mustard sauce and wedges
 END:VEVENT
 END:VCALENDAR
