@@ -2,62 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og  man
- gó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, rice 
- and mango jalapeno sauce  (G\,S)
-DTSTART:20250407T110000
-DTEND:20250407T130000
-DTSTAMP:20250407T110000Z
-UID:2025-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
-  mangó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, r
- ice and mango jalapeno sauce  (G\,S)
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
+DTSTART:20250414T110000
+DTEND:20250414T130000
+DTSTAMP:20250414T110000Z
+UID:2025-04-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
- ables served with a cold\ndressing
-DTSTART:20250408T110000
-DTEND:20250408T130000
-DTSTAMP:20250408T110000Z
-UID:2025-04-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
- egetables served with a cold\ndressing
+SUMMARY:Polentu - og linsubaunabollur með sesam sósu og kartöflum\nPole
+ nta - and lentil balls with sesame  sauce and potatoes
+DTSTART:20250415T110000
+DTEND:20250415T130000
+DTSTAMP:20250415T110000Z
+UID:2025-04-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Polentu - og linsubaunabollur með sesam sósu og kartöflum\n
+ Polenta - and lentil balls with sesame  sauce and potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
-DTSTART:20250409T110000
-DTEND:20250409T130000
-DTSTAMP:20250409T110000Z
-UID:2025-04-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
- G)
+SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
+ , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
+ conut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20250416T110000
+DTEND:20250416T130000
+DTSTAMP:20250416T110000Z
+UID:2025-04-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
+ mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
+ h coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
-   with potatoes and  sauce
-DTSTART:20250410T110000
-DTEND:20250410T130000
-DTSTAMP:20250410T110000Z
-UID:2025-04-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
- alls  with potatoes and  sauce
+SUMMARY:Skírdagur - Maundy Thursday\nFöstudagur – Friday
+DTSTART:20250417T110000
+DTEND:20250417T130000
+DTSTAMP:20250417T110000Z
+UID:2025-04-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Skírdagur - Maundy Thursday\nFöstudagur – Friday
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, “ California style" (G)\nVegan bur
- ger with vegetables \, “California style” ( G)\n(G) – Glúten/Gluten
-   (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að not
- um mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use
-  a lot of onion and garlic for our vegan courses
-DTSTART:20250411T110000
-DTEND:20250411T130000
-DTSTAMP:20250411T110000Z
-UID:2025-04-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, “ California style" (G)\nVegan
-  burger with vegetables \, “California style” ( G)\n(G) – Glúten/Gl
- uten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að
-  notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we
-  use a lot of onion and garlic for our vegan courses
+SUMMARY:Föstudagurinn langi - Good Friday
+DTSTART:20250418T110000
+DTEND:20250418T130000
+DTSTAMP:20250418T110000Z
+UID:2025-04-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Föstudagurinn langi - Good Friday
 END:VEVENT
 END:VCALENDAR

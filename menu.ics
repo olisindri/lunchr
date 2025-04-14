@@ -2,67 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum\,\ngrænar baunir  og rabbabar
- asultu\nLamb goulash with fried potatoes\, green beans and  jam
-DTSTART:20250407T110000
-DTEND:20250407T130000
-DTSTAMP:20250407T110000Z
-UID:2025-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum\,\ngrænar baunir  og rabba
- barasultu\nLamb goulash with fried potatoes\, green beans and  jam
+SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup ( V)\nOfnbakaður þor
+ skur með steinseljusósu\, kartöflum ásamt kryddjurtarasp i\nOven baked
+  cod with parsley sauce\, fried potatoes  and herb crust
+DTSTART:20250414T110000
+DTEND:20250414T130000
+DTSTAMP:20250414T110000Z
+UID:2025-04-14T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup ( V)\nOfnbakaður 
+ þorskur með steinseljusósu\, kartöflum ásamt kryddjurtarasp i\nOven b
+ aked cod with parsley sauce\, fried potatoes  and herb crust
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V)\nS
- teiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum\, f
- ersku hrásalati og\npiparmajó (G\,M)\nFried Seawolf in panko with white 
- cabbage and cold pepper  sauce
-DTSTART:20250408T110000
-DTEND:20250408T130000
-DTSTAMP:20250408T110000Z
-UID:2025-04-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku - og fennelsúpa  – Bell pepper and fennel  soup ( V
- )\nSteiktur steinbítur í trufflu pankó raspi ásamt steiktum kartöflum
- \, fersku hrásalati og\npiparmajó (G\,M)\nFried Seawolf in panko with wh
- ite cabbage and cold pepper  sauce
+SUMMARY:Villisveppa og portvíns -súpa -wild mushroom soup\nNauta Bourgui
+ gnon með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
+DTSTART:20250415T110000
+DTEND:20250415T130000
+DTSTAMP:20250415T110000Z
+UID:2025-04-15T11:00:00/olisindri@gmail.com
+DESCRIPTION:Villisveppa og portvíns -súpa -wild mushroom soup\nNauta Bou
+ rguignon með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( 
+ M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriandersoup  (M\,
- G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G\
- ,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
-DTSTART:20250409T110000
-DTEND:20250409T130000
-DTSTAMP:20250409T110000Z
-UID:2025-04-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriandersoup  
- (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M
- \,G\,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Græn aspassúpa – Green asparagus  soup (G)\nSalat dagsins – 
+ Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur í raspi á
+ samt kartöflum \, súrum gúrkum og remúlaði (G\,E)\nBreaded fish fille
+ ts  served with potato es\, pickles  and sauce remoulade (G\,E)
+DTSTART:20250416T110000
+DTEND:20250416T130000
+DTSTAMP:20250416T110000Z
+UID:2025-04-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Græn aspassúpa – Green asparagus  soup (G)\nSalat dagsins 
+ – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur í rasp
+ i ásamt kartöflum \, súrum gúrkum og remúlaði (G\,E)\nBreaded fish f
+ illets  served with potato es\, pickles  and sauce remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – vegetable soup  (G\,V)\nOfnsteiktur svínahna
- kki með sýrðu rauð káli  bökuðum premium kartöflu m og\nrjómalag 
- aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium potatoe
- s and creamy sauce
-DTSTART:20250410T110000
-DTEND:20250410T130000
-DTSTAMP:20250410T110000Z
-UID:2025-04-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – vegetable soup  (G\,V)\nOfnsteiktur svín
- ahnakki með sýrðu rauð káli  bökuðum premium kartöflu m og\nrjóma
- lag aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium pot
- atoes and creamy sauce
+SUMMARY:Skírdagur - Maundy Thursday\nFöstudagur – Friday
+DTSTART:20250417T110000
+DTEND:20250417T130000
+DTSTAMP:20250417T110000Z
+UID:2025-04-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Skírdagur - Maundy Thursday\nFöstudagur – Friday
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
- ia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burger
- ”California style”with  avocado\, mustard sauce and wedges
-DTSTART:20250411T110000
-DTEND:20250411T130000
-DTSTAMP:20250411T110000Z
-UID:2025-04-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
- fornia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burg
- er”California style”with  avocado\, mustard sauce and wedges
+SUMMARY:Föstudagurinn langi - Good Friday
+DTSTART:20250418T110000
+DTEND:20250418T130000
+DTSTAMP:20250418T110000Z
+UID:2025-04-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Föstudagurinn langi - Good Friday
 END:VEVENT
 END:VCALENDAR
