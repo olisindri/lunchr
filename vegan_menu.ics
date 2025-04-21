@@ -2,51 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
-DTSTART:20250414T110000
-DTEND:20250414T130000
-DTSTAMP:20250414T110000Z
-UID:2025-04-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+SUMMARY:Annar í páskum
+DTSTART:20250421T110000
+DTEND:20250421T130000
+DTSTAMP:20250421T110000Z
+UID:2025-04-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Annar í páskum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Polentu - og linsubaunabollur með sesam sósu og kartöflum\nPole
- nta - and lentil balls with sesame  sauce and potatoes
-DTSTART:20250415T110000
-DTEND:20250415T130000
-DTSTAMP:20250415T110000Z
-UID:2025-04-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Polentu - og linsubaunabollur með sesam sósu og kartöflum\n
- Polenta - and lentil balls with sesame  sauce and potatoes
+SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
+  sósu  (S)\nBroccoli and cauliflower balls with rice and soya -sesame sau
+ ce  (S)
+DTSTART:20250422T110000
+DTEND:20250422T130000
+DTSTAMP:20250422T110000Z
+UID:2025-04-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
+ esam sósu  (S)\nBroccoli and cauliflower balls with rice and soya -sesame
+  sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
- , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
- conut milk\, tomato\, garlic\, onion and\nvegetables
-DTSTART:20250416T110000
-DTEND:20250416T130000
-DTSTAMP:20250416T110000Z
-UID:2025-04-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
- mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
- h coconut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghetti an
+ d vegan Bolognese with coleslaw (S\,G)
+DTSTART:20250423T110000
+DTEND:20250423T130000
+DTSTAMP:20250423T110000Z
+UID:2025-04-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghett
+ i and vegan Bolognese with coleslaw (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skírdagur - Maundy Thursday\nFöstudagur – Friday
-DTSTART:20250417T110000
-DTEND:20250417T130000
-DTSTAMP:20250417T110000Z
-UID:2025-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Skírdagur - Maundy Thursday\nFöstudagur – Friday
+SUMMARY:Sumardagurinn fyrsti
+DTSTART:20250424T110000
+DTEND:20250424T130000
+DTSTAMP:20250424T110000Z
+UID:2025-04-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sumardagurinn fyrsti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Föstudagurinn langi - Good Friday
-DTSTART:20250418T110000
-DTEND:20250418T130000
-DTSTAMP:20250418T110000Z
-UID:2025-04-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Föstudagurinn langi - Good Friday
+SUMMARY:Vegan kjúklingur í rauðu karrý og kókos með hrísgrjónum\nV
+ egan chicken in red curry and rice
+DTSTART:20250425T110000
+DTEND:20250425T130000
+DTSTAMP:20250425T110000Z
+UID:2025-04-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan kjúklingur í rauðu karrý og kókos með hrísgrjónu
+ m\nVegan chicken in red curry and rice
 END:VEVENT
 END:VCALENDAR

@@ -2,56 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup ( V)\nOfnbakaður þor
- skur með steinseljusósu\, kartöflum ásamt kryddjurtarasp i\nOven baked
-  cod with parsley sauce\, fried potatoes  and herb crust
-DTSTART:20250414T110000
-DTEND:20250414T130000
-DTSTAMP:20250414T110000Z
-UID:2025-04-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup ( V)\nOfnbakaður 
- þorskur með steinseljusósu\, kartöflum ásamt kryddjurtarasp i\nOven b
- aked cod with parsley sauce\, fried potatoes  and herb crust
+SUMMARY:Annar í páskum
+DTSTART:20250421T110000
+DTEND:20250421T130000
+DTSTAMP:20250421T110000Z
+UID:2025-04-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Annar í páskum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Villisveppa og portvíns -súpa -wild mushroom soup\nNauta Bourgui
- gnon með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
-DTSTART:20250415T110000
-DTEND:20250415T130000
-DTSTAMP:20250415T110000Z
-UID:2025-04-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppa og portvíns -súpa -wild mushroom soup\nNauta Bou
- rguignon með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( 
- M)
+SUMMARY:Spínat og karrýsúpa – Spinach an d curry soup (V)\nSteiktar f
+ iskibollur með kartöflum\, hrásalati og brúnni sósu (G\,E\,M)\nFried 
+ fish balls with potatoes \, coleslaw and sauce (G\,E\,M)
+DTSTART:20250422T110000
+DTEND:20250422T130000
+DTSTAMP:20250422T110000Z
+UID:2025-04-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat og karrýsúpa – Spinach an d curry soup (V)\nSteikt
+ ar fiskibollur með kartöflum\, hrásalati og brúnni sósu (G\,E\,M)\nFr
+ ied fish balls with potatoes \, coleslaw and sauce (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Græn aspassúpa – Green asparagus  soup (G)\nSalat dagsins – 
- Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur í raspi á
- samt kartöflum \, súrum gúrkum og remúlaði (G\,E)\nBreaded fish fille
- ts  served with potato es\, pickles  and sauce remoulade (G\,E)
-DTSTART:20250416T110000
-DTEND:20250416T130000
-DTSTAMP:20250416T110000Z
-UID:2025-04-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Græn aspassúpa – Green asparagus  soup (G)\nSalat dagsins 
- – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur í rasp
- i ásamt kartöflum \, súrum gúrkum og remúlaði (G\,E)\nBreaded fish f
- illets  served with potato es\, pickles  and sauce remoulade (G\,E)
+SUMMARY:Kremuð tómat súpa – Creamy tomato  soup\nSpaghetti Bolognese 
+ og  hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garlic bread (G\,M)
+DTSTART:20250423T110000
+DTEND:20250423T130000
+DTSTAMP:20250423T110000Z
+UID:2025-04-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómat súpa – Creamy tomato  soup\nSpaghetti Bologn
+ ese og  hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garlic bread (G
+ \,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skírdagur - Maundy Thursday\nFöstudagur – Friday
-DTSTART:20250417T110000
-DTEND:20250417T130000
-DTSTAMP:20250417T110000Z
-UID:2025-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Skírdagur - Maundy Thursday\nFöstudagur – Friday
+SUMMARY:Sumardagurinn fyrsti
+DTSTART:20250424T110000
+DTEND:20250424T130000
+DTSTAMP:20250424T110000Z
+UID:2025-04-24T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sumardagurinn fyrsti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Föstudagurinn langi - Good Friday
-DTSTART:20250418T110000
-DTEND:20250418T130000
-DTSTAMP:20250418T110000Z
-UID:2025-04-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Föstudagurinn langi - Good Friday
+SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur í rauðu kar
+ rý og kókós ásamt hrísgrjónum\nChicken in red curry  and coconut  se
+ rved with rice
+DTSTART:20250425T110000
+DTEND:20250425T130000
+DTSTAMP:20250425T110000Z
+UID:2025-04-25T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur í rauðu
+  karrý og kókós ásamt hrísgrjónum\nChicken in red curry  and coconut
+   served with rice
 END:VEVENT
 END:VCALENDAR
