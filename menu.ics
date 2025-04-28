@@ -2,54 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Annar í páskum
-DTSTART:20250421T110000
-DTEND:20250421T130000
-DTSTAMP:20250421T110000Z
-UID:2025-04-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Annar í páskum
+SUMMARY:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, rúg
+ brauði og hvítvínssósu  (M)\nBoiled haddock with potatoes\, rye bread 
+ and hvítvínssósu  (M)
+DTSTART:20250428T110000
+DTEND:20250428T130000
+DTSTAMP:20250428T110000Z
+UID:2025-04-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, 
+ rúgbrauði og hvítvínssósu  (M)\nBoiled haddock with potatoes\, rye br
+ ead and hvítvínssósu  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat og karrýsúpa – Spinach an d curry soup (V)\nSteiktar f
- iskibollur með kartöflum\, hrásalati og brúnni sósu (G\,E\,M)\nFried 
- fish balls with potatoes \, coleslaw and sauce (G\,E\,M)
-DTSTART:20250422T110000
-DTEND:20250422T130000
-DTSTAMP:20250422T110000Z
-UID:2025-04-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat og karrýsúpa – Spinach an d curry soup (V)\nSteikt
- ar fiskibollur með kartöflum\, hrásalati og brúnni sósu (G\,E\,M)\nFr
- ied fish balls with potatoes \, coleslaw and sauce (G\,E\,M)
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
+ M)\nLamb goulash in curry sauce with rice(G\,M)
+DTSTART:20250429T110000
+DTEND:20250429T130000
+DTSTAMP:20250429T110000Z
+UID:2025-04-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
+ (G\,M)\nLamb goulash in curry sauce with rice(G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómat súpa – Creamy tomato  soup\nSpaghetti Bolognese 
- og  hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garlic bread (G\,M)
-DTSTART:20250423T110000
-DTEND:20250423T130000
-DTSTAMP:20250423T110000Z
-UID:2025-04-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómat súpa – Creamy tomato  soup\nSpaghetti Bologn
- ese og  hvítlauksbrauði (G\,M)\nSpaghetti Bolognese with garlic bread (G
- \,M)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins – Sal
+ ad of the day:  Blómkál  (V)\nOfnbakaður þorskur í hvítlauk\, basil\
+ ,spínati og konfekttómötum með steiktum kartöflu r\nOvenbaked  cod in
+ n garlic\,spinach\, tomato with fried potatoes
+DTSTART:20250430T110000
+DTEND:20250430T130000
+DTSTAMP:20250430T110000Z
+UID:2025-04-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins –
+  Salad of the day:  Blómkál  (V)\nOfnbakaður þorskur í hvítlauk\, ba
+ sil\,spínati og konfekttómötum með steiktum kartöflu r\nOvenbaked  co
+ d inn garlic\,spinach\, tomato with fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sumardagurinn fyrsti
-DTSTART:20250424T110000
-DTEND:20250424T130000
-DTSTAMP:20250424T110000Z
-UID:2025-04-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sumardagurinn fyrsti
+SUMMARY:1. Maí
+DTSTART:20250501T110000
+DTEND:20250501T130000
+DTSTAMP:20250501T110000Z
+UID:2025-05-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:1. Maí
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur í rauðu kar
- rý og kókós ásamt hrísgrjónum\nChicken in red curry  and coconut  se
- rved with rice
-DTSTART:20250425T110000
-DTEND:20250425T130000
-DTSTAMP:20250425T110000Z
-UID:2025-04-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G \,E\,H)\nKjúklingur í rauðu
-  karrý og kókós ásamt hrísgrjónum\nChicken in red curry  and coconut
-   served with rice
+SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau tah
+ akki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \, 
+ salsa and sour cream ( G\,M)
+DTSTART:20250502T110000
+DTEND:20250502T130000
+DTSTAMP:20250502T110000Z
+UID:2025-05-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau
+  tahakki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef
+  \, salsa and sour cream ( G\,M)
 END:VEVENT
 END:VCALENDAR

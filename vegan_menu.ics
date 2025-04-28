@@ -2,51 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Annar í páskum
-DTSTART:20250421T110000
-DTEND:20250421T130000
-DTSTAMP:20250421T110000Z
-UID:2025-04-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Annar í páskum
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
+ ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
+ ed with Aioli
+DTSTART:20250428T110000
+DTEND:20250428T130000
+DTSTAMP:20250428T110000Z
+UID:2025-04-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
+ h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
+ served with Aioli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -sesam
-  sósu  (S)\nBroccoli and cauliflower balls with rice and soya -sesame sau
- ce  (S)
-DTSTART:20250422T110000
-DTEND:20250422T130000
-DTSTAMP:20250422T110000Z
-UID:2025-04-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja -s
- esam sósu  (S)\nBroccoli and cauliflower balls with rice and soya -sesame
-  sauce  (S)
+SUMMARY:Grænmetis „Rag out“ með sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt cous cous\nVegetable rag out with mushrooms\, spinach\, kid
+ ney beans and onion with cous -cous
+DTSTART:20250429T110000
+DTEND:20250429T130000
+DTSTAMP:20250429T110000Z
+UID:2025-04-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis „Rag out“ með sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt cous cous\nVegetable rag out with mushrooms\, spinach\,
+  kidney beans and onion with cous -cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghetti an
- d vegan Bolognese with coleslaw (S\,G)
-DTSTART:20250423T110000
-DTEND:20250423T130000
-DTSTAMP:20250423T110000Z
-UID:2025-04-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese með hrásalati  (S\,G)\nSpaghett
- i and vegan Bolognese with coleslaw (S\,G)
+SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
+ mt sætri chilisósu  (S)\nSamosa filled with rice\, green peas and carrot
+ s and sweet chili sauce (S)
+DTSTART:20250430T110000
+DTEND:20250430T130000
+DTSTAMP:20250430T110000Z
+UID:2025-04-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
+ ásamt sætri chilisósu  (S)\nSamosa filled with rice\, green peas and ca
+ rrots and sweet chili sauce (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sumardagurinn fyrsti
-DTSTART:20250424T110000
-DTEND:20250424T130000
-DTSTAMP:20250424T110000Z
-UID:2025-04-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sumardagurinn fyrsti
+SUMMARY:1. Maí
+DTSTART:20250501T110000
+DTEND:20250501T130000
+DTSTAMP:20250501T110000Z
+UID:2025-05-01T11:00:00/olisindri@gmail.com
+DESCRIPTION:1. Maí
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan kjúklingur í rauðu karrý og kókos með hrísgrjónum\nV
- egan chicken in red curry and rice
-DTSTART:20250425T110000
-DTEND:20250425T130000
-DTSTAMP:20250425T110000Z
-UID:2025-04-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan kjúklingur í rauðu karrý og kókos með hrísgrjónu
- m\nVegan chicken in red curry and rice
+SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
+ vegan mincemeat  and salsa  (S)
+DTSTART:20250502T110000
+DTEND:20250502T130000
+DTSTAMP:20250502T110000Z
+UID:2025-05-02T11:00:00/olisindri@gmail.com
+DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
+ ith vegan mincemeat  and salsa  (S)
 END:VEVENT
 END:VCALENDAR
