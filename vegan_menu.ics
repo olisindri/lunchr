@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
- ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
- ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
- ed with Aioli
-DTSTART:20250428T110000
-DTEND:20250428T130000
-DTSTAMP:20250428T110000Z
-UID:2025-04-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
- , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
- h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
- served with Aioli
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum\násamt  hrí
+ sgrjónum og sætri chili sósu\nVegan samosas with rice and sweet chili s
+ auce
+DTSTART:20250505T110000
+DTEND:20250505T130000
+DTSTAMP:20250505T110000Z
+UID:2025-05-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum\násamt  
+ hrísgrjónum og sætri chili sósu\nVegan samosas with rice and sweet chi
+ li sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „Rag out“ með sveppum\, spínati\, nýrna baunum\n
- og lauk ásamt cous cous\nVegetable rag out with mushrooms\, spinach\, kid
- ney beans and onion with cous -cous
-DTSTART:20250429T110000
-DTEND:20250429T130000
-DTSTAMP:20250429T110000Z
-UID:2025-04-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „Rag out“ með sveppum\, spínati\, nýrna baun
- um\nog lauk ásamt cous cous\nVegetable rag out with mushrooms\, spinach\,
-  kidney beans and onion with cous -cous
+SUMMARY:Blómkáls - og möndlubuff með dressing\nCauliflower and almond 
+ buff with cold sauce
+DTSTART:20250506T110000
+DTEND:20250506T130000
+DTSTAMP:20250506T110000Z
+UID:2025-05-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og möndlubuff með dressing\nCauliflower and alm
+ ond buff with cold sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum ása
- mt sætri chilisósu  (S)\nSamosa filled with rice\, green peas and carrot
- s and sweet chili sauce (S)
-DTSTART:20250430T110000
-DTEND:20250430T130000
-DTSTAMP:20250430T110000Z
-UID:2025-04-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samosa fyllt með hrísgrjónum\, grænum baunum og gulrótum 
- ásamt sætri chilisósu  (S)\nSamosa filled with rice\, green peas and ca
- rrots and sweet chili sauce (S)
+SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrý sósu á
+ samt hrísgrjónum\nSweet potatoes and bell pepper balls with madras curry
+  sauce and rice
+DTSTART:20250507T110000
+DTEND:20250507T130000
+DTSTAMP:20250507T110000Z
+UID:2025-05-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrý sós
+ u ásamt hrísgrjónum\nSweet potatoes and bell pepper balls with madras c
+ urry sauce and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1. Maí
-DTSTART:20250501T110000
-DTEND:20250501T130000
-DTSTAMP:20250501T110000Z
-UID:2025-05-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:1. Maí
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og kald
+ ri dressing  (S)\nCannelloni beans and root vegetables nut steak with cold
+  dressing
+DTSTART:20250508T110000
+DTEND:20250508T130000
+DTSTAMP:20250508T110000Z
+UID:2025-05-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum og 
+ kaldri dressing  (S)\nCannelloni beans and root vegetables nut steak with 
+ cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
- vegan mincemeat  and salsa  (S)
-DTSTART:20250502T110000
-DTEND:20250502T130000
-DTSTAMP:20250502T110000Z
-UID:2025-05-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
- ith vegan mincemeat  and salsa  (S)
+SUMMARY:Vegan burger með grænmeti\, “ Korean BBQ " (S\,G)\nVegan burge
+ r “Korean BBQ”
+DTSTART:20250509T110000
+DTEND:20250509T130000
+DTSTAMP:20250509T110000Z
+UID:2025-05-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan burger með grænmeti\, “ Korean BBQ " (S\,G)\nVegan b
+ urger “Korean BBQ”
 END:VEVENT
 END:VCALENDAR

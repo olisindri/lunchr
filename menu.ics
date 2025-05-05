@@ -2,61 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, rúg
- brauði og hvítvínssósu  (M)\nBoiled haddock with potatoes\, rye bread 
- and hvítvínssósu  (M)
-DTSTART:20250428T110000
-DTEND:20250428T130000
-DTSTAMP:20250428T110000Z
-UID:2025-04-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, 
- rúgbrauði og hvítvínssósu  (M)\nBoiled haddock with potatoes\, rye br
- ead and hvítvínssósu  (M)
+SUMMARY:Sveppa súpa  - Mushroom  soup  (G\,M)\nSítrónu kjúklingabringu
+ r með hrísgrjónum  og kaldri pipar - og trufflusósu  (E)\nLemon chicke
+ n with rice and pepper and truffle sauce  (E)
+DTSTART:20250505T110000
+DTEND:20250505T130000
+DTSTAMP:20250505T110000Z
+UID:2025-05-05T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sveppa súpa  - Mushroom  soup  (G\,M)\nSítrónu kjúklingabr
+ ingur með hrísgrjónum  og kaldri pipar - og trufflusósu  (E)\nLemon ch
+ icken with rice and pepper and truffle sauce  (E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
- M)\nLamb goulash in curry sauce with rice(G\,M)
-DTSTART:20250429T110000
-DTEND:20250429T130000
-DTSTAMP:20250429T110000Z
-UID:2025-04-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
- (G\,M)\nLamb goulash in curry sauce with rice(G\,M)
+SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup  (V)\nSalat dagsi
+ ns – Salad of the day: Paprika og basilíka – Bell pepper and basil\nL
+ étt saltaður þorskur í miðjar ðarhafs marineringu  með steiktum kar
+ töflum\nSalted cod with Mediterranean marinade and fried p otatoes
+DTSTART:20250506T110000
+DTEND:20250506T130000
+DTSTAMP:20250506T110000Z
+UID:2025-05-06T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup  (V)\nSalat d
+ agsins – Salad of the day: Paprika og basilíka – Bell pepper and basi
+ l\nLétt saltaður þorskur í miðjar ðarhafs marineringu  með steiktum
+  kartöflum\nSalted cod with Mediterranean marinade and fried p otatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins – Sal
- ad of the day:  Blómkál  (V)\nOfnbakaður þorskur í hvítlauk\, basil\
- ,spínati og konfekttómötum með steiktum kartöflu r\nOvenbaked  cod in
- n garlic\,spinach\, tomato with fried potatoes
-DTSTART:20250430T110000
-DTEND:20250430T130000
-DTSTAMP:20250430T110000Z
-UID:2025-04-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins –
-  Salad of the day:  Blómkál  (V)\nOfnbakaður þorskur í hvítlauk\, ba
- sil\,spínati og konfekttómötum með steiktum kartöflu r\nOvenbaked  co
- d inn garlic\,spinach\, tomato with fried potatoes
+SUMMARY:Lauk súpa – Onion  soup\nKjötbollur með kartöflumús\, sultu
+ \, rau ðkáli og brú nni sósu  (E\,G\,M)\nMeet balls with mashed potato
+ es\, red cabbage and gravy (E\,G\,M)
+DTSTART:20250507T110000
+DTEND:20250507T130000
+DTSTAMP:20250507T110000Z
+UID:2025-05-07T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lauk súpa – Onion  soup\nKjötbollur með kartöflumús\, s
+ ultu\, rau ðkáli og brú nni sósu  (E\,G\,M)\nMeet balls with mashed po
+ tatoes\, red cabbage and gravy (E\,G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1. Maí
-DTSTART:20250501T110000
-DTEND:20250501T130000
-DTSTAMP:20250501T110000Z
-UID:2025-05-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:1. Maí
+SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nLambalæri með str
+ engjabaun um\, kartöflugratíni og kryddjurtarsoðsósu (M)\nLeg og lamb 
+ with haricot vert\, potato gratin and demi -glace (M)
+DTSTART:20250508T110000
+DTEND:20250508T130000
+DTSTAMP:20250508T110000Z
+UID:2025-05-08T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nLambalæri með
+  strengjabaun um\, kartöflugratíni og kryddjurtarsoðsósu (M)\nLeg og l
+ amb with haricot vert\, potato gratin and demi -glace (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau tah
- akki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \, 
- salsa and sour cream ( G\,M)
-DTSTART:20250502T110000
-DTEND:20250502T130000
-DTSTAMP:20250502T110000Z
-UID:2025-05-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  og með nau
-  tahakki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef
-  \, salsa and sour cream ( G\,M)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga hamborgari me
+ ð kimchi\, Korean BBQ og wedges  (G\,M\,E)\nChicken burger with kimchi\, 
+ Korean BBQ and wedges  (G\,M\,E)
+DTSTART:20250509T110000
+DTEND:20250509T130000
+DTSTAMP:20250509T110000Z
+UID:2025-05-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga hamborgar
+ i með kimchi\, Korean BBQ og wedges  (G\,M\,E)\nChicken burger with kimch
+ i\, Korean BBQ and wedges  (G\,M\,E)
 END:VEVENT
 END:VCALENDAR
