@@ -2,67 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa – Asparagus soup (M\,G)\nGratíneraður p lokkfiskur 
- með rúgbrauði  og bernais e sósu  (M\,G\,)\nGratin  fish stew  with br
- ead and bearnaise (M\,G\,)
-DTSTART:20250512T110000
-DTEND:20250512T130000
-DTSTAMP:20250512T110000Z
-UID:2025-05-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa – Asparagus soup (M\,G)\nGratíneraður p lokkfis
- kur með rúgbrauði  og bernais e sósu  (M\,G\,)\nGratin  fish stew  wit
- h bread and bearnaise (M\,G\,)
+SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞorskur 
+ í tælensku rauðu karrý\, kókos ásamt hrísgrjónum\nCod in red  Thai
+  curry with rice and salad
+DTSTART:20250519T110000
+DTEND:20250519T130000
+DTSTAMP:20250519T110000Z
+UID:2025-05-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞors
+ kur í tælensku rauðu karrý\, kókos ásamt hrísgrjónum\nCod in red  
+ Thai curry with rice and salad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V)\nP
- enne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítlauks
- brauð i (M\,G\,E)\nPenne pasta with creamy mushroom sauce\, chicken\, bea
- con and garlic bread (M\,G\,E)
-DTSTART:20250513T110000
-DTEND:20250513T130000
-DTSTAMP:20250513T110000Z
-UID:2025-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og engifer súpa  – Carrot - and ginger soup ( V
- )\nPenne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítl
- auksbrauð i (M\,G\,E)\nPenne pasta with creamy mushroom sauce\, chicken\,
-  beacon and garlic bread (M\,G\,E)
+SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nBasil kjúk
+ linga pottur "Alfredo" með rigatoni pasta\nBasil chicken pot “Alfredo
+ ” with rigatoni pasta
+DTSTART:20250520T110000
+DTEND:20250520T130000
+DTSTAMP:20250520T110000Z
+UID:2025-05-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nBasil k
+ júklinga pottur "Alfredo" með rigatoni pasta\nBasil chicken pot “Alfre
+ do” with rigatoni pasta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Salad o
- f the day: Blómkál – Cauliflower  (V)\nEggjasteikt ýsa með steiktum 
- kartöflum \, tartar sósu  og fersku hrásalti  (G\,EM)\nEgg fried haddoc
- k with potatoes\, tartar sauce and col eslaw (G\,E\,M)
-DTSTART:20250514T110000
-DTEND:20250514T130000
-DTSTAMP:20250514T110000Z
-UID:2025-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSalat dagsins - Sal
- ad of the day: Blómkál – Cauliflower  (V)\nEggjasteikt ýsa með steik
- tum kartöflum \, tartar sósu  og fersku hrásalti  (G\,EM)\nEgg fried ha
- ddock with potatoes\, tartar sauce and col eslaw (G\,E\,M)
+SUMMARY:Gulrótar og koríandersúpa  – Carrot and coriander soup\nSalat
+  dagsins – Salad of the day: Paprika og basilíka – Bell pepper and ba
+ sil\nÝsa í tando ori með grænmeti\, hrísgrjónum og raita sósu\nHadd
+ ock in tandoori and vegetable\, rice and raita
+DTSTART:20250521T110000
+DTEND:20250521T130000
+DTSTAMP:20250521T110000Z
+UID:2025-05-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar og koríandersúpa  – Carrot and coriander soup\nS
+ alat dagsins – Salad of the day: Paprika og basilíka – Bell pepper an
+ d basil\nÝsa í tando ori með grænmeti\, hrísgrjónum og raita sósu\n
+ Haddock in tandoori and vegetable\, rice and raita
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nNauta
-  rib eye með “Ratte” kartöflum\, soðsósu og sumarsalati (M)\nRib e
- ye steak with “Ratte” potatoes\, demi -glace and salat (M)
-DTSTART:20250515T110000
-DTEND:20250515T130000
-DTSTAMP:20250515T110000Z
-UID:2025-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nN
- auta rib eye með “Ratte” kartöflum\, soðsósu og sumarsalati (M)\nR
- ib eye steak with “Ratte” potatoes\, demi -glace and salat (M)
+SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
+  ofnbökuðum kartöflum\, rauðkáli  og sveppasósu (M\,G\,E)\nPork Schn
+ itzel with roasted potatoes\, red cabbage  and mushroom sauce  (M\,G\,E)
+DTSTART:20250522T110000
+DTEND:20250522T130000
+DTSTAMP:20250522T110000Z
+UID:2025-05-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
+ með ofnbökuðum kartöflum\, rauðkáli  og sveppasósu (M\,G\,E)\nPork 
+ Schnitzel with roasted potatoes\, red cabbage  and mushroom sauce  (M\,G\,
+ E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nPíta með hakki\, grænmet
- i\,  pítusósu \, feta ost i\, salati ásamt Pik-Nik (G\,M\,E)\nPita with
-  minced beef\, pita sauce\, fet a\, salad and Pik -Nik (G\,M\,E)
-DTSTART:20250516T110000
-DTEND:20250516T130000
-DTSTAMP:20250516T110000Z
-UID:2025-05-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nPíta með hakki\, græ
- nmeti\,  pítusósu \, feta ost i\, salati ásamt Pik-Nik (G\,M\,E)\nPita 
- with minced beef\, pita sauce\, fet a\, salad and Pik -Nik (G\,M\,E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga vængir BBQ m
+ eð hot sauce og gráðostasósu \, "Loaded potatoes"\násamt sellerí sti
+ lkum  (M\,E\,G)\nChicken wings BBQ with hot sauce and blue cheese sauce\,\
+ n“Loaded potatoes ” and celery (M\,E\,G )
+DTSTART:20250523T110000
+DTEND:20250523T130000
+DTSTAMP:20250523T110000Z
+UID:2025-05-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga vængir B
+ BQ með hot sauce og gráðostasósu \, "Loaded potatoes"\násamt sellerí
+  stilkum  (M\,E\,G)\nChicken wings BBQ with hot sauce and blue cheese sauc
+ e\,\n“Loaded potatoes ” and celery (M\,E\,G )
 END:VEVENT
 END:VCALENDAR

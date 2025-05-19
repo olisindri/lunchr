@@ -2,57 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
- töflum\nPotato and beets rissole with len tils served with herb spiced po
- tatoes
-DTSTART:20250512T110000
-DTEND:20250512T130000
-DTSTAMP:20250512T110000Z
-UID:2025-05-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
- akartöflum\nPotato and beets rissole with len tils served with herb spice
- d potatoes
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
+ num\nVegetable red curry with beans and vegetable served with rice
+DTSTART:20250519T110000
+DTEND:20250519T130000
+DTSTAMP:20250519T110000Z
+UID:2025-05-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
+ rjónum\nVegetable red curry with beans and vegetable served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\nSwee
- t potato balls  with curry sauce  and rice  (G)
-DTSTART:20250513T110000
-DTEND:20250513T130000
-DTSTAMP:20250513T110000Z
-UID:2025-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu bollur með karrýsósu og  hrísgrjónum  (G)\n
- Sweet potato balls  with curry sauce  and rice  (G)
+SUMMARY:Basil ekki kjúklinga  pottur "Alfredo" með rigatoni pasta (G)\nB
+ asil not chicken pot “Alfredo” with rigatoni pasta (G)
+DTSTART:20250520T110000
+DTEND:20250520T130000
+DTSTAMP:20250520T110000Z
+UID:2025-05-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Basil ekki kjúklinga  pottur "Alfredo" með rigatoni pasta (G
+ )\nBasil not chicken pot “Alfredo” with rigatoni pasta (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
-  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
- icken peas\, black beans\nand root vegetables served with mustard mayo
-DTSTART:20250514T110000
-DTEND:20250514T130000
-DTSTAMP:20250514T110000Z
-UID:2025-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
- \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
- , chicken peas\, black beans\nand root vegetables served with mustard mayo
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum\nog sætri chili sósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice\nand sweet chili sauce (G\,S)
+DTSTART:20250521T110000
+DTEND:20250521T130000
+DTSTAMP:20250521T110000Z
+UID:2025-05-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum\nog sætri chili sósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice\nand sweet chili sauce (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúklingur  með “Ratte” kartöflum og sumarsalati\nNot 
- chicken with “Ratte” potatoes and sala d
-DTSTART:20250515T110000
-DTEND:20250515T130000
-DTSTAMP:20250515T110000Z
-UID:2025-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúklingur  með “Ratte” kartöflum og sumarsalati\n
- Not chicken with “Ratte” potatoes and sala d
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, rauðkáli  og sveppa
+ sósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  red cabbage  and m
+ ushroom sauce  (S\,G)
+DTSTART:20250522T110000
+DTEND:20250522T130000
+DTSTAMP:20250522T110000Z
+UID:2025-05-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, rauðkáli  og sv
+ eppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  red cabbage  a
+ nd mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita with 
- vegan beef and pita sauce  (G)
-DTSTART:20250516T110000
-DTEND:20250516T130000
-DTSTAMP:20250516T110000Z
-UID:2025-05-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita w
- ith vegan beef and pita sauce  (G)
+SUMMARY:Blómkálsvængir  BBQ\,  hot sauce og kartöflum\nCurly flower wi
+ ngs  BBQ\,  hot sauce and potatoes
+DTSTART:20250523T110000
+DTEND:20250523T130000
+DTSTAMP:20250523T110000Z
+UID:2025-05-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkálsvængir  BBQ\,  hot sauce og kartöflum\nCurly flowe
+ r wings  BBQ\,  hot sauce and potatoes
 END:VEVENT
 END:VCALENDAR
