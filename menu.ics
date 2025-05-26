@@ -2,68 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞorskur 
- í tælensku rauðu karrý\, kókos ásamt hrísgrjónum\nCod in red  Thai
-  curry with rice and salad
-DTSTART:20250519T110000
-DTEND:20250519T130000
-DTSTAMP:20250519T110000Z
-UID:2025-05-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞors
- kur í tælensku rauðu karrý\, kókos ásamt hrísgrjónum\nCod in red  
- Thai curry with rice and salad
+SUMMARY:Rótargrænmetissúpa með byggi – Root vegetable soup with barl
+ ey ( G)\nSteiktar fiskibollur með hrísgrjónum\, karr ý sósu og hrása
+ lati (G\,E\,M)\nFried fish balls with rice\, curry sauce and cold slaw  (G
+ \,E\,M)
+DTSTART:20250526T110000
+DTEND:20250526T130000
+DTSTAMP:20250526T110000Z
+UID:2025-05-26T11:00:00/olisindri@gmail.com
+DESCRIPTION:Rótargrænmetissúpa með byggi – Root vegetable soup with 
+ barley ( G)\nSteiktar fiskibollur með hrísgrjónum\, karr ý sósu og hr
+ ásalati (G\,E\,M)\nFried fish balls with rice\, curry sauce and cold slaw
+   (G\,E\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nBasil kjúk
- linga pottur "Alfredo" með rigatoni pasta\nBasil chicken pot “Alfredo
- ” with rigatoni pasta
-DTSTART:20250520T110000
-DTEND:20250520T130000
-DTSTAMP:20250520T110000Z
-UID:2025-05-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nBasil k
- júklinga pottur "Alfredo" með rigatoni pasta\nBasil chicken pot “Alfre
- do” with rigatoni pasta
+SUMMARY:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)\nMa
+ rokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan lam
+ b with apricots\, vegetables and rice
+DTSTART:20250527T110000
+DTEND:20250527T130000
+DTSTAMP:20250527T110000Z
+UID:2025-05-27T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulróta - og engifersúpa  – Carrot - and ginger  soup  (V)
+ \nMarokkóskt lamb með apríkósum\, grænmeti og hrísgrjónum\nMoroccan
+  lamb with apricots\, vegetables and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar og koríandersúpa  – Carrot and coriander soup\nSalat
-  dagsins – Salad of the day: Paprika og basilíka – Bell pepper and ba
- sil\nÝsa í tando ori með grænmeti\, hrísgrjónum og raita sósu\nHadd
- ock in tandoori and vegetable\, rice and raita
-DTSTART:20250521T110000
-DTEND:20250521T130000
-DTSTAMP:20250521T110000Z
-UID:2025-05-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar og koríandersúpa  – Carrot and coriander soup\nS
- alat dagsins – Salad of the day: Paprika og basilíka – Bell pepper an
- d basil\nÝsa í tando ori með grænmeti\, hrísgrjónum og raita sósu\n
- Haddock in tandoori and vegetable\, rice and raita
+SUMMARY:Salat dagsins – Salad of the day\nBlómkálssúpa  – Cauliflow
+ er soup  (V)\nÝsa í karr ý\, kókos og ananas með soðnum kartöflum\n
+ Haddock in curry\, cocos and pineapple with boiled potatoes
+DTSTART:20250528T110000
+DTEND:20250528T130000
+DTSTAMP:20250528T110000Z
+UID:2025-05-28T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins – Salad of the day\nBlómkálssúpa  – Cauli
+ flower soup  (V)\nÝsa í karr ý\, kókos og ananas með soðnum kartöfl
+ um\nHaddock in curry\, cocos and pineapple with boiled potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum kartöflum\, rauðkáli  og sveppasósu (M\,G\,E)\nPork Schn
- itzel with roasted potatoes\, red cabbage  and mushroom sauce  (M\,G\,E)
-DTSTART:20250522T110000
-DTEND:20250522T130000
-DTSTAMP:20250522T110000Z
-UID:2025-05-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum kartöflum\, rauðkáli  og sveppasósu (M\,G\,E)\nPork 
- Schnitzel with roasted potatoes\, red cabbage  and mushroom sauce  (M\,G\,
- E)
+SUMMARY:Uppstigningardagur
+DTSTART:20250529T110000
+DTEND:20250529T130000
+DTSTAMP:20250529T110000Z
+UID:2025-05-29T11:00:00/olisindri@gmail.com
+DESCRIPTION:Uppstigningardagur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga vængir BBQ m
- eð hot sauce og gráðostasósu \, "Loaded potatoes"\násamt sellerí sti
- lkum  (M\,E\,G)\nChicken wings BBQ with hot sauce and blue cheese sauce\,\
- n“Loaded potatoes ” and celery (M\,E\,G )
-DTSTART:20250523T110000
-DTEND:20250523T130000
-DTSTAMP:20250523T110000Z
-UID:2025-05-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga vængir B
- BQ með hot sauce og gráðostasósu \, "Loaded potatoes"\násamt sellerí
-  stilkum  (M\,E\,G)\nChicken wings BBQ with hot sauce and blue cheese sauc
- e\,\n“Loaded potatoes ” and celery (M\,E\,G )
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með sýr
+ ðum rjóma  og nachos (E\,G)\nMexico lasagna with cr ème fraîche  and n
+ achos (E\,G)
+DTSTART:20250530T110000
+DTEND:20250530T130000
+DTSTAMP:20250530T110000Z
+UID:2025-05-30T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nMexico lasagna með 
+ sýrðum rjóma  og nachos (E\,G)\nMexico lasagna with cr ème fraîche  a
+ nd nachos (E\,G)
 END:VEVENT
 END:VCALENDAR
