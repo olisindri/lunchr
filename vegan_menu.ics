@@ -2,65 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
- samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with Mad
- ras curry  sauce served with rice
-DTSTART:20250602T110000
-DTEND:20250602T130000
-DTSTAMP:20250602T110000Z
-UID:2025-06-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
-   ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
-  Madras curry  sauce served with rice
+SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og  man
+ gó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, rice 
+ and mango jalapeno sauce  (G\,S)
+DTSTART:20250609T110000
+DTEND:20250609T130000
+DTSTAMP:20250609T110000Z
+UID:2025-06-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
+  mangó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, r
+ ice and mango jalapeno sauce  (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta"Ekki kjúklingur" í sósu með basil\, timian og sól
- þurrkuðum tómötum (S\,G)\nPenne pasta with mushrooms  sun dried tomato
- es and basil (S\,G)
-DTSTART:20250603T110000
-DTEND:20250603T130000
-DTSTAMP:20250603T110000Z
-UID:2025-06-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta"Ekki kjúklingur" í sósu með basil\, timian og 
- sólþurrkuðum tómötum (S\,G)\nPenne pasta with mushrooms  sun dried to
- matoes and basil (S\,G)
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
+ ables served with a cold\ndressing
+DTSTART:20250610T110000
+DTEND:20250610T130000
+DTSTAMP:20250610T110000Z
+UID:2025-06-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
+ egetables served with a cold\ndressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
- i  (G)\nEnchilada with tomato\, bean salad  and cheese se rved with bulgur
-  salad  (G)
-DTSTART:20250604T110000
-DTEND:20250604T130000
-DTSTAMP:20250604T110000Z
-UID:2025-06-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
- alati  (G)\nEnchilada with tomato\, bean salad  and cheese se rved with bu
- lgur salad  (G)
+SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
+DTSTART:20250611T110000
+DTEND:20250611T130000
+DTSTAMP:20250611T110000Z
+UID:2025-06-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
+ G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nMassaman vegetable 
- curry served with rice
-DTSTART:20250605T110000
-DTEND:20250605T130000
-DTSTAMP:20250605T110000Z
-UID:2025-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nMassaman vegeta
- ble curry served with rice
+SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
+   with potatoes and  sauce
+DTSTART:20250612T110000
+DTEND:20250612T130000
+DTSTAMP:20250612T110000Z
+UID:2025-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
+ alls  with potatoes and  sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili si n carne í hamborgarabrauði  og nachos (S\,G)\nChili sin
-  carne in a burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hnetur
- /Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk o
- g hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion 
- and garlic for our vegan courses
-DTSTART:20250606T110000
-DTEND:20250606T130000
-DTSTAMP:20250606T110000Z
-UID:2025-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili si n carne í hamborgarabrauði  og nachos (S\,G)\nChili
-  sin carne in a burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hn
- etur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn la
- uk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of on
- ion and garlic for our vegan courses
+SUMMARY:Vegan burger með grænmeti\, “ California style" (G)\nVegan bur
+ ger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gluten
+   (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að not
+ um mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use
+  a lot of onion and garlic for our vegan courses
+DTSTART:20250613T110000
+DTEND:20250613T130000
+DTSTAMP:20250613T110000Z
+UID:2025-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Vegan burger með grænmeti\, “ California style" (G)\nVegan
+  burger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gl
+ uten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að
+  notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we
+  use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR

@@ -2,66 +2,64 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætur söltuð ýsa me
- ð sítrónu -pipar sósu\, kartöflum\, rúgbrauði og brokol í(M)\nSalt
- ed haddock with lemon -pepper sauce\, ryebread and broccoli (M)
-DTSTART:20250602T110000
-DTEND:20250602T130000
-DTSTAMP:20250602T110000Z
-UID:2025-06-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nNætur söltuð ýs
- a með sítrónu -pipar sósu\, kartöflum\, rúgbrauði og brokol í(M)\n
- Salted haddock with lemon -pepper sauce\, ryebread and broccoli (M)
+SUMMARY:Lokað\nAnnar í hvítasunnu
+DTSTART:20250609T110000
+DTEND:20250609T130000
+DTSTAMP:20250609T110000Z
+UID:2025-06-09T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað\nAnnar í hvítasunnu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
- up  (V)\nÍtalskar kjötbollur með penne pasta og focaccia (M\,E\,G)\nIta
- lian me et balls with penne pasta and focaccia(M\,E\,G)
-DTSTART:20250603T110000
-DTEND:20250603T130000
-DTSTAMP:20250603T110000Z
-UID:2025-06-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
- o soup  (V)\nÍtalskar kjötbollur með penne pasta og focaccia (M\,E\,G)\
- nItalian me et balls with penne pasta and focaccia(M\,E\,G)
+SUMMARY:Papriku og fennel súpa – Bell pepper and fennel  soup ( V)\nOfn
+ bökuð ýsa með hvítvíns -fennel sósu\, steiktum kartöflum ásamt ri
+ stuðu bl ómkáli (M)\nOven baked haddock with white wine sauce\, fried p
+ otatoes and c auliflower(M)
+DTSTART:20250610T110000
+DTEND:20250610T130000
+DTSTAMP:20250610T110000Z
+UID:2025-06-10T11:00:00/olisindri@gmail.com
+DESCRIPTION:Papriku og fennel súpa – Bell pepper and fennel  soup ( V)\
+ nOfnbökuð ýsa með hvítvíns -fennel sósu\, steiktum kartöflum ásam
+ t ristuðu bl ómkáli (M)\nOven baked haddock with white wine sauce\, fri
+ ed potatoes and c auliflower(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppa súpa – Mushroom  soup (G\,M)\nOfnbakaður s teinbítur 
- í lemongras mareneringu\nmeð steiktum kartöflum og kaldri dressing (M\,
- S\,E)\nOven baked wolffish in lemon gra ss marinade \,\nwith fried potatoe
- s and cold dressing  (M\,S\,E)
-DTSTART:20250604T110000
-DTEND:20250604T130000
-DTSTAMP:20250604T110000Z
-UID:2025-06-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppa súpa – Mushroom  soup (G\,M)\nOfnbakaður s teinbít
- ur í lemongras mareneringu\nmeð steiktum kartöflum og kaldri dressing (
- M\,S\,E)\nOven baked wolffish in lemon gra ss marinade \,\nwith fried pota
- toes and cold dressing  (M\,S\,E)
+SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriander soup  (M\
+ ,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G
+ \,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
+DTSTART:20250611T110000
+DTEND:20250611T130000
+DTSTAMP:20250611T110000Z
+UID:2025-06-11T11:00:00/olisindri@gmail.com
+DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriander soup 
+  (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
+ M\,G\,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nKalkúnabríngur í r
- ósmarín og appelsínu með sætukartöflum ásamt eplsalati\nTurkey brea
- st with rosemary and orange\, served with sweet potatoes and apple salad
-DTSTART:20250605T110000
-DTEND:20250605T130000
-DTSTAMP:20250605T110000Z
-UID:2025-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nKalkúnabríngur 
- í rósmarín og appelsínu með sætukartöflum ásamt eplsalati\nTurkey 
- breast with rosemary and orange\, served with sweet potatoes and apple sal
- ad
+SUMMARY:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svínahna
+ kki með sýrðu rauð káli bökuðum premium kartöflu m\nog rjómalag a
+ ðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium potatoes
+  and creamy sauce
+DTSTART:20250612T110000
+DTEND:20250612T130000
+DTSTAMP:20250612T110000Z
+UID:2025-06-12T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svín
+ ahnakki með sýrðu rauð káli bökuðum premium kartöflu m\nog rjómal
+ ag aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium pota
+ toes and creamy sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,G\, E\,H)\nLamba hamborgari með hv
- ílaukssósu\, sýrðum rauðlauk og rösti kartöflum\n(G\,M\,E)\nLamb ha
- mburger with garlic sauce and rusty potatoes (G\,M\,E)
-DTSTART:20250606T110000
-DTEND:20250606T130000
-DTSTAMP:20250606T110000Z
-UID:2025-06-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,G\, E\,H)\nLamba hamborgari með
-  hvílaukssósu\, sýrðum rauðlauk og rösti kartöflum\n(G\,M\,E)\nLamb
-  hamburger with garlic sauce and rusty potatoes (G\,M\,E)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
+ ia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burger 
+ „California  style„  with  avocado\, mustard sauce and wedges (G\,M)
+DTSTART:20250613T110000
+DTEND:20250613T130000
+DTSTAMP:20250613T110000Z
+UID:2025-06-13T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
+ fornia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burg
+ er „California  style„  with  avocado\, mustard sauce and wedges (G\,M
+ )
 END:VEVENT
 END:VCALENDAR
