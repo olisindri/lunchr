@@ -2,62 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og  man
- gó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, rice 
- and mango jalapeno sauce  (G\,S)
-DTSTART:20250609T110000
-DTEND:20250609T130000
-DTSTAMP:20250609T110000Z
-UID:2025-06-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
-  mangó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, r
- ice and mango jalapeno sauce  (G\,S)
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
+DTSTART:20250616T110000
+DTEND:20250616T130000
+DTSTAMP:20250616T110000Z
+UID:2025-06-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
- ables served with a cold\ndressing
-DTSTART:20250610T110000
-DTEND:20250610T130000
-DTSTAMP:20250610T110000Z
-UID:2025-06-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
- egetables served with a cold\ndressing
+SUMMARY:Lokað\n17. Júní
+DTSTART:20250617T110000
+DTEND:20250617T130000
+DTSTAMP:20250617T110000Z
+UID:2025-06-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað\n17. Júní
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (G)
-DTSTART:20250611T110000
-DTEND:20250611T130000
-DTSTAMP:20250611T110000Z
-UID:2025-06-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat lasagna með pestói (G)\nSpinach lasagna with pesto (
- G)
+SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
+ , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
+ conut milk\, tomato\, garlic\, onion and\nvegetables
+DTSTART:20250618T110000
+DTEND:20250618T130000
+DTSTAMP:20250618T110000Z
+UID:2025-06-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
+ mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
+ h coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
-   with potatoes and  sauce
-DTSTART:20250612T110000
-DTEND:20250612T130000
-DTSTAMP:20250612T110000Z
-UID:2025-06-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
- alls  with potatoes and  sauce
+SUMMARY:Grillað bragðmikið blómkál með  hummus og chimichurri\nRoast
+ ed and spiced cauliflower with hummus and chimichurri
+DTSTART:20250619T110000
+DTEND:20250619T130000
+DTSTAMP:20250619T110000Z
+UID:2025-06-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Grillað bragðmikið blómkál með  hummus og chimichurri\nR
+ oasted and spiced cauliflower with hummus and chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, “ California style" (G)\nVegan bur
- ger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gluten
-   (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að not
- um mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use
-  a lot of onion and garlic for our vegan courses
-DTSTART:20250613T110000
-DTEND:20250613T130000
-DTSTAMP:20250613T110000Z
-UID:2025-06-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, “ California style" (G)\nVegan
-  burger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gl
- uten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að
-  notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we
-  use a lot of onion and garlic for our vegan courses
+SUMMARY:Chili sin carne með hrísgrjónum og nachos\nChili sin carne and 
+ nachos
+DTSTART:20250620T110000
+DTEND:20250620T130000
+DTSTAMP:20250620T110000Z
+UID:2025-06-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Chili sin carne með hrísgrjónum og nachos\nChili sin carne 
+ and nachos
 END:VEVENT
 END:VCALENDAR

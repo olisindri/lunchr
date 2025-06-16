@@ -2,64 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í hvítasunnu
-DTSTART:20250609T110000
-DTEND:20250609T130000
-DTSTAMP:20250609T110000Z
-UID:2025-06-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í hvítasunnu
+SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSpænskur salt
+ fiskréttur með steiktum kartöflum og salati\nSpanish salted cod with fr
+ ied potatoes
+DTSTART:20250616T110000
+DTEND:20250616T130000
+DTSTAMP:20250616T110000Z
+UID:2025-06-16T11:00:00/olisindri@gmail.com
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSpænskur 
+ saltfiskréttur með steiktum kartöflum og salati\nSpanish salted cod wit
+ h fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku og fennel súpa – Bell pepper and fennel  soup ( V)\nOfn
- bökuð ýsa með hvítvíns -fennel sósu\, steiktum kartöflum ásamt ri
- stuðu bl ómkáli (M)\nOven baked haddock with white wine sauce\, fried p
- otatoes and c auliflower(M)
-DTSTART:20250610T110000
-DTEND:20250610T130000
-DTSTAMP:20250610T110000Z
-UID:2025-06-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku og fennel súpa – Bell pepper and fennel  soup ( V)\
- nOfnbökuð ýsa með hvítvíns -fennel sósu\, steiktum kartöflum ásam
- t ristuðu bl ómkáli (M)\nOven baked haddock with white wine sauce\, fri
- ed potatoes and c auliflower(M)
+SUMMARY:Lokað\n17. Júní
+DTSTART:20250617T110000
+DTEND:20250617T130000
+DTSTAMP:20250617T110000Z
+UID:2025-06-17T11:00:00/olisindri@gmail.com
+DESCRIPTION:Lokað\n17. Júní
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriander soup  (M\
- ,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G
- \,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
-DTSTART:20250611T110000
-DTEND:20250611T130000
-DTSTAMP:20250611T110000Z
-UID:2025-06-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriander soup 
-  (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
- M\,G\,E)\nItalian lasagna with garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup (G)\nNauta Bourguignon m
+ eð kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
+DTSTART:20250618T110000
+DTEND:20250618T130000
+DTSTAMP:20250618T110000Z
+UID:2025-06-18T11:00:00/olisindri@gmail.com
+DESCRIPTION:Hvít aspassúpa – White asparagus soup (G)\nNauta Bourguign
+ on með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svínahna
- kki með sýrðu rauð káli bökuðum premium kartöflu m\nog rjómalag a
- ðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium potatoes
-  and creamy sauce
-DTSTART:20250612T110000
-DTEND:20250612T130000
-DTSTAMP:20250612T110000Z
-UID:2025-06-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svín
- ahnakki með sýrðu rauð káli bökuðum premium kartöflu m\nog rjómal
- ag aðri sósu (G\,M)\nOven roasted  pork with red cabbage \, premium pota
- toes and creamy sauce
+SUMMARY:Tælensk grænmetissúpa  – Thai  vegetable soup  (V)\nOfnsteikt
+  Lambalæri með grænum baunum \, kartöflugratín og sveppa sósu(M\,G)\
+ nRosted lamb with green peas \, potato gratin and mushroom sauce  (M\,G)
+DTSTART:20250619T110000
+DTEND:20250619T130000
+DTSTAMP:20250619T110000Z
+UID:2025-06-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tælensk grænmetissúpa  – Thai  vegetable soup  (V)\nOfnst
+ eikt Lambalæri með grænum baunum \, kartöflugratín og sveppa sósu(M\
+ ,G)\nRosted lamb with green peas \, potato gratin and mushroom sauce  (M\,
+ G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
- ia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burger 
- „California  style„  with  avocado\, mustard sauce and wedges (G\,M)
-DTSTART:20250613T110000
-DTEND:20250613T130000
-DTSTAMP:20250613T110000Z
-UID:2025-06-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
- fornia style" með av ókadó\, sinepssósu og wedges (G\,M)\nChicken burg
- er „California  style„  with  avocado\, mustard sauce and wedges (G\,M
- )
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nChili con carne með hrísgrj
+ ónum og nachos  og sýrðum rjóma (M)\nChili con carne with rice \, nach
+ os  and cream fresh (M)
+DTSTART:20250620T110000
+DTEND:20250620T130000
+DTSTAMP:20250620T110000Z
+UID:2025-06-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nChili con carne með hrís
+ grjónum og nachos  og sýrðum rjóma (M)\nChili con carne with rice \, n
+ achos  and cream fresh (M)
 END:VEVENT
 END:VCALENDAR
