@@ -2,58 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSpænskur salt
- fiskréttur með steiktum kartöflum og salati\nSpanish salted cod with fr
- ied potatoes
+SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nKjúklingur í rauðu karr
+ ý og kókós ásamt hrísgrjónum\, salati og brauði\nChicken in red cur
+ ry and cocos and rice
 DTSTART:20250616T110000
 DTEND:20250616T130000
 DTSTAMP:20250616T110000Z
 UID:2025-06-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nSpænskur 
- saltfiskréttur með steiktum kartöflum og salati\nSpanish salted cod wit
- h fried potatoes
+DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nKjúklingur í rauðu k
+ arrý og kókós ásamt hrísgrjónum\, salati og brauði\nChicken in red 
+ curry and cocos and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\n17. Júní
+SUMMARY:Grænertusúpa – Green pee soup  (V)\nSpaghetti bolognese með h
+ rásalati og hvítlauksbrauði(G\,E)\nSpaghetti Bolognese  with cold slaw 
+ and garlic bread(G\,E)
 DTSTART:20250617T110000
 DTEND:20250617T130000
 DTSTAMP:20250617T110000Z
 UID:2025-06-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\n17. Júní
+DESCRIPTION:Grænertusúpa – Green pee soup  (V)\nSpaghetti bolognese me
+ ð hrásalati og hvítlauksbrauði(G\,E)\nSpaghetti Bolognese  with cold s
+ law and garlic bread(G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup (G)\nNauta Bourguignon m
- eð kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
+SUMMARY:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins  – Salad o
+ f the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkja st
+ eiktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried cat
+ fish with cold dressing and potatoes
 DTSTART:20250618T110000
 DTEND:20250618T130000
 DTSTAMP:20250618T110000Z
 UID:2025-06-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup (G)\nNauta Bourguign
- on með kartöflumús (M)\nBeef bourguignon with mas hed potatoes ( M)
+DESCRIPTION:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins  – Sal
+ ad of the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkj
+ a steiktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried
+  catfish with cold dressing and potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tælensk grænmetissúpa  – Thai  vegetable soup  (V)\nOfnsteikt
-  Lambalæri með grænum baunum \, kartöflugratín og sveppa sósu(M\,G)\
- nRosted lamb with green peas \, potato gratin and mushroom sauce  (M\,G)
+SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nGrísa Sn
+ itzel með ofnbökuðum smælki kartöflum og sveppasósu (G\,M)\nPork Sni
+ tzel with smælki potatoes and mushroom sauce (G\,M )
 DTSTART:20250619T110000
 DTEND:20250619T130000
 DTSTAMP:20250619T110000Z
 UID:2025-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tælensk grænmetissúpa  – Thai  vegetable soup  (V)\nOfnst
- eikt Lambalæri með grænum baunum \, kartöflugratín og sveppa sósu(M\
- ,G)\nRosted lamb with green peas \, potato gratin and mushroom sauce  (M\,
- G)
+DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nGrís
+ a Snitzel með ofnbökuðum smælki kartöflum og sveppasósu (G\,M)\nPork
+  Snitzel with smælki potatoes and mushroom sauce (G\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nChili con carne með hrísgrj
- ónum og nachos  og sýrðum rjóma (M)\nChili con carne with rice \, nach
- os  and cream fresh (M)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTandori kjúklingalæri 
+ á beini með "loaded" kartöflubátum og jógúrtsósu (M\,G\,E)\nTandoor
+ i Chicken thigh with “loaded” potatoes with yogurt sauce (M \,G\,E)
 DTSTART:20250620T110000
 DTEND:20250620T130000
 DTSTAMP:20250620T110000Z
 UID:2025-06-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nChili con carne með hrís
- grjónum og nachos  og sýrðum rjóma (M)\nChili con carne with rice \, n
- achos  and cream fresh (M)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTandori kjúklingal
+ æri á beini með "loaded" kartöflubátum og jógúrtsósu (M\,G\,E)\nTa
+ ndoori Chicken thigh with “loaded” potatoes with yogurt sauce (M \,G\,
+ E)
 END:VEVENT
 END:VCALENDAR

@@ -2,53 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetables red c
+ urry with beans and vegetables
 DTSTART:20250616T110000
 DTEND:20250616T130000
 DTSTAMP:20250616T110000Z
 UID:2025-06-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetables r
+ ed curry with beans and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\n17. Júní
+SUMMARY:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vegan bo
+ lognese and bread(G)
 DTSTART:20250617T110000
 DTEND:20250617T130000
 DTSTAMP:20250617T110000Z
 UID:2025-06-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\n17. Júní
+DESCRIPTION:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vega
+ n bolognese and bread(G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
- , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
- conut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
+ sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
+ pesto (H)
 DTSTART:20250618T110000
 DTEND:20250618T130000
 DTSTAMP:20250618T110000Z
 UID:2025-06-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
- mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
- h coconut milk\, tomato\, garlic\, onion and\nvegetables
+DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
+ a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
+ ola pesto (H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillað bragðmikið blómkál með  hummus og chimichurri\nRoast
- ed and spiced cauliflower with hummus and chimichurri
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\nVeg
+ an Snitzel with oven  baked potatoes  and mushroom sauce (G)
 DTSTART:20250619T110000
 DTEND:20250619T130000
 DTSTAMP:20250619T110000Z
 UID:2025-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað bragðmikið blómkál með  hummus og chimichurri\nR
- oasted and spiced cauliflower with hummus and chimichurri
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\
+ nVegan Snitzel with oven  baked potatoes  and mushroom sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili sin carne með hrísgrjónum og nachos\nChili sin carne and 
- nachos
+SUMMARY:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori wit
+ h potatoes
 DTSTART:20250620T110000
 DTEND:20250620T130000
 DTSTAMP:20250620T110000Z
 UID:2025-06-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin carne með hrísgrjónum og nachos\nChili sin carne 
- and nachos
+DESCRIPTION:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori
+  with potatoes
 END:VEVENT
 END:VCALENDAR
