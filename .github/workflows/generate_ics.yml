@@ -3,7 +3,7 @@ name: Fetch weekly PDFs and generate .ics files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "1 0 * * 1"
+    - cron: "1 0 * * 6,7,1"
 
 jobs:
   generate-ics:
