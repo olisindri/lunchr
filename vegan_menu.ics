@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetables red c
  urry with beans and vegetables
-DTSTART:20250616T110000
-DTEND:20250616T130000
-DTSTAMP:20250616T110000Z
-UID:2025-06-16T11:00:00/olisindri@gmail.com
+DTSTART:20250623T110000
+DTEND:20250623T130000
+DTSTAMP:20250623T110000Z
+UID:2025-06-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetables r
  ed curry with beans and vegetables
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vegan bo
  lognese and bread(G)
-DTSTART:20250617T110000
-DTEND:20250617T130000
-DTSTAMP:20250617T110000Z
-UID:2025-06-17T11:00:00/olisindri@gmail.com
+DTSTART:20250624T110000
+DTEND:20250624T130000
+DTSTAMP:20250624T110000Z
+UID:2025-06-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vega
  n bolognese and bread(G)
 END:VEVENT
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
  sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
  pesto (H)
-DTSTART:20250618T110000
-DTEND:20250618T130000
-DTSTAMP:20250618T110000Z
-UID:2025-06-18T11:00:00/olisindri@gmail.com
+DTSTART:20250625T110000
+DTEND:20250625T130000
+DTSTAMP:20250625T110000Z
+UID:2025-06-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
  a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
  ola pesto (H)
@@ -36,20 +36,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\nVeg
  an Snitzel with oven  baked potatoes  and mushroom sauce (G)
-DTSTART:20250619T110000
-DTEND:20250619T130000
-DTSTAMP:20250619T110000Z
-UID:2025-06-19T11:00:00/olisindri@gmail.com
+DTSTART:20250626T110000
+DTEND:20250626T130000
+DTSTAMP:20250626T110000Z
+UID:2025-06-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\
  nVegan Snitzel with oven  baked potatoes  and mushroom sauce (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori wit
  h potatoes
-DTSTART:20250620T110000
-DTEND:20250620T130000
-DTSTAMP:20250620T110000Z
-UID:2025-06-20T11:00:00/olisindri@gmail.com
+DTSTART:20250627T110000
+DTEND:20250627T130000
+DTSTAMP:20250627T110000Z
+UID:2025-06-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori
   with potatoes
 END:VEVENT
