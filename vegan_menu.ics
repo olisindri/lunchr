@@ -2,55 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetables red c
- urry with beans and vegetables
+SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
+ ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
+ ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
+ ed with Aioli
 DTSTART:20250623T110000
 DTEND:20250623T130000
 DTSTAMP:20250623T110000Z
 UID:2025-06-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetables r
- ed curry with beans and vegetables
+DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
+ , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
+ h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
+ served with Aioli
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vegan bo
- lognese and bread(G)
+SUMMARY:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunum\no
+ g lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, kidne
+ y beans and onion with cous cous
 DTSTART:20250624T110000
 DTEND:20250624T130000
 DTSTAMP:20250624T110000Z
 UID:2025-06-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese og brauði (G)\nSpaghetti og vega
- n bolognese and bread(G)
+DESCRIPTION:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunu
+ m\nog lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, k
+ idney beans and onion with cous cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt rucola pe
- sto (H)\nRoasted broccoli and yellow lentils on hummus served with rucola 
- pesto (H)
+SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
+ esam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 DTSTART:20250625T110000
 DTEND:20250625T130000
 DTSTAMP:20250625T110000Z
 UID:2025-06-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt rucol
- a pesto (H)\nRoasted broccoli and yellow lentils on hummus served with ruc
- ola pesto (H)
+DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
+ og sesam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\nVeg
- an Snitzel with oven  baked potatoes  and mushroom sauce (G)
+SUMMARY:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartöflum
+   og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glazed p
+ otatoes\nand sweet corn ( H)
 DTSTART:20250626T110000
 DTEND:20250626T130000
 DTSTAMP:20250626T110000Z
 UID:2025-06-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu (G)\
- nVegan Snitzel with oven  baked potatoes  and mushroom sauce (G)
+DESCRIPTION:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartö
+ flum  og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glaz
+ ed potatoes\nand sweet corn ( H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori wit
- h potatoes
+SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
+ vegan mincemeat  and salsa  (S)
 DTSTART:20250627T110000
 DTEND:20250627T130000
 DTSTAMP:20250627T110000Z
 UID:2025-06-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúklingur tandori með kartöflum\nNot chicken tandoori
-  with potatoes
+DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
+ ith vegan mincemeat  and salsa  (S)
 END:VEVENT
 END:VCALENDAR
