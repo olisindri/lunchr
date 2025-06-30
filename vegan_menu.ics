@@ -6,10 +6,10 @@ SUMMARY:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\, bl
  ómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper with ch
  ickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable serv
  ed with Aioli
-DTSTART:20250623T110000
-DTEND:20250623T130000
-DTSTAMP:20250623T110000Z
-UID:2025-06-23T11:00:00/olisindri@gmail.com
+DTSTART:20250630T110000
+DTEND:20250630T130000
+DTSTAMP:20250630T110000Z
+UID:2025-06-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með kjúklingabaunum\, gulrótum\, brokkólíi\
  , blómkáli\, sveppum og\ngrænmeti ásamt Aioli\nStuffed bell pepper wit
  h chickpeas\, carrots\, broccoli\, cauliflower\, mushrooms and\nvegetable 
@@ -19,10 +19,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunum\no
  g lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, kidne
  y beans and onion with cous cous
-DTSTART:20250624T110000
-DTEND:20250624T130000
-DTSTAMP:20250624T110000Z
-UID:2025-06-24T11:00:00/olisindri@gmail.com
+DTSTART:20250701T110000
+DTEND:20250701T130000
+DTSTAMP:20250701T110000Z
+UID:2025-07-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis „Ragu t“ með sveppum\, spínati\, nýrna baunu
  m\nog lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, k
  idney beans and onion with cous cous
@@ -30,10 +30,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
  esam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
-DTSTART:20250625T110000
-DTEND:20250625T130000
-DTSTAMP:20250625T110000Z
-UID:2025-06-25T11:00:00/olisindri@gmail.com
+DTSTART:20250702T110000
+DTEND:20250702T130000
+DTSTAMP:20250702T110000Z
+UID:2025-07-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
  og sesam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 END:VEVENT
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartöflum
    og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glazed p
  otatoes\nand sweet corn ( H)
-DTSTART:20250626T110000
-DTEND:20250626T130000
-DTSTAMP:20250626T110000Z
-UID:2025-06-26T11:00:00/olisindri@gmail.com
+DTSTART:20250703T110000
+DTEND:20250703T130000
+DTSTAMP:20250703T110000Z
+UID:2025-07-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Svartbaunasteik með villisveppasósu\, sykurbrúnuðum kartö
  flum  og mais  (H)\nBlackbeansteak with wild mushroom sauce\, caramel glaz
  ed potatoes\nand sweet corn ( H)
@@ -52,10 +52,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  with 
  vegan mincemeat  and salsa  (S)
-DTSTART:20250627T110000
-DTEND:20250627T130000
-DTSTAMP:20250627T110000Z
-UID:2025-06-27T11:00:00/olisindri@gmail.com
+DTSTART:20250704T110000
+DTEND:20250704T130000
+DTSTAMP:20250704T110000Z
+UID:2025-07-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Taco  skeljar  með vegan hakki og salsa  (S)\nTaco  shells  w
  ith vegan mincemeat  and salsa  (S)
 END:VEVENT
