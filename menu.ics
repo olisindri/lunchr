@@ -2,65 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, rúg
- brauði og sítrónu -pipar sósu  (M\,G)\nBoiled haddock with potatoes\, 
- rye bread and lemon pepper sauce  (M\,G)
+SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nLanga í Grískri mareneri
+ ngu með cous cous\, tatziki og salati\nLing in Greek marinade with cous c
+ ous an tzatziki
 DTSTART:20250630T110000
 DTEND:20250630T130000
 DTSTAMP:20250630T110000Z
 UID:2025-06-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup\nSoðin ýsa með kartöflum\, 
- rúgbrauði og sítrónu -pipar sósu  (M\,G)\nBoiled haddock with potatoe
- s\, rye bread and lemon pepper sauce  (M\,G)
+DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nLanga í Grískri mare
+ neringu með cous cous\, tatziki og salati\nLing in Greek marinade with co
+ us cous an tzatziki
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
- M)\nLamb goulash in curry sauce with rice(G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nKjötb
+ ollur með ofnsteiktum kartöflum \, brún ni sósu\, sultu og rauðkáli 
+ (M\,E\,G)\nMeet balls with ovenbaked potatoes \, sauce \, jam  and red cab
+ bage
 DTSTART:20250701T110000
 DTEND:20250701T130000
 DTSTAMP:20250701T110000Z
 UID:2025-07-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
- (G\,M)\nLamb goulash in curry sauce with rice(G\,M)
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nKj
+ ötbollur með ofnsteiktum kartöflum \, brún ni sósu\, sultu og rauðk
+ áli (M\,E\,G)\nMeet balls with ovenbaked potatoes \, sauce \, jam  and re
+ d cabbage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins – Sal
- ad of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hvítlauk\
- , basil\,spínati og konfekttómötum með steiktum kartöflu r\nOvenbaked
-   cod in garlic\,  spinach\, tomato with fried potatoes
+SUMMARY:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)\nAs
+ passúpa – Asparagus soup\nLaxabitar í tandoori og grænmeti með smæl
+ ki kartöflum og sýrðum rjóma (M)\nSalmon in tandoori and vegetable\, p
+ otatoes and cream fresh (M)
 DTSTART:20250702T110000
 DTEND:20250702T130000
 DTSTAMP:20250702T110000Z
 UID:2025-07-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins –
-  Salad of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hvítl
- auk\, basil\,spínati og konfekttómötum með steiktum kartöflu r\nOvenb
- aked  cod in garlic\,  spinach\, tomato with fried potatoes
+DESCRIPTION:Salat dagsins - Salad of the day: Brokkolí  – Broccoli  (V)
+ \nAspassúpa – Asparagus soup\nLaxabitar í tandoori og grænmeti með s
+ mælki kartöflum og sýrðum rjóma (M)\nSalmon in tandoori and vegetable
+ \, potatoes and cream fresh (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup( V)\nKjúklingabringur með piparrj
- ómasósu\, maís og hrísgrjónum (M)\nChicken bre ast with pepper s auce
- \, mais and rice (M)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nLangtímaeldaðir lambas
+ kankar með rauðvínssósu\, kartöflumús og sýrðu hvítkáli (M)\nLeg
+  shank with red wine sauce\, potato mash and cabbage (M)
 DTSTART:20250703T110000
 DTEND:20250703T130000
 DTSTAMP:20250703T110000Z
 UID:2025-07-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup( V)\nKjúklingabringur með pip
- arrjómasósu\, maís og hrísgrjónum (M)\nChicken bre ast with pepper s 
- auce\, mais and rice (M)
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nLangtímaeldaðir la
+ mbaskankar með rauðvínssósu\, kartöflumús og sýrðu hvítkáli (M)\
+ nLeg shank with red wine sauce\, potato mash and cabbage (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  með nau tahakk
- i\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \, sal
- sa and sour cream ( G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
+ ð  southern krydduðum smælki kartöflum\nChicken in BBQ sauce with sout
+ hern spiced potatoes
 DTSTART:20250704T110000
 DTEND:20250704T130000
 DTSTAMP:20250704T110000Z
 UID:2025-07-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nTaco skeljar  með nau ta
- hakki\,  salsa og sýrðum rjóma  (G\,M)\nTaco shells with minced beef \,
-  salsa and sour cream ( G\,M)
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
+ u með  southern krydduðum smælki kartöflum\nChicken in BBQ sauce with 
+ southern spiced potatoes
 END:VEVENT
 END:VCALENDAR
