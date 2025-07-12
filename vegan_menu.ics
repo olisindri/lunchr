@@ -2,58 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
- cous  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetables
-  and peas served with cous -cous  and sweet chili\nsauce (G)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
+ töflum\nPotato and beets rissole with len tils served with herb spiced po
+ tatoes
 DTSTART:20250707T110000
 DTEND:20250707T130000
 DTSTAMP:20250707T110000Z
 UID:2025-07-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
- us -cous  og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegeta
- bles and peas served with cous -cous  and sweet chili\nsauce (G)
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
+ akartöflum\nPotato and beets rissole with len tils served with herb spice
+ d potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
- Cauliflower - and almond rissole served with potatoes  and cold dressing
+SUMMARY:Vegan “Milanese” með pasta  (G)\nVegan Milanese with pasta  (
+ G)
 DTSTART:20250708T110000
 DTEND:20250708T130000
 DTSTAMP:20250708T110000Z
 UID:2025-07-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
- gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
- ng
+DESCRIPTION:Vegan “Milanese” með pasta  (G)\nVegan Milanese with past
+ a  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow tha
- i curry with rice  (G\,S)
+SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
+  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
+ icken peas\, black beans\nand root vegetables served with mustard mayo
 DTSTART:20250709T110000
 DTEND:20250709T130000
 DTSTAMP:20250709T110000Z
 UID:2025-07-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow
-  thai curry with rice  (G\,S)
+DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
+ \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
+ , chicken peas\, black beans\nand root vegetables served with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
- dri dressingu\nCannelini  bean and root vegetable cashew steak with potato
- es  and cold dressing
+SUMMARY:Ekki kjúklingur tika með “Bombay” kartöflum og naan brauði
+ \nNot chicken  tika with “Bombay” potatoes and naan
 DTSTART:20250710T110000
 DTEND:20250710T130000
 DTSTAMP:20250710T110000Z
 UID:2025-07-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
-  kaldri dressingu\nCannelini  bean and root vegetable cashew steak with po
- tatoes  and cold dressing
+DESCRIPTION:Ekki kjúklingur tika með “Bombay” kartöflum og naan bra
+ uði\nNot chicken  tika with “Bombay” potatoes and naan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með southern krydduðum smælki kartöflum og dr
- essingu\nVeggie tots with southern spiced potatoes and dressing
+SUMMARY:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita with 
+ vegan beef and pita sauce  (G)
 DTSTART:20250711T110000
 DTEND:20250711T130000
 DTSTAMP:20250711T110000Z
 UID:2025-07-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með southern krydduðum smælki kartöflum o
- g dressingu\nVeggie tots with southern spiced potatoes and dressing
+DESCRIPTION:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita w
+ ith vegan beef and pita sauce  (G)
 END:VEVENT
 END:VCALENDAR
