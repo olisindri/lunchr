@@ -2,57 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurtakar
- töflum\nPotato and beets rissole with len tils served with herb spiced po
- tatoes
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
+ num\nVegetables red curry with beans and vegetables served with rice
 DTSTART:20250714T110000
 DTEND:20250714T130000
 DTSTAMP:20250714T110000Z
 UID:2025-07-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt kryddjurt
- akartöflum\nPotato and beets rissole with len tils served with herb spice
- d potatoes
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
+ rjónum\nVegetables red curry with beans and vegetables served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan “Milanese” með pasta  (G)\nVegan Milanese with pasta  (
- G)
+SUMMARY:Basil ekki  kjúklinga pottur "*Alfredo" með rigatoni pasta (G)\n
+ Basil not chicken pot “Alfredo” with rigatoni pasta (G)
 DTSTART:20250715T110000
 DTEND:20250715T130000
 DTSTAMP:20250715T110000Z
 UID:2025-07-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan “Milanese” með pasta  (G)\nVegan Milanese with past
- a  (G)
+DESCRIPTION:Basil ekki  kjúklinga pottur "*Alfredo" með rigatoni pasta (
+ G)\nBasil not chicken pot “Alfredo” with rigatoni pasta (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
-  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
- icken peas\, black beans\nand root vegetables served with mustard mayo
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
+ odles and peas served with rice and sweet chili sauce\n(G\,S)
 DTSTART:20250716T110000
 DTEND:20250716T130000
 DTSTAMP:20250716T110000Z
 UID:2025-07-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
- \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
- , chicken peas\, black beans\nand root vegetables served with mustard mayo
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
+ , noodles and peas served with rice and sweet chili sauce\n(G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúklingur tika með “Bombay” kartöflum og naan brauði
- \nNot chicken  tika with “Bombay” potatoes and naan
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmeti  o
+ g sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegetables
+   and mushroom sauce  (S\,G)
 DTSTART:20250717T110000
 DTEND:20250717T130000
 DTSTAMP:20250717T110000Z
 UID:2025-07-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúklingur tika með “Bombay” kartöflum og naan bra
- uði\nNot chicken  tika with “Bombay” potatoes and naan
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmet
+ i  og sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegeta
+ bles  and mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita with 
- vegan beef and pita sauce  (G)
+SUMMARY:vegan ostborgari með grænmeti og wedges (G)\nVegan cheeseburger 
+ with vegetables and weges(G)
 DTSTART:20250718T110000
 DTEND:20250718T130000
 DTSTAMP:20250718T110000Z
 UID:2025-07-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Píta með grænmeti\, vegan hakki og pítusósu (G\,)\nPita w
- ith vegan beef and pita sauce  (G)
+DESCRIPTION:vegan ostborgari með grænmeti og wedges (G)\nVegan cheesebur
+ ger with vegetables and weges(G)
 END:VEVENT
 END:VCALENDAR
