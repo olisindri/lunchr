@@ -2,57 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísgrjó
- num\nVegetables red curry with beans and vegetables served with rice
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
+ ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
+ vegetables and peas\nserved with rice and sweet chili sauce (G)
 DTSTART:20250721T110000
 DTEND:20250721T130000
 DTSTAMP:20250721T110000Z
 UID:2025-07-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti ásamt hrísg
- rjónum\nVegetables red curry with beans and vegetables served with rice
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
+  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
+ \, vegetables and peas\nserved with rice and sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil ekki  kjúklinga pottur "*Alfredo" með rigatoni pasta (G)\n
- Basil not chicken pot “Alfredo” with rigatoni pasta (G)
+SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
+ samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
+ ved with rice
 DTSTART:20250722T110000
 DTEND:20250722T130000
 DTSTAMP:20250722T110000Z
 UID:2025-07-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil ekki  kjúklinga pottur "*Alfredo" með rigatoni pasta (
- G)\nBasil not chicken pot “Alfredo” with rigatoni pasta (G)
+DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
+ m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
+  served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
- rjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\, no
- odles and peas served with rice and sweet chili sauce\n(G\,S)
+SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
+ (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
 DTSTART:20250723T110000
 DTEND:20250723T130000
 DTSTAMP:20250723T110000Z
 UID:2025-07-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
- ísgrjónum og sætri chili\nsósu (G\,S)\nSamosas filled with vegetables\
- , noodles and peas served with rice and sweet chili sauce\n(G\,S)
+DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
+ uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
+  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmeti  o
- g sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegetables
-   and mushroom sauce  (S\,G)
+SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
+ töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
+ ble steak served with small potatoes and\npepper sauce
 DTSTART:20250724T110000
 DTEND:20250724T130000
 DTSTAMP:20250724T110000Z
 UID:2025-07-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum\, bökuðu grænmet
- i  og sveppasósu  (S\,G)\nVegan Schnitzel with roasted potatoes\,  vegeta
- bles  and mushroom sauce  (S\,G)
+DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
+  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
+ getable steak served with small potatoes and\npepper sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vegan ostborgari með grænmeti og wedges (G)\nVegan cheeseburger 
- with vegetables and weges(G)
+SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
+ rry with sweet potatoes and rice\n(G) – Glúten/Gluten  (H) – Hnetur/P
+ eanuts  - (S)- Soyja/Soya
 DTSTART:20250725T110000
 DTEND:20250725T130000
 DTSTAMP:20250725T110000Z
 UID:2025-07-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:vegan ostborgari með grænmeti og wedges (G)\nVegan cheesebur
- ger with vegetables and weges(G)
+DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
+ a curry with sweet potatoes and rice\n(G) – Glúten/Gluten  (H) – Hnet
+ ur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR

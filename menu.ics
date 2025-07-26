@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞorskur 
- í tælensku rauðu karrý\, kókos ásamt hrísgrjónum og fersku salati\
- ncod in  red  thai curry with rice and salad
+SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nOfnbakaður stei
+ nbítur í lemongrass mareneringu með ofnsteiktum kartöflum\nog kaldri s
+ ósu  (M\,E)\nOvenbaked catfish in lemongrass served with ovenbaked potato
+ es and cold sauce  (M\,E)
 DTSTART:20250721T110000
 DTEND:20250721T130000
 DTSTAMP:20250721T110000Z
 UID:2025-07-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nÞors
- kur í tælensku rauðu karrý\, kókos ásamt hrísgrjónum og fersku sal
- ati\ncod in  red  thai curry with rice and salad
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nOfnbakaður 
+ steinbítur í lemongrass mareneringu með ofnsteiktum kartöflum\nog kald
+ ri sósu  (M\,E)\nOvenbaked catfish in lemongrass served with ovenbaked po
+ tatoes and cold sauce  (M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa  - Tomato - and basil soup ( V)\nBasil kjú
- klinga pottur "Alfredo" með rigatoni pasta (G\,M)\nBasil chicken pot “A
- lfredo” with rigatoni pasta G\,M)
+SUMMARY:Gulrótar og engiferssúpa – Carrot and ginger soup  (V)\nIndver
+ skur lambapottréttur með hrísgrjónum og naan brauði (G)\nIndian lamb 
+ stew served with rice and naan bread (G)
 DTSTART:20250722T110000
 DTEND:20250722T130000
 DTSTAMP:20250722T110000Z
 UID:2025-07-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa  - Tomato - and basil soup ( V)\nBasil 
- kjúklinga pottur "Alfredo" með rigatoni pasta (G\,M)\nBasil chicken pot 
- “Alfredo” with rigatoni pasta G\,M)
+DESCRIPTION:Gulrótar og engiferssúpa – Carrot and ginger soup  (V)\nIn
+ dverskur lambapottréttur með hrísgrjónum og naan brauði (G)\nIndian l
+ amb stew served with rice and naan bread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og koriandersúpa  – Carrot and coriander soup\nÝsa
-  í tando ori með grænmeti\, hrísgrjónum og tzatziki  sósa (M)\nHaddo
- ck in tandoori and vegetable\, rice and tzatziki (M)
+SUMMARY:Blaðlauks og kartöflusúpa – Potato and leek soup (M\,G)\nOfnb
+ ökuð ýsa með kartöflum\, strengjabaunum og hvítvínssósu\nOvenbaked
+  haddock with potatoes\, string beans and white wine sauce
 DTSTART:20250723T110000
 DTEND:20250723T130000
 DTSTAMP:20250723T110000Z
 UID:2025-07-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og koriandersúpa  – Carrot and coriander soup\n
- Ýsa í tando ori með grænmeti\, hrísgrjónum og tzatziki  sósa (M)\nH
- addock in tandoori and vegetable\, rice and tzatziki (M)
+DESCRIPTION:Blaðlauks og kartöflusúpa – Potato and leek soup (M\,G)\n
+ Ofnbökuð ýsa með kartöflum\, strengjabaunum og hvítvínssósu\nOvenb
+ aked haddock with potatoes\, string beans and white wine sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nOfnsteiktar grísal
- undir með kartöflugratíni\, soðsósu og blómkáli (M)\nFried pork ten
- derloin with potato gratin\, sauce and cauliflower (M)
+SUMMARY:Blómkálssúpa – Cauliflower soup  (M\,G)\nKalkúnabringa í hv
+ ítlauk og sítrónu ásamt sætkartöflumús og soðsósu\nTurkey breast 
+ with garlic and lemon served with sweet potato mash  and turkey j us
 DTSTART:20250724T110000
 DTEND:20250724T130000
 DTSTAMP:20250724T110000Z
 UID:2025-07-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nOfnsteiktar gr
- ísalundir með kartöflugratíni\, soðsósu og blómkáli (M)\nFried por
- k tenderloin with potato gratin\, sauce and cauliflower (M)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup  (M\,G)\nKalkúnabringa 
+ í hvítlauk og sítrónu ásamt sætkartöflumús og soðsósu\nTurkey br
+ east with garlic and lemon served with sweet potato mash  and turkey j us
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKlasískur ostborgari me
- ð grænmeti og wedge s(M\,G\,E)\nClassic cheeseburger  with vegetables an
- d wedges (M\,G\,E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotle me
+ ð “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork belly in
+  chipotle served with “Mac and Cheese”\, corn on the cob and BBQ sauce
+ \n(M\,G)
 DTSTART:20250725T110000
 DTEND:20250725T130000
 DTSTAMP:20250725T110000Z
 UID:2025-07-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKlasískur ostborgar
- i með grænmeti og wedge s(M\,G\,E)\nClassic cheeseburger  with vegetable
- s and wedges (M\,G\,E)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotl
+ e með “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork bell
+ y in chipotle served with “Mac and Cheese”\, corn on the cob and BBQ s
+ auce\n(M\,G)
 END:VEVENT
 END:VCALENDAR
