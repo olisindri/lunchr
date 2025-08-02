@@ -2,67 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nOfnbakaður stei
- nbítur í lemongrass mareneringu með ofnsteiktum kartöflum\nog kaldri s
- ósu  (M\,E)\nOvenbaked catfish in lemongrass served with ovenbaked potato
- es and cold sauce  (M\,E)
+SUMMARY:Lokað Frídagur verslunnamanna
 DTSTART:20250728T110000
 DTEND:20250728T130000
 DTSTAMP:20250728T110000Z
 UID:2025-07-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nOfnbakaður 
- steinbítur í lemongrass mareneringu með ofnsteiktum kartöflum\nog kald
- ri sósu  (M\,E)\nOvenbaked catfish in lemongrass served with ovenbaked po
- tatoes and cold sauce  (M\,E)
+DESCRIPTION:Lokað Frídagur verslunnamanna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar og engiferssúpa – Carrot and ginger soup  (V)\nIndver
- skur lambapottréttur með hrísgrjónum og naan brauði (G)\nIndian lamb 
- stew served with rice and naan bread (G)
+SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
+ up  (V)\nSteiktar fiskibollur með hrísgrjónum\, karrí sósu og hrásal
+ ati (M\,G\,E)\nFried fish balls with rice\, coleslaw and curry sauce  (M\,
+ G\,E)
 DTSTART:20250729T110000
 DTEND:20250729T130000
 DTSTAMP:20250729T110000Z
 UID:2025-07-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar og engiferssúpa – Carrot and ginger soup  (V)\nIn
- dverskur lambapottréttur með hrísgrjónum og naan brauði (G)\nIndian l
- amb stew served with rice and naan bread (G)
+DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
+ o soup  (V)\nSteiktar fiskibollur með hrísgrjónum\, karrí sósu og hr
+ ásalati (M\,G\,E)\nFried fish balls with rice\, coleslaw and curry sauce 
+  (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks og kartöflusúpa – Potato and leek soup (M\,G)\nOfnb
- ökuð ýsa með kartöflum\, strengjabaunum og hvítvínssósu\nOvenbaked
-  haddock with potatoes\, string beans and white wine sauce
+SUMMARY:Grænmetissúpa  – Vegetable soup (G\, V)\nLasagna á ítalskan 
+ máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasagna with
+  garlic bread and cold slaw (M\,G\,E)
 DTSTART:20250730T110000
 DTEND:20250730T130000
 DTSTAMP:20250730T110000Z
 UID:2025-07-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks og kartöflusúpa – Potato and leek soup (M\,G)\n
- Ofnbökuð ýsa með kartöflum\, strengjabaunum og hvítvínssósu\nOvenb
- aked haddock with potatoes\, string beans and white wine sauce
+DESCRIPTION:Grænmetissúpa  – Vegetable soup (G\, V)\nLasagna á ítals
+ kan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasagna 
+ with garlic bread and cold slaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup  (M\,G)\nKalkúnabringa í hv
- ítlauk og sítrónu ásamt sætkartöflumús og soðsósu\nTurkey breast 
- with garlic and lemon served with sweet potato mash  and turkey j us
+SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
+ a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
+  – Harissa with pilau rice\, vegetable s and raita sauce (M)
 DTSTART:20250731T110000
 DTEND:20250731T130000
 DTSTAMP:20250731T110000Z
 UID:2025-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup  (M\,G)\nKalkúnabringa 
- í hvítlauk og sítrónu ásamt sætkartöflumús og soðsósu\nTurkey br
- east with garlic and lemon served with sweet potato mash  and turkey j us
+DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
+ rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
+ lder – Harissa with pilau rice\, vegetable s and raita sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotle me
- ð “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork belly in
-  chipotle served with “Mac and Cheese”\, corn on the cob and BBQ sauce
- \n(M\,G)
+SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili con 
+ carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger with C
+ hili con carne and crem fresh and cheese nachos (G\,M\,E)
 DTSTART:20250801T110000
 DTEND:20250801T130000
 DTSTAMP:20250801T110000Z
 UID:2025-08-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða chipotl
- e með “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,G)\nPork bell
- y in chipotle served with “Mac and Cheese”\, corn on the cob and BBQ s
- auce\n(M\,G)
+DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili 
+ con carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger wi
+ th Chili con carne and crem fresh and cheese nachos (G\,M\,E)
 END:VEVENT
 END:VCALENDAR

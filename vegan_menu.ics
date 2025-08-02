@@ -2,62 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
- ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
- vegetables and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Lokað frídagur verslunarmanna
 DTSTART:20250728T110000
 DTEND:20250728T130000
 DTSTAMP:20250728T110000Z
 UID:2025-07-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
-  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas\nserved with rice and sweet chili sauce (G)
+DESCRIPTION:Lokað frídagur verslunarmanna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marokkóskur pottréttur með apríkósum\, grænmeti og baunum á
- samt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans ser
- ved with rice
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
+ cous og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetables 
+ and peas served with cous -cous and sweet chili\nsauce (G)
 DTSTART:20250729T110000
 DTEND:20250729T130000
 DTSTAMP:20250729T110000Z
 UID:2025-07-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Marokkóskur pottréttur með apríkósum\, grænmeti og baunu
- m ásamt hrísgrjónum\nMoroccan stew with apricots\, vegetables and beans
-  served with rice
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
+ us -cous og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetab
+ les and peas served with cous -cous and sweet chili\nsauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
- (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
+SUMMARY:Vegan lasagne á ítalskan máta með brauði og salati (G)\nItali
+ an vegan lasagna served with bread and salad  (G)
 DTSTART:20250730T110000
 DTEND:20250730T130000
 DTSTAMP:20250730T110000Z
 UID:2025-07-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
-  (G)
+DESCRIPTION:Vegan lasagne á ítalskan máta með brauði og salati (G)\nI
+ talian vegan lasagna served with bread and salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
- töflusmælki og piparsósu\nCashew -\, black bean -\, potato - and vegeta
- ble steak served with small potatoes and\npepper sauce
+SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
+ curry with rice
 DTSTART:20250731T110000
 DTEND:20250731T130000
 DTSTAMP:20250731T110000Z
 UID:2025-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
-  kartöflusmælki og piparsósu\nCashew -\, black bean -\, potato - and ve
- getable steak served with small potatoes and\npepper sauce
+DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikka cu
- rry with sweet potatoes and rice\n(G) – Glúten/Gluten  (H) – Hnetur/P
- eanuts  - (S)- Soyja/Soya
+SUMMARY:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChili si
+ n carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hnetur/
+ Peanuts  - (S)- Soyja/Soya
 DTSTART:20250801T110000
 DTEND:20250801T130000
 DTSTAMP:20250801T110000Z
 UID:2025-08-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum\nTikk
- a curry with sweet potatoes and rice\n(G) – Glúten/Gluten  (H) – Hnet
- ur/Peanuts  - (S)- Soyja/Soya
+DESCRIPTION:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChil
+ i sin carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hne
+ tur/Peanuts  - (S)- Soyja/Soya
 END:VEVENT
 END:VCALENDAR
