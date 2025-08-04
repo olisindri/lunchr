@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Lokað frídagur verslunarmanna
-DTSTART:20250728T110000
-DTEND:20250728T130000
-DTSTAMP:20250728T110000Z
-UID:2025-07-28T11:00:00/olisindri@gmail.com
+DTSTART:20250804T110000
+DTEND:20250804T130000
+DTSTAMP:20250804T110000Z
+UID:2025-08-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað frídagur verslunarmanna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
  cous og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetables 
  and peas served with cous -cous and sweet chili\nsauce (G)
-DTSTART:20250729T110000
-DTEND:20250729T130000
-DTSTAMP:20250729T110000Z
-UID:2025-07-29T11:00:00/olisindri@gmail.com
+DTSTART:20250805T110000
+DTEND:20250805T130000
+DTSTAMP:20250805T110000Z
+UID:2025-08-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
  us -cous og sætri chili sósu\n(G)\nSamosas filled with noodles\, vegetab
  les and peas served with cous -cous and sweet chili\nsauce (G)
@@ -24,20 +24,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan lasagne á ítalskan máta með brauði og salati (G)\nItali
  an vegan lasagna served with bread and salad  (G)
-DTSTART:20250730T110000
-DTEND:20250730T130000
-DTSTAMP:20250730T110000Z
-UID:2025-07-30T11:00:00/olisindri@gmail.com
+DTSTART:20250806T110000
+DTEND:20250806T130000
+DTSTAMP:20250806T110000Z
+UID:2025-08-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan lasagne á ítalskan máta með brauði og salati (G)\nI
  talian vegan lasagna served with bread and salad  (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
  curry with rice
-DTSTART:20250731T110000
-DTEND:20250731T130000
-DTSTAMP:20250731T110000Z
-UID:2025-07-31T11:00:00/olisindri@gmail.com
+DTSTART:20250807T110000
+DTEND:20250807T130000
+DTSTAMP:20250807T110000Z
+UID:2025-08-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
  man curry with rice
 END:VEVENT
@@ -45,10 +45,10 @@ BEGIN:VEVENT
 SUMMARY:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChili si
  n carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hnetur/
  Peanuts  - (S)- Soyja/Soya
-DTSTART:20250801T110000
-DTEND:20250801T130000
-DTSTAMP:20250801T110000Z
-UID:2025-08-01T11:00:00/olisindri@gmail.com
+DTSTART:20250808T110000
+DTEND:20250808T130000
+DTSTAMP:20250808T110000Z
+UID:2025-08-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Chili si n carne í hamborgarabrauði  og nachos  (S\,G)\nChil
  i sin carne in burger bun with nachos\n(G) – Glúten/Gluten  (H) – Hne
  tur/Peanuts  - (S)- Soyja/Soya
