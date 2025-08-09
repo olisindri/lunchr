@@ -2,61 +2,71 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað Frídagur verslunnamanna
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nFiski tvenna lax o
+ g langa með grilluðu grænmeti\nog papriku ásamt hrísgrjónum\, kaldri
+   kóriandersósu (M)\nFish duo salmon and ling with grilled vegetable and
+  rice\, cold coriander sauce
 DTSTART:20250804T110000
 DTEND:20250804T130000
 DTSTAMP:20250804T110000Z
 UID:2025-08-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað Frídagur verslunnamanna
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nFiski tvenna l
+ ax og langa með grilluðu grænmeti\nog papriku ásamt hrísgrjónum\, ka
+ ldri  kóriandersósu (M)\nFish duo salmon and ling with grilled vegetable
+  and rice\, cold coriander sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomato so
- up  (V)\nSteiktar fiskibollur með hrísgrjónum\, karrí sósu og hrásal
- ati (M\,G\,E)\nFried fish balls with rice\, coleslaw and curry sauce  (M\,
- G\,E)
+SUMMARY:Aspassúpa  – Asparagus soup  (G\,M)\nLambapottréttur í brúnn
+ i sósu ásamt steiktum kartöflum\,\nrauðkáli  og rabbabarasultu  (G\,M
+ )\nLamb goulash with fried potatoes\, red cabbage  and jam
 DTSTART:20250805T110000
 DTEND:20250805T130000
 DTSTAMP:20250805T110000Z
 UID:2025-08-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -\, chili- og tómatsúpa – Basil -\, chili- and tomat
- o soup  (V)\nSteiktar fiskibollur með hrísgrjónum\, karrí sósu og hr
- ásalati (M\,G\,E)\nFried fish balls with rice\, coleslaw and curry sauce 
-  (M\,G\,E)
+DESCRIPTION:Aspassúpa  – Asparagus soup  (G\,M)\nLambapottréttur í br
+ únni sósu ásamt steiktum kartöflum\,\nrauðkáli  og rabbabarasultu  (
+ G\,M)\nLamb goulash with fried potatoes\, red cabbage  and jam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – Vegetable soup (G\, V)\nLasagna á ítalskan 
- máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasagna with
-  garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriander soup  (M\
+ ,G)\nSteiktur steinbítur í trufflu pankó raspi  ásamt steiktum kartöf
+ lum\, fersku hrásalati og\npiparmajó  (G\,M)\nFried wolffish  in panko \
+ , fried potatoes  with white cabbage and cold pepper sauce
 DTSTART:20250806T110000
 DTEND:20250806T130000
 DTSTAMP:20250806T110000Z
 UID:2025-08-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – Vegetable soup (G\, V)\nLasagna á ítals
- kan máta með hvítlauksbrauði og hrásalati (M\,G\,E)\nItalian lasagna 
- with garlic bread and cold slaw (M\,G\,E)
+DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriander soup 
+  (M\,G)\nSteiktur steinbítur í trufflu pankó raspi  ásamt steiktum kar
+ töflum\, fersku hrásalati og\npiparmajó  (G\,M)\nFried wolffish  in pan
+ ko \, fried potatoes  with white cabbage and cold pepper sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
- a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
-  – Harissa with pilau rice\, vegetable s and raita sauce (M)
+SUMMARY:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svínahna
+ kki með sýrðu rauð káli\, bökuðum premium kartöflu m\nog rjómalag
+  aðri sósu (G\,M)\nOven roasted  pork with pickled red cabbage \, premiu
+ m potatoes and creamy sauce
 DTSTART:20250807T110000
 DTEND:20250807T130000
 DTSTAMP:20250807T110000Z
 UID:2025-08-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
- rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
- lder – Harissa with pilau rice\, vegetable s and raita sauce (M)
+DESCRIPTION:Grænmetissúpa  – Vegetable soup  (G\,V)\nOfnsteiktur svín
+ ahnakki með sýrðu rauð káli\, bökuðum premium kartöflu m\nog rjóm
+ alag aðri sósu (G\,M)\nOven roasted  pork with pickled red cabbage \, pr
+ emium potatoes and creamy sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili con 
- carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger with C
- hili con carne and crem fresh and cheese nachos (G\,M\,E)
+SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
+ ia style" með av ókadó\, sinepssósu og kartöflu bátum  (G\,M \,E)\nC
+ hicken burger ”California  style”  with avocado\, mustard sauce and we
+ dges
 DTSTART:20250808T110000
 DTEND:20250808T130000
 DTSTAMP:20250808T110000Z
 UID:2025-08-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nHamborgari með Chili 
- con carne  og sýrðu m rjómi\násamt osta nachos (G\,M\,E)\nHamburger wi
- th Chili con carne and crem fresh and cheese nachos (G\,M\,E)
+DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
+ fornia style" með av ókadó\, sinepssósu og kartöflu bátum  (G\,M \,E
+ )\nChicken burger ”California  style”  with avocado\, mustard sauce an
+ d wedges
 END:VEVENT
 END:VCALENDAR
