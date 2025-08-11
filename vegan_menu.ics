@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og  man
  gó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, rice 
  and mango jalapeno sauce  (G\,S)
-DTSTART:20250804T110000
-DTEND:20250804T130000
-DTSTAMP:20250804T110000Z
-UID:2025-08-04T11:00:00/olisindri@gmail.com
+DTSTART:20250811T110000
+DTEND:20250811T130000
+DTSTAMP:20250811T110000Z
+UID:2025-08-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
   mangó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, r
  ice and mango jalapeno sauce  (G\,S)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
  ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
  ables served with a cold\ndressing
-DTSTART:20250805T110000
-DTEND:20250805T130000
-DTSTAMP:20250805T110000Z
-UID:2025-08-05T11:00:00/olisindri@gmail.com
+DTSTART:20250812T110000
+DTEND:20250812T130000
+DTSTAMP:20250812T110000Z
+UID:2025-08-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
  t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
  egetables served with a cold\ndressing
@@ -28,20 +28,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
   lentils and rice
-DTSTART:20250806T110000
-DTEND:20250806T130000
-DTSTAMP:20250806T110000Z
-UID:2025-08-06T11:00:00/olisindri@gmail.com
+DTSTART:20250813T110000
+DTEND:20250813T130000
+DTSTAMP:20250813T110000Z
+UID:2025-08-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
  with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
    with potatoes and  sauce
-DTSTART:20250807T110000
-DTEND:20250807T130000
-DTSTAMP:20250807T110000Z
-UID:2025-08-07T11:00:00/olisindri@gmail.com
+DTSTART:20250814T110000
+DTEND:20250814T130000
+DTSTAMP:20250814T110000Z
+UID:2025-08-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
  alls  with potatoes and  sauce
 END:VEVENT
@@ -51,10 +51,10 @@ SUMMARY:Vegan burger með grænmeti\, “ California style" (G)\nVegan bur
    (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að not
  um mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use
   a lot of onion and garlic for our vegan courses
-DTSTART:20250808T110000
-DTEND:20250808T130000
-DTSTAMP:20250808T110000Z
-UID:2025-08-08T11:00:00/olisindri@gmail.com
+DTSTART:20250815T110000
+DTEND:20250815T130000
+DTSTAMP:20250815T110000Z
+UID:2025-08-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan burger með grænmeti\, “ California style" (G)\nVegan
   burger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gl
  uten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að
