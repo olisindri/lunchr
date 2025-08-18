@@ -2,63 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og  man
- gó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, rice 
- and mango jalapeno sauce  (G\,S)
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
 DTSTART:20250818T110000
 DTEND:20250818T130000
 DTSTAMP:20250818T110000Z
 UID:2025-08-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur með baunum og grænmeti ásamt hrísgrjónum\, og 
-  mangó jalapeno sósu (G\,S)\nSpring rolls with beans  and vegetables\, r
- ice and mango jalapeno sauce  (G\,S)
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
- ables served with a cold\ndressing
+SUMMARY:Spaghetti og vegan bolognese með brauði\nSpaghetti with vegan Bo
+ lognese\, and bread
 DTSTART:20250819T110000
 DTEND:20250819T130000
 DTSTAMP:20250819T110000Z
 UID:2025-08-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
- egetables served with a cold\ndressing
+DESCRIPTION:Spaghetti og vegan bolognese með brauði\nSpaghetti with vega
+ n Bolognese\, and bread
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
-  lentils and rice
+SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
+ , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
+ conut milk\, tomato\, garlic\, onion and\nvegetables
 DTSTART:20250820T110000
 DTEND:20250820T130000
 DTSTAMP:20250820T110000Z
 UID:2025-08-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
- with lentils and rice
+DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
+ mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
+ h coconut milk\, tomato\, garlic\, onion and\nvegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
-   with potatoes and  sauce
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and Chimichurri
 DTSTART:20250821T110000
 DTEND:20250821T130000
 DTSTAMP:20250821T110000Z
 UID:2025-08-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
- alls  with potatoes and  sauce
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, “ California style" (G)\nVegan bur
- ger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gluten
-   (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að not
- um mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use
-  a lot of onion and garlic for our vegan courses
+SUMMARY:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chicken 
+ with potatoes
 DTSTART:20250822T110000
 DTEND:20250822T130000
 DTSTAMP:20250822T110000Z
 UID:2025-08-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, “ California style" (G)\nVegan
-  burger with vegetables\, “ California style” ( G)\n(G) – Glúten/Gl
- uten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að
-  notum mikinn lauk og hvítlauk í okkar vegan rétti\nPlease note that we
-  use a lot of onion and garlic for our vegan courses
+DESCRIPTION:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chic
+ ken with potatoes
 END:VEVENT
 END:VCALENDAR
