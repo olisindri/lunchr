@@ -2,55 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
+SUMMARY:Grænmetis Thai karrý með baunum og grænmeti (S)\nVegetables Th
+ ai  curry with beans and vegetables (S)
 DTSTART:20250818T110000
 DTEND:20250818T130000
 DTSTAMP:20250818T110000Z
 UID:2025-08-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+DESCRIPTION:Grænmetis Thai karrý með baunum og grænmeti (S)\nVegetable
+ s Thai  curry with beans and vegetables (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese með brauði\nSpaghetti with vegan Bo
- lognese\, and bread
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vegetable
+ \, cold sauce(G)
 DTSTART:20250819T110000
 DTEND:20250819T130000
 DTSTAMP:20250819T110000Z
 UID:2025-08-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese með brauði\nSpaghetti with vega
- n Bolognese\, and bread
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and veget
+ able\, cold sauce(G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
- , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
- conut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt dressingu
+ \nRoasted broccoli and yellow lentils on hummus served with dressing
 DTSTART:20250820T110000
 DTEND:20250820T130000
 DTSTAMP:20250820T110000Z
 UID:2025-08-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
- mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
- h coconut milk\, tomato\, garlic\, onion and\nvegetables
+DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt dress
+ ingu\nRoasted broccoli and yellow lentils on hummus served with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
- d and spiced cauliflower with hummus and Chimichurri
+SUMMARY:Norður afrískur vegan kjúklingur með steiktum hrísgrjónum og
+  kaldri sósu\nNorth African  vegan  chicken with fried rice and cold sauc
+ e
 DTSTART:20250821T110000
 DTEND:20250821T130000
 DTSTAMP:20250821T110000Z
 UID:2025-08-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
- asted and spiced cauliflower with hummus and Chimichurri
+DESCRIPTION:Norður afrískur vegan kjúklingur með steiktum hrísgrjónu
+ m og kaldri sósu\nNorth African  vegan  chicken with fried rice and cold 
+ sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chicken 
- with potatoes
+SUMMARY:Taco skeljar með vegan hakki og salsa sósu (S)\nVegan taco with 
+ salsa (S)
 DTSTART:20250822T110000
 DTEND:20250822T130000
 DTSTAMP:20250822T110000Z
 UID:2025-08-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chic
- ken with potatoes
+DESCRIPTION:Taco skeljar með vegan hakki og salsa sósu (S)\nVegan taco w
+ ith salsa (S)
 END:VEVENT
 END:VCALENDAR
