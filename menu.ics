@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSoðin ýsa með kartöflum
  \, salati og karrý sósu\nboiled haddock with potatoes and curry sauce
-DTSTART:20250818T110000
-DTEND:20250818T130000
-DTSTAMP:20250818T110000Z
-UID:2025-08-18T11:00:00/olisindri@gmail.com
+DTSTART:20250825T110000
+DTEND:20250825T130000
+DTSTAMP:20250825T110000Z
+UID:2025-08-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSoðin ýsa með kartö
  flum\, salati og karrý sósu\nboiled haddock with potatoes and curry sauc
  e
@@ -15,10 +15,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með kar
  töflumús (M)\nBeef bourguignon with mashed potatoes(M)
-DTSTART:20250819T110000
-DTEND:20250819T130000
-DTSTAMP:20250819T110000Z
-UID:2025-08-19T11:00:00/olisindri@gmail.com
+DTSTART:20250826T110000
+DTEND:20250826T130000
+DTSTAMP:20250826T110000Z
+UID:2025-08-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með
   kartöflumús (M)\nBeef bourguignon with mashed potatoes(M)
 END:VEVENT
@@ -27,10 +27,10 @@ SUMMARY:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins – Salad of
   the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkja ste
  iktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried catf
  ish with cold dressing and potatoes
-DTSTART:20250820T110000
-DTEND:20250820T130000
-DTSTAMP:20250820T110000Z
-UID:2025-08-20T11:00:00/olisindri@gmail.com
+DTSTART:20250827T110000
+DTEND:20250827T130000
+DTSTAMP:20250827T110000Z
+UID:2025-08-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins – Sala
  d of the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkja
   steiktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried 
@@ -40,10 +40,10 @@ BEGIN:VEVENT
 SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorður a
  frískar kjúklingabringur með steiktum hrísgrjónum og kaldri sósu (M)
  \nNorth African chicken with fried rice and cold sauce (M)
-DTSTART:20250821T110000
-DTEND:20250821T130000
-DTSTAMP:20250821T110000Z
-UID:2025-08-21T11:00:00/olisindri@gmail.com
+DTSTART:20250828T110000
+DTEND:20250828T130000
+DTSTAMP:20250828T110000Z
+UID:2025-08-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorð
  ur afrískar kjúklingabringur með steiktum hrísgrjónum og kaldri sósu
   (M)\nNorth African chicken with fried rice and cold sauce (M)
@@ -52,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með nautah
  akki \, salsa og sýrðum rjóma (M)\nTaco shells with miched beef\, salsa
   and creme fresh(M)
-DTSTART:20250822T110000
-DTEND:20250822T130000
-DTSTAMP:20250822T110000Z
-UID:2025-08-22T11:00:00/olisindri@gmail.com
+DTSTART:20250829T110000
+DTEND:20250829T130000
+DTSTAMP:20250829T110000Z
+UID:2025-08-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með na
  utahakki \, salsa og sýrðum rjóma (M)\nTaco shells with miched beef\, s
  alsa and creme fresh(M)

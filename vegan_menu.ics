@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Grænmetis Thai karrý með baunum og grænmeti (S)\nVegetables Th
  ai  curry with beans and vegetables (S)
-DTSTART:20250818T110000
-DTEND:20250818T130000
-DTSTAMP:20250818T110000Z
-UID:2025-08-18T11:00:00/olisindri@gmail.com
+DTSTART:20250825T110000
+DTEND:20250825T130000
+DTSTAMP:20250825T110000Z
+UID:2025-08-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis Thai karrý með baunum og grænmeti (S)\nVegetable
  s Thai  curry with beans and vegetables (S)
 END:VEVENT
@@ -15,10 +15,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
  ldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vegetable
  \, cold sauce(G)
-DTSTART:20250819T110000
-DTEND:20250819T130000
-DTSTAMP:20250819T110000Z
-UID:2025-08-19T11:00:00/olisindri@gmail.com
+DTSTART:20250826T110000
+DTEND:20250826T130000
+DTSTAMP:20250826T110000Z
+UID:2025-08-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
  t kaldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and veget
  able\, cold sauce(G)
@@ -26,10 +26,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ristað brokkólí og gular linsubaunir á hummus ásamt dressingu
  \nRoasted broccoli and yellow lentils on hummus served with dressing
-DTSTART:20250820T110000
-DTEND:20250820T130000
-DTSTAMP:20250820T110000Z
-UID:2025-08-20T11:00:00/olisindri@gmail.com
+DTSTART:20250827T110000
+DTEND:20250827T130000
+DTSTAMP:20250827T110000Z
+UID:2025-08-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ristað brokkólí og gular linsubaunir á hummus ásamt dress
  ingu\nRoasted broccoli and yellow lentils on hummus served with dressing
 END:VEVENT
@@ -37,10 +37,10 @@ BEGIN:VEVENT
 SUMMARY:Norður afrískur vegan kjúklingur með steiktum hrísgrjónum og
   kaldri sósu\nNorth African  vegan  chicken with fried rice and cold sauc
  e
-DTSTART:20250821T110000
-DTEND:20250821T130000
-DTSTAMP:20250821T110000Z
-UID:2025-08-21T11:00:00/olisindri@gmail.com
+DTSTART:20250828T110000
+DTEND:20250828T130000
+DTSTAMP:20250828T110000Z
+UID:2025-08-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Norður afrískur vegan kjúklingur með steiktum hrísgrjónu
  m og kaldri sósu\nNorth African  vegan  chicken with fried rice and cold 
  sauce
@@ -48,10 +48,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taco skeljar með vegan hakki og salsa sósu (S)\nVegan taco with 
  salsa (S)
-DTSTART:20250822T110000
-DTEND:20250822T130000
-DTSTAMP:20250822T110000Z
-UID:2025-08-22T11:00:00/olisindri@gmail.com
+DTSTART:20250829T110000
+DTEND:20250829T130000
+DTSTAMP:20250829T110000Z
+UID:2025-08-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Taco skeljar með vegan hakki og salsa sósu (S)\nVegan taco w
  ith salsa (S)
 END:VEVENT
