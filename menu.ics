@@ -2,62 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSoðin ýsa með kartöflum
- \, salati og karrý sósu\nboiled haddock with potatoes and curry sauce
+SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
+ i\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 DTSTART:20250825T110000
 DTEND:20250825T130000
 DTSTAMP:20250825T110000Z
 UID:2025-08-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSoðin ýsa með kartö
- flum\, salati og karrý sósu\nboiled haddock with potatoes and curry sauc
- e
+DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
+ auði\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með kar
- töflumús (M)\nBeef bourguignon with mashed potatoes(M)
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
+ M)\nLamb goulash in curry sauce with rice(G\,M)
 DTSTART:20250826T110000
 DTEND:20250826T130000
 DTSTAMP:20250826T110000Z
 UID:2025-08-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með
-  kartöflumús (M)\nBeef bourguignon with mashed potatoes(M)
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
+ (G\,M)\nLamb goulash in curry sauce with rice(G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins – Salad of
-  the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkja ste
- iktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried catf
- ish with cold dressing and potatoes
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  – Sa
+ lad of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hvítlauk
+ \, basil\,  spínati og konfekttómötum með steiktum kartöflu r\nOvenba
+ ked  cod in garlic\,  spinach\, tomato with fried potatoes
 DTSTART:20250827T110000
 DTEND:20250827T130000
 DTSTAMP:20250827T110000Z
 UID:2025-08-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – mushroom soup  (G\,M)\nSalat dagsins – Sala
- d of the day: Paprika og basilíka – Bell pepper and basil\nSuðurríkja
-  steiktur steinbítur með kaldri dressing og  kartöflum\nSouthern fried 
- catfish with cold dressing and potatoes
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  
+ – Salad of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hv
+ ítlauk\, basil\,  spínati og konfekttómötum með steiktum kartöflu r\
+ nOvenbaked  cod in garlic\,  spinach\, tomato with fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorður a
- frískar kjúklingabringur með steiktum hrísgrjónum og kaldri sósu (M)
- \nNorth African chicken with fried rice and cold sauce (M)
+SUMMARY:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktum ka
+ rtöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried pot
+ atoes\, mushroom sauce and red cabbage (G\,M)
 DTSTART:20250828T110000
 DTEND:20250828T130000
 DTSTAMP:20250828T110000Z
 UID:2025-08-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorð
- ur afrískar kjúklingabringur með steiktum hrísgrjónum og kaldri sósu
-  (M)\nNorth African chicken with fried rice and cold sauce (M)
+DESCRIPTION:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktu
+ m kartöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried
+  potatoes\, mushroom sauce and red cabbage (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með nautah
- akki \, salsa og sýrðum rjóma (M)\nTaco shells with miched beef\, salsa
-  and creme fresh(M)
+SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nKjúklingur í rauðu chimich
+ urri með hrisgrjónum og brok kólí í yuzu og soya (S)\nChicken red  ch
+ imichurri\, rice and broccoli in yuzu and soya (S)
 DTSTART:20250829T110000
 DTEND:20250829T130000
 DTSTAMP:20250829T110000Z
 UID:2025-08-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með na
- utahakki \, salsa og sýrðum rjóma (M)\nTaco shells with miched beef\, s
- alsa and creme fresh(M)
+DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nKjúklingur í rauðu chi
+ michurri með hrisgrjónum og brok kólí í yuzu og soya (S)\nChicken red
+   chimichurri\, rice and broccoli in yuzu and soya (S)
 END:VEVENT
 END:VCALENDAR
