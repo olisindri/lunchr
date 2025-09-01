@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
  sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
  s and beans  with rice and sweet chili (G)
-DTSTART:20250825T110000
-DTEND:20250825T130000
-DTSTAMP:20250825T110000Z
-UID:2025-08-25T11:00:00/olisindri@gmail.com
+DTSTART:20250901T110000
+DTEND:20250901T130000
+DTSTAMP:20250901T110000Z
+UID:2025-09-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
  hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
  ables and beans  with rice and sweet chili (G)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis „ Ragu t“með  sveppum\, spínati\, nýrna baunum\n
  og lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, kidn
  ey beans and onion with cous cous
-DTSTART:20250826T110000
-DTEND:20250826T130000
-DTSTAMP:20250826T110000Z
-UID:2025-08-26T11:00:00/olisindri@gmail.com
+DTSTART:20250902T110000
+DTEND:20250902T130000
+DTSTAMP:20250902T110000Z
+UID:2025-09-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis „ Ragu t“með  sveppum\, spínati\, nýrna baun
  um\nog lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, 
  kidney beans and onion with cous cous
@@ -28,20 +28,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
  esam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
-DTSTART:20250827T110000
-DTEND:20250827T130000
-DTSTAMP:20250827T110000Z
-UID:2025-08-27T11:00:00/olisindri@gmail.com
+DTSTART:20250903T110000
+DTEND:20250903T130000
+DTSTAMP:20250903T110000Z
+UID:2025-09-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
  og sesam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel with
   potatoes and mushrooms
-DTSTART:20250828T110000
-DTEND:20250828T130000
-DTSTAMP:20250828T110000Z
-UID:2025-08-28T11:00:00/olisindri@gmail.com
+DTSTART:20250904T110000
+DTEND:20250904T130000
+DTSTAMP:20250904T110000Z
+UID:2025-09-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel 
  with potatoes and mushrooms
 END:VEVENT
@@ -49,10 +49,10 @@ BEGIN:VEVENT
 SUMMARY:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og brok k
  ólí í yuzu og soya (S)\nNot chicken in red chimichurri with rice and br
  occoli in yuzu(S)
-DTSTART:20250829T110000
-DTEND:20250829T130000
-DTSTAMP:20250829T110000Z
-UID:2025-08-29T11:00:00/olisindri@gmail.com
+DTSTART:20250905T110000
+DTEND:20250905T130000
+DTSTAMP:20250905T110000Z
+UID:2025-09-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og br
  ok kólí í yuzu og soya (S)\nNot chicken in red chimichurri with rice an
  d broccoli in yuzu(S)
