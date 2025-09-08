@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nSteiktar fiskibollur með 
  kartöflum og brúnni sósu og hrásalati (G\,M\,E)\nFried fish balls with
   potatoes\, cold slaw and brown sauce
-DTSTART:20250901T110000
-DTEND:20250901T130000
-DTSTAMP:20250901T110000Z
-UID:2025-09-01T11:00:00/olisindri@gmail.com
+DTSTART:20250908T110000
+DTEND:20250908T130000
+DTSTAMP:20250908T110000Z
+UID:2025-09-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nSteiktar fiskibollur m
  eð kartöflum og brúnni sósu og hrásalati (G\,M\,E)\nFried fish balls 
  with potatoes\, cold slaw and brown sauce
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nMexico
   lasagna með sýrðum rjóma og  nachos (G\,M)\nMexico lasagna with cream
   fresh and nachos
-DTSTART:20250902T110000
-DTEND:20250902T130000
-DTSTAMP:20250902T110000Z
-UID:2025-09-02T11:00:00/olisindri@gmail.com
+DTSTART:20250909T110000
+DTEND:20250909T130000
+DTSTAMP:20250909T110000Z
+UID:2025-09-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nMe
  xico lasagna með sýrðum rjóma og  nachos (G\,M)\nMexico lasagna with c
  ream fresh and nachos
@@ -29,10 +29,10 @@ BEGIN:VEVENT
 SUMMARY:Salat dagsins - Salad of the day: Brokk ólí – Broccoli  (V)\nG
  rænmetissúpa  – Vege table s soup\nOfnbakaður lax í mangó og chili 
  með krydduðu cous cous\nSalmon in mango and chili with cous cous
-DTSTART:20250903T110000
-DTEND:20250903T130000
-DTSTAMP:20250903T110000Z
-UID:2025-09-03T11:00:00/olisindri@gmail.com
+DTSTART:20250910T110000
+DTEND:20250910T130000
+DTSTAMP:20250910T110000Z
+UID:2025-09-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Salat dagsins - Salad of the day: Brokk ólí – Broccoli  (V
  )\nGrænmetissúpa  – Vege table s soup\nOfnbakaður lax í mangó og ch
  ili með krydduðu cous cous\nSalmon in mango and chili with cous cous
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri me
  ð steiktum ratte kartöflum\, grænum baunum og piparsósu (M)\nRoasted l
  eg og lamb with fried potatoes\, vegetables and pepper sauce
-DTSTART:20250904T110000
-DTEND:20250904T130000
-DTSTAMP:20250904T110000Z
-UID:2025-09-04T11:00:00/olisindri@gmail.com
+DTSTART:20250911T110000
+DTEND:20250911T130000
+DTSTAMP:20250911T110000Z
+UID:2025-09-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri
   með steiktum ratte kartöflum\, grænum baunum og piparsósu (M)\nRoaste
  d leg og lamb with fried potatoes\, vegetables and pepper sauce
@@ -53,10 +53,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
  ð southern krydduðum smælki kartöflum\nChicken in BBQ sauce with south
  ern spiced potatoes
-DTSTART:20250905T110000
-DTEND:20250905T130000
-DTSTAMP:20250905T110000Z
-UID:2025-09-05T11:00:00/olisindri@gmail.com
+DTSTART:20250912T110000
+DTEND:20250912T130000
+DTSTAMP:20250912T110000Z
+UID:2025-09-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
  u með southern krydduðum smælki kartöflum\nChicken in BBQ sauce with s
  outhern spiced potatoes
