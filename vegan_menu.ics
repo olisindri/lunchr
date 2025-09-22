@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
   lentils and rice
-DTSTART:20250915T110000
-DTEND:20250915T130000
-DTSTAMP:20250915T110000Z
-UID:2025-09-15T11:00:00/olisindri@gmail.com
+DTSTART:20250922T110000
+DTEND:20250922T130000
+DTSTAMP:20250922T110000Z
+UID:2025-09-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
  with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quinoa buff með kartöflum og kaldri sósu (G)\nQuinoa buff with 
  potatoes and cold dressing
-DTSTART:20250916T110000
-DTEND:20250916T130000
-DTSTAMP:20250916T110000Z
-UID:2025-09-16T11:00:00/olisindri@gmail.com
+DTSTART:20250923T110000
+DTEND:20250923T130000
+DTSTAMP:20250923T110000Z
+UID:2025-09-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Quinoa buff með kartöflum og kaldri sósu (G)\nQuinoa buff w
  ith potatoes and cold dressing
 END:VEVENT
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
  rjónum og sætri chili\nsósu (G)\nSamosas filled with vegetables\, noodl
  es and peas served with rice and sweet chili sauce\n(G)
-DTSTART:20250917T110000
-DTEND:20250917T130000
-DTSTAMP:20250917T110000Z
-UID:2025-09-17T11:00:00/olisindri@gmail.com
+DTSTART:20250924T110000
+DTEND:20250924T130000
+DTSTAMP:20250924T110000Z
+UID:2025-09-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
  ísgrjónum og sætri chili\nsósu (G)\nSamosas filled with vegetables\, n
  oodles and peas served with rice and sweet chili sauce\n(G)
@@ -36,20 +36,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu  (S\,G)\
  nVegan Schnitzel with roasted potatoes and mushroom sauce  (S\,G)
-DTSTART:20250918T110000
-DTEND:20250918T130000
-DTSTAMP:20250918T110000Z
-UID:2025-09-18T11:00:00/olisindri@gmail.com
+DTSTART:20250925T110000
+DTEND:20250925T130000
+DTSTAMP:20250925T110000Z
+UID:2025-09-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu  (S\
  ,G)\nVegan Schnitzel with roasted potatoes and mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan Gyros í pítubrauði með grænmeti og sósu (G)\nVegan Gyr
  os  inn pita bread with vegtable (G)
-DTSTART:20250919T110000
-DTEND:20250919T130000
-DTSTAMP:20250919T110000Z
-UID:2025-09-19T11:00:00/olisindri@gmail.com
+DTSTART:20250926T110000
+DTEND:20250926T130000
+DTSTAMP:20250926T110000Z
+UID:2025-09-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan Gyros í pítubrauði með grænmeti og sósu (G)\nVegan
   Gyros  inn pita bread with vegtable (G)
 END:VEVENT
