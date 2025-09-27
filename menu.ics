@@ -2,63 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLamb Nava
- rin með rótargrænmeti og   sinnepskartöflumús (M)\nLamb Navarin  with
-  vegetables mustard mashed potatoes
+SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nKjúklingur Tika
+  masala með hrísgrjónum og lime - koriander bro kkolísalati (M)\nChick
+ en Tika masala with rice and lime – coriander broccoli salad
 DTSTART:20250922T110000
 DTEND:20250922T130000
 DTSTAMP:20250922T110000Z
 UID:2025-09-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLamb 
- Navarin með rótargrænmeti og   sinnepskartöflumús (M)\nLamb Navarin  
- with vegetables mustard mashed potatoes
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nKjúklingur 
+ Tika masala með hrísgrjónum og lime - koriander bro kkolísalati (M)\nC
+ hicken Tika masala with rice and lime – coriander broccoli salad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nHakka buff 
- með steiktum kartöflum\, rauðkál i og brún ni lauksósu (E\,M\,G)\nBu
- ff with fried potatoes\, red cabbage and onion sauce
+SUMMARY:Ungversk gúllassúpa með sý rðum rjóma og focaccia brauði\nH
+ ungarian goulash soup with crem e fresh an d Focaccia
 DTSTART:20250923T110000
 DTEND:20250923T130000
 DTSTAMP:20250923T110000Z
 UID:2025-09-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nHakka b
- uff með steiktum kartöflum\, rauðkál i og brún ni lauksósu (E\,M\,G)
- \nBuff with fried potatoes\, red cabbage and onion sauce
+DESCRIPTION:Ungversk gúllassúpa með sý rðum rjóma og focaccia brauð
+ i\nHungarian goulash soup with crem e fresh an d Focaccia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og koriandersúpa  – Carrot and coriander soup\nLax 
- teryaki\, engifer\, soya með núðlum og blönduðu grænmeti (S)\nSalmon
-  teriyaki\, ginger\, soya with noodles and vegetables
+SUMMARY:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M\,G)\nS
+ ítrónu - og fenel marineruð ýsa með steiktum kartöflum og hvítvíns
+ sósu (M)\nLemon – fennel marinated haddock with fried potatoes and wi t
+ he wine sauce
 DTSTART:20250924T110000
 DTEND:20250924T130000
 DTSTAMP:20250924T110000Z
 UID:2025-09-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og koriandersúpa  – Carrot and coriander soup\n
- Lax teryaki\, engifer\, soya með núðlum og blönduðu grænmeti (S)\nSa
- lmon teriyaki\, ginger\, soya with noodles and vegetables
+DESCRIPTION:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M\,G
+ )\nSítrónu - og fenel marineruð ýsa með steiktum kartöflum og hvítv
+ ínssósu (M)\nLemon – fennel marinated haddock with fried potatoes and 
+ wi the wine sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum smælki kartöflum\, og  sveppasósu (G\,M\,E)\nSchnitzel  w
- ith fried potatoes and mushroom sauce
+SUMMARY:Blómkálssúpa  – Cauliflower soup  (M\,G)\nKalkúnabringa í h
+ vítlauk og sítrónu ásamt sætkartöflumús og soðsósu (M)\nTurkey br
+ east with garlic and lemon served with sweet potato mash  and turkey j us
 DTSTART:20250925T110000
 DTEND:20250925T130000
 DTSTAMP:20250925T110000Z
 UID:2025-09-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum smælki kartöflum\, og  sveppasósu (G\,M\,E)\nSchnitze
- l  with fried potatoes and mushroom sauce
+DESCRIPTION:Blómkálssúpa  – Cauliflower soup  (M\,G)\nKalkúnabringa 
+ í hvítlauk og sítrónu ásamt sætkartöflumús og soðsósu (M)\nTurke
+ y breast with garlic and lemon served with sweet potato mash  and turkey j
+  us
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga Gyros  í  p
- ítubrauði með  grænmeti\, tzatziki og rösti (G\,M)\nChicken Gyros  in
- n pita bread with vegetables\, tzatziki
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða  chipotle m
+ eð “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,)\nPork belly in
+  chipotle served with “Mac and Cheese”\,\ncorn on the cob and BBQ sauc
+ e (M\,G)\nInnihaldslýsingar – Ingredients descriptions\nÍ eldhúsi Kok
+ kanna er notuð hráefni sem geta valdið ofnæmi eins og
 DTSTART:20250926T110000
 DTEND:20250926T130000
 DTSTAMP:20250926T110000Z
 UID:2025-09-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklinga Gyros  í
-   pítubrauði með  grænmeti\, tzatziki og rösti (G\,M)\nChicken Gyros 
-  inn pita bread with vegetables\, tzatziki
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSvínasíða  chipot
+ le með “Mac and Cheese”\, maisstöngli og BBQ sósu  (M\,)\nPork bell
+ y in chipotle served with “Mac and Cheese”\,\ncorn on the cob and BBQ 
+ sauce (M\,G)\nInnihaldslýsingar – Ingredients descriptions\nÍ eldhúsi
+  Kokkanna er notuð hráefni sem geta valdið ofnæmi eins og
 END:VEVENT
 END:VCALENDAR
