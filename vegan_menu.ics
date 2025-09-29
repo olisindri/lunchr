@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
  ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
  vegetables and peas\nserved with rice and sweet chili sauce (G)
-DTSTART:20250922T110000
-DTEND:20250922T130000
-DTSTAMP:20250922T110000Z
-UID:2025-09-22T11:00:00/olisindri@gmail.com
+DTSTART:20250929T110000
+DTEND:20250929T130000
+DTSTAMP:20250929T110000Z
+UID:2025-09-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
   hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
  \, vegetables and peas\nserved with rice and sweet chili sauce (G)
@@ -16,20 +16,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetis súpa með focaccia (G)\nVegetable soup with Focaccia (
  G)
-DTSTART:20250923T110000
-DTEND:20250923T130000
-DTSTAMP:20250923T110000Z
-UID:2025-09-23T11:00:00/olisindri@gmail.com
+DTSTART:20250930T110000
+DTEND:20250930T130000
+DTSTAMP:20250930T110000Z
+UID:2025-09-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis súpa með focaccia (G)\nVegetable soup with Focacc
  ia (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20250924T110000
-DTEND:20250924T130000
-DTSTAMP:20250924T110000Z
-UID:2025-09-24T11:00:00/olisindri@gmail.com
+DTSTART:20251001T110000
+DTEND:20251001T130000
+DTSTAMP:20251001T110000Z
+UID:2025-10-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
  uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
   (G)
@@ -38,10 +38,10 @@ BEGIN:VEVENT
 SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt kar
  töflusmælki og piparsósu\n(H)\nCashew -\, black bean -\, potato - and v
  egetable steak\nserved with small potatoes and pepper sauce
-DTSTART:20250925T110000
-DTEND:20250925T130000
-DTSTAMP:20250925T110000Z
-UID:2025-09-25T11:00:00/olisindri@gmail.com
+DTSTART:20251002T110000
+DTEND:20251002T130000
+DTSTAMP:20251002T110000Z
+UID:2025-10-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik ásamt
   kartöflusmælki og piparsósu\n(H)\nCashew -\, black bean -\, potato - a
  nd vegetable steak\nserved with small potatoes and pepper sauce
@@ -50,10 +50,10 @@ BEGIN:VEVENT
 SUMMARY:Tikka karrý með sætum kartöflum ásamt hrísgrjónum (S)\nTikk
  a curry with sweet potatoes and rice (S)\n(G) – Glúten/Gluten  (H) – 
  Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20250926T110000
-DTEND:20250926T130000
-DTSTAMP:20250926T110000Z
-UID:2025-09-26T11:00:00/olisindri@gmail.com
+DTSTART:20251003T110000
+DTEND:20251003T130000
+DTSTAMP:20251003T110000Z
+UID:2025-10-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tikka karrý með sætum kartöflum ásamt hrísgrjónum (S)\n
  Tikka curry with sweet potatoes and rice (S)\n(G) – Glúten/Gluten  (H) 
  – Hnetur/Peanuts  - (S)- Soyja/Soya
