@@ -2,69 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
- u  (G\,M)\nLamb goulash with fried potatoes\, red cabbage and jam
+SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söltuð
+  ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted hadd
+ ock with rice and red curry sauce (M)
 DTSTART:20251006T110000
 DTEND:20251006T130000
 DTSTAMP:20251006T110000Z
 UID:2025-10-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
- ultu  (G\,M)\nLamb goulash with fried potatoes\, red cabbage and jam
+DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söl
+ tuð ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted 
+ haddock with rice and red curry sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  – Asparagus soup  (G\,M)\nSteiktur steinbítur í tr
- ufflu pankó raspi  ásamt steiktum kartöflum\, fersku hrásalati og\npip
- arm æjó (G\,M)\nFried wolffish in panko\, fried potatoes with white cabb
- age and cold pepper sauce
+SUMMARY:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti Bolog
+ nese  með hrásalati og hvítlauksbrauði (G\,E)\nSpaghetti Bolognese wit
+ h cold slaw and garlic bread(G\,E)
 DTSTART:20251007T110000
 DTEND:20251007T130000
 DTSTAMP:20251007T110000Z
 UID:2025-10-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  – Asparagus soup  (G\,M)\nSteiktur steinbítur 
- í trufflu pankó raspi  ásamt steiktum kartöflum\, fersku hrásalati og
- \npiparm æjó (G\,M)\nFried wolffish in panko\, fried potatoes with white
-  cabbage and cold pepper sauce
+DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti B
+ olognese  með hrásalati og hvítlauksbrauði (G\,E)\nSpaghetti Bolognese
+  with cold slaw and garlic bread(G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar – og kóríandersúpa - Carrot and coriander soup  (M\
- ,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G
- )\nLasagna with garlic bread and cold slaw
+SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
+ agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
+ í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
+ Fried fish in bread crumbs served with fried potatoes \, pickles  and remo
+ ulade (G\,E)
 DTSTART:20251008T110000
 DTEND:20251008T130000
 DTSTAMP:20251008T110000Z
 UID:2025-10-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar – og kóríandersúpa - Carrot and coriander soup 
-  (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (
- M\,G)\nLasagna with garlic bread and cold slaw
+DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
+ at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
+ kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
+ E)\nFried fish in bread crumbs served with fried potatoes \, pickles  and 
+ remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – Vegetable soup  (V)\nOfnsteiktur svínahnakki
-  með sýrðu rauð káli\, bökuðum premium kartöflu m\nog rjómalag a
- ðri sósu (G\,M)\nOven roasted  pork with pickled red cabbage \, premium 
- potatoes and creamy sauce
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
+ Ofnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
+ u (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
 DTSTART:20251009T110000
 DTEND:20251009T130000
 DTSTAMP:20251009T110000Z
 UID:2025-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – Vegetable soup  (V)\nOfnsteiktur svínahn
- akki með sýrðu rauð káli\, bökuðum premium kartöflu m\nog rjómala
- g aðri sósu (G\,M)\nOven roasted  pork with pickled red cabbage \, premi
- um potatoes and creamy sauce
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
+ V)\nOfnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soð
+ sósu (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Californ
- ia style" með av ókadó\, sinnepssósu og kartöflu bátum\n(G\,M \,E)\n
- Chicken burger” California  style”  with avocado\, mustard sauce and w
- edges
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  með
+  "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori  chicken w
+ ith loaded potatoes and yogurt sauce
 DTSTART:20251010T110000
 DTEND:20251010T130000
 DTSTAMP:20251010T110000Z
 UID:2025-10-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur  – Dessert  (M\,G\,E)\nKjúklinga burger " Cali
- fornia style" með av ókadó\, sinnepssósu og kartöflu bátum\n(G\,M \,
- E)\nChicken burger” California  style”  with avocado\, mustard sauce a
- nd wedges
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  
+ með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori  chick
+ en with loaded potatoes and yogurt sauce
 END:VEVENT
 END:VCALENDAR
