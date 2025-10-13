@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
  uce and cous cous (G)
-DTSTART:20251006T110000
-DTEND:20251006T130000
-DTSTAMP:20251006T110000Z
-UID:2025-10-06T11:00:00/olisindri@gmail.com
+DTSTART:20251013T110000
+DTEND:20251013T130000
+DTSTAMP:20251013T110000Z
+UID:2025-10-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
  e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti og vegan bolognese með brauði\nSpaghetti with vegan Bo
  lognese\, and bread
-DTSTART:20251007T110000
-DTEND:20251007T130000
-DTSTAMP:20251007T110000Z
-UID:2025-10-07T11:00:00/olisindri@gmail.com
+DTSTART:20251014T110000
+DTEND:20251014T130000
+DTSTAMP:20251014T110000Z
+UID:2025-10-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spaghetti og vegan bolognese með brauði\nSpaghetti with vega
  n Bolognese\, and bread
 END:VEVENT
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
  , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
  conut milk\, tomato\, garlic\, onion and\nvegetables
-DTSTART:20251008T110000
-DTEND:20251008T130000
-DTSTAMP:20251008T110000Z
-UID:2025-10-08T11:00:00/olisindri@gmail.com
+DTSTART:20251015T110000
+DTEND:20251015T130000
+DTSTAMP:20251015T110000Z
+UID:2025-10-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
  mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
  h coconut milk\, tomato\, garlic\, onion and\nvegetables
@@ -36,20 +36,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
  d and spiced cauliflower with hummus and Chimichurri
-DTSTART:20251009T110000
-DTEND:20251009T130000
-DTSTAMP:20251009T110000Z
-UID:2025-10-09T11:00:00/olisindri@gmail.com
+DTSTART:20251016T110000
+DTEND:20251016T130000
+DTSTAMP:20251016T110000Z
+UID:2025-10-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
  asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chicken 
  with potatoes
-DTSTART:20251010T110000
-DTEND:20251010T130000
-DTSTAMP:20251010T110000Z
-UID:2025-10-10T11:00:00/olisindri@gmail.com
+DTSTART:20251017T110000
+DTEND:20251017T130000
+DTSTAMP:20251017T110000Z
+UID:2025-10-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chic
  ken with potatoes
 END:VEVENT
