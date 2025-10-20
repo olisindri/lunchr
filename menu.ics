@@ -2,67 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söltuð
-  ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted hadd
- ock with rice and red curry sauce (M)
+SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSteiktar fiskibollur með h
+ rísgrjónum og karrý sósu (E\,G\,M)\nFried fish balls with rice and cur
+ ry sauce
 DTSTART:20251020T110000
 DTEND:20251020T130000
 DTSTAMP:20251020T110000Z
 UID:2025-10-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söl
- tuð ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted 
- haddock with rice and red curry sauce (M)
+DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSteiktar fiskibollur me
+ ð hrísgrjónum og karrý sósu (E\,G\,M)\nFried fish balls with rice and
+  curry sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti Bolog
- nese  með hrásalati og hvítlauksbrauði (G\,E)\nSpaghetti Bolognese wit
- h cold slaw and garlic bread(G\,E)
+SUMMARY:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með kar
+ töflumús (M)\nBeef bourguignon with mashed potatoes(M)
 DTSTART:20251021T110000
 DTEND:20251021T130000
 DTSTAMP:20251021T110000Z
 UID:2025-10-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti B
- olognese  með hrásalati og hvítlauksbrauði (G\,E)\nSpaghetti Bolognese
-  with cold slaw and garlic bread(G\,E)
+DESCRIPTION:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með
+  kartöflumús (M)\nBeef bourguignon with mashed potatoes(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
- agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
- í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
- Fried fish in bread crumbs served with fried potatoes \, pickles  and remo
- ulade (G\,E)
+SUMMARY:Íslensk kjötsúpa með nýbökuðu brauði \, hummus\nIcelandic 
+ meet soup with bread and hummus
 DTSTART:20251022T110000
 DTEND:20251022T130000
 DTSTAMP:20251022T110000Z
 UID:2025-10-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
- at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
- kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
- E)\nFried fish in bread crumbs served with fried potatoes \, pickles  and 
- remoulade (G\,E)
+DESCRIPTION:Íslensk kjötsúpa með nýbökuðu brauði \, hummus\nIcelan
+ dic meet soup with bread and hummus
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
- Ofnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
- u (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorður a
+ frískar kjúklingabringur með steiktum hrísgrjónum\nNorth African chic
+ ken with fried rice and cold sauce
 DTSTART:20251023T110000
 DTEND:20251023T130000
 DTSTAMP:20251023T110000Z
 UID:2025-10-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
- V)\nOfnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soð
- sósu (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorð
+ ur afrískar kjúklingabringur með steiktum hrísgrjónum\nNorth African 
+ chicken with fried rice and cold sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  með
-  "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori  chicken w
- ith loaded potatoes and yogurt sauce
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með rifnu 
+ nautakjöti  \, salsa og sýrðum rjóma (M)\nTaco shells with pulled beef
+  \, salsa and creme fresh(M)\nInnihaldslýsingar – Ingredients descripti
+ ons
 DTSTART:20251024T110000
 DTEND:20251024T130000
 DTSTAMP:20251024T110000Z
 UID:2025-10-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  
- með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori  chick
- en with loaded potatoes and yogurt sauce
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með ri
+ fnu nautakjöti  \, salsa og sýrðum rjóma (M)\nTaco shells with pulled 
+ beef \, salsa and creme fresh(M)\nInnihaldslýsingar – Ingredients descr
+ iptions
 END:VEVENT
 END:VCALENDAR
