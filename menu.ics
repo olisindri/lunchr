@@ -2,61 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSteiktar fiskibollur með h
- rísgrjónum og karrý sósu (E\,G\,M)\nFried fish balls with rice and cur
- ry sauce
+SUMMARY:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgbrau
+ ði\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 DTSTART:20251020T110000
 DTEND:20251020T130000
 DTSTAMP:20251020T110000Z
 UID:2025-10-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSteiktar fiskibollur me
- ð hrísgrjónum og karrý sósu (E\,G\,M)\nFried fish balls with rice and
-  curry sauce
+DESCRIPTION:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgb
+ rauði\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með kar
- töflumús (M)\nBeef bourguignon with mashed potatoes(M)
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
+ M)\nLamb goulash in curry sauce with rice  (G\,M)
 DTSTART:20251021T110000
 DTEND:20251021T130000
 DTSTAMP:20251021T110000Z
 UID:2025-10-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertusúpa – Green pee soup  (V)\nNauta Bourguignon með
-  kartöflumús (M)\nBeef bourguignon with mashed potatoes(M)
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
+ (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Íslensk kjötsúpa með nýbökuðu brauði \, hummus\nIcelandic 
- meet soup with bread and hummus
+SUMMARY:Blómkálssúpa – Cauliflower soup (M)\nSalat dagsins  – Salad
+  of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hvítlauk\, 
+ basil\,  spínati og konfekttómötum með steiktum kartöflu m\nOvenbaked
+   cod in garlic\,  spinach\, tomato with fried potatoes
 DTSTART:20251022T110000
 DTEND:20251022T130000
 DTSTAMP:20251022T110000Z
 UID:2025-10-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Íslensk kjötsúpa með nýbökuðu brauði \, hummus\nIcelan
- dic meet soup with bread and hummus
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M)\nSalat dagsins  – S
+ alad of the day : Grillað toppkál  (V)\nOfnbakaður þorskur í hvítlau
+ k\, basil\,  spínati og konfekttómötum með steiktum kartöflu m\nOvenb
+ aked  cod in garlic\,  spinach\, tomato with fried potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorður a
- frískar kjúklingabringur með steiktum hrísgrjónum\nNorth African chic
- ken with fried rice and cold sauce
+SUMMARY:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktum ka
+ rtöflum\, sveppasósu og rauðkáli  (G\,M)\nBeef schnitzel with fried po
+ tatoes\, mushroom sauce and red cabbage  (G\,M)
 DTSTART:20251023T110000
 DTEND:20251023T130000
 DTSTAMP:20251023T110000Z
 UID:2025-10-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nNorð
- ur afrískar kjúklingabringur með steiktum hrísgrjónum\nNorth African 
- chicken with fried rice and cold sauce
+DESCRIPTION:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktu
+ m kartöflum\, sveppasósu og rauðkáli  (G\,M)\nBeef schnitzel with frie
+ d potatoes\, mushroom sauce and red cabbage  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með rifnu 
- nautakjöti  \, salsa og sýrðum rjóma (M)\nTaco shells with pulled beef
-  \, salsa and creme fresh(M)\nInnihaldslýsingar – Ingredients descripti
- ons
+SUMMARY:Eftirréttur – Dessert  (M\,E\,G)\nKjúklingur í rauðu chimich
+ urri með hrisgrjónum og brok kólí í yuzu og soya (S)\nChicken red  ch
+ imichurri\, rice and broccoli in yuzu and soya (S)
 DTSTART:20251024T110000
 DTEND:20251024T130000
 DTSTAMP:20251024T110000Z
 UID:2025-10-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco skeljar með ri
- fnu nautakjöti  \, salsa og sýrðum rjóma (M)\nTaco shells with pulled 
- beef \, salsa and creme fresh(M)\nInnihaldslýsingar – Ingredients descr
- iptions
+DESCRIPTION:Eftirréttur – Dessert  (M\,E\,G)\nKjúklingur í rauðu chi
+ michurri með hrisgrjónum og brok kólí í yuzu og soya (S)\nChicken red
+   chimichurri\, rice and broccoli in yuzu and soya (S)
 END:VEVENT
 END:VCALENDAR
