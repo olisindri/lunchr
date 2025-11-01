@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
- s and beans  with rice and sweet chili (G)
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
+ cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vegetab
+ les and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
 DTSTART:20251027T110000
 DTEND:20251027T130000
 DTSTAMP:20251027T110000Z
 UID:2025-10-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
- ables and beans  with rice and sweet chili (G)
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
+ us -cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, veg
+ etables and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „ Ragu t“með  sveppum\, spínati\, nýrna baunum\n
- og lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, kidn
- ey beans and onion with cous cous
+SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
+ Cauliflower - and almond rissole served with potatoes  and cold dressing
 DTSTART:20251028T110000
 DTEND:20251028T130000
 DTSTAMP:20251028T110000Z
 UID:2025-10-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „ Ragu t“með  sveppum\, spínati\, nýrna baun
- um\nog lauk ásamt cous cous\nVegetable ragu t with mushrooms\, spinach\, 
- kidney beans and onion with cous cous
+DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
+ gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
+ ng
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - og s
- esam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
+SUMMARY:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow Tha
+ i  curry with rice  (G\,S)
 DTSTART:20251029T110000
 DTEND:20251029T130000
 DTSTAMP:20251029T110000Z
 UID:2025-10-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og blómkálsbollur með hrísgrjónum og soja - 
- og sesam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
+DESCRIPTION:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow
+  Thai  curry with rice  (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel with
-  potatoes and mushrooms
+SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
+ dri dressing( S\,H)\nCannellini  bean and root vegetable cashew steak with
+  potatoes  and cold dressing (S\,H)
 DTSTART:20251030T110000
 DTEND:20251030T130000
 DTSTAMP:20251030T110000Z
 UID:2025-10-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel 
- with potatoes and mushrooms
+DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
+  kaldri dressing( S\,H)\nCannellini  bean and root vegetable cashew steak 
+ with potatoes  and cold dressing (S\,H)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og brok k
- ólí í yuzu og soya (S)\nNot chicken in red chimichurri with rice and br
- occoli in yuzu(S)
+SUMMARY:Grænmetisbollur með southern krydduðum smælki kartöflum og dr
+ essing (S)\nVeggie tots with southern spiced potatoes and dressing  (S)
 DTSTART:20251031T110000
 DTEND:20251031T130000
 DTSTAMP:20251031T110000Z
 UID:2025-10-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og br
- ok kólí í yuzu og soya (S)\nNot chicken in red chimichurri with rice an
- d broccoli in yuzu(S)
+DESCRIPTION:Grænmetisbollur með southern krydduðum smælki kartöflum o
+ g dressing (S)\nVeggie tots with southern spiced potatoes and dressing  (S
+ )
 END:VEVENT
 END:VCALENDAR
