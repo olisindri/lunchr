@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hrísgr
  jónum og t zatziki  sósu (M)\nTandoori haddock with rice and tzatziki sa
  uce  (M)
-DTSTART:20251027T110000
-DTEND:20251027T130000
-DTSTAMP:20251027T110000Z
-UID:2025-10-27T11:00:00/olisindri@gmail.com
+DTSTART:20251103T110000
+DTEND:20251103T130000
+DTSTAMP:20251103T110000Z
+UID:2025-11-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hr
  ísgrjónum og t zatziki  sósu (M)\nTandoori haddock with rice and tzatzi
  ki sauce  (M)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nKjötb
  ollur með kartöflumús\, rau ðkáli og brún ni sósu (G\,M \,E)\nMeatb
  alls with mashed potatoes \, red cabbage  and brown sauce  (G\,M\,E)
-DTSTART:20251028T110000
-DTEND:20251028T130000
-DTSTAMP:20251028T110000Z
-UID:2025-10-28T11:00:00/olisindri@gmail.com
+DTSTART:20251104T110000
+DTEND:20251104T130000
+DTSTAMP:20251104T110000Z
+UID:2025-11-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nKj
  ötbollur með kartöflumús\, rau ðkáli og brún ni sósu (G\,M \,E)\nM
  eatballs with mashed potatoes \, red cabbage  and brown sauce  (G\,M\,E)
@@ -30,10 +30,10 @@ SUMMARY:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)\nGr
  ænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónusósu
  \, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon peppe
  r sauce and rye bread (M\,G)
-DTSTART:20251029T110000
-DTEND:20251029T130000
-DTSTAMP:20251029T110000Z
-UID:2025-10-29T11:00:00/olisindri@gmail.com
+DTSTART:20251105T110000
+DTEND:20251105T130000
+DTSTAMP:20251105T110000Z
+UID:2025-11-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)
  \nGrænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónus
  ósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon p
@@ -43,10 +43,10 @@ BEGIN:VEVENT
 SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri me
  ð steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoasted 
  leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
-DTSTART:20251030T110000
-DTEND:20251030T130000
-DTSTAMP:20251030T110000Z
-UID:2025-10-30T11:00:00/olisindri@gmail.com
+DTSTART:20251106T110000
+DTEND:20251106T130000
+DTSTAMP:20251106T110000Z
+UID:2025-11-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri
   með steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoast
  ed leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
@@ -55,10 +55,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
  ð southern krydduðum smælki kartöflum (S)\nChicken in BBQ sauce with s
  outhern spiced potatoes  (S)
-DTSTART:20251031T110000
-DTEND:20251031T130000
-DTSTAMP:20251031T110000Z
-UID:2025-10-31T11:00:00/olisindri@gmail.com
+DTSTART:20251107T110000
+DTEND:20251107T130000
+DTSTAMP:20251107T110000Z
+UID:2025-11-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
  u með southern krydduðum smælki kartöflum (S)\nChicken in BBQ sauce wi
  th southern spiced potatoes  (S)
