@@ -2,60 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
- ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
- vegetables and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
+ num\nThai curry with vegetables and beans served with rice
 DTSTART:20251124T110000
 DTEND:20251124T130000
 DTSTAMP:20251124T110000Z
 UID:2025-11-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
-  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas\nserved with rice and sweet chili sauce (G)
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
+ rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili sin carne með hrísgrjónum og nachos\nChili sin carne with
-  rice and nachos
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
+ ables served with a cold\ndressing
 DTSTART:20251125T110000
 DTEND:20251125T130000
 DTSTAMP:20251125T110000Z
 UID:2025-11-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin carne með hrísgrjónum og nachos\nChili sin carne 
- with rice and nachos
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
+ egetables served with a cold\ndressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
- (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
+SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto  (
+ H\,G)
 DTSTART:20251126T110000
 DTEND:20251126T130000
 DTSTAMP:20251126T110000Z
 UID:2025-11-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
-  (G)
+DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
+ o  (H\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násamt ka
- rtöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - and 
- vegetable steak\nserved with small potatoes and pepper sauce  (H)
+SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
+   with potatoes and  sauce
 DTSTART:20251127T110000
 DTEND:20251127T130000
 DTSTAMP:20251127T110000Z
 UID:2025-11-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násam
- t kartöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - 
- and vegetable steak\nserved with small potatoes and pepper sauce  (H)
+DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
+ alls  with potatoes and  sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Rock burger með salsa og laukhringjum  (G)\nVegan Rock burg
- er with salsa and onion rings  (G)\n(G) – Glúten/Gluten  (H) – Hnetur
- /Peanuts  - (S)- Soyja/Soya
+SUMMARY:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burger w
+ ith vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) – H
+ netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
+ auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
+ nion and garlic for our vegan courses
 DTSTART:20251128T110000
 DTEND:20251128T130000
 DTSTAMP:20251128T110000Z
 UID:2025-11-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Rock burger með salsa og laukhringjum  (G)\nVegan Rock 
- burger with salsa and onion rings  (G)\n(G) – Glúten/Gluten  (H) – Hn
- etur/Peanuts  - (S)- Soyja/Soya
+DESCRIPTION:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burg
+ er with vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
+  of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
