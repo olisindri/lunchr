@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
  num\nThai curry with vegetables and beans served with rice
-DTSTART:20251124T110000
-DTEND:20251124T130000
-DTSTAMP:20251124T110000Z
-UID:2025-11-24T11:00:00/olisindri@gmail.com
+DTSTART:20251201T110000
+DTEND:20251201T130000
+DTSTAMP:20251201T110000Z
+UID:2025-12-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
  rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
@@ -15,10 +15,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
  ldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and veget
  ables served with a cold\ndressing
-DTSTART:20251125T110000
-DTEND:20251125T130000
-DTSTAMP:20251125T110000Z
-UID:2025-11-25T11:00:00/olisindri@gmail.com
+DTSTART:20251202T110000
+DTEND:20251202T130000
+DTSTAMP:20251202T110000Z
+UID:2025-12-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
  t kaldri dressingu\nStuffed bell pepper with quinoa\, beans\, tomato and v
  egetables served with a cold\ndressing
@@ -26,20 +26,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto  (
  H\,G)
-DTSTART:20251126T110000
-DTEND:20251126T130000
-DTSTAMP:20251126T110000Z
-UID:2025-11-26T11:00:00/olisindri@gmail.com
+DTSTART:20251203T110000
+DTEND:20251203T130000
+DTSTAMP:20251203T110000Z
+UID:2025-12-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
  o  (H\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
    with potatoes and  sauce
-DTSTART:20251127T110000
-DTEND:20251127T130000
-DTSTAMP:20251127T110000Z
-UID:2025-11-27T11:00:00/olisindri@gmail.com
+DTSTART:20251204T110000
+DTEND:20251204T130000
+DTSTAMP:20251204T110000Z
+UID:2025-12-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
  alls  with potatoes and  sauce
 END:VEVENT
@@ -49,10 +49,10 @@ SUMMARY:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burger w
  netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
  auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
  nion and garlic for our vegan courses
-DTSTART:20251128T110000
-DTEND:20251128T130000
-DTSTAMP:20251128T110000Z
-UID:2025-11-28T11:00:00/olisindri@gmail.com
+DTSTART:20251205T110000
+DTEND:20251205T130000
+DTSTAMP:20251205T110000Z
+UID:2025-12-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burg
  er with vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) 
  – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
