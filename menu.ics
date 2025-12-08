@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söltuð
   ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted hadd
  ock with rice and red curry sauce (M)
-DTSTART:20251201T110000
-DTEND:20251201T130000
-DTSTAMP:20251201T110000Z
-UID:2025-12-01T11:00:00/olisindri@gmail.com
+DTSTART:20251208T110000
+DTEND:20251208T130000
+DTSTAMP:20251208T110000Z
+UID:2025-12-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söl
  tuð ýsa með hrísgrjónum og rauðri karr ý sósu (M)\nLightly salted 
  haddock with rice and red curry sauce (M)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti Bolog
  nese  með hrásalati og hvítlauksbrauði  (G\,E)\nSpaghetti Bolognese wi
  th cold slaw and garlic bread  (G\,E)
-DTSTART:20251202T110000
-DTEND:20251202T130000
-DTSTAMP:20251202T110000Z
-UID:2025-12-02T11:00:00/olisindri@gmail.com
+DTSTART:20251209T110000
+DTEND:20251209T130000
+DTSTAMP:20251209T110000Z
+UID:2025-12-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V\,G)\nSpaghetti B
  olognese  með hrásalati og hvítlauksbrauði  (G\,E)\nSpaghetti Bolognes
  e with cold slaw and garlic bread  (G\,E)
@@ -31,10 +31,10 @@ SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
  í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
  Fried fish in breadcrumbs  served with fried potatoes \, pickles  and remo
  ulade (G\,E)
-DTSTART:20251203T110000
-DTEND:20251203T130000
-DTSTAMP:20251203T110000Z
-UID:2025-12-03T11:00:00/olisindri@gmail.com
+DTSTART:20251210T110000
+DTEND:20251210T130000
+DTSTAMP:20251210T110000Z
+UID:2025-12-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
  at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
  kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
@@ -45,10 +45,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
  Ofnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
  u (M)\nRosted lamb with  potato gratin \, vegetable s and demi -glace (M)
-DTSTART:20251204T110000
-DTEND:20251204T130000
-DTSTAMP:20251204T110000Z
-UID:2025-12-04T11:00:00/olisindri@gmail.com
+DTSTART:20251211T110000
+DTEND:20251211T130000
+DTSTAMP:20251211T110000Z
+UID:2025-12-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
  V)\nOfnsteikt Lambalæri með kartöflugratín \, rótargrænmeti  og soð
  sósu (M)\nRosted lamb with  potato gratin \, vegetable s and demi -glace 
@@ -58,10 +58,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  með
   "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori chicken wi
  th loaded potatoes and yogurt sauce  (E\,M\,G)
-DTSTART:20251205T110000
-DTEND:20251205T130000
-DTSTAMP:20251205T110000Z
-UID:2025-12-05T11:00:00/olisindri@gmail.com
+DTSTART:20251212T110000
+DTEND:20251212T130000
+DTSTAMP:20251212T110000Z
+UID:2025-12-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri  
  með "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandori chicke
  n with loaded potatoes and yogurt sauce  (E\,M\,G)
