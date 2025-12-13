@@ -2,55 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
+SUMMARY:Grænmetis bollur með karrý sósu  (S)\nVegetables balls with cu
+ rry sauce  (S)
 DTSTART:20251208T110000
 DTEND:20251208T130000
 DTSTAMP:20251208T110000Z
 UID:2025-12-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+DESCRIPTION:Grænmetis bollur með karrý sósu  (S)\nVegetables balls wit
+ h curry sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spaghetti og vegan bolognese með brauði\nSpaghetti with vegan Bo
- lognese\, and bread
+SUMMARY:Fyllt paprika með quinoa \, baunum\, tómat og grænmeti ásamt k
+ aldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vegetabl
+ e\, cold sauce(G)
 DTSTART:20251209T110000
 DTEND:20251209T130000
 DTSTAMP:20251209T110000Z
 UID:2025-12-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spaghetti og vegan bolognese með brauði\nSpaghetti with vega
- n Bolognese\, and bread
+DESCRIPTION:Fyllt paprika með quinoa \, baunum\, tómat og grænmeti ása
+ mt kaldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vege
+ table\, cold sauce(G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tómat\
- , hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with co
- conut milk\, tomato\, garlic\, onion and\nvegetables
+SUMMARY:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kaldri s
+ ósu\nVegan  Shawarma chicken with fried rice and cold sauce
 DTSTART:20251210T110000
 DTEND:20251210T130000
 DTSTAMP:20251210T110000Z
 UID:2025-12-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og svartbauna pottréttur með kókosmjólk\, tó
- mat\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew wit
- h coconut milk\, tomato\, garlic\, onion and\nvegetables
+DESCRIPTION:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kald
+ ri sósu\nVegan  Shawarma chicken with fried rice and cold sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
- d and spiced cauliflower with hummus and Chimichurri
+SUMMARY:Ristað brokkólí og linsubaunir á hummus ásamt dressingu\nRoas
+ ted broccoli and lentils on hummus served with dressing
 DTSTART:20251211T110000
 DTEND:20251211T130000
 DTSTAMP:20251211T110000Z
 UID:2025-12-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
- asted and spiced cauliflower with hummus and Chimichurri
+DESCRIPTION:Ristað brokkólí og linsubaunir á hummus ásamt dressingu\n
+ Roasted broccoli and lentils on hummus served with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chicken 
- with potatoes
+SUMMARY:Taco skeljar með vegan nauti og salsa sósu (S)\nVegan taco with 
+ salsa (S)
 DTSTART:20251212T110000
 DTEND:20251212T130000
 DTSTAMP:20251212T110000Z
 UID:2025-12-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tandoori ekki kjúklingur með kartöflum\nTandoori vegan chic
- ken with potatoes
+DESCRIPTION:Taco skeljar með vegan nauti og salsa sósu (S)\nVegan taco w
+ ith salsa (S)
 END:VEVENT
 END:VCALENDAR
