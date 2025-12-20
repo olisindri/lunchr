@@ -2,55 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis bollur með karrý sósu  (S)\nVegetables balls with cu
- rry sauce  (S)
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
+ s and beans  with rice and sweet chili (G)
 DTSTART:20251215T110000
 DTEND:20251215T130000
 DTSTAMP:20251215T110000Z
 UID:2025-12-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis bollur með karrý sósu  (S)\nVegetables balls wit
- h curry sauce  (S)
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
+ ables and beans  with rice and sweet chili (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa \, baunum\, tómat og grænmeti ásamt k
- aldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vegetabl
- e\, cold sauce(G)
+SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
+  kidney beans and onion with cous  cous
 DTSTART:20251216T110000
 DTEND:20251216T130000
 DTSTAMP:20251216T110000Z
 UID:2025-12-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa \, baunum\, tómat og grænmeti ása
- mt kaldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vege
- table\, cold sauce(G)
+DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
+ ch\, kidney beans and onion with cous  cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kaldri s
- ósu\nVegan  Shawarma chicken with fried rice and cold sauce
+SUMMARY:
 DTSTART:20251217T110000
 DTEND:20251217T130000
 DTSTAMP:20251217T110000Z
 UID:2025-12-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kald
- ri sósu\nVegan  Shawarma chicken with fried rice and cold sauce
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkólí og linsubaunir á hummus ásamt dressingu\nRoas
- ted broccoli and lentils on hummus served with dressing
+SUMMARY:
 DTSTART:20251218T110000
 DTEND:20251218T130000
 DTSTAMP:20251218T110000Z
 UID:2025-12-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkólí og linsubaunir á hummus ásamt dressingu\n
- Roasted broccoli and lentils on hummus served with dressing
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco skeljar með vegan nauti og salsa sósu (S)\nVegan taco with 
- salsa (S)
+SUMMARY:
 DTSTART:20251219T110000
 DTEND:20251219T130000
 DTSTAMP:20251219T110000Z
 UID:2025-12-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco skeljar með vegan nauti og salsa sósu (S)\nVegan taco w
- ith salsa (S)
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
