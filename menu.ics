@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgbrau
  ði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
-DTSTART:20251215T110000
-DTEND:20251215T130000
-DTSTAMP:20251215T110000Z
-UID:2025-12-15T11:00:00/olisindri@gmail.com
+DTSTART:20251222T110000
+DTEND:20251222T130000
+DTSTAMP:20251222T110000Z
+UID:2025-12-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgb
  rauði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
@@ -15,36 +15,36 @@ BEGIN:VEVENT
 SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
  )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði  (G\
  ,M)\nLamb goulash in curry sauce with rice  (G\,M)
-DTSTART:20251216T110000
-DTEND:20251216T130000
-DTSTAMP:20251216T110000Z
-UID:2025-12-16T11:00:00/olisindri@gmail.com
+DTSTART:20251223T110000
+DTEND:20251223T130000
+DTSTAMP:20251223T110000Z
+UID:2025-12-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
    (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
   (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nAðfangadagur  jóla
-DTSTART:20251217T110000
-DTEND:20251217T130000
-DTSTAMP:20251217T110000Z
-UID:2025-12-17T11:00:00/olisindri@gmail.com
+DTSTART:20251224T110000
+DTEND:20251224T130000
+DTSTAMP:20251224T110000Z
+UID:2025-12-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nAðfangadagur  jóla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nJóladagur
-DTSTART:20251218T110000
-DTEND:20251218T130000
-DTSTAMP:20251218T110000Z
-UID:2025-12-18T11:00:00/olisindri@gmail.com
+DTSTART:20251225T110000
+DTEND:20251225T130000
+DTSTAMP:20251225T110000Z
+UID:2025-12-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nJóladagur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nAnnar í jólum
-DTSTART:20251219T110000
-DTEND:20251219T130000
-DTSTAMP:20251219T110000Z
-UID:2025-12-19T11:00:00/olisindri@gmail.com
+DTSTART:20251226T110000
+DTEND:20251226T130000
+DTSTAMP:20251226T110000Z
+UID:2025-12-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nAnnar í jólum
 END:VEVENT
 END:VCALENDAR

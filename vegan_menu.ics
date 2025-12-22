@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
  sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
  s and beans  with rice and sweet chili (G)
-DTSTART:20251215T110000
-DTEND:20251215T130000
-DTSTAMP:20251215T110000Z
-UID:2025-12-15T11:00:00/olisindri@gmail.com
+DTSTART:20251222T110000
+DTEND:20251222T130000
+DTSTAMP:20251222T110000Z
+UID:2025-12-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
  hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
  ables and beans  with rice and sweet chili (G)
@@ -17,36 +17,36 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
  og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
   kidney beans and onion with cous  cous
-DTSTART:20251216T110000
-DTEND:20251216T130000
-DTSTAMP:20251216T110000Z
-UID:2025-12-16T11:00:00/olisindri@gmail.com
+DTSTART:20251223T110000
+DTEND:20251223T130000
+DTSTAMP:20251223T110000Z
+UID:2025-12-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
  um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
  ch\, kidney beans and onion with cous  cous
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20251217T110000
-DTEND:20251217T130000
-DTSTAMP:20251217T110000Z
-UID:2025-12-17T11:00:00/olisindri@gmail.com
+DTSTART:20251224T110000
+DTEND:20251224T130000
+DTSTAMP:20251224T110000Z
+UID:2025-12-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20251218T110000
-DTEND:20251218T130000
-DTSTAMP:20251218T110000Z
-UID:2025-12-18T11:00:00/olisindri@gmail.com
+DTSTART:20251225T110000
+DTEND:20251225T130000
+DTSTAMP:20251225T110000Z
+UID:2025-12-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20251219T110000
-DTEND:20251219T130000
-DTSTAMP:20251219T110000Z
-UID:2025-12-19T11:00:00/olisindri@gmail.com
+DTSTART:20251226T110000
+DTEND:20251226T130000
+DTSTAMP:20251226T110000Z
+UID:2025-12-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
