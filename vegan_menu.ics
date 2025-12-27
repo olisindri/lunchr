@@ -2,28 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
- sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
- s and beans  with rice and sweet chili (G)
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
+ cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vegetab
+ les and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
 DTSTART:20251222T110000
 DTEND:20251222T130000
 DTSTAMP:20251222T110000Z
 UID:2025-12-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
- hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
- ables and beans  with rice and sweet chili (G)
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
+ us -cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, veg
+ etables and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
- og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
-  kidney beans and onion with cous  cous
+SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
+ Cauliflower - and almond rissole served with potatoes  and cold dressing
 DTSTART:20251223T110000
 DTEND:20251223T130000
 DTSTAMP:20251223T110000Z
 UID:2025-12-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
- um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
- ch\, kidney beans and onion with cous  cous
+DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
+ gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
+ ng
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -42,11 +41,13 @@ UID:2025-12-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
+SUMMARY:Spínatlasagna með pestói\, salati og brauði (G)\nspinach lasag
+ na with pesto and salat(G)
 DTSTART:20251226T110000
 DTEND:20251226T130000
 DTSTAMP:20251226T110000Z
 UID:2025-12-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:
+DESCRIPTION:Spínatlasagna með pestói\, salati og brauði (G)\nspinach l
+ asagna with pesto and salat(G)
 END:VEVENT
 END:VCALENDAR

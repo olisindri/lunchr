@@ -2,49 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgbrau
- ði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
+SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nKjötbollur með kartöflu
+ mús\, rau ðkáli og brún ni sósu (G\,M\,E)\nMeatballs with mashed pota
+ toes\, red cabbage and brown sauce (G\,M\,E)
 DTSTART:20251222T110000
 DTEND:20251222T130000
 DTSTAMP:20251222T110000Z
 UID:2025-12-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup  (M\,G)\nPlokkfiskur með rúgb
- rauði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
+DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nKjötbollur með kart
+ öflumús\, rau ðkáli og brún ni sósu (G\,M\,E)\nMeatballs with mashed
+  potatoes\, red cabbage and brown sauce (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði  (G\
- ,M)\nLamb goulash in curry sauce with rice  (G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSoðin
+  ýsa með sítrónusósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled
+  haddock with lemon pepper sauce and rye bread (M\,G)
 DTSTART:20251223T110000
 DTEND:20251223T130000
 DTSTAMP:20251223T110000Z
 UID:2025-12-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
-  (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSo
+ ðin ýsa með sítrónusósu\, kartöflusmælki og rúgbrauði (M\,G)\nBo
+ iled haddock with lemon pepper sauce and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\nAðfangadagur  jóla
+SUMMARY:Lokað\nGamlársdagur
 DTSTART:20251224T110000
 DTEND:20251224T130000
 DTSTAMP:20251224T110000Z
 UID:2025-12-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAðfangadagur  jóla
+DESCRIPTION:Lokað\nGamlársdagur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\nJóladagur
+SUMMARY:Lokað\nNýársdagur
 DTSTART:20251225T110000
 DTEND:20251225T130000
 DTSTAMP:20251225T110000Z
 UID:2025-12-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nJóladagur
+DESCRIPTION:Lokað\nNýársdagur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í jólum
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nLasagna á ítalskan máta 
+ með hvítlauksbrauði og hrásalati(M\,G\,E)\nLasagna with garlic bread a
+ nd cold slaw (M\,G\,E)
 DTSTART:20251226T110000
 DTEND:20251226T130000
 DTSTAMP:20251226T110000Z
 UID:2025-12-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í jólum
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nLasagna á ítalskan m
+ áta með hvítlauksbrauði og hrásalati(M\,G\,E)\nLasagna with garlic br
+ ead and cold slaw (M\,G\,E)
 END:VEVENT
 END:VCALENDAR
