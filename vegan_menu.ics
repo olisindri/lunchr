@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
  cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vegetab
  les and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
-DTSTART:20251222T110000
-DTEND:20251222T130000
-DTSTAMP:20251222T110000Z
-UID:2025-12-22T11:00:00/olisindri@gmail.com
+DTSTART:20251229T110000
+DTEND:20251229T130000
+DTSTAMP:20251229T110000Z
+UID:2025-12-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
  us -cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, veg
  etables and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
@@ -16,37 +16,37 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
  Cauliflower - and almond rissole served with potatoes  and cold dressing
-DTSTART:20251223T110000
-DTEND:20251223T130000
-DTSTAMP:20251223T110000Z
-UID:2025-12-23T11:00:00/olisindri@gmail.com
+DTSTART:20251230T110000
+DTEND:20251230T130000
+DTSTAMP:20251230T110000Z
+UID:2025-12-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
  gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
  ng
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20251224T110000
-DTEND:20251224T130000
-DTSTAMP:20251224T110000Z
-UID:2025-12-24T11:00:00/olisindri@gmail.com
+DTSTART:20251231T110000
+DTEND:20251231T130000
+DTSTAMP:20251231T110000Z
+UID:2025-12-31T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20251225T110000
-DTEND:20251225T130000
-DTSTAMP:20251225T110000Z
-UID:2025-12-25T11:00:00/olisindri@gmail.com
+DTSTART:20260101T110000
+DTEND:20260101T130000
+DTSTAMP:20260101T110000Z
+UID:2026-01-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spínatlasagna með pestói\, salati og brauði (G)\nspinach lasag
  na with pesto and salat(G)
-DTSTART:20251226T110000
-DTEND:20251226T130000
-DTSTAMP:20251226T110000Z
-UID:2025-12-26T11:00:00/olisindri@gmail.com
+DTSTART:20260102T110000
+DTEND:20260102T130000
+DTSTAMP:20260102T110000Z
+UID:2026-01-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínatlasagna með pestói\, salati og brauði (G)\nspinach l
  asagna with pesto and salat(G)
 END:VEVENT

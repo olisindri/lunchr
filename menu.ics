@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nKjötbollur með kartöflu
  mús\, rau ðkáli og brún ni sósu (G\,M\,E)\nMeatballs with mashed pota
  toes\, red cabbage and brown sauce (G\,M\,E)
-DTSTART:20251222T110000
-DTEND:20251222T130000
-DTSTAMP:20251222T110000Z
-UID:2025-12-22T11:00:00/olisindri@gmail.com
+DTSTART:20251229T110000
+DTEND:20251229T130000
+DTSTAMP:20251229T110000Z
+UID:2025-12-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nKjötbollur með kart
  öflumús\, rau ðkáli og brún ni sósu (G\,M\,E)\nMeatballs with mashed
   potatoes\, red cabbage and brown sauce (G\,M\,E)
@@ -17,38 +17,38 @@ BEGIN:VEVENT
 SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSoðin
   ýsa með sítrónusósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled
   haddock with lemon pepper sauce and rye bread (M\,G)
-DTSTART:20251223T110000
-DTEND:20251223T130000
-DTSTAMP:20251223T110000Z
-UID:2025-12-23T11:00:00/olisindri@gmail.com
+DTSTART:20251230T110000
+DTEND:20251230T130000
+DTSTAMP:20251230T110000Z
+UID:2025-12-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSo
  ðin ýsa með sítrónusósu\, kartöflusmælki og rúgbrauði (M\,G)\nBo
  iled haddock with lemon pepper sauce and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nGamlársdagur
-DTSTART:20251224T110000
-DTEND:20251224T130000
-DTSTAMP:20251224T110000Z
-UID:2025-12-24T11:00:00/olisindri@gmail.com
+DTSTART:20251231T110000
+DTEND:20251231T130000
+DTSTAMP:20251231T110000Z
+UID:2025-12-31T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nGamlársdagur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nNýársdagur
-DTSTART:20251225T110000
-DTEND:20251225T130000
-DTSTAMP:20251225T110000Z
-UID:2025-12-25T11:00:00/olisindri@gmail.com
+DTSTART:20260101T110000
+DTEND:20260101T130000
+DTSTAMP:20260101T110000Z
+UID:2026-01-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nNýársdagur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nLasagna á ítalskan máta 
  með hvítlauksbrauði og hrásalati(M\,G\,E)\nLasagna with garlic bread a
  nd cold slaw (M\,G\,E)
-DTSTART:20251226T110000
-DTEND:20251226T130000
-DTSTAMP:20251226T110000Z
-UID:2025-12-26T11:00:00/olisindri@gmail.com
+DTSTART:20260102T110000
+DTEND:20260102T130000
+DTSTAMP:20260102T110000Z
+UID:2026-01-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nLasagna á ítalskan m
  áta með hvítlauksbrauði og hrásalati(M\,G\,E)\nLasagna with garlic br
  ead and cold slaw (M\,G\,E)
