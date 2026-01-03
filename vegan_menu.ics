@@ -2,52 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt cous -
- cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vegetab
- les and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum kart
+ öflum\nPotato and beets rissole with len tils served with fried potatoes
 DTSTART:20251229T110000
 DTEND:20251229T130000
 DTSTAMP:20251229T110000Z
 UID:2025-12-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt co
- us -cous\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, veg
- etables and peas\nserved with cous -cous  and sweet chili sauce ( G\,S)
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum 
+ kartöflum\nPotato and beets rissole with len tils served with fried potat
+ oes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
- Cauliflower - and almond rissole served with potatoes  and cold dressing
+SUMMARY:Tómat pasta með baunum  (G)\nTomato pasta with beens (G)
 DTSTART:20251230T110000
 DTEND:20251230T130000
 DTSTAMP:20251230T110000Z
 UID:2025-12-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
- gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
- ng
+DESCRIPTION:Tómat pasta með baunum  (G)\nTomato pasta with beens (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
+SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
+  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
+ icken peas\, black beans\nand root vegetables served with mustard mayo
 DTSTART:20251231T110000
 DTEND:20251231T130000
 DTSTAMP:20251231T110000Z
 UID:2025-12-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:
+DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
+ \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
+ , chicken peas\, black beans\nand root vegetables served with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
+SUMMARY:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt kal
+ dri dressing\nStuffed bell pepper with barley\, beens\, tomatoes\, vegetab
+ les and cold dressing
 DTSTART:20260101T110000
 DTEND:20260101T130000
 DTSTAMP:20260101T110000Z
 UID:2026-01-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:
+DESCRIPTION:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt
+  kaldri dressing\nStuffed bell pepper with barley\, beens\, tomatoes\, veg
+ etables and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói\, salati og brauði (G)\nspinach lasag
- na with pesto and salat(G)
+SUMMARY:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan bur
+ ger with vegetables and potatoes  wedges  (G)
 DTSTART:20260102T110000
 DTEND:20260102T130000
 DTSTAMP:20260102T110000Z
 UID:2026-01-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói\, salati og brauði (G)\nspinach l
- asagna with pesto and salat(G)
+DESCRIPTION:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan
+  burger with vegetables and potatoes  wedges  (G)
 END:VEVENT
 END:VCALENDAR
