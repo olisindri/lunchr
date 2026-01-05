@@ -4,30 +4,30 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum kart
  öflum\nPotato and beets rissole with len tils served with fried potatoes
-DTSTART:20251229T110000
-DTEND:20251229T130000
-DTSTAMP:20251229T110000Z
-UID:2025-12-29T11:00:00/olisindri@gmail.com
+DTSTART:20260105T110000
+DTEND:20260105T130000
+DTSTAMP:20260105T110000Z
+UID:2026-01-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum 
  kartöflum\nPotato and beets rissole with len tils served with fried potat
  oes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tómat pasta með baunum  (G)\nTomato pasta with beens (G)
-DTSTART:20251230T110000
-DTEND:20251230T130000
-DTSTAMP:20251230T110000Z
-UID:2025-12-30T11:00:00/olisindri@gmail.com
+DTSTART:20260106T110000
+DTEND:20260106T130000
+DTSTAMP:20260106T110000Z
+UID:2026-01-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat pasta með baunum  (G)\nTomato pasta with beens (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
   rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
  icken peas\, black beans\nand root vegetables served with mustard mayo
-DTSTART:20251231T110000
-DTEND:20251231T130000
-DTSTAMP:20251231T110000Z
-UID:2025-12-31T11:00:00/olisindri@gmail.com
+DTSTART:20260107T110000
+DTEND:20260107T130000
+DTSTAMP:20260107T110000Z
+UID:2026-01-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
  \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
  , chicken peas\, black beans\nand root vegetables served with mustard mayo
@@ -36,10 +36,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt kal
  dri dressing\nStuffed bell pepper with barley\, beens\, tomatoes\, vegetab
  les and cold dressing
-DTSTART:20260101T110000
-DTEND:20260101T130000
-DTSTAMP:20260101T110000Z
-UID:2026-01-01T11:00:00/olisindri@gmail.com
+DTSTART:20260108T110000
+DTEND:20260108T130000
+DTSTAMP:20260108T110000Z
+UID:2026-01-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt
   kaldri dressing\nStuffed bell pepper with barley\, beens\, tomatoes\, veg
  etables and cold dressing
@@ -47,10 +47,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan bur
  ger with vegetables and potatoes  wedges  (G)
-DTSTART:20260102T110000
-DTEND:20260102T130000
-DTSTAMP:20260102T110000Z
-UID:2026-01-02T11:00:00/olisindri@gmail.com
+DTSTART:20260109T110000
+DTEND:20260109T130000
+DTSTAMP:20260109T110000Z
+UID:2026-01-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan
   burger with vegetables and potatoes  wedges  (G)
 END:VEVENT
