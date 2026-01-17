@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime - k
- óriander kjúklingur með bulgu r salati og Mojo Rojo sósu  (G)\nLime 
- – coriander chicken with bulgur and Mojo Rojo sauce  (G)
+SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - og f
+ en nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)\nLe
+ mon – fennel marinated haddock with fried potatoes and withe wine sauce(
+ M)
 DTSTART:20260112T110000
 DTEND:20260112T130000
 DTSTAMP:20260112T110000Z
 UID:2026-01-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime 
- - kóriander kjúklingur með bulgu r salati og Mojo Rojo sósu  (G)\nLime
-  – coriander chicken with bulgur and Mojo Rojo sauce  (G)
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - 
+ og fen nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)
+ \nLemon – fennel marinated haddock with fried potatoes and withe wine sa
+ uce(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur söl
- tuð ýsa með soðnum kartöflum og karrý sósu (M)\nLightly salted hadd
- ock with boiled potatoes and curry sauce (M)
+SUMMARY:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur Tika masala með hr
+ ísgrjónum og n aan\nChicken tikka masala with rice  and n aan
 DTSTART:20260113T110000
 DTEND:20260113T130000
 DTSTAMP:20260113T110000Z
 UID:2026-01-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur 
- söltuð ýsa með soðnum kartöflum og karrý sósu (M)\nLightly salted 
- haddock with boiled potatoes and curry sauce (M)
+DESCRIPTION:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur Tika masala með
+  hrísgrjónum og n aan\nChicken tikka masala with rice  and n aan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóriandersúpa  – Carrot and coriander soup  (G\
- , M)\nNauta stroganoff með tag liatelle (M\, G)\nBeef stroganoff with tag
- liatelle  (M\, G)
+SUMMARY:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\nStei
+ ktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu og 
+ hvítkáli (G\,M\,E)\nFried fish Arizona panko with potatoes\, cols sauce 
+ and cabbage(G\,M\,E)
 DTSTART:20260114T110000
 DTEND:20260114T130000
 DTSTAMP:20260114T110000Z
 UID:2026-01-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup 
-  (G\, M)\nNauta stroganoff með tag liatelle (M\, G)\nBeef stroganoff with
-  tagliatelle  (M\, G)
+DESCRIPTION:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\n
+ Steiktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu
+  og hvítkáli (G\,M\,E)\nFried fish Arizona panko with potatoes\, cols sa
+ uce and cabbage(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum smælki kartöflum\, og  sveppasósu  (G\, M\, E)\nSchnitzel
-   with fried potatoes and mushroom sauce  (G\, M\, E)
+SUMMARY:Grænmetissúpa – Vegetable soup (V)\nSteikt kalkúnabringa í t
+ imian og ap pelsínu með\neplasalati\, og sætkartöflumús  (M\,G)\nTurk
+ ey breast with thyme and orange with sweet potato mash \,\napple salad  an
+ d sauce (M\,G)
 DTSTART:20260115T110000
 DTEND:20260115T130000
 DTSTAMP:20260115T110000Z
 UID:2026-01-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum smælki kartöflum\, og  sveppasósu  (G\, M\, E)\nSchni
- tzel  with fried potatoes and mushroom sauce  (G\, M\, E)
+DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nSteikt kalkúnabringa 
+ í timian og ap pelsínu með\neplasalati\, og sætkartöflumús  (M\,G)\n
+ Turkey breast with thyme and orange with sweet potato mash \,\napple salad
+   and sauce (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki\, g
- rænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with minced 
- beef vegetable and r östi (G\, M\, E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nChili con carne með hr
+ ísgrjónum sýrðum rjóma og nachos (M)\nChili con carne with rice\, cre
+ am fresh and nachos (M)
 DTSTART:20260116T110000
 DTEND:20260116T130000
 DTSTAMP:20260116T110000Z
 UID:2026-01-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki
- \, grænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with min
- ced beef vegetable and r östi (G\, M\, E)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nChili con carne með
+  hrísgrjónum sýrðum rjóma og nachos (M)\nChili con carne with rice\, 
+ cream fresh and nachos (M)
 END:VEVENT
 END:VCALENDAR
