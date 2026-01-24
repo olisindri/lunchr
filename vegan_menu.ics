@@ -2,62 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
- ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
- vegetables and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
+ num\nThai curry with vegetables and beans served with rice
 DTSTART:20260119T110000
 DTEND:20260119T130000
 DTSTAMP:20260119T110000Z
 UID:2026-01-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
-  hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
- \, vegetables and peas\nserved with rice and sweet chili sauce (G)
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
+ rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed paprika with quinoa\, beens\, tomato  and cold dre
- ssing
+SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
+ ower  and almond buff with potatoes
 DTSTART:20260120T110000
 DTEND:20260120T130000
 DTSTAMP:20260120T110000Z
 UID:2026-01-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed paprika with quinoa\, beens\, tomato  and cold
-  dressing
+DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
+ liflower  and almond buff with potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
- (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
+SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto  (
+ H\,G)
 DTSTART:20260121T110000
 DTEND:20260121T130000
 DTSTAMP:20260121T110000Z
 UID:2026-01-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
- uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
-  (G)
+DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
+ o  (H\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násamt ka
- rtöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - and 
- vegetable steak\nserved with small potatoes and pepper sauce  (H)
+SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
+   with potatoes and  sauce
 DTSTART:20260122T110000
 DTEND:20260122T130000
 DTSTAMP:20260122T110000Z
 UID:2026-01-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násam
- t kartöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - 
- and vegetable steak\nserved with small potatoes and pepper sauce  (H)
+DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
+ alls  with potatoes and  sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili sin carne með hrísgrjónum og nachos\nChili sin carne with
-  rice and nachos\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- S
- oyja/Soya
+SUMMARY:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burger w
+ ith vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) – H
+ netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
+ auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
+ nion and garlic for our vegan courses
 DTSTART:20260123T110000
 DTEND:20260123T130000
 DTSTAMP:20260123T110000Z
 UID:2026-01-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin carne með hrísgrjónum og nachos\nChili sin carne 
- with rice and nachos\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S
- )- Soyja/Soya
+DESCRIPTION:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burg
+ er with vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) 
+ – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
+ inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
+  of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
