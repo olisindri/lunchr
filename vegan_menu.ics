@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
- num\nThai curry with vegetables and beans served with rice
+SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
+ samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with mad
+ ras curry  sauce served with rice
 DTSTART:20260126T110000
 DTEND:20260126T130000
 DTSTAMP:20260126T110000Z
 UID:2026-01-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
- rjónum\nThai curry with vegetables and beans served with rice
+DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
+   ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
+  madras curry  sauce served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
- ower  and almond buff with potatoes
+SUMMARY:Súrsætur vegan kjúklingur og hrísgrjón (S)\nSweet and sour ch
+ icken with rice  (S)
 DTSTART:20260127T110000
 DTEND:20260127T130000
 DTSTAMP:20260127T110000Z
 UID:2026-01-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
- liflower  and almond buff with potatoes
+DESCRIPTION:Súrsætur vegan kjúklingur og hrísgrjón (S)\nSweet and sou
+ r chicken with rice  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto  (
- H\,G)
+SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
+ i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
+  salad  (G)
 DTSTART:20260128T110000
 DTEND:20260128T130000
 DTSTAMP:20260128T110000Z
 UID:2026-01-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
- o  (H\,G)
+DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
+ alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
+ lgur salad  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan balls
-   with potatoes and  sauce
+SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
+ curry with rice
 DTSTART:20260129T110000
 DTEND:20260129T130000
 DTSTAMP:20260129T110000Z
 UID:2026-01-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetisbollur með kartöflum  og kaldri dressingu\nVegan b
- alls  with potatoes and  sauce
+DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
+ man curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burger w
- ith vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) – H
- netur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn l
- auk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot of o
- nion and garlic for our vegan courses
+SUMMARY:Vegan sn ittsel hamorgari með sveppasósu\nVegan schnitzel burger
+  with mushroom sauce\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S
+ )- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í
+  okkar vegan rétti\nPlease note that we use a lot of onion and garlic for
+  our vegan courses
 DTSTART:20260130T110000
 DTEND:20260130T130000
 DTSTAMP:20260130T110000Z
 UID:2026-01-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, “ Korean BBQ " (G)\nVegan burg
- er with vegetables\, “ Korean BBQ ” (G)\n(G) – Glúten/Gluten  (H) 
- – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mik
- inn lauk og hvítlauk í okkar vegan rétti\nPlease note that we use a lot
-  of onion and garlic for our vegan courses
+DESCRIPTION:Vegan sn ittsel hamorgari með sveppasósu\nVegan schnitzel bu
+ rger with mushroom sauce\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  
+ - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlau
+ k í okkar vegan rétti\nPlease note that we use a lot of onion and garlic
+  for our vegan courses
 END:VEVENT
 END:VCALENDAR
