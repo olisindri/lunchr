@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Sætkartöflu\, papriku og baunabollur með madras karrýsósu  á
  samt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with mad
  ras curry  sauce served with rice
-DTSTART:20260126T110000
-DTEND:20260126T130000
-DTSTAMP:20260126T110000Z
-UID:2026-01-26T11:00:00/olisindri@gmail.com
+DTSTART:20260202T110000
+DTEND:20260202T130000
+DTSTAMP:20260202T110000Z
+UID:2026-02-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sætkartöflu\, papriku og baunabollur með madras karrýsósu
    ásamt hrísgrjónum\nSweet potato -\, bell pepper - and bean balls with
   madras curry  sauce served with rice
@@ -16,10 +16,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Súrsætur vegan kjúklingur og hrísgrjón (S)\nSweet and sour ch
  icken with rice  (S)
-DTSTART:20260127T110000
-DTEND:20260127T130000
-DTSTAMP:20260127T110000Z
-UID:2026-01-27T11:00:00/olisindri@gmail.com
+DTSTART:20260203T110000
+DTEND:20260203T130000
+DTSTAMP:20260203T110000Z
+UID:2026-02-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Súrsætur vegan kjúklingur og hrísgrjón (S)\nSweet and sou
  r chicken with rice  (S)
 END:VEVENT
@@ -27,10 +27,10 @@ BEGIN:VEVENT
 SUMMARY:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur salat
  i  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bulgur
   salad  (G)
-DTSTART:20260128T110000
-DTEND:20260128T130000
-DTSTAMP:20260128T110000Z
-UID:2026-01-28T11:00:00/olisindri@gmail.com
+DTSTART:20260204T110000
+DTEND:20260204T130000
+DTSTAMP:20260204T110000Z
+UID:2026-02-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Enchilada með tómat\, baun asalati  og osti ásamt  bulgur s
  alati  (G)\nEnchilada with tomato\, beans alad  and cheese se rved with bu
  lgur salad  (G)
@@ -38,10 +38,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetis massaman karrý með hrísgrjónum\nVegetable massaman 
  curry with rice
-DTSTART:20260129T110000
-DTEND:20260129T130000
-DTSTAMP:20260129T110000Z
-UID:2026-01-29T11:00:00/olisindri@gmail.com
+DTSTART:20260205T110000
+DTEND:20260205T130000
+DTSTAMP:20260205T110000Z
+UID:2026-02-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum\nVegetable massa
  man curry with rice
 END:VEVENT
@@ -51,10 +51,10 @@ SUMMARY:Vegan sn ittsel hamorgari með sveppasósu\nVegan schnitzel burger
  )- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í
   okkar vegan rétti\nPlease note that we use a lot of onion and garlic for
   our vegan courses
-DTSTART:20260130T110000
-DTEND:20260130T130000
-DTSTAMP:20260130T110000Z
-UID:2026-01-30T11:00:00/olisindri@gmail.com
+DTSTART:20260206T110000
+DTEND:20260206T130000
+DTSTAMP:20260206T110000Z
+UID:2026-02-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan sn ittsel hamorgari með sveppasósu\nVegan schnitzel bu
  rger with mushroom sauce\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  
  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlau

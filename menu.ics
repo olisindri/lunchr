@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku rauð
  u karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red Thai curry an
  d coconut served with rice  (G)
-DTSTART:20260126T110000
-DTEND:20260126T130000
-DTSTAMP:20260126T110000Z
-UID:2026-01-26T11:00:00/olisindri@gmail.com
+DTSTART:20260202T110000
+DTEND:20260202T130000
+DTSTAMP:20260202T110000Z
+UID:2026-02-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlauks -súpa  – Leek -soup  (M\,G)\nÝsa í tælensku r
  auðu karrý og kókos ásamt hrísgrjónum  (G)\nHaddock in red Thai curr
  y and coconut served with rice  (G)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Basil -chili- og tómatsúpa – Basil -\, chili- and tomato soup 
   (V)\nSúrsætur kjúklingur með hrísgrjónum\nSweet and sour chicken wi
  th rice
-DTSTART:20260127T110000
-DTEND:20260127T130000
-DTSTAMP:20260127T110000Z
-UID:2026-01-27T11:00:00/olisindri@gmail.com
+DTSTART:20260203T110000
+DTEND:20260203T130000
+DTSTAMP:20260203T110000Z
+UID:2026-02-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Basil -chili- og tómatsúpa – Basil -\, chili- and tomato s
  oup  (V)\nSúrsætur kjúklingur með hrísgrjónum\nSweet and sour chicke
  n with rice
@@ -30,10 +30,10 @@ SUMMARY:Kakósúpa með tvíböku m – Cocoa soup with biscuits  (G\,M)\n
  Ofnbakaður þorskur í hvítlauk\, basil\,spínati og konfekttómötum me
  ð steiktum\nkartöflum (M)\nOven baked cod inn garlic\, basil\, tomato wi
  th fried potatoes(M)
-DTSTART:20260128T110000
-DTEND:20260128T130000
-DTSTAMP:20260128T110000Z
-UID:2026-01-28T11:00:00/olisindri@gmail.com
+DTSTART:20260204T110000
+DTEND:20260204T130000
+DTSTAMP:20260204T110000Z
+UID:2026-02-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kakósúpa með tvíböku m – Cocoa soup with biscuits  (G\,
  M)\nOfnbakaður þorskur í hvítlauk\, basil\,spínati og konfekttómötu
  m með steiktum\nkartöflum (M)\nOven baked cod inn garlic\, basil\, tomat
@@ -43,10 +43,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Hariss
  a  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shoulder
   – harissa with pilau rice\, vegetable s and raita sauce (M)
-DTSTART:20260129T110000
-DTEND:20260129T130000
-DTSTAMP:20260129T110000Z
-UID:2026-01-29T11:00:00/olisindri@gmail.com
+DTSTART:20260205T110000
+DTEND:20260205T130000
+DTSTAMP:20260205T110000Z
+UID:2026-02-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálss úpa – Cauliflower  soup (G)\nLambaframpartur Ha
  rissa  með pilau hrísgrjón um\, grænmeti og raita sós u(M)\nLamb shou
  lder – harissa with pilau rice\, vegetable s and raita sauce (M)
@@ -55,10 +55,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – dessert  (M\,G\,E\,H)\nSnittsel hamborgari með s
  úrum gúrkum og sveppasósu(M\,E\,G)\nSchnitzel burger  with pickles and 
  mushroom sauce (G\,M\,E)
-DTSTART:20260130T110000
-DTEND:20260130T130000
-DTSTAMP:20260130T110000Z
-UID:2026-01-30T11:00:00/olisindri@gmail.com
+DTSTART:20260206T110000
+DTEND:20260206T130000
+DTSTAMP:20260206T110000Z
+UID:2026-02-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – dessert  (M\,G\,E\,H)\nSnittsel hamborgari me
  ð súrum gúrkum og sveppasósu(M\,E\,G)\nSchnitzel burger  with pickles 
  and mushroom sauce (G\,M\,E)
