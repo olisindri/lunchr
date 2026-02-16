@@ -2,67 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söltuð
-  ýsa með steiktum kartöflum og karrý sósu (M\,G)\nLightly salted hadd
- ock with potatoes  and curry sauce (M\,G)
+SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nKjötbollur með kartöflum
+ ús\, rau ðkáli og brún ni sósu (M\,G\,E)\nMeet balls with mashed pota
+ toes an d sauce (M\,G\,E)
 DTSTART:20260216T110000
 DTEND:20260216T130000
 DTSTAMP:20260216T110000Z
 UID:2026-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa – Creamy tomato  soup (M\,G)\nLétt söl
- tuð ýsa með steiktum kartöflum og karrý sósu (M\,G)\nLightly salted 
- haddock with potatoes  and curry sauce (M\,G)
+DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nKjötbollur með kartö
+ flumús\, rau ðkáli og brún ni sósu (M\,G\,E)\nMeet balls with mashed 
+ potatoes an d sauce (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup ( V)\nPasta Alfredo með
-  bro kkolí\, kjúkling og pestóbrauði (M\,G)\nPasta Alfredo with brocco
- li\, chicken and pesto bread(M\,G)
+SUMMARY:Saltkjöt og baunir \, túkall\nSaltkjöt og baunir \, túkall
 DTSTART:20260217T110000
 DTEND:20260217T130000
 DTSTAMP:20260217T110000Z
 UID:2026-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V)\nPasta Alfredo 
- með bro kkolí\, kjúkling og pestóbrauði (M\,G)\nPasta Alfredo with br
- occoli\, chicken and pesto bread(M\,G)
+DESCRIPTION:Saltkjöt og baunir \, túkall\nSaltkjöt og baunir \, túkall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
- agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
- í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
- Fried fish in breadcrumbs  served with fried potatoes \, pickles  and remo
- ulade (G\,E)
+SUMMARY:Blómkálssúpa – Cauliflower soup  (G\,M)\nSpænskur saltfiskr
+ éttur með steiktum kartöflum og blómká lssalati\nSpanish b accalà  w
+ ith fried potatoes and cauliflower salad
 DTSTART:20260218T110000
 DTEND:20260218T130000
 DTSTAMP:20260218T110000Z
 UID:2026-02-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
- at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
- kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
- E)\nFried fish in breadcrumbs  served with fried potatoes \, pickles  and 
- remoulade (G\,E)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup  (G\,M)\nSpænskur saltfi
+ skréttur með steiktum kartöflum og blómká lssalati\nSpanish b accalà
+   with fried potatoes and cauliflower salad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
- Ofnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
- u (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nKjúkling
+  abringur  shawarma með steiktum hrísgjónum og jógúrtsósu (E\,M)\nCh
+ icken breast  Shawarma with fried rice and cold dressing(E \,M)
 DTSTART:20260219T110000
 DTEND:20260219T130000
 DTSTAMP:20260219T110000Z
 UID:2026-02-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
- V)\nOfnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soð
- sósu (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nKjúk
+ ling abringur  shawarma með steiktum hrísgjónum og jógúrtsósu (E\,M)
+ \nChicken breast  Shawarma with fried rice and cold dressing(E \,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri með 
- "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandoori  chicken w
- ith loaded potatoes and yogurt sauce
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu sv 
+ ínakjöt og kjúkling ás amt fetaostasalati (M\,G\,E\,S)\nSoft taco with
+  pork\, chicken and feta salat (M\,G\,E\,S)
 DTSTART:20260220T110000
 DTEND:20260220T130000
 DTSTAMP:20260220T110000Z
 UID:2026-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandoori kjúklingalæri m
- eð "loaded" kartöflubátum og jógúrtsósu  (E\,M\,G )\nTandoori  chick
- en with loaded potatoes and yogurt sauce
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu
+  sv ínakjöt og kjúkling ás amt fetaostasalati (M\,G\,E\,S)\nSoft taco 
+ with pork\, chicken and feta salat (M\,G\,E\,S)
 END:VEVENT
 END:VCALENDAR
