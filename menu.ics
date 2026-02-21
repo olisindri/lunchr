@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nKjötbollur með kartöflum
- ús\, rau ðkáli og brún ni sósu (M\,G\,E)\nMeet balls with mashed pota
- toes an d sauce (M\,G\,E)
+SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
+ i\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 DTSTART:20260216T110000
 DTEND:20260216T130000
 DTSTAMP:20260216T110000Z
 UID:2026-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nKjötbollur með kartö
- flumús\, rau ðkáli og brún ni sósu (M\,G\,E)\nMeet balls with mashed 
- potatoes an d sauce (M\,G\,E)
+DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
+ auði\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saltkjöt og baunir \, túkall\nSaltkjöt og baunir \, túkall
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
+ M)\nLamb goulash in curry sauce with rice  (G\,M)
 DTSTART:20260217T110000
 DTEND:20260217T130000
 DTSTAMP:20260217T110000Z
 UID:2026-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Saltkjöt og baunir \, túkall\nSaltkjöt og baunir \, túkall
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
+ (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup  (G\,M)\nSpænskur saltfiskr
- éttur með steiktum kartöflum og blómká lssalati\nSpanish b accalà  w
- ith fried potatoes and cauliflower salad
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins – Sal
+ ad of the day: Grillað toppkál  (V)\nOfnsteiktur lax með hrísgrjónum 
+ \, agúrku\, fetaosti og grískri jógúrt (M)\nFried salmon with rice \, 
+ cucumber\, feta\, and Greek  yogurt  (M)
 DTSTART:20260218T110000
 DTEND:20260218T130000
 DTSTAMP:20260218T110000Z
 UID:2026-02-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup  (G\,M)\nSpænskur saltfi
- skréttur með steiktum kartöflum og blómká lssalati\nSpanish b accalà
-   with fried potatoes and cauliflower salad
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins –
+  Salad of the day: Grillað toppkál  (V)\nOfnsteiktur lax með hrísgrjó
+ num \, agúrku\, fetaosti og grískri jógúrt (M)\nFried salmon with rice
+  \, cucumber\, feta\, and Greek  yogurt  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nKjúkling
-  abringur  shawarma með steiktum hrísgjónum og jógúrtsósu (E\,M)\nCh
- icken breast  Shawarma with fried rice and cold dressing(E \,M)
+SUMMARY:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktum ka
+ rtöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried pot
+ atoes\, mushroom sauce and red cabbage (G\,M)
 DTSTART:20260219T110000
 DTEND:20260219T130000
 DTSTAMP:20260219T110000Z
 UID:2026-02-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nKjúk
- ling abringur  shawarma með steiktum hrísgjónum og jógúrtsósu (E\,M)
- \nChicken breast  Shawarma with fried rice and cold dressing(E \,M)
+DESCRIPTION:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktu
+ m kartöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried
+  potatoes\, mushroom sauce and red cabbage (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu sv 
- ínakjöt og kjúkling ás amt fetaostasalati (M\,G\,E\,S)\nSoft taco with
-  pork\, chicken and feta salat (M\,G\,E\,S)
+SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu chim
+ ichurri með hrisgrjónum og brok kolí í yuzu og soya (S)\nChicken in re
+ d chimichurri\, rice and broccoli in yuzu and soya (S)
 DTSTART:20260220T110000
 DTEND:20260220T130000
 DTSTAMP:20260220T110000Z
 UID:2026-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu
-  sv ínakjöt og kjúkling ás amt fetaostasalati (M\,G\,E\,S)\nSoft taco 
- with pork\, chicken and feta salat (M\,G\,E\,S)
+DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu 
+ chimichurri með hrisgrjónum og brok kolí í yuzu og soya (S)\nChicken i
+ n red chimichurri\, rice and broccoli in yuzu and soya (S)
 END:VEVENT
 END:VCALENDAR

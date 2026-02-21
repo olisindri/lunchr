@@ -2,55 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis bollur með \,rauðkáli  og sveppasósu  (S)\nVegetabl
- es balls with mushroom sauce  (S)
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, vegetable
+ s and beans  with rice and sweet chili (G)
 DTSTART:20260216T110000
 DTEND:20260216T130000
 DTSTAMP:20260216T110000Z
 UID:2026-02-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis bollur með \,rauðkáli  og sveppasósu  (S)\nVege
- tables balls with mushroom sauce  (S)
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\nog sætri chili sósu (G)\nSpring roll with noodles\, veget
+ ables and beans  with rice and sweet chili (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and vegetable
- \, cold sauce(G)
+SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt cous cous\nVegetable ragout  with mushrooms\, spinach\, kid
+ ney beans and onion with cous cous
 DTSTART:20260217T110000
 DTEND:20260217T130000
 DTSTAMP:20260217T110000Z
 UID:2026-02-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu (G)\nStuffed bell pepper with quinoa\, tomato and veget
- able\, cold sauce(G)
+DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt cous cous\nVegetable ragout  with mushrooms\, spinach\,
+  kidney beans and onion with cous cous
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokk olí og linsubaunir á hummus ásamt dressingu\nRoas
- ted broccoli and lentils on hummus served with dressing
+SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja - og se
+ sam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 DTSTART:20260218T110000
 DTEND:20260218T130000
 DTSTAMP:20260218T110000Z
 UID:2026-02-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokk olí og linsubaunir á hummus ásamt dressingu\n
- Roasted broccoli and lentils on hummus served with dressing
+DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja - o
+ g sesam sósu (S)\nVeggie tots with rice and soy- and sesame  sauce  (S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kaldri s
- ósu\nVegan  Shawarma chicken with fried rice and cold sauce
+SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel with
+  potatoes and mushrooms
 DTSTART:20260219T110000
 DTEND:20260219T130000
 DTSTAMP:20260219T110000Z
 UID:2026-02-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Shawarma vegan kjúklingur með steiktum hrísgrjónum og kald
- ri sósu\nVegan  Shawarma chicken with fried rice and cold sauce
+DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel 
+ with potatoes and mushrooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soft taco  með vegan kjúkling  og kaldri dressingu  (S)\nSoft ta
- co with vegan chicken and cold dressing (S)
+SUMMARY:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og brok k
+ olí í yuzu og soya (S)\nNot chicken in red chimichurri with rice and bro
+ ccoli in yuzu(S)
 DTSTART:20260220T110000
 DTEND:20260220T130000
 DTSTAMP:20260220T110000Z
 UID:2026-02-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Soft taco  með vegan kjúkling  og kaldri dressingu  (S)\nSof
- t taco with vegan chicken and cold dressing (S)
+DESCRIPTION:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og br
+ ok kolí í yuzu og soya (S)\nNot chicken in red chimichurri with rice and
+  broccoli in yuzu(S)
 END:VEVENT
 END:VCALENDAR
