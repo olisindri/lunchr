@@ -2,63 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
- i\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
+SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hrísgr
+ jónum og t zatziki  sósu (M)\nTandoori haddock with rice and tzatziki sa
+ uce  (M)
 DTSTART:20260223T110000
 DTEND:20260223T130000
 DTSTAMP:20260223T110000Z
 UID:2026-02-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
- auði\, smjöri (M\,G)\nFish gratin with rye bread and butter  (M\,G)
+DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hr
+ ísgrjónum og t zatziki  sósu (M)\nTandoori haddock with rice and tzatzi
+ ki sauce  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði (G\,
- M)\nLamb goulash in curry sauce with rice  (G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSpaghe
+ tti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti bolog
+ nese with cold slaw and garlic bread(E\,G)
 DTSTART:20260224T110000
 DTEND:20260224T130000
 DTSTAMP:20260224T110000Z
 UID:2026-02-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
- (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSp
+ aghetti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti b
+ olognese with cold slaw and garlic bread(E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins – Sal
- ad of the day: Grillað toppkál  (V)\nOfnsteiktur lax með hrísgrjónum 
- \, agúrku\, fetaosti og grískri jógúrt (M)\nFried salmon with rice \, 
- cucumber\, feta\, and Greek  yogurt  (M)
+SUMMARY:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)\nGr
+ ænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónusósu
+ \, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon peppe
+ r sauce and rye bread (M\,G)
 DTSTART:20260225T110000
 DTEND:20260225T130000
 DTSTAMP:20260225T110000Z
 UID:2026-02-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins –
-  Salad of the day: Grillað toppkál  (V)\nOfnsteiktur lax með hrísgrjó
- num \, agúrku\, fetaosti og grískri jógúrt (M)\nFried salmon with rice
-  \, cucumber\, feta\, and Greek  yogurt  (M)
+DESCRIPTION:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)
+ \nGrænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónus
+ ósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon p
+ epper sauce and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktum ka
- rtöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried pot
- atoes\, mushroom sauce and red cabbage (G\,M)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri me
+ ð steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoasted 
+ leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
 DTSTART:20260226T110000
 DTEND:20260226T130000
 DTSTAMP:20260226T110000Z
 UID:2026-02-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Graskerssúpa – Pumpkin soup( V)\nNauta snitsel með steiktu
- m kartöflum\, sveppasósu og rauðkáli (G\,M)\nBeef schnitzel with fried
-  potatoes\, mushroom sauce and red cabbage (G\,M)
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri
+  með steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoast
+ ed leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu chim
- ichurri með hrisgrjónum og brok kolí í yuzu og soya (S)\nChicken in re
- d chimichurri\, rice and broccoli in yuzu and soya (S)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sósu me
+ ð southern krydduðum smælki kartöflum (S)\nChicken in BBQ sauce with s
+ outhern spiced potatoes  (S)
 DTSTART:20260227T110000
 DTEND:20260227T130000
 DTSTAMP:20260227T110000Z
 UID:2026-02-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu 
- chimichurri með hrisgrjónum og brok kolí í yuzu og soya (S)\nChicken i
- n red chimichurri\, rice and broccoli in yuzu and soya (S)
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H)\nKjúklingur í BBQ sós
+ u með southern krydduðum smælki kartöflum (S)\nChicken in BBQ sauce wi
+ th southern spiced potatoes  (S)
 END:VEVENT
 END:VCALENDAR
