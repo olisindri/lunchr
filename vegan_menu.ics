@@ -2,58 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum kart
- öflum\nPotato and beets rissole with len tils served with fried potatoes
+SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
+  lentils and rice
 DTSTART:20260309T110000
 DTEND:20260309T130000
 DTSTAMP:20260309T110000Z
 UID:2026-03-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt Steiktum 
- kartöflum\nPotato and beets rissole with len tils served with fried potat
- oes
+DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
+ with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet pota
- to balls with curry sauce and rice
+SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetable red cu
+ rry with beans and vegetables
 DTSTART:20260310T110000
 DTEND:20260310T130000
 DTSTAMP:20260310T110000Z
 UID:2026-03-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet 
- potato balls with curry sauce and rice
+DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetable re
+ d curry with beans and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
-  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
- icken peas\, black beans\nand root vegetables served with mustard mayo
+SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hrísg
+ rjónum og sætri chili\nsósu (G)\nSamosas filled with vegetables\, noodl
+ es and peas\nserved with rice and sweet chili sauce (G)
 DTSTART:20260311T110000
 DTEND:20260311T130000
 DTSTAMP:20260311T110000Z
 UID:2026-03-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
- \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
- , chicken peas\, black beans\nand root vegetables served with mustard mayo
+DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum ásamt hr
+ ísgrjónum og sætri chili\nsósu (G)\nSamosas filled with vegetables\, n
+ oodles and peas\nserved with rice and sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt kal
- dri dressing\nStuffed bell pepper with barley\, beens \, tomatoes\, vegeta
- bles and cold dressing
+SUMMARY:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu  (S\,G)\
+ nVegan Schnitzel with roasted potatoes and mushroom sauce  (S\,G)
 DTSTART:20260312T110000
 DTEND:20260312T130000
 DTSTAMP:20260312T110000Z
 UID:2026-03-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með byggi\, baunum\, tómat og grænmeti ásamt
-  kaldri dressing\nStuffed bell pepper with barley\, beens \, tomatoes\, ve
- getables and cold dressing
+DESCRIPTION:Vegan Snitzel með ofnbökuðum kartöflum og sveppasósu  (S\
+ ,G)\nVegan Schnitzel with roasted potatoes and mushroom sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan bur
- ger with vegetables and potatoes  wedges  (G)
+SUMMARY:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kartöfl
+ um (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti potatoe
+ s (G)
 DTSTART:20260313T110000
 DTEND:20260313T130000
 DTSTAMP:20260313T110000Z
 UID:2026-03-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan
-  burger with vegetables and potatoes  wedges  (G)
+DESCRIPTION:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kart
+ öflum (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti pot
+ atoes (G)
 END:VEVENT
 END:VCALENDAR
