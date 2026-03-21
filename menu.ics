@@ -2,67 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime - k
- óriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLime 
- – coriander chicken with barley  and curry - coconut  sauce  (G)
+SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - og f
+ en nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)\nLe
+ mon – fennel marinated haddock with fried potatoes and wh ite wine sauce
+ (M)
 DTSTART:20260316T110000
 DTEND:20260316T130000
 DTSTAMP:20260316T110000Z
 UID:2026-03-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime 
- - kóriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLi
- me – coriander chicken with barley  and curry - coconut  sauce  (G)
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - 
+ og fen nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)
+ \nLemon – fennel marinated haddock with fried potatoes and wh ite wine s
+ auce(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur söl
- tuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLightly 
- salted haddock with boiled potatoes and citrus -pepper sauce (M)
+SUMMARY:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur tikka masala með hr
+ ísgrjónum og n aan (G\,M)\nChicken Tikka Masala with rice  and n aan (G\
+ ,M)
 DTSTART:20260317T110000
 DTEND:20260317T130000
 DTSTAMP:20260317T110000Z
 UID:2026-03-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur 
- söltuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLigh
- tly salted haddock with boiled potatoes and citrus -pepper sauce (M)
+DESCRIPTION:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur tikka masala me
+ ð hrísgrjónum og n aan (G\,M)\nChicken Tikka Masala with rice  and n aa
+ n (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóriandersúpa  – Carrot and coriander soup  (G\
- , M)\nKremaður Nautapottréttur með rauðvíni og rótargrænmeti ásamt
-  kartöflumús  (M\, G)\nCreamy beef casserole with red wine\, root vegeta
- bles and mashed potatoes  (M\, G)
+SUMMARY:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\nStei
+ ktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu og 
+ hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col d sa
+ uce and cabbage(G\,M\,E)
 DTSTART:20260318T110000
 DTEND:20260318T130000
 DTSTAMP:20260318T110000Z
 UID:2026-03-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup 
-  (G\, M)\nKremaður Nautapottréttur með rauðvíni og rótargrænmeti á
- samt kartöflumús  (M\, G)\nCreamy beef casserole with red wine\, root ve
- getables and mashed potatoes  (M\, G)
+DESCRIPTION:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\n
+ Steiktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu
+  og hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col 
+ d sauce and cabbage(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel með
-  ofnbökuðum smælki kartöflum\,  rauðkáli  og sveppasósu  (G\, M\, E
- )\nSchnitzel  with fried potatoes \, red cabbage and mushroom sauce  (G\, 
- M\, E)
+SUMMARY:Grænmetissúpa – Vegetable soup (V)\nRib eye steik með kartöf
+ lugratíni\, brok kolí og soðsósu (M\,S\,G)\nRib eye steak with potato 
+ gratin\, broccoli and demi gl ace(M \,S\,G)
 DTSTART:20260319T110000
 DTEND:20260319T130000
 DTSTAMP:20260319T110000Z
 UID:2026-03-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa – Sweet potato soup ( V)\nGrísa Snitzel 
- með ofnbökuðum smælki kartöflum\,  rauðkáli  og sveppasósu  (G\, M
- \, E)\nSchnitzel  with fried potatoes \, red cabbage and mushroom sauce  (
- G\, M\, E)
+DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nRib eye steik með kar
+ töflugratíni\, brok kolí og soðsósu (M\,S\,G)\nRib eye steak with pot
+ ato gratin\, broccoli and demi gl ace(M \,S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki\, g
- rænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with minced 
- beef vegetable and r östi (G\, M\, E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í rasp
+ i með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBreaded c
+ hicken tenderloin with loaded potatoes\, blue cheese sauce and hot sauce\n
+ (G\,M \,E)
 DTSTART:20260320T110000
 DTEND:20260320T130000
 DTSTAMP:20260320T110000Z
 UID:2026-03-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki
- \, grænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with min
- ced beef vegetable and r östi (G\, M\, E)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í 
+ raspi með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBread
+ ed chicken tenderloin with loaded potatoes\, blue cheese sauce and hot sau
+ ce\n(G\,M \,E)
 END:VEVENT
 END:VCALENDAR
