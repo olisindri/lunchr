@@ -2,69 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - og f
- en nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)\nLe
- mon – fennel marinated haddock with fried potatoes and wh ite wine sauce
- (M)
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
+ í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
+ u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
+ (M\,G)
 DTSTART:20260323T110000
 DTEND:20260323T130000
 DTSTAMP:20260323T110000Z
 UID:2026-03-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSítrónu - 
- og fen nel marineruð ýsa með steiktum kartöflum og hvítvínssósu (M)
- \nLemon – fennel marinated haddock with fried potatoes and wh ite wine s
- auce(M)
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
+ ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
+ ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
+ am (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur tikka masala með hr
- ísgrjónum og n aan (G\,M)\nChicken Tikka Masala with rice  and n aan (G\
- ,M)
+SUMMARY:Grænmetissúpa  – vegetable soup  (V)(S)\nSteiktur steinbítur 
+ í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati o
+ g piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with w
+ hite cabbage and cold pepper sauce (G\,M \,E)
 DTSTART:20260324T110000
 DTEND:20260324T130000
 DTSTAMP:20260324T110000Z
 UID:2026-03-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlaukssúpa - Leek soup  (V)\nKjúklingur tikka masala me
- ð hrísgrjónum og n aan (G\,M)\nChicken Tikka Masala with rice  and n aa
- n (G\,M)
+DESCRIPTION:Grænmetissúpa  – vegetable soup  (V)(S)\nSteiktur steinbí
+ tur í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásala
+ ti og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes wi
+ th white cabbage and cold pepper sauce (G\,M \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\nStei
- ktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu og 
- hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col d sa
- uce and cabbage(G\,M\,E)
+SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
+ G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G 
+ \,E)\nLasagna with garlic bread and cold slaw (M\,G\,E)
 DTSTART:20260325T110000
 DTEND:20260325T130000
 DTSTAMP:20260325T110000Z
 UID:2026-03-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\n
- Steiktur fiskur í arizona panco með steiktum kartöflum\, jógúrt sósu
-  og hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col 
- d sauce and cabbage(G\,M\,E)
+DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
+ (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M
+ \,G \,E)\nLasagna with garlic bread and cold slaw (M\,G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa – Vegetable soup (V)\nRib eye steik með kartöf
- lugratíni\, brok kolí og soðsósu (M\,S\,G)\nRib eye steak with potato 
- gratin\, broccoli and demi gl ace(M \,S\,G)
+SUMMARY:Skírdagur\nFöstudagur – Friday
 DTSTART:20260326T110000
 DTEND:20260326T130000
 DTSTAMP:20260326T110000Z
 UID:2026-03-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nRib eye steik með kar
- töflugratíni\, brok kolí og soðsósu (M\,S\,G)\nRib eye steak with pot
- ato gratin\, broccoli and demi gl ace(M \,S\,G)
+DESCRIPTION:Skírdagur\nFöstudagur – Friday
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í rasp
- i með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBreaded c
- hicken tenderloin with loaded potatoes\, blue cheese sauce and hot sauce\n
- (G\,M \,E)
+SUMMARY:Föstudagurinn langi
 DTSTART:20260327T110000
 DTEND:20260327T130000
 DTSTAMP:20260327T110000Z
 UID:2026-03-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í 
- raspi með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBread
- ed chicken tenderloin with loaded potatoes\, blue cheese sauce and hot sau
- ce\n(G\,M \,E)
+DESCRIPTION:Föstudagurinn langi
 END:VEVENT
 END:VCALENDAR
