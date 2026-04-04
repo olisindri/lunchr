@@ -2,59 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
- u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
- (M\,G)
+SUMMARY:Lokað\nAnnar í páskum
 DTSTART:20260330T110000
 DTEND:20260330T130000
 DTSTAMP:20260330T110000Z
 UID:2026-03-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
- ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
- am (M\,G)
+DESCRIPTION:Lokað\nAnnar í páskum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – vegetable soup  (V)(S)\nSteiktur steinbítur 
- í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati o
- g piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with w
- hite cabbage and cold pepper sauce (G\,M \,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup ( V)\nKjötbollur með k
+ artöflumús\, rauðkáli og brún ni sósu (M\,G \,E)\nMeat balls with ma
+ shed potatoes\, read cabbage and brown sauce (M\,G \,E)
 DTSTART:20260331T110000
 DTEND:20260331T130000
 DTSTAMP:20260331T110000Z
 UID:2026-03-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – vegetable soup  (V)(S)\nSteiktur steinbí
- tur í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásala
- ti og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes wi
- th white cabbage and cold pepper sauce (G\,M \,E)
+DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V)\nKjötbollur me
+ ð kartöflumús\, rauðkáli og brún ni sósu (M\,G \,E)\nMeat balls wit
+ h mashed potatoes\, read cabbage and brown sauce (M\,G \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
- G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M\,G 
- \,E)\nLasagna with garlic bread and cold slaw (M\,G\,E)
+SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
+ agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
+ í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
+ Fried fish in breadcrumbs  served with fried potatoes \, pickles  and remo
+ ulade (G\,E)
 DTSTART:20260401T110000
 DTEND:20260401T130000
 DTSTAMP:20260401T110000Z
 UID:2026-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
- (M\,G)\nLasagna á ítalskan máta með hvítlauksbrauði og hrásalati (M
- \,G \,E)\nLasagna with garlic bread and cold slaw (M\,G\,E)
+DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
+ at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
+ kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
+ E)\nFried fish in breadcrumbs  served with fried potatoes \, pickles  and 
+ remoulade (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skírdagur\nFöstudagur – Friday
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
+ Ofnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
+ u (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
 DTSTART:20260402T110000
 DTEND:20260402T130000
 DTSTAMP:20260402T110000Z
 UID:2026-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Skírdagur\nFöstudagur – Friday
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
+ V)\nOfnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soð
+ sósu (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Föstudagurinn langi
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nkjúklingahamborgari Kentucky 
+ style með mæjónesi \, wedges og brú nni sósu (G\,M\,E)\nChicken burge
+ r Kentucky style with mayo\, wedges and brown sauce(G\,M\,E)
 DTSTART:20260403T110000
 DTEND:20260403T130000
 DTSTAMP:20260403T110000Z
 UID:2026-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Föstudagurinn langi
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nkjúklingahamborgari Kentu
+ cky style með mæjónesi \, wedges og brú nni sósu (G\,M\,E)\nChicken b
+ urger Kentucky style with mayo\, wedges and brown sauce(G\,M\,E)
 END:VEVENT
 END:VCALENDAR

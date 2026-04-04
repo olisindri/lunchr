@@ -2,55 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
- num\nThai curry with vegetables and beans served with rice
+SUMMARY:Lokað\nAnnar í páskum
 DTSTART:20260330T110000
 DTEND:20260330T130000
 DTSTAMP:20260330T110000Z
 UID:2026-03-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
- rjónum\nThai curry with vegetables and beans served with rice
+DESCRIPTION:Lokað\nAnnar í páskum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
- ower  and almond buff with potatoes
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
 DTSTART:20260331T110000
 DTEND:20260331T130000
 DTSTAMP:20260331T110000Z
 UID:2026-03-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
- liflower  and almond buff with potatoes
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto  (
- H\,G)
+SUMMARY:Brokkólí - og svartbauna pottréttur með kókosmjólk\, tómat\
+ , hvítlauk\, lauk og grænmeti\nBroccoli - and black bean stew with cocon
+ ut milk\,\ntomato\, garlic\, onion and vegetables
 DTSTART:20260401T110000
 DTEND:20260401T130000
 DTSTAMP:20260401T110000Z
 UID:2026-04-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
- o  (H\,G)
+DESCRIPTION:Brokkólí - og svartbauna pottréttur með kókosmjólk\, tó
+ mat\, hvítlauk\, lauk og grænmeti\nBroccoli - and black bean stew with c
+ oconut milk\,\ntomato\, garlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skírdagur\nFöstudagur – Friday
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and Chimichurri
 DTSTART:20260402T110000
 DTEND:20260402T130000
 DTSTAMP:20260402T110000Z
 UID:2026-04-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Skírdagur\nFöstudagur – Friday
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Föstudagurinn langi\n(G) – Glúten/Gluten  (H) – Hnetur/Peanu
- ts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hví
- tlauk í okkar vegan rétti\nPlease note that we use a lot of onion and ga
- rlic for our vegan courses
+SUMMARY:Vegan kjúklinga burger með kartöflubátum (G\,S)\nvegan chicken
+   burger  with wedges (G\,S)
 DTSTART:20260403T110000
 DTEND:20260403T130000
 DTSTAMP:20260403T110000Z
 UID:2026-04-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Föstudagurinn langi\n(G) – Glúten/Gluten  (H) – Hnetur/P
- eanuts  - (S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og 
- hvítlauk í okkar vegan rétti\nPlease note that we use a lot of onion an
- d garlic for our vegan courses
+DESCRIPTION:Vegan kjúklinga burger með kartöflubátum (G\,S)\nvegan chi
+ cken  burger  with wedges (G\,S)
 END:VEVENT
 END:VCALENDAR
