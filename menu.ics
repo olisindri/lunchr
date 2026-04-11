@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í páskum
+SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSúrsætur kjúklingur með
+  hrísgrjónum\nSweet and sour chicken with rice
 DTSTART:20260406T110000
 DTEND:20260406T130000
 DTSTAMP:20260406T110000Z
 UID:2026-04-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í páskum
+DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSúrsætur kjúklingur 
+ með hrísgrjónum\nSweet and sour chicken with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup ( V)\nKjötbollur með k
- artöflumús\, rauðkáli og brún ni sósu (M\,G \,E)\nMeat balls with ma
- shed potatoes\, read cabbage and brown sauce (M\,G \,E)
+SUMMARY:Grænertusúpa  – Green pea soup\nSteinbítur í lemongras  með
+  sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M )\nCa
+ tfish in lemongras  with sweet potato  mash \,\nsoya – ginger dressing a
+ nd apple  salad(G\,S\,M )
 DTSTART:20260407T110000
 DTEND:20260407T130000
 DTSTAMP:20260407T110000Z
 UID:2026-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V)\nKjötbollur me
- ð kartöflumús\, rauðkáli og brún ni sósu (M\,G \,E)\nMeat balls wit
- h mashed potatoes\, read cabbage and brown sauce (M\,G \,E)
+DESCRIPTION:Grænertusúpa  – Green pea soup\nSteinbítur í lemongras  
+ með sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M )
+ \nCatfish in lemongras  with sweet potato  mash \,\nsoya – ginger dressi
+ ng and apple  salad(G\,S\,M )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSalat d
- agsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fiskur 
- í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,E)\n
- Fried fish in breadcrumbs  served with fried potatoes \, pickles  and remo
- ulade (G\,E)
+SUMMARY:Blómkálssúpa – Cauliflower soup  (G\,M)\nChili Con Carne með
+  hrisgrjónum \, nachos  og grískri jógúrt (M)\nChili Con Carne with ri
+ ce\, nachos and Greek yogur t(M)
 DTSTART:20260408T110000
 DTEND:20260408T130000
 DTSTAMP:20260408T110000Z
 UID:2026-04-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brauðsúpa með rjóma – Rye bread soup with cream (G)\nSal
- at dagsins – Salad of the day:  Gulrætur – Carrots ( V)\nSteiktur fis
- kur í raspi með steiktum kartöflum \, súrum gúrkum og remúlaði (G\,
- E)\nFried fish in breadcrumbs  served with fried potatoes \, pickles  and 
- remoulade (G\,E)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup  (G\,M)\nChili Con Carne 
+ með hrisgrjónum \, nachos  og grískri jógúrt (M)\nChili Con Carne wit
+ h rice\, nachos and Greek yogur t(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
- Ofnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soðsós
- u (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
+ ur svínahnakki með  rauð káli bökuðum  premium kartöflu m og rjóma
+ lagðri sósu  (M)\nRoasted pork collar with red cabbage baked potatoes an
+ d creamy  mushroom sauce  (M)
 DTSTART:20260409T110000
 DTEND:20260409T130000
 DTSTAMP:20260409T110000Z
 UID:2026-04-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
- V)\nOfnsteikt lambalæri með kartöflugratín \, rótargrænmeti  og soð
- sósu (M)\nRosted lamb with  potato gratin  vegetable and demi -glace (M)
+DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
+ eiktur svínahnakki með  rauð káli bökuðum  premium kartöflu m og rj
+ ómalagðri sósu  (M)\nRoasted pork collar with red cabbage baked potatoe
+ s and creamy  mushroom sauce  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nkjúklingahamborgari Kentucky 
- style með mæjónesi \, wedges og brú nni sósu (G\,M\,E)\nChicken burge
- r Kentucky style with mayo\, wedges and brown sauce(G\,M\,E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu m k
+ júkling ás amt kimchi rauðkáli \, nachos og sósu  (M\,G\,E\,S)\nSoft 
+ taco with chicken and  kimchi red cabbage \, nachos and sauce  (M\,G\,E\,S
+ )
 DTSTART:20260410T110000
 DTEND:20260410T130000
 DTSTAMP:20260410T110000Z
 UID:2026-04-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nkjúklingahamborgari Kentu
- cky style með mæjónesi \, wedges og brú nni sósu (G\,M\,E)\nChicken b
- urger Kentucky style with mayo\, wedges and brown sauce(G\,M\,E)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu
+  m kjúkling ás amt kimchi rauðkáli \, nachos og sósu  (M\,G\,E\,S)\nS
+ oft taco with chicken and  kimchi red cabbage \, nachos and sauce  (M\,G\,
+ E\,S)
 END:VEVENT
 END:VCALENDAR

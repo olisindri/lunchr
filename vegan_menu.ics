@@ -2,53 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í páskum
+SUMMARY:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable  Th
+ ai curry with beans and rice
 DTSTART:20260406T110000
 DTEND:20260406T130000
 DTSTAMP:20260406T110000Z
 UID:2026-04-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í páskum
+DESCRIPTION:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable
+   Thai curry with beans and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable\, c
+ old sauce
 DTSTART:20260407T110000
 DTEND:20260407T130000
 DTSTAMP:20260407T110000Z
 UID:2026-04-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable
+ \, cold sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokkólí - og svartbauna pottréttur með kókosmjólk\, tómat\
- , hvítlauk\, lauk og grænmeti\nBroccoli - and black bean stew with cocon
- ut milk\,\ntomato\, garlic\, onion and vegetables
+SUMMARY:Chili sin carne með h rísgrjónum og nachos\nChili sin carne wit
+ h rice and nachos
 DTSTART:20260408T110000
 DTEND:20260408T130000
 DTSTAMP:20260408T110000Z
 UID:2026-04-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokkólí - og svartbauna pottréttur með kókosmjólk\, tó
- mat\, hvítlauk\, lauk og grænmeti\nBroccoli - and black bean stew with c
- oconut milk\,\ntomato\, garlic\, onion and vegetables
+DESCRIPTION:Chili sin carne með h rísgrjónum og nachos\nChili sin carne
+  with rice and nachos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
- d and spiced cauliflower with hummus and Chimichurri
+SUMMARY:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nRoast
+ ed broccoli and lentils on hummus served with dressing
 DTSTART:20260409T110000
 DTEND:20260409T130000
 DTSTAMP:20260409T110000Z
 UID:2026-04-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
- asted and spiced cauliflower with hummus and Chimichurri
+DESCRIPTION:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nR
+ oasted broccoli and lentils on hummus served with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan kjúklinga burger með kartöflubátum (G\,S)\nvegan chicken
-   burger  with wedges (G\,S)
+SUMMARY:Soft taco  með vegan kjúkling  og kaldri dressingu  (G\,S)\nSoft
+  taco with vegan chicken and cold dressing (G\,S)
 DTSTART:20260410T110000
 DTEND:20260410T130000
 DTSTAMP:20260410T110000Z
 UID:2026-04-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan kjúklinga burger með kartöflubátum (G\,S)\nvegan chi
- cken  burger  with wedges (G\,S)
+DESCRIPTION:Soft taco  með vegan kjúkling  og kaldri dressingu  (G\,S)\n
+ Soft taco with vegan chicken and cold dressing (G\,S)
 END:VEVENT
 END:VCALENDAR
