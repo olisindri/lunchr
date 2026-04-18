@@ -2,55 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable  Th
- ai curry with beans and rice
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vegetabl
+ es and beans  with rice and sweet chili (G)
 DTSTART:20260413T110000
 DTEND:20260413T130000
 DTSTAMP:20260413T110000Z
 UID:2026-04-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable
-   Thai curry with beans and rice
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vege
+ tables and beans  with rice and sweet chili (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable\, c
- old sauce
+SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
+  kidney beans and onion w ith rice
 DTSTART:20260414T110000
 DTEND:20260414T130000
 DTSTAMP:20260414T110000Z
 UID:2026-04-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable
- \, cold sauce
+DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
+ ch\, kidney beans and onion w ith rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili sin carne með h rísgrjónum og nachos\nChili sin carne wit
- h rice and nachos
+SUMMARY:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja - o
+ g sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and sesame 
+  sauce  (S\,G)
 DTSTART:20260415T110000
 DTEND:20260415T130000
 DTSTAMP:20260415T110000Z
 UID:2026-04-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin carne með h rísgrjónum og nachos\nChili sin carne
-  with rice and nachos
+DESCRIPTION:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja
+  - og sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and ses
+ ame  sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nRoast
- ed broccoli and lentils on hummus served with dressing
+SUMMARY:Sumardagurinn fyrsti
 DTSTART:20260416T110000
 DTEND:20260416T130000
 DTSTAMP:20260416T110000Z
 UID:2026-04-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nR
- oasted broccoli and lentils on hummus served with dressing
+DESCRIPTION:Sumardagurinn fyrsti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soft taco  með vegan kjúkling  og kaldri dressingu  (G\,S)\nSoft
-  taco with vegan chicken and cold dressing (G\,S)
+SUMMARY:Mexico vegan lasagna með nachos (S)\nMexico vegan lasagna with na
+ chos (S)
 DTSTART:20260417T110000
 DTEND:20260417T130000
 DTSTAMP:20260417T110000Z
 UID:2026-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Soft taco  með vegan kjúkling  og kaldri dressingu  (G\,S)\n
- Soft taco with vegan chicken and cold dressing (G\,S)
+DESCRIPTION:Mexico vegan lasagna með nachos (S)\nMexico vegan lasagna wit
+ h nachos (S)
 END:VEVENT
 END:VCALENDAR

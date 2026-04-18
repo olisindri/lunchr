@@ -2,67 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nSúrsætur kjúklingur með
-  hrísgrjónum\nSweet and sour chicken with rice
+SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
+ i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 DTSTART:20260413T110000
 DTEND:20260413T130000
 DTSTAMP:20260413T110000Z
 UID:2026-04-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nSúrsætur kjúklingur 
- með hrísgrjónum\nSweet and sour chicken with rice
+DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
+ auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertusúpa  – Green pea soup\nSteinbítur í lemongras  með
-  sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M )\nCa
- tfish in lemongras  with sweet potato  mash \,\nsoya – ginger dressing a
- nd apple  salad(G\,S\,M )
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(G\,M
+ )\nLamb goulash in curry sauce with rice  (G\,M)
 DTSTART:20260414T110000
 DTEND:20260414T130000
 DTSTAMP:20260414T110000Z
 UID:2026-04-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertusúpa  – Green pea soup\nSteinbítur í lemongras  
- með sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M )
- \nCatfish in lemongras  with sweet potato  mash \,\nsoya – ginger dressi
- ng and apple  salad(G\,S\,M )
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(
+ G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup  (G\,M)\nChili Con Carne með
-  hrisgrjónum \, nachos  og grískri jógúrt (M)\nChili Con Carne with ri
- ce\, nachos and Greek yogur t(M)
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  – Sa
+ lad of the day: Grillað toppkál  (V)\nLax í mango – jalapeno  með ka
+ rr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFried sal
+ mon mango jalapeno glace with curry\nand lime sauce \, baby potatoes  and 
+ broccoli(M\,S\,G)
 DTSTART:20260415T110000
 DTEND:20260415T130000
 DTSTAMP:20260415T110000Z
 UID:2026-04-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup  (G\,M)\nChili Con Carne 
- með hrisgrjónum \, nachos  og grískri jógúrt (M)\nChili Con Carne wit
- h rice\, nachos and Greek yogur t(M)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  
+ – Salad of the day: Grillað toppkál  (V)\nLax í mango – jalapeno  m
+ eð karr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFri
+ ed salmon mango jalapeno glace with curry\nand lime sauce \, baby potatoes
+   and broccoli(M\,S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
- ur svínahnakki með  rauð káli bökuðum  premium kartöflu m og rjóma
- lagðri sósu  (M)\nRoasted pork collar with red cabbage baked potatoes an
- d creamy  mushroom sauce  (M)
+SUMMARY:Sumardagurinn Fyrsti
 DTSTART:20260416T110000
 DTEND:20260416T130000
 DTSTAMP:20260416T110000Z
 UID:2026-04-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
- eiktur svínahnakki með  rauð káli bökuðum  premium kartöflu m og rj
- ómalagðri sósu  (M)\nRoasted pork collar with red cabbage baked potatoe
- s and creamy  mushroom sauce  (M)
+DESCRIPTION:Sumardagurinn Fyrsti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu m k
- júkling ás amt kimchi rauðkáli \, nachos og sósu  (M\,G\,E\,S)\nSoft 
- taco with chicken and  kimchi red cabbage \, nachos and sauce  (M\,G\,E\,S
- )
+SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með sýrð
+ um rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos (M\,
+ G)
 DTSTART:20260417T110000
 DTEND:20260417T130000
 DTSTAMP:20260417T110000Z
 UID:2026-04-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nSoft taco með rifnu
-  m kjúkling ás amt kimchi rauðkáli \, nachos og sósu  (M\,G\,E\,S)\nS
- oft taco with chicken and  kimchi red cabbage \, nachos and sauce  (M\,G\,
- E\,S)
+DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með s
+ ýrðum rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos
+  (M\,G)
 END:VEVENT
 END:VCALENDAR
