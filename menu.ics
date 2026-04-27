@@ -2,61 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
- i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
+SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hrísgr
+ jónum og raita  sósu (M)\nTandoori haddock with rice and raita  sauce  (
+ M)
 DTSTART:20260427T110000
 DTEND:20260427T130000
 DTSTAMP:20260427T110000Z
 UID:2026-04-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
- auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
+DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hr
+ ísgrjónum og raita  sósu (M)\nTandoori haddock with rice and raita  sau
+ ce  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(G\,M
- )\nLamb goulash in curry sauce with rice  (G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSpaghe
+ tti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti bolog
+ nese with cold slaw and garlic bread(E\,G)
 DTSTART:20260428T110000
 DTEND:20260428T130000
 DTSTAMP:20260428T110000Z
 UID:2026-04-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(
- G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSp
+ aghetti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti b
+ olognese with cold slaw and garlic bread(E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  – Sa
- lad of the day: Grillað toppkál  (V)\nLax í mango – jalapeno  með ka
- rr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFried sal
- mon mango jalapeno glace with curry\nand lime sauce \, baby potatoes  and 
- broccoli(M\,S\,G)
+SUMMARY:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)\nGr
+ ænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónusósu
+ \, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon peppe
+ r sauce and rye bread (M\,G)
 DTSTART:20260429T110000
 DTEND:20260429T130000
 DTSTAMP:20260429T110000Z
 UID:2026-04-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  
- – Salad of the day: Grillað toppkál  (V)\nLax í mango – jalapeno  m
- eð karr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFri
- ed salmon mango jalapeno glace with curry\nand lime sauce \, baby potatoes
-   and broccoli(M\,S\,G)
+DESCRIPTION:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)
+ \nGrænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónus
+ ósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon p
+ epper sauce and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sumardagurinn Fyrsti
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri me
+ ð steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoasted 
+ leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
 DTSTART:20260430T110000
 DTEND:20260430T130000
 DTSTAMP:20260430T110000Z
 UID:2026-04-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sumardagurinn Fyrsti
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri
+  með steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoast
+ ed leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með sýrð
- um rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos (M\,
- G)
+SUMMARY:Frídagur verkamanna
 DTSTART:20260501T110000
 DTEND:20260501T130000
 DTSTAMP:20260501T110000Z
 UID:2026-05-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með s
- ýrðum rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos
-  (M\,G)
+DESCRIPTION:Frídagur verkamanna
 END:VEVENT
 END:VCALENDAR
