@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
  sgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vegetabl
  es and beans  with rice and sweet chili (G)
-DTSTART:20260420T110000
-DTEND:20260420T130000
-DTSTAMP:20260420T110000Z
-UID:2026-04-20T11:00:00/olisindri@gmail.com
+DTSTART:20260427T110000
+DTEND:20260427T130000
+DTSTAMP:20260427T110000Z
+UID:2026-04-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
  hrísgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vege
  tables and beans  with rice and sweet chili (G)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
  og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
   kidney beans and onion w ith rice
-DTSTART:20260421T110000
-DTEND:20260421T130000
-DTSTAMP:20260421T110000Z
-UID:2026-04-21T11:00:00/olisindri@gmail.com
+DTSTART:20260428T110000
+DTEND:20260428T130000
+DTSTAMP:20260428T110000Z
+UID:2026-04-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
  um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
  ch\, kidney beans and onion w ith rice
@@ -29,29 +29,29 @@ BEGIN:VEVENT
 SUMMARY:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja - o
  g sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and sesame 
   sauce  (S\,G)
-DTSTART:20260422T110000
-DTEND:20260422T130000
-DTSTAMP:20260422T110000Z
-UID:2026-04-22T11:00:00/olisindri@gmail.com
+DTSTART:20260429T110000
+DTEND:20260429T130000
+DTSTAMP:20260429T110000Z
+UID:2026-04-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja
   - og sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and ses
  ame  sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sumardagurinn fyrsti
-DTSTART:20260423T110000
-DTEND:20260423T130000
-DTSTAMP:20260423T110000Z
-UID:2026-04-23T11:00:00/olisindri@gmail.com
+DTSTART:20260430T110000
+DTEND:20260430T130000
+DTSTAMP:20260430T110000Z
+UID:2026-04-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sumardagurinn fyrsti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico vegan lasagna með nachos (S)\nMexico vegan lasagna with na
  chos (S)
-DTSTART:20260424T110000
-DTEND:20260424T130000
-DTSTAMP:20260424T110000Z
-UID:2026-04-24T11:00:00/olisindri@gmail.com
+DTSTART:20260501T110000
+DTEND:20260501T130000
+DTSTAMP:20260501T110000Z
+UID:2026-05-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Mexico vegan lasagna með nachos (S)\nMexico vegan lasagna wit
  h nachos (S)
 END:VEVENT

@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
  i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
-DTSTART:20260420T110000
-DTEND:20260420T130000
-DTSTAMP:20260420T110000Z
-UID:2026-04-20T11:00:00/olisindri@gmail.com
+DTSTART:20260427T110000
+DTEND:20260427T130000
+DTSTAMP:20260427T110000Z
+UID:2026-04-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
  auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
@@ -15,10 +15,10 @@ BEGIN:VEVENT
 SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (V
  )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(G\,M
  )\nLamb goulash in curry sauce with rice  (G\,M)
-DTSTART:20260421T110000
-DTEND:20260421T130000
-DTSTAMP:20260421T110000Z
-UID:2026-04-21T11:00:00/olisindri@gmail.com
+DTSTART:20260428T110000
+DTEND:20260428T130000
+DTSTAMP:20260428T110000Z
+UID:2026-04-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
    (V)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(
  G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
@@ -29,10 +29,10 @@ SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  – Sa
  rr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFried sal
  mon mango jalapeno glace with curry\nand lime sauce \, baby potatoes  and 
  broccoli(M\,S\,G)
-DTSTART:20260422T110000
-DTEND:20260422T130000
-DTSTAMP:20260422T110000Z
-UID:2026-04-22T11:00:00/olisindri@gmail.com
+DTSTART:20260429T110000
+DTEND:20260429T130000
+DTSTAMP:20260429T110000Z
+UID:2026-04-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  
  – Salad of the day: Grillað toppkál  (V)\nLax í mango – jalapeno  m
  eð karr ý og lime sósu \, kartöflusmælki  og brokkol í(M\,S\,G)\nFri
@@ -41,20 +41,20 @@ DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sumardagurinn Fyrsti
-DTSTART:20260423T110000
-DTEND:20260423T130000
-DTSTAMP:20260423T110000Z
-UID:2026-04-23T11:00:00/olisindri@gmail.com
+DTSTART:20260430T110000
+DTEND:20260430T130000
+DTSTAMP:20260430T110000Z
+UID:2026-04-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sumardagurinn Fyrsti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með sýrð
  um rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos (M\,
  G)
-DTSTART:20260424T110000
-DTEND:20260424T130000
-DTSTAMP:20260424T110000Z
-UID:2026-04-24T11:00:00/olisindri@gmail.com
+DTSTART:20260501T110000
+DTEND:20260501T130000
+DTSTAMP:20260501T110000Z
+UID:2026-05-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nMexico Lasagna með s
  ýrðum rjóma og nachos (M\,G)\nMexico Lasagna með cream fresh og nachos
   (M\,G)
