@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hrísgr
  jónum og raita  sósu (M)\nTandoori haddock with rice and raita  sauce  (
  M)
-DTSTART:20260427T110000
-DTEND:20260427T130000
-DTSTAMP:20260427T110000Z
-UID:2026-04-27T11:00:00/olisindri@gmail.com
+DTSTART:20260504T110000
+DTEND:20260504T130000
+DTSTAMP:20260504T110000Z
+UID:2026-05-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nTandoori ýsa með hr
  ísgrjónum og raita  sósu (M)\nTandoori haddock with rice and raita  sau
  ce  (M)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSpaghe
  tti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti bolog
  nese with cold slaw and garlic bread(E\,G)
-DTSTART:20260428T110000
-DTEND:20260428T130000
-DTSTAMP:20260428T110000Z
-UID:2026-04-28T11:00:00/olisindri@gmail.com
+DTSTART:20260505T110000
+DTEND:20260505T130000
+DTSTAMP:20260505T110000Z
+UID:2026-05-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup  (V)\nSp
  aghetti bolognese með hrásalati og hvítlauksbrauði (E\,G)\nSpaghetti b
  olognese with cold slaw and garlic bread(E\,G)
@@ -30,10 +30,10 @@ SUMMARY:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)\nGr
  ænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónusósu
  \, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon peppe
  r sauce and rye bread (M\,G)
-DTSTART:20260429T110000
-DTEND:20260429T130000
-DTSTAMP:20260429T110000Z
-UID:2026-04-29T11:00:00/olisindri@gmail.com
+DTSTART:20260506T110000
+DTEND:20260506T130000
+DTSTAMP:20260506T110000Z
+UID:2026-05-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)
  \nGrænmetissúpa  – Vege table s soup  (V)\nSoðin ýsa með sítrónus
  ósu\, kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon p
@@ -43,20 +43,20 @@ BEGIN:VEVENT
 SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri me
  ð steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoasted 
  leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
-DTSTART:20260430T110000
-DTEND:20260430T130000
-DTSTAMP:20260430T110000Z
-UID:2026-04-30T11:00:00/olisindri@gmail.com
+DTSTART:20260507T110000
+DTEND:20260507T130000
+DTSTAMP:20260507T110000Z
+UID:2026-05-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nOfnsteikt lambalæri
   með steiktum ratte kartöflum\, grænum baunum og piparsósu  (M)\nRoast
  ed leg og lamb with fried potatoes\, green beans  and pepper sauce (M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frídagur verkamanna
-DTSTART:20260501T110000
-DTEND:20260501T130000
-DTSTAMP:20260501T110000Z
-UID:2026-05-01T11:00:00/olisindri@gmail.com
+DTSTART:20260508T110000
+DTEND:20260508T130000
+DTSTAMP:20260508T110000Z
+UID:2026-05-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Frídagur verkamanna
 END:VEVENT
 END:VCALENDAR
