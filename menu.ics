@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime - k
  óriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLime 
  – coriander chicken with barley  and curry - coconut  sauce  (G)
-DTSTART:20260504T110000
-DTEND:20260504T130000
-DTSTAMP:20260504T110000Z
-UID:2026-05-04T11:00:00/olisindri@gmail.com
+DTSTART:20260511T110000
+DTEND:20260511T130000
+DTSTAMP:20260511T110000Z
+UID:2026-05-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime 
  - kóriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLi
  me – coriander chicken with barley  and curry - coconut  sauce  (G)
@@ -17,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur söl
  tuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLightly 
  salted haddock with boiled potatoes and citrus -pepper sauce (M)
-DTSTART:20260505T110000
-DTEND:20260505T130000
-DTSTAMP:20260505T110000Z
-UID:2026-05-05T11:00:00/olisindri@gmail.com
+DTSTART:20260512T110000
+DTEND:20260512T130000
+DTSTAMP:20260512T110000Z
+UID:2026-05-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur 
  söltuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLigh
  tly salted haddock with boiled potatoes and citrus -pepper sauce (M)
@@ -30,10 +30,10 @@ SUMMARY:Gulrótar - og kóriandersúpa  – Carrot and coriander soup  (G\
  , M)\nNauta stroganoff með sinneps -parmesan kartöflumús ásamt rababar
  asultu (M\,G\,E)\nBeef stroganoff with mustard -parmesan potato mash and j
  am (M\,G\,E)
-DTSTART:20260506T110000
-DTEND:20260506T130000
-DTSTAMP:20260506T110000Z
-UID:2026-05-06T11:00:00/olisindri@gmail.com
+DTSTART:20260513T110000
+DTEND:20260513T130000
+DTSTAMP:20260513T110000Z
+UID:2026-05-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup 
   (G\, M)\nNauta stroganoff með sinneps -parmesan kartöflumús ásamt rab
  abarasultu (M\,G\,E)\nBeef stroganoff with mustard -parmesan potato mash a
@@ -41,20 +41,20 @@ DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\nUpstigningardagur
-DTSTART:20260507T110000
-DTEND:20260507T130000
-DTSTAMP:20260507T110000Z
-UID:2026-05-07T11:00:00/olisindri@gmail.com
+DTSTART:20260514T110000
+DTEND:20260514T130000
+DTSTAMP:20260514T110000Z
+UID:2026-05-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nUpstigningardagur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki\, g
  rænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with minced 
  beef vegetable and r östi (G\, M\, E)
-DTSTART:20260508T110000
-DTEND:20260508T130000
-DTSTAMP:20260508T110000Z
-UID:2026-05-08T11:00:00/olisindri@gmail.com
+DTSTART:20260515T110000
+DTEND:20260515T130000
+DTSTAMP:20260515T110000Z
+UID:2026-05-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki
  \, grænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with min
  ced beef vegetable and r östi (G\, M\, E)

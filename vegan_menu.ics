@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
   lentils and rice
-DTSTART:20260504T110000
-DTEND:20260504T130000
-DTSTAMP:20260504T110000Z
-UID:2026-05-04T11:00:00/olisindri@gmail.com
+DTSTART:20260511T110000
+DTEND:20260511T130000
+DTSTAMP:20260511T110000Z
+UID:2026-05-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
  with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetable red cu
  rry with beans and vegetables
-DTSTART:20260505T110000
-DTEND:20260505T130000
-DTSTAMP:20260505T110000Z
-UID:2026-05-05T11:00:00/olisindri@gmail.com
+DTSTART:20260512T110000
+DTEND:20260512T130000
+DTSTAMP:20260512T110000Z
+UID:2026-05-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetable re
  d curry with beans and vegetables
 END:VEVENT
@@ -25,30 +25,30 @@ BEGIN:VEVENT
 SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum\násamt hrís
  grjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, noodl
  es and peas\nserved with rice and sweet chili sauce (G)
-DTSTART:20260506T110000
-DTEND:20260506T130000
-DTSTAMP:20260506T110000Z
-UID:2026-05-06T11:00:00/olisindri@gmail.com
+DTSTART:20260513T110000
+DTEND:20260513T130000
+DTSTAMP:20260513T110000Z
+UID:2026-05-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum\násamt h
  rísgrjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, n
  oodles and peas\nserved with rice and sweet chili sauce (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20260507T110000
-DTEND:20260507T130000
-DTSTAMP:20260507T110000Z
-UID:2026-05-07T11:00:00/olisindri@gmail.com
+DTSTART:20260514T110000
+DTEND:20260514T130000
+DTSTAMP:20260514T110000Z
+UID:2026-05-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kartöfl
  um (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti potatoe
  s (G)
-DTSTART:20260508T110000
-DTEND:20260508T130000
-DTSTAMP:20260508T110000Z
-UID:2026-05-08T11:00:00/olisindri@gmail.com
+DTSTART:20260515T110000
+DTEND:20260515T130000
+DTSTAMP:20260515T110000Z
+UID:2026-05-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kart
  öflum (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti pot
  atoes (G)
