@@ -2,61 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime - k
- óriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLime 
- – coriander chicken with barley  and curry - coconut  sauce  (G)
+SUMMARY:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSteiktar fiskibo
+ llur með hrísgrjónum og karrý sósu (G\,M\,E)\nFried fish balls with r
+ ice and curry sauce(G\,M\,E)
 DTSTART:20260511T110000
 DTEND:20260511T130000
 DTSTAMP:20260511T110000Z
 UID:2026-05-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nLime 
- - kóriander kjúklingur með bygg  salati og kókos karrý sósu  (G)\nLi
- me – coriander chicken with barley  and curry - coconut  sauce  (G)
+DESCRIPTION:Kremuð tómatsúpa  – Creamy tomato soup  (M)\nSteiktar fis
+ kibollur með hrísgrjónum og karrý sósu (G\,M\,E)\nFried fish balls wi
+ th rice and curry sauce(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur söl
- tuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLightly 
- salted haddock with boiled potatoes and citrus -pepper sauce (M)
+SUMMARY:Blaðlaukssúpa - Leek soup  (V)\nChili con carne með hrisgrjónu
+ m og nachos og grískri jógúrt (M)\nChili con carne with rice and nachos
+  and  yogurt  (M)
 DTSTART:20260512T110000
 DTEND:20260512T130000
 DTSTAMP:20260512T110000Z
 UID:2026-05-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup ( V)\nNætur 
- söltuð ýsa með soðnum kartöflum og sítrónu -pipar sósu  (M)\nLigh
- tly salted haddock with boiled potatoes and citrus -pepper sauce (M)
+DESCRIPTION:Blaðlaukssúpa - Leek soup  (V)\nChili con carne með hrisgrj
+ ónum og nachos og grískri jógúrt (M)\nChili con carne with rice and na
+ chos and  yogurt  (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóriandersúpa  – Carrot and coriander soup  (G\
- , M)\nNauta stroganoff með sinneps -parmesan kartöflumús ásamt rababar
- asultu (M\,G\,E)\nBeef stroganoff with mustard -parmesan potato mash and j
- am (M\,G\,E)
+SUMMARY:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\nStei
+ ktur fiskur í Arizona panco með steiktum kartöflum\, jógúrt sósu og 
+ hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col d sa
+ uce and cabbage(G\,M\,E)
 DTSTART:20260513T110000
 DTEND:20260513T130000
 DTSTAMP:20260513T110000Z
 UID:2026-05-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup 
-  (G\, M)\nNauta stroganoff með sinneps -parmesan kartöflumús ásamt rab
- abarasultu (M\,G\,E)\nBeef stroganoff with mustard -parmesan potato mash a
- nd jam (M\,G\,E)
+DESCRIPTION:Gulrótar - og engifersúpa  – Carrot and ginger  soup (M)\n
+ Steiktur fiskur í Arizona panco með steiktum kartöflum\, jógúrt sósu
+  og hvítkáli (G\,M\,E)\nFried fish with Arizona panko \, potatoes\, col 
+ d sauce and cabbage(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað\nUpstigningardagur
+SUMMARY:Grænmetissúpa – Vegetable soup (V)\nGrísa Snitzel með ofntei
+ ktum kartöflum  rauðkáli  og sveppasósu (M\,G\,E)\nSnitzel with fried 
+ potatoes red cabbage and mushroom sauce (M\, G\,E)
 DTSTART:20260514T110000
 DTEND:20260514T130000
 DTSTAMP:20260514T110000Z
 UID:2026-05-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nUpstigningardagur
+DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nGrísa Snitzel með of
+ nteiktum kartöflum  rauðkáli  og sveppasósu (M\,G\,E)\nSnitzel with fr
+ ied potatoes red cabbage and mushroom sauce (M\, G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki\, g
- rænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with minced 
- beef vegetable and r östi (G\, M\, E)
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í rasp
+ i með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBreaded c
+ hicken tenderloin with loaded potatoes\, blue cheese sauce and hot sauce\n
+ (G\,M \,E)
 DTSTART:20260515T110000
 DTEND:20260515T130000
 DTSTAMP:20260515T110000Z
 UID:2026-05-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\, G\, E\, H )\nPíta með hakki
- \, grænmeti\, pítusósu og rösti kartöflum  (G\, E\, M)\npita with min
- ced beef vegetable and r östi (G\, M\, E)
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nKjúklingalundir í 
+ raspi með loaded kartöflum hot sauce og gráðostasósu(G\,M \,E)\nBread
+ ed chicken tenderloin with loaded potatoes\, blue cheese sauce and hot sau
+ ce\n(G\,M \,E)
 END:VEVENT
 END:VCALENDAR
