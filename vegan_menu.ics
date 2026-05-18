@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt hr
  ísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles\, 
  vegetables and peas\nserved with rice and sweet chili sauce (G)
-DTSTART:20260511T110000
-DTEND:20260511T130000
-DTSTAMP:20260511T110000Z
-UID:2026-05-11T11:00:00/olisindri@gmail.com
+DTSTART:20260518T110000
+DTEND:20260518T130000
+DTSTAMP:20260518T110000Z
+UID:2026-05-18T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum\násamt
   hrísgrjónum og sætri chili sósu (G)\nSpring rolls filled with noodles
  \, vegetables and peas\nserved with rice and sweet chili sauce (G)
@@ -16,20 +16,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chili sin carne með hrisgrjónum  (S\,G)\nChili sin carne with ri
  ce (S\,G)
-DTSTART:20260512T110000
-DTEND:20260512T130000
-DTSTAMP:20260512T110000Z
-UID:2026-05-12T11:00:00/olisindri@gmail.com
+DTSTART:20260519T110000
+DTEND:20260519T130000
+DTSTAMP:20260519T110000Z
+UID:2026-05-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Chili sin carne með hrisgrjónum  (S\,G)\nChili sin carne wit
  h rice (S\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítlauk  
  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic (G)
-DTSTART:20260513T110000
-DTEND:20260513T130000
-DTSTAMP:20260513T110000Z
-UID:2026-05-13T11:00:00/olisindri@gmail.com
+DTSTART:20260520T110000
+DTEND:20260520T130000
+DTSTAMP:20260520T110000Z
+UID:2026-05-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Penne pasta með tómat\, baunum\, grænmeti\, lauk og hvítla
  uk  (G)\nPenne pasta with tomatoes\, beans\, vegetables\, onion and garlic
   (G)
@@ -38,10 +38,10 @@ BEGIN:VEVENT
 SUMMARY:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násamt ka
  rtöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - and 
  vegetable steak\nserved with baby  potatoes and pepper sauce  (H)
-DTSTART:20260514T110000
-DTEND:20260514T130000
-DTSTAMP:20260514T110000Z
-UID:2026-05-14T11:00:00/olisindri@gmail.com
+DTSTART:20260521T110000
+DTEND:20260521T130000
+DTSTAMP:20260521T110000Z
+UID:2026-05-21T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hnetu -\, svartbauna -\, kartöflu - og grænmetissteik\násam
  t kartöflusmælki og piparsósu  (H)\nCashew -\, black bean -\, potato - 
  and vegetable steak\nserved with baby  potatoes and pepper sauce  (H)
@@ -50,10 +50,10 @@ BEGIN:VEVENT
 SUMMARY:Blókálsvængir með hot sauce og kartöflum (G\,S)\nCaulif lower
   wings with hot sauce and potatoes( G\,S)\n(G) – Glúten/Gluten  (H) –
   Hnetur/Peanuts  - (S)- Soyja/Soya
-DTSTART:20260515T110000
-DTEND:20260515T130000
-DTSTAMP:20260515T110000Z
-UID:2026-05-15T11:00:00/olisindri@gmail.com
+DTSTART:20260522T110000
+DTEND:20260522T130000
+DTSTAMP:20260522T110000Z
+UID:2026-05-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blókálsvængir með hot sauce og kartöflum (G\,S)\nCaulif l
  ower wings with hot sauce and potatoes( G\,S)\n(G) – Glúten/Gluten  (H)
   – Hnetur/Peanuts  - (S)- Soyja/Soya
