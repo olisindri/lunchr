@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Lokað\nAnnar í Hvítasunnu
-DTSTART:20260518T110000
-DTEND:20260518T130000
-DTSTAMP:20260518T110000Z
-UID:2026-05-18T11:00:00/olisindri@gmail.com
+DTSTART:20260525T110000
+DTEND:20260525T130000
+DTSTAMP:20260525T110000Z
+UID:2026-05-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\nAnnar í Hvítasunnu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Basil -chili-tómatsúpa – Basil -chili-tomatosoup  (V)\nÝsa í
   tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\
  nHaddock in t hai curry and coconut\, rice with bamboo (G\,S)
-DTSTART:20260519T110000
-DTEND:20260519T130000
-DTSTAMP:20260519T110000Z
-UID:2026-05-19T11:00:00/olisindri@gmail.com
+DTSTART:20260526T110000
+DTEND:20260526T130000
+DTSTAMP:20260526T110000Z
+UID:2026-05-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili-tomatosoup  (V)\nÝs
  a í tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\
  ,S)\nHaddock in t hai curry and coconut\, rice with bamboo (G\,S)
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Hvít aspassúpa – White asparagus soup (M)\nLasagna á ítalska
  n máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garl
  ic bread and cold slaw(G\,M\,E)
-DTSTART:20260520T110000
-DTEND:20260520T130000
-DTSTAMP:20260520T110000Z
-UID:2026-05-20T11:00:00/olisindri@gmail.com
+DTSTART:20260527T110000
+DTEND:20260527T130000
+DTSTAMP:20260527T110000Z
+UID:2026-05-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hvít aspassúpa – White asparagus soup (M)\nLasagna á íta
  lskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with 
  garlic bread and cold slaw(G\,M\,E)
@@ -37,10 +37,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteikt lambalæri með 
  kartöflugratín \, rótargrænmeti  og soðsósu (M)\nRosted lamb with  p
  otato gratin  vegetable and demi -glace (M)
-DTSTART:20260521T110000
-DTEND:20260521T130000
-DTSTAMP:20260521T110000Z
-UID:2026-05-21T11:00:00/olisindri@gmail.com
+DTSTART:20260528T110000
+DTEND:20260528T130000
+DTSTAMP:20260528T110000Z
+UID:2026-05-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteikt lambalæri m
  eð kartöflugratín \, rótargrænmeti  og soðsósu (M)\nRosted lamb wit
  h  potato gratin  vegetable and demi -glace (M)
@@ -50,10 +50,10 @@ SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger " California
    style" með av ókadó\, sinepssósu og wedges (G\,M\,E)\nChicken burger
   “ California  style” with avocado\, mustard sauce and wedges (G\,M\,E
  )\nInnihaldslýsingar – Ingredient’s  descriptions
-DTSTART:20260522T110000
-DTEND:20260522T130000
-DTSTAMP:20260522T110000Z
-UID:2026-05-22T11:00:00/olisindri@gmail.com
+DTSTART:20260529T110000
+DTEND:20260529T130000
+DTSTAMP:20260529T110000Z
+UID:2026-05-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger " Califo
  rnia  style" með av ókadó\, sinepssósu og wedges (G\,M\,E)\nChicken bu
  rger “ California  style” with avocado\, mustard sauce and wedges (G\,
