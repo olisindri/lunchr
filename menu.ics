@@ -2,61 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í Hvítasunnu
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
+ í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
+ u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
+ (M\,G)
 DTSTART:20260525T110000
 DTEND:20260525T130000
 DTSTAMP:20260525T110000Z
 UID:2026-05-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í Hvítasunnu
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
+ ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
+ ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
+ am (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili-tomatosoup  (V)\nÝsa í
-  tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\
- nHaddock in t hai curry and coconut\, rice with bamboo (G\,S)
+SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í 
+ trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
+ iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
+ e cabbage and cold pepper sauce (G\,M \,E)
 DTSTART:20260526T110000
 DTEND:20260526T130000
 DTSTAMP:20260526T110000Z
 UID:2026-05-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili-tomatosoup  (V)\nÝs
- a í tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\
- ,S)\nHaddock in t hai curry and coconut\, rice with bamboo (G\,S)
+DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
+  í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
+ og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
+ white cabbage and cold pepper sauce (G\,M \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup (M)\nLasagna á ítalska
- n máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garl
- ic bread and cold slaw(G\,M\,E)
+SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
+ G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\,G\,
+ M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,G\,M
+ )
 DTSTART:20260527T110000
 DTEND:20260527T130000
 DTSTAMP:20260527T110000Z
 UID:2026-05-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup (M)\nLasagna á íta
- lskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with 
- garlic bread and cold slaw(G\,M\,E)
+DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
+ (M\,G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\
+ ,G\,M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,
+ G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteikt lambalæri með 
- kartöflugratín \, rótargrænmeti  og soðsósu (M)\nRosted lamb with  p
- otato gratin  vegetable and demi -glace (M)
+SUMMARY:Grænmetis súpa - Vegetable soup\nKalkúnabringa í timian og a p
+ pelsínu með  eplasalati \, sætkartöflumús og gravy (M\,G)\nTurk ey br
+ east in thyme and orange with apple salat\, sweet potato and gravy (M\,G)
 DTSTART:20260528T110000
 DTEND:20260528T130000
 DTSTAMP:20260528T110000Z
 UID:2026-05-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteikt lambalæri m
- eð kartöflugratín \, rótargrænmeti  og soðsósu (M)\nRosted lamb wit
- h  potato gratin  vegetable and demi -glace (M)
+DESCRIPTION:Grænmetis súpa - Vegetable soup\nKalkúnabringa í timian og
+  a ppelsínu með  eplasalati \, sætkartöflumús og gravy (M\,G)\nTurk e
+ y breast in thyme and orange with apple salat\, sweet potato and gravy (M\
+ ,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger " California
-   style" með av ókadó\, sinepssósu og wedges (G\,M\,E)\nChicken burger
-  “ California  style” with avocado\, mustard sauce and wedges (G\,M\,E
- )\nInnihaldslýsingar – Ingredient’s  descriptions
+SUMMARY:Desert\nSnittsel hamborgari með súrum gúrkum og sveppasósu (G\
+ ,M)\nSchnitzel burger with pickled cucumber and mushroom sauce (G\,M)
 DTSTART:20260529T110000
 DTEND:20260529T130000
 DTSTAMP:20260529T110000Z
 UID:2026-05-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nKjúklinga burger " Califo
- rnia  style" með av ókadó\, sinepssósu og wedges (G\,M\,E)\nChicken bu
- rger “ California  style” with avocado\, mustard sauce and wedges (G\,
- M\,E)\nInnihaldslýsingar – Ingredient’s  descriptions
+DESCRIPTION:Desert\nSnittsel hamborgari með súrum gúrkum og sveppasósu
+  (G\,M)\nSchnitzel burger with pickled cucumber and mushroom sauce (G\,M)
 END:VEVENT
 END:VCALENDAR

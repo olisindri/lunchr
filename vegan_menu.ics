@@ -2,51 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nAnnar í hvítasunnu
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
+ num\nThai curry with vegetables and beans served with rice
 DTSTART:20260525T110000
 DTEND:20260525T130000
 DTSTAMP:20260525T110000Z
 UID:2026-05-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nAnnar í hvítasunnu
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
+ rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
- uce and cous cous (G)
+SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
+ ower and  almond buff with potatoes
 DTSTART:20260526T110000
 DTEND:20260526T130000
 DTSTAMP:20260526T110000Z
 UID:2026-05-26T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
- e sauce and cous cous (G)
+DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
+ liflower and  almond buff with potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto (H
- \,G)
+SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
+ sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
+ G\,S)
 DTSTART:20260527T110000
 DTEND:20260527T130000
 DTSTAMP:20260527T110000Z
 UID:2026-05-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
- o (H\,G)
+DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
+ sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
+ e  (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis massam an karrý með hrísgrjónum\nVegetable massam a
- n curry with rice
+SUMMARY:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u\nVe
+ gan chicken wit h sweet potatoes and cold dressing
 DTSTART:20260528T110000
 DTEND:20260528T130000
 DTSTAMP:20260528T110000Z
 UID:2026-05-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis massam an karrý með hrísgrjónum\nVegetable mass
- am an curry with rice
+DESCRIPTION:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u
+ \nVegan chicken wit h sweet potatoes and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan burger með grænmeti\, " California  style"\nvegan chicken 
-  burger  with  vegetables \,  "California  style"
+SUMMARY:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,S)\n
+ Vegan schnitzel burger with pickled cucumber and mushroom sauce (G\,S)\n(G
+ ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
+ ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
+ ase note that we use a lot of onion and garlic for our vegan courses
 DTSTART:20260529T110000
 DTEND:20260529T130000
 DTSTAMP:20260529T110000Z
 UID:2026-05-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan burger með grænmeti\, " California  style"\nvegan chic
- ken  burger  with  vegetables \,  "California  style"
+DESCRIPTION:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,
+ S)\nVegan schnitzel burger with pickled cucumber and mushroom sauce (G\,S)
+ \n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsa
+ mlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\
+ nPlease note that we use a lot of onion and garlic for our vegan courses
 END:VEVENT
 END:VCALENDAR
