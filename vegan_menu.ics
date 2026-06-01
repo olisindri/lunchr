@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
  num\nThai curry with vegetables and beans served with rice
-DTSTART:20260525T110000
-DTEND:20260525T130000
-DTSTAMP:20260525T110000Z
-UID:2026-05-25T11:00:00/olisindri@gmail.com
+DTSTART:20260601T110000
+DTEND:20260601T130000
+DTSTAMP:20260601T110000Z
+UID:2026-06-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
  rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
  ower and  almond buff with potatoes
-DTSTART:20260526T110000
-DTEND:20260526T130000
-DTSTAMP:20260526T110000Z
-UID:2026-05-26T11:00:00/olisindri@gmail.com
+DTSTART:20260602T110000
+DTEND:20260602T130000
+DTSTAMP:20260602T110000Z
+UID:2026-06-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
  liflower and  almond buff with potatoes
 END:VEVENT
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
  sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
  G\,S)
-DTSTART:20260527T110000
-DTEND:20260527T130000
-DTSTAMP:20260527T110000Z
-UID:2026-05-27T11:00:00/olisindri@gmail.com
+DTSTART:20260603T110000
+DTEND:20260603T130000
+DTSTAMP:20260603T110000Z
+UID:2026-06-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
  sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
  e  (G\,S)
@@ -36,10 +36,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u\nVe
  gan chicken wit h sweet potatoes and cold dressing
-DTSTART:20260528T110000
-DTEND:20260528T130000
-DTSTAMP:20260528T110000Z
-UID:2026-05-28T11:00:00/olisindri@gmail.com
+DTSTART:20260604T110000
+DTEND:20260604T130000
+DTSTAMP:20260604T110000Z
+UID:2026-06-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u
  \nVegan chicken wit h sweet potatoes and cold dressing
 END:VEVENT
@@ -49,10 +49,10 @@ SUMMARY:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,S)\n
  ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
  ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
  ase note that we use a lot of onion and garlic for our vegan courses
-DTSTART:20260529T110000
-DTEND:20260529T130000
-DTSTAMP:20260529T110000Z
-UID:2026-05-29T11:00:00/olisindri@gmail.com
+DTSTART:20260605T110000
+DTEND:20260605T130000
+DTSTAMP:20260605T110000Z
+UID:2026-06-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,
  S)\nVegan schnitzel burger with pickled cucumber and mushroom sauce (G\,S)
  \n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsa
