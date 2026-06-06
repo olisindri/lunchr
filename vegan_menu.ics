@@ -2,61 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
- num\nThai curry with vegetables and beans served with rice
+SUMMARY:Falafel með tagine sósu og cous cous (G)\nFalafel with tagine sa
+ uce and cous cous (G)
 DTSTART:20260601T110000
 DTEND:20260601T130000
 DTSTAMP:20260601T110000Z
 UID:2026-06-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
- rjónum\nThai curry with vegetables and beans served with rice
+DESCRIPTION:Falafel með tagine sósu og cous cous (G)\nFalafel with tagin
+ e sauce and cous cous (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
- ower and  almond buff with potatoes
+SUMMARY:Vegan pasta Alfredo með brauði (G)\nVegna pasta Alfredo with bre
+ ad (G)
 DTSTART:20260602T110000
 DTEND:20260602T130000
 DTSTAMP:20260602T110000Z
 UID:2026-06-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
- liflower and  almond buff with potatoes
+DESCRIPTION:Vegan pasta Alfredo með brauði (G)\nVegna pasta Alfredo with
+  bread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
- sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
- G\,S)
+SUMMARY:Brokk olí- og svartbauna pottréttur með kókosmjólk\, tómat\,
+  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
+ onut milk\,\ntomato\, garlic\, onion and vegetables
 DTSTART:20260603T110000
 DTEND:20260603T130000
 DTSTAMP:20260603T110000Z
 UID:2026-06-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
- sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
- e  (G\,S)
+DESCRIPTION:Brokk olí- og svartbauna pottréttur með kókosmjólk\, tóm
+ at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
+  coconut milk\,\ntomato\, garlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u\nVe
- gan chicken wit h sweet potatoes and cold dressing
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and Chimichurri
 DTSTART:20260604T110000
 DTEND:20260604T130000
 DTSTAMP:20260604T110000Z
 UID:2026-06-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan kjúklingur með sætkartöflumús  og kaldri dressing u
- \nVegan chicken wit h sweet potatoes and cold dressing
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,S)\n
- Vegan schnitzel burger with pickled cucumber and mushroom sauce (G\,S)\n(G
- ) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsamleg
- ast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\nPle
- ase note that we use a lot of onion and garlic for our vegan courses
+SUMMARY:Five spice  ekki kjúklingur með kartöflum\nTandoori vegan chick
+ en with potatoes
 DTSTART:20260605T110000
 DTEND:20260605T130000
 DTSTAMP:20260605T110000Z
 UID:2026-06-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan schnitzel burger með súrum gúrkum og sveppasósu (G\,
- S)\nVegan schnitzel burger with pickled cucumber and mushroom sauce (G\,S)
- \n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/Soya\nVinsa
- mlegast athugið að notum mikinn lauk og hvítlauk í okkar vegan rétti\
- nPlease note that we use a lot of onion and garlic for our vegan courses
+DESCRIPTION:Five spice  ekki kjúklingur með kartöflum\nTandoori vegan c
+ hicken with potatoes
 END:VEVENT
 END:VCALENDAR
