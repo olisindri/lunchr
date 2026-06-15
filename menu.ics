@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nKremaður grísa pottur me
  ð döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (M\,G)\n
  Creamy pork pot with dates\, cream cheese\, tomatoes and potatoes (M\,G)
-DTSTART:20260608T110000
-DTEND:20260608T130000
-DTSTAMP:20260608T110000Z
-UID:2026-06-08T11:00:00/olisindri@gmail.com
+DTSTART:20260615T110000
+DTEND:20260615T130000
+DTSTAMP:20260615T110000Z
+UID:2026-06-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nKremaður grísa pottur
   með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (M\,G
  )\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (M\,G
@@ -19,10 +19,10 @@ SUMMARY:Grænertusúpa – Green pea soup\nSteinbítur í lemongras  með
  sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M \,H)\n
  Catfish in lemongrass  with sweet potato  mash \,\nsoya – ginger dressin
  g and apple  salad(G\,S\,M\,H)
-DTSTART:20260609T110000
-DTEND:20260609T130000
-DTSTAMP:20260609T110000Z
-UID:2026-06-09T11:00:00/olisindri@gmail.com
+DTSTART:20260616T110000
+DTEND:20260616T130000
+DTSTAMP:20260616T110000Z
+UID:2026-06-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænertusúpa – Green pea soup\nSteinbítur í lemongras  m
  eð sætkartöflumús\, soja - engifer dressing og eplasalati  (G\,S\,M \,
  H)\nCatfish in lemongrass  with sweet potato  mash \,\nsoya – ginger dre
@@ -30,20 +30,20 @@ DESCRIPTION:Grænertusúpa – Green pea soup\nSteinbítur í lemongras  m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokað\n17. júní
-DTSTART:20260610T110000
-DTEND:20260610T130000
-DTSTAMP:20260610T110000Z
-UID:2026-06-10T11:00:00/olisindri@gmail.com
+DTSTART:20260617T110000
+DTEND:20260617T130000
+DTSTAMP:20260617T110000Z
+UID:2026-06-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað\n17. júní
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
   Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg o f
   lamb with potato gratin and mushroom sauce (G\,M\,S)
-DTSTART:20260611T110000
-DTEND:20260611T130000
-DTSTAMP:20260611T110000Z
-UID:2026-06-11T11:00:00/olisindri@gmail.com
+DTSTART:20260618T110000
+DTEND:20260618T130000
+DTSTAMP:20260618T110000Z
+UID:2026-06-18T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
  eikt Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg
   o f lamb with potato gratin and mushroom sauce (G\,M\,S)
@@ -52,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki\, s
  alsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi nced 
  beef\, crème fresh\, feta and nachos (M)
-DTSTART:20260612T110000
-DTEND:20260612T130000
-DTSTAMP:20260612T110000Z
-UID:2026-06-12T11:00:00/olisindri@gmail.com
+DTSTART:20260619T110000
+DTEND:20260619T130000
+DTSTAMP:20260619T110000Z
+UID:2026-06-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki
  \, salsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi n
  ced beef\, crème fresh\, feta and nachos (M)
