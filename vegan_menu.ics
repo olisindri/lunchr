@@ -2,53 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable  Th
- ai curry with beans and rice
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vegetabl
+ es and beans  with rice and sweet chili (G)
 DTSTART:20260615T110000
 DTEND:20260615T130000
 DTSTAMP:20260615T110000Z
 UID:2026-06-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og hrísgrjónum\nVegetable
-   Thai curry with beans and rice
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vege
+ tables and beans  with rice and sweet chili (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable\, c
- old sauce
+SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
+  kidney beans and onion w ith rice
 DTSTART:20260616T110000
 DTEND:20260616T130000
 DTSTAMP:20260616T110000Z
 UID:2026-06-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable
- \, cold sauce
+DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
+ ch\, kidney beans and onion w ith rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokað
+SUMMARY:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja - o
+ g sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and sesame 
+  sauce  (S\,G)
 DTSTART:20260617T110000
 DTEND:20260617T130000
 DTSTAMP:20260617T110000Z
 UID:2026-06-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað
+DESCRIPTION:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja
+  - og sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and ses
+ ame  sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nRoast
- ed broccoli and lentils on hummus served with dressing
+SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel with
+  potatoes and mushroom sauce
 DTSTART:20260618T110000
 DTEND:20260618T130000
 DTSTAMP:20260618T110000Z
 UID:2026-06-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nR
- oasted broccoli and lentils on hummus served with dressing
+DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel 
+ with potatoes and mushroom sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco with
-  vegan chicken and cold dressing (G\,S)
+SUMMARY:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og brokol
+ i í yuzu og\nsoya\nVegan chicken with chimichurri and rice
 DTSTART:20260619T110000
 DTEND:20260619T130000
 DTSTAMP:20260619T110000Z
 UID:2026-06-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco 
- with vegan chicken and cold dressing (G\,S)
+DESCRIPTION:Ekki kjúklingur í rauðu chimichurri með hrisgrjónum og br
+ okoli í yuzu og\nsoya\nVegan chicken with chimichurri and rice
 END:VEVENT
 END:VCALENDAR
