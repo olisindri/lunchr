@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
  i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
-DTSTART:20260615T110000
-DTEND:20260615T130000
-DTSTAMP:20260615T110000Z
-UID:2026-06-15T11:00:00/olisindri@gmail.com
+DTSTART:20260622T110000
+DTEND:20260622T130000
+DTSTAMP:20260622T110000Z
+UID:2026-06-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
  auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
@@ -15,10 +15,10 @@ BEGIN:VEVENT
 SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel\nLa
  mbakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(G\,M)\nLa
  mb goulash in curry sauce with rice  (G\,M)
-DTSTART:20260616T110000
-DTEND:20260616T130000
-DTSTAMP:20260616T110000Z
-UID:2026-06-16T11:00:00/olisindri@gmail.com
+DTSTART:20260623T110000
+DTEND:20260623T130000
+DTSTAMP:20260623T110000Z
+UID:2026-06-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
  \nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði(G\,M)
  \nLamb goulash in curry sauce with rice  (G\,M)
@@ -28,10 +28,10 @@ SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  – Sa
  lad of the day: Grillað toppkál  (V)\nOfnsteiktur laxí miso með kryddh
  rísgrjónum og jógúrtsósu (S)\nFried salmon in miso with fried rice an
  d yogurt sauce(S)
-DTSTART:20260617T110000
-DTEND:20260617T130000
-DTSTAMP:20260617T110000Z
-UID:2026-06-17T11:00:00/olisindri@gmail.com
+DTSTART:20260624T110000
+DTEND:20260624T130000
+DTSTAMP:20260624T110000Z
+UID:2026-06-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nSalat dagsins  
  – Salad of the day: Grillað toppkál  (V)\nOfnsteiktur laxí miso með 
  kryddhrísgrjónum og jógúrtsósu (S)\nFried salmon in miso with fried r
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetissúpa – Vegetable soup\nNauta snitsel með steiktum ka
  rtöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with fried pot
  atoes\, mushroom sauce and red cabbage (M\,G)
-DTSTART:20260618T110000
-DTEND:20260618T130000
-DTSTAMP:20260618T110000Z
-UID:2026-06-18T11:00:00/olisindri@gmail.com
+DTSTART:20260625T110000
+DTEND:20260625T130000
+DTSTAMP:20260625T110000Z
+UID:2026-06-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetissúpa – Vegetable soup\nNauta snitsel með steiktu
  m kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with fried
   potatoes\, mushroom sauce and red cabbage (M\,G)
@@ -53,10 +53,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu chim
  ichurri með hrisgrjónum og brokoli í yuzu og soya\nChicken in red chimi
  churri with rice and broccoli
-DTSTART:20260619T110000
-DTEND:20260619T130000
-DTSTAMP:20260619T110000Z
-UID:2026-06-19T11:00:00/olisindri@gmail.com
+DTSTART:20260626T110000
+DTEND:20260626T130000
+DTSTAMP:20260626T110000Z
+UID:2026-06-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nKjúklingur í rauðu 
  chimichurri með hrisgrjónum og brokoli í yuzu og soya\nChicken in red c
  himichurri with rice and broccoli
