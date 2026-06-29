@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hrísg
  rjónum\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vege
  tables and peas\nserved with rice and sweet chili sauce ( G\,S)
-DTSTART:20260622T110000
-DTEND:20260622T130000
-DTSTAMP:20260622T110000Z
-UID:2026-06-22T11:00:00/olisindri@gmail.com
+DTSTART:20260629T110000
+DTEND:20260629T130000
+DTSTAMP:20260629T110000Z
+UID:2026-06-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hr
  ísgrjónum\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, 
  vegetables and peas\nserved with rice and sweet chili sauce ( G\,S)
@@ -16,10 +16,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
  Cauliflower - and almond rissole served with potatoes  and cold dressing
-DTSTART:20260623T110000
-DTEND:20260623T130000
-DTSTAMP:20260623T110000Z
-UID:2026-06-23T11:00:00/olisindri@gmail.com
+DTSTART:20260630T110000
+DTEND:20260630T130000
+DTSTAMP:20260630T110000Z
+UID:2026-06-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
  gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
  ng
@@ -27,10 +27,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow Tha
  i  curry with rice  (G\,S)
-DTSTART:20260624T110000
-DTEND:20260624T130000
-DTSTAMP:20260624T110000Z
-UID:2026-06-24T11:00:00/olisindri@gmail.com
+DTSTART:20260701T110000
+DTEND:20260701T130000
+DTSTAMP:20260701T110000Z
+UID:2026-07-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow
   Thai  curry with rice  (G\,S)
 END:VEVENT
@@ -38,10 +38,10 @@ BEGIN:VEVENT
 SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
  dri dressing  (S\,H)\nCannellini  bean and root vegetable cashew steak wit
  h potatoes  and cold dressing  (S\,H)
-DTSTART:20260625T110000
-DTEND:20260625T130000
-DTSTAMP:20260625T110000Z
-UID:2026-06-25T11:00:00/olisindri@gmail.com
+DTSTART:20260702T110000
+DTEND:20260702T130000
+DTSTAMP:20260702T110000Z
+UID:2026-07-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
   kaldri dressing  (S\,H)\nCannellini  bean and root vegetable cashew steak
   with potatoes  and cold dressing  (S\,H)
@@ -49,10 +49,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Ekki kjúklingur" í BBQ sósu með southern krydduðum smælki k
  artöflum(S)\nVegan chicken in BBQ with potatoes(S)
-DTSTART:20260626T110000
-DTEND:20260626T130000
-DTSTAMP:20260626T110000Z
-UID:2026-06-26T11:00:00/olisindri@gmail.com
+DTSTART:20260703T110000
+DTEND:20260703T130000
+DTSTAMP:20260703T110000Z
+UID:2026-07-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:"Ekki kjúklingur" í BBQ sósu með southern krydduðum smæl
  ki kartöflum(S)\nVegan chicken in BBQ with potatoes(S)
 END:VEVENT
