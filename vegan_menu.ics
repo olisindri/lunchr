@@ -2,57 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
-  lentils and rice
+SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
+ num\nThai curry with vegetables and beans served with rice
 DTSTART:20260720T110000
 DTEND:20260720T130000
 DTSTAMP:20260720T110000Z
 UID:2026-07-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
- with lentils and rice
+DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
+ rjónum\nThai curry with vegetables and beans served with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis rautt karrý með baunum og grænmeti\nVegetable red cu
- rry with beans and vegetables
+SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
+ ower and  almond buff with potatoes
 DTSTART:20260721T110000
 DTEND:20260721T130000
 DTSTAMP:20260721T110000Z
 UID:2026-07-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis rautt karrý með baunum og grænmeti\nVegetable re
- d curry with beans and vegetables
+DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
+ liflower and  almond buff with potatoes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum\násamt hrís
- grjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, noodl
- es and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
+ sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
+ G\,S)
 DTSTART:20260722T110000
 DTEND:20260722T130000
 DTSTAMP:20260722T110000Z
 UID:2026-07-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum\násamt h
- rísgrjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, n
- oodles and peas\nserved with rice and sweet chili sauce (G)
+DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
+ sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
+ e  (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan snitsel with p
- otatoes and mushroom sauce
+SUMMARY:Vegan kjúklingur með kartöflum  og kaldri dressing u\nVegan chi
+ cken wit h sweet potatoes and cold dressing
 DTSTART:20260723T110000
 DTEND:20260723T130000
 DTSTAMP:20260723T110000Z
 UID:2026-07-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan snitsel wi
- th potatoes and mushroom sauce
+DESCRIPTION:Vegan kjúklingur með kartöflum  og kaldri dressing u\nVegan
+  chicken wit h sweet potatoes and cold dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kartöfl
- um (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti potatoe
- s (G)
+SUMMARY:Vegan schnitzel samlokia í súrdeigi  með súrum gúrkum og svep
+ pasósu (G\,S)\nVegan schnitzel sandwiches with  pickled cucumber and mush
+ room sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- 
+ Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í ok
+ kar vegan rétti\nPlease note that we use a lot of onion and garlic for ou
+ r vegan courses
 DTSTART:20260724T110000
 DTEND:20260724T130000
 DTSTAMP:20260724T110000Z
 UID:2026-07-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Píta með vegan hakki\, grænmeti\, pítusósu og rösti kart
- öflum (G)\nPita with vegan mince\, vegetables\, pita sauce and rösti pot
- atoes (G)
+DESCRIPTION:Vegan schnitzel samlokia í súrdeigi  með súrum gúrkum og 
+ sveppasósu (G\,S)\nVegan schnitzel sandwiches with  pickled cucumber and 
+ mushroom sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (
+ S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk 
+ í okkar vegan rétti\nPlease note that we use a lot of onion and garlic f
+ or our vegan courses
 END:VEVENT
 END:VCALENDAR
