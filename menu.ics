@@ -2,70 +2,61 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
- u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
- (M\,G)
+SUMMARY:Lokað\nFrídagur verslunamanna
 DTSTART:20260727T110000
 DTEND:20260727T130000
 DTSTAMP:20260727T110000Z
 UID:2026-07-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
- ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
- am (M\,G)
+DESCRIPTION:Lokað\nFrídagur verslunamanna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í 
- trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
- iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
- e cabbage and cold pepper sauce (G\,M \,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup ( V)\nKremaður Nautapot
+ tréttur með rauðvíni og rótargrænmeti ásamt kartöflumús (M\,G)\nB
+ eef casserole with red wine vegetables and mashed potatoes(M\,G)
 DTSTART:20260728T110000
 DTEND:20260728T130000
 DTSTAMP:20260728T110000Z
 UID:2026-07-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
-  í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
- og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
- white cabbage and cold pepper sauce (G\,M \,E)
+DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V)\nKremaður Naut
+ apottréttur með rauðvíni og rótargrænmeti ásamt kartöflumús (M\,G
+ )\nBeef casserole with red wine vegetables and mashed potatoes(M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
- G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\,G\,
- M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,G\,M
- )
+SUMMARY:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktar fiskibollur
+  með hrísgrjónum og karrý sósu og hrásalati (G\,M\,E)\nFried fish ba
+ lls  with rice\, curry sauce and coleslaw (G\,M\,E)
 DTSTART:20260729T110000
 DTEND:20260729T130000
 DTSTAMP:20260729T110000Z
 UID:2026-07-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
- (M\,G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\
- ,G\,M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,
- G\,M)
+DESCRIPTION:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktar fiskibo
+ llur með hrísgrjónum og karrý sósu og hrásalati (G\,M\,E)\nFried fis
+ h balls  with rice\, curry sauce and coleslaw (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis súpa - Vegetable soup\nKalkúnabringa í timian og a p
- pelsínu með  eplasalati \, sætkartöflumús og gravy (M\,G)\nTurk ey br
- east in thyme and orange with apple salat\, sweet potato and gravy (M\,G)
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
+ Steiktar grísalundir í timaini með epla og trönuberja salati\, steiktu
+ m kartöflum\nog kremaðri dijon sósu (M)\nPork roast  in thyme with appl
+ e and cranberries  salat \, fried potatoes and Dijon sauce (M)
 DTSTART:20260730T110000
 DTEND:20260730T130000
 DTSTAMP:20260730T110000Z
 UID:2026-07-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis súpa - Vegetable soup\nKalkúnabringa í timian og
-  a ppelsínu með  eplasalati \, sætkartöflumús og gravy (M\,G)\nTurk e
- y breast in thyme and orange with apple salat\, sweet potato and gravy (M\
- ,G)
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
+ V)\nSteiktar grísalundir í timaini með epla og trönuberja salati\, ste
+ iktum kartöflum\nog kremaðri dijon sósu (M)\nPork roast  in thyme with 
+ apple and cranberries  salat \, fried potatoes and Dijon sauce (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desert\nSnitsel samloka í súrdeidsbrauði  með súrum gúrkum o
- g sveppasósu (G\,M)\nSchnitzel burger with pickled cucumber and mushroom 
- sauce (G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nFive spice  kjúklingalæri me
+ ð steiktum hrísgrjónum  og jógúrtsósu  (E\,M\,G )\nFive-spice chicke
+ n with fried rice  and yogurt sauce
 DTSTART:20260731T110000
 DTEND:20260731T130000
 DTSTAMP:20260731T110000Z
 UID:2026-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Desert\nSnitsel samloka í súrdeidsbrauði  með súrum gúrk
- um og sveppasósu (G\,M)\nSchnitzel burger with pickled cucumber and mushr
- oom sauce (G\,M)
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nFive spice  kjúklingalær
+ i með steiktum hrísgrjónum  og jógúrtsósu  (E\,M\,G )\nFive-spice ch
+ icken with fried rice  and yogurt sauce
 END:VEVENT
 END:VCALENDAR

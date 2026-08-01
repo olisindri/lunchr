@@ -2,63 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísgrjó
- num\nThai curry with vegetables and beans served with rice
+SUMMARY:Lokað
 DTSTART:20260727T110000
 DTEND:20260727T130000
 DTSTAMP:20260727T110000Z
 UID:2026-07-27T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai karrý með baunum og grænmeti  ásamt hrísg
- rjónum\nThai curry with vegetables and beans served with rice
+DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
- ower and  almond buff with potatoes
+SUMMARY:Vegan pasta Alfredo með brauði (G)\nVegan Pasta Alfredo served w
+ ith Bread (G)
 DTSTART:20260728T110000
 DTEND:20260728T130000
 DTSTAMP:20260728T110000Z
 UID:2026-07-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
- liflower and  almond buff with potatoes
+DESCRIPTION:Vegan pasta Alfredo með brauði (G)\nVegan Pasta Alfredo serv
+ ed with Bread (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
- sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
- G\,S)
+SUMMARY:Blómkál - og svartbauna pottréttur með kókosmjólk\, tómat\,
+  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
+ onut milk\,\ntomato\, garlic\, onion and vegetables
 DTSTART:20260729T110000
 DTEND:20260729T130000
 DTSTAMP:20260729T110000Z
 UID:2026-07-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
- sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
- e  (G\,S)
+DESCRIPTION:Blómkál - og svartbauna pottréttur með kókosmjólk\, tóm
+ at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
+  coconut milk\,\ntomato\, garlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan kjúklingur með kartöflum  og kaldri dressing u\nVegan chi
- cken wit h sweet potatoes and cold dressing
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and Chimichurri
 DTSTART:20260730T110000
 DTEND:20260730T130000
 DTSTAMP:20260730T110000Z
 UID:2026-07-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan kjúklingur með kartöflum  og kaldri dressing u\nVegan
-  chicken wit h sweet potatoes and cold dressing
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan schnitzel samlokia í súrdeigi  með súrum gúrkum og svep
- pasósu (G\,S)\nVegan schnitzel sandwiches with  pickled cucumber and mush
- room sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- 
- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í ok
- kar vegan rétti\nPlease note that we use a lot of onion and garlic for ou
- r vegan courses
+SUMMARY:Five spice  ekki kjúklingur með kartöflum\nFive Spice  vegan ch
+ icken with potatoes
 DTSTART:20260731T110000
 DTEND:20260731T130000
 DTSTAMP:20260731T110000Z
 UID:2026-07-31T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan schnitzel samlokia í súrdeigi  með súrum gúrkum og 
- sveppasósu (G\,S)\nVegan schnitzel sandwiches with  pickled cucumber and 
- mushroom sauce (G\,S)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (
- S)- Soyja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk 
- í okkar vegan rétti\nPlease note that we use a lot of onion and garlic f
- or our vegan courses
+DESCRIPTION:Five spice  ekki kjúklingur með kartöflum\nFive Spice  vega
+ n chicken with potatoes
 END:VEVENT
 END:VCALENDAR
