@@ -3,19 +3,19 @@ VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Lokað
-DTSTART:20260727T110000
-DTEND:20260727T130000
-DTSTAMP:20260727T110000Z
-UID:2026-07-27T11:00:00/olisindri@gmail.com
+DTSTART:20260803T110000
+DTEND:20260803T130000
+DTSTAMP:20260803T110000Z
+UID:2026-08-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Lokað
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan pasta Alfredo með brauði (G)\nVegan Pasta Alfredo served w
  ith Bread (G)
-DTSTART:20260728T110000
-DTEND:20260728T130000
-DTSTAMP:20260728T110000Z
-UID:2026-07-28T11:00:00/olisindri@gmail.com
+DTSTART:20260804T110000
+DTEND:20260804T130000
+DTSTAMP:20260804T110000Z
+UID:2026-08-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan pasta Alfredo með brauði (G)\nVegan Pasta Alfredo serv
  ed with Bread (G)
 END:VEVENT
@@ -23,10 +23,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkál - og svartbauna pottréttur með kókosmjólk\, tómat\,
   hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
  onut milk\,\ntomato\, garlic\, onion and vegetables
-DTSTART:20260729T110000
-DTEND:20260729T130000
-DTSTAMP:20260729T110000Z
-UID:2026-07-29T11:00:00/olisindri@gmail.com
+DTSTART:20260805T110000
+DTEND:20260805T130000
+DTSTAMP:20260805T110000Z
+UID:2026-08-05T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkál - og svartbauna pottréttur með kókosmjólk\, tóm
  at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
   coconut milk\,\ntomato\, garlic\, onion and vegetables
@@ -34,20 +34,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
  d and spiced cauliflower with hummus and Chimichurri
-DTSTART:20260730T110000
-DTEND:20260730T130000
-DTSTAMP:20260730T110000Z
-UID:2026-07-30T11:00:00/olisindri@gmail.com
+DTSTART:20260806T110000
+DTEND:20260806T130000
+DTSTAMP:20260806T110000Z
+UID:2026-08-06T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
  asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Five spice  ekki kjúklingur með kartöflum\nFive Spice  vegan ch
  icken with potatoes
-DTSTART:20260731T110000
-DTEND:20260731T130000
-DTSTAMP:20260731T110000Z
-UID:2026-07-31T11:00:00/olisindri@gmail.com
+DTSTART:20260807T110000
+DTEND:20260807T130000
+DTSTAMP:20260807T110000Z
+UID:2026-08-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Five spice  ekki kjúklingur með kartöflum\nFive Spice  vega
  n chicken with potatoes
 END:VEVENT
