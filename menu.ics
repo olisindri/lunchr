@@ -2,61 +2,64 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Lokað\nFrídagur verslunamanna
+SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nTandori ýsa með hrísgrj
+ ónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sauce (M)
 DTSTART:20260803T110000
 DTEND:20260803T130000
 DTSTAMP:20260803T110000Z
 UID:2026-08-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Lokað\nFrídagur verslunamanna
+DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nTandori ýsa með hrís
+ grjónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sauce 
+ (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup ( V)\nKremaður Nautapot
- tréttur með rauðvíni og rótargrænmeti ásamt kartöflumús (M\,G)\nB
- eef casserole with red wine vegetables and mashed potatoes(M\,G)
+SUMMARY:Grænertusúpa – Green pea soup\nSúrsætur kjúklingur með hr
+ ísgrjónum og kimchi hvítkáli\nChicken sweet and sour with rice and kim
+ chi cabbage
 DTSTART:20260804T110000
 DTEND:20260804T130000
 DTSTAMP:20260804T110000Z
 UID:2026-08-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup ( V)\nKremaður Naut
- apottréttur með rauðvíni og rótargrænmeti ásamt kartöflumús (M\,G
- )\nBeef casserole with red wine vegetables and mashed potatoes(M\,G)
+DESCRIPTION:Grænertusúpa – Green pea soup\nSúrsætur kjúklingur með
+  hrísgrjónum og kimchi hvítkáli\nChicken sweet and sour with rice and 
+ kimchi cabbage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktar fiskibollur
-  með hrísgrjónum og karrý sósu og hrásalati (G\,M\,E)\nFried fish ba
- lls  with rice\, curry sauce and coleslaw (G\,M\,E)
+SUMMARY:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa pottur
+  með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (M\,G
+ )\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (M\,G
+ )
 DTSTART:20260805T110000
 DTEND:20260805T130000
 DTSTAMP:20260805T110000Z
 UID:2026-08-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktar fiskibo
- llur með hrísgrjónum og karrý sósu og hrásalati (G\,M\,E)\nFried fis
- h balls  with rice\, curry sauce and coleslaw (G\,M\,E)
+DESCRIPTION:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa po
+ ttur með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (
+ M\,G)\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (
+ M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
- Steiktar grísalundir í timaini með epla og trönuberja salati\, steiktu
- m kartöflum\nog kremaðri dijon sósu (M)\nPork roast  in thyme with appl
- e and cranberries  salat \, fried potatoes and Dijon sauce (M)
+SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
+  Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg o f
+  lamb with potato gratin and mushroom sauce (G\,M\,S)
 DTSTART:20260806T110000
 DTEND:20260806T130000
 DTSTAMP:20260806T110000Z
 UID:2026-08-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
- V)\nSteiktar grísalundir í timaini með epla og trönuberja salati\, ste
- iktum kartöflum\nog kremaðri dijon sósu (M)\nPork roast  in thyme with 
- apple and cranberries  salat \, fried potatoes and Dijon sauce (M)
+DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
+ eikt Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg
+  o f lamb with potato gratin and mushroom sauce (G\,M\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nFive spice  kjúklingalæri me
- ð steiktum hrísgrjónum  og jógúrtsósu  (E\,M\,G )\nFive-spice chicke
- n with fried rice  and yogurt sauce
+SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki\, s
+ alsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi nced 
+ beef\, crème fresh\, feta and nachos (M)
 DTSTART:20260807T110000
 DTEND:20260807T130000
 DTSTAMP:20260807T110000Z
 UID:2026-08-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nFive spice  kjúklingalær
- i með steiktum hrísgrjónum  og jógúrtsósu  (E\,M\,G )\nFive-spice ch
- icken with fried rice  and yogurt sauce
+DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki
+ \, salsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi n
+ ced beef\, crème fresh\, feta and nachos (M)
 END:VEVENT
 END:VCALENDAR
