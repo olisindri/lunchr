@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nTandori ýsa með hrísgrj
  ónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sauce (M)
-DTSTART:20260803T110000
-DTEND:20260803T130000
-DTSTAMP:20260803T110000Z
-UID:2026-08-03T11:00:00/olisindri@gmail.com
+DTSTART:20260810T110000
+DTEND:20260810T130000
+DTSTAMP:20260810T110000Z
+UID:2026-08-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nTandori ýsa með hrís
  grjónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sauce 
  (M)
@@ -16,10 +16,10 @@ BEGIN:VEVENT
 SUMMARY:Grænertusúpa – Green pea soup\nSúrsætur kjúklingur með hr
  ísgrjónum og kimchi hvítkáli\nChicken sweet and sour with rice and kim
  chi cabbage
-DTSTART:20260804T110000
-DTEND:20260804T130000
-DTSTAMP:20260804T110000Z
-UID:2026-08-04T11:00:00/olisindri@gmail.com
+DTSTART:20260811T110000
+DTEND:20260811T130000
+DTSTAMP:20260811T110000Z
+UID:2026-08-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænertusúpa – Green pea soup\nSúrsætur kjúklingur með
   hrísgrjónum og kimchi hvítkáli\nChicken sweet and sour with rice and 
  kimchi cabbage
@@ -29,10 +29,10 @@ SUMMARY:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa pottur
   með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (M\,G
  )\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (M\,G
  )
-DTSTART:20260805T110000
-DTEND:20260805T130000
-DTSTAMP:20260805T110000Z
-UID:2026-08-05T11:00:00/olisindri@gmail.com
+DTSTART:20260812T110000
+DTEND:20260812T130000
+DTSTAMP:20260812T110000Z
+UID:2026-08-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa po
  ttur með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (
  M\,G)\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (
@@ -42,10 +42,10 @@ BEGIN:VEVENT
 SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
   Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg o f
   lamb with potato gratin and mushroom sauce (G\,M\,S)
-DTSTART:20260806T110000
-DTEND:20260806T130000
-DTSTAMP:20260806T110000Z
-UID:2026-08-06T11:00:00/olisindri@gmail.com
+DTSTART:20260813T110000
+DTEND:20260813T130000
+DTSTAMP:20260813T110000Z
+UID:2026-08-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
  eikt Lambalæri með kartöflugratín og sveppasósu (G\,M\,S)\nRosted leg
   o f lamb with potato gratin and mushroom sauce (G\,M\,S)
@@ -54,10 +54,10 @@ BEGIN:VEVENT
 SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki\, s
  alsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi nced 
  beef\, crème fresh\, feta and nachos (M)
-DTSTART:20260807T110000
-DTEND:20260807T130000
-DTSTAMP:20260807T110000Z
-UID:2026-08-07T11:00:00/olisindri@gmail.com
+DTSTART:20260814T110000
+DTEND:20260814T130000
+DTSTAMP:20260814T110000Z
+UID:2026-08-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki
  \, salsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi n
  ced beef\, crème fresh\, feta and nachos (M)
