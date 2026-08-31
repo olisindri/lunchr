@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Tómatsúpa  – Tomato soup\nÝsa í hvítlauk\, basil og konfekt
  tómötum með steiktum kartöflum (M)\nHaddock inn garlic\, basil and che
  rry tomatoes with fried potatoes (M)
-DTSTART:20260824T110000
-DTEND:20260824T130000
-DTSTAMP:20260824T110000Z
-UID:2026-08-24T11:00:00/olisindri@gmail.com
+DTSTART:20260831T110000
+DTEND:20260831T130000
+DTSTAMP:20260831T110000Z
+UID:2026-08-31T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómatsúpa  – Tomato soup\nÝsa í hvítlauk\, basil og kon
  fekttómötum með steiktum kartöflum (M)\nHaddock inn garlic\, basil and
   cherry tomatoes with fried potatoes (M)
@@ -18,10 +18,10 @@ SUMMARY:Gulrótar - og engifer súpa  – Carrot - and ginger soup (V)\nPe
  nne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítlauksb
  rauð i(G\,M)\nPasta with creme mushroom sauce\, chicken\, bacon and garli
  c bread (G\,M)
-DTSTART:20260825T110000
-DTEND:20260825T130000
-DTSTAMP:20260825T110000Z
-UID:2026-08-25T11:00:00/olisindri@gmail.com
+DTSTART:20260901T110000
+DTEND:20260901T130000
+DTSTAMP:20260901T110000Z
+UID:2026-09-01T11:00:00/olisindri@gmail.com
 DESCRIPTION:Gulrótar - og engifer súpa  – Carrot - and ginger soup (V)
  \nPenne pasta með kremaðr i sveppa sósu\, kjúkling\, beikon og hvítla
  uksbrauð i(G\,M)\nPasta with creme mushroom sauce\, chicken\, bacon and g
@@ -31,10 +31,10 @@ BEGIN:VEVENT
 SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSteikt ýsa í paxo ras
  pi með kokt eilsósu og steiktum  kartöflum(G\,E)\nFried fish with cockt
  ail sauce  and fried  potatoes (G\,E)
-DTSTART:20260826T110000
-DTEND:20260826T130000
-DTSTAMP:20260826T110000Z
-UID:2026-08-26T11:00:00/olisindri@gmail.com
+DTSTART:20260902T110000
+DTEND:20260902T130000
+DTSTAMP:20260902T110000Z
+UID:2026-09-02T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSteikt ýsa í paxo
   raspi með kokt eilsósu og steiktum  kartöflum(G\,E)\nFried fish with c
  ocktail sauce  and fried  potatoes (G\,E)
@@ -43,10 +43,10 @@ BEGIN:VEVENT
 SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nRib e
  ye steik með kartöflugratíni\, brok kolí og soðsósu (M\,S)\nRib eye 
  stake with gratin potatoes broccoli and demi -glace  (M\,S)
-DTSTART:20260827T110000
-DTEND:20260827T130000
-DTSTAMP:20260827T110000Z
-UID:2026-08-27T11:00:00/olisindri@gmail.com
+DTSTART:20260903T110000
+DTEND:20260903T130000
+DTSTAMP:20260903T110000Z
+UID:2026-09-03T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nR
  ib eye steik með kartöflugratíni\, brok kolí og soðsósu (M\,S)\nRib 
  eye stake with gratin potatoes broccoli and demi -glace  (M\,S)
@@ -55,10 +55,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H \,S)\nKlassískur ostborgari 
  með grænmeti og kartöflubátum  (G\,M\,E)\nCheeseburger with vegetable 
  and wedges (G\,M\,E)
-DTSTART:20260828T110000
-DTEND:20260828T130000
-DTSTAMP:20260828T110000Z
-UID:2026-08-28T11:00:00/olisindri@gmail.com
+DTSTART:20260904T110000
+DTEND:20260904T130000
+DTSTAMP:20260904T110000Z
+UID:2026-09-04T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H \,S)\nKlassískur ostborg
  ari með grænmeti og kartöflubátum  (G\,M\,E)\nCheeseburger with vegeta
  ble and wedges (G\,M\,E)
