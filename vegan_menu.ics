@@ -4,20 +4,20 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
   lentils and rice
-DTSTART:20260831T110000
-DTEND:20260831T130000
-DTSTAMP:20260831T110000Z
-UID:2026-08-31T11:00:00/olisindri@gmail.com
+DTSTART:20260907T110000
+DTEND:20260907T130000
+DTSTAMP:20260907T110000Z
+UID:2026-09-07T11:00:00/olisindri@gmail.com
 DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
  with lentils and rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kínverskt  karrí með  tófú\,  baunum og grænmeti (S)\nVegeta
  ble red curry with tofu\, beans and vegetables (S)
-DTSTART:20260901T110000
-DTEND:20260901T130000
-DTSTAMP:20260901T110000Z
-UID:2026-09-01T11:00:00/olisindri@gmail.com
+DTSTART:20260908T110000
+DTEND:20260908T130000
+DTSTAMP:20260908T110000Z
+UID:2026-09-08T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kínverskt  karrí með  tófú\,  baunum og grænmeti (S)\nVe
  getable red curry with tofu\, beans and vegetables (S)
 END:VEVENT
@@ -25,10 +25,10 @@ BEGIN:VEVENT
 SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum\násamt hrís
  grjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, noodl
  es and peas\nserved with rice and sweet chili sauce (G)
-DTSTART:20260902T110000
-DTEND:20260902T130000
-DTSTAMP:20260902T110000Z
-UID:2026-09-02T11:00:00/olisindri@gmail.com
+DTSTART:20260909T110000
+DTEND:20260909T130000
+DTSTAMP:20260909T110000Z
+UID:2026-09-09T11:00:00/olisindri@gmail.com
 DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum\násamt h
  rísgrjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, n
  oodles and peas\nserved with rice and sweet chili sauce (G)
@@ -36,10 +36,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan snitsel with p
  otatoes and mushroom sauce
-DTSTART:20260903T110000
-DTEND:20260903T130000
-DTSTAMP:20260903T110000Z
-UID:2026-09-03T11:00:00/olisindri@gmail.com
+DTSTART:20260910T110000
+DTEND:20260910T130000
+DTSTAMP:20260910T110000Z
+UID:2026-09-10T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan snitsel wi
  th potatoes and mushroom sauce
 END:VEVENT
@@ -47,10 +47,10 @@ BEGIN:VEVENT
 SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
  ldri dressingu\nStuffed paprika with quinoa\, tomatoes and vegetables and 
  colde sauce (G)
-DTSTART:20260904T110000
-DTEND:20260904T130000
-DTSTAMP:20260904T110000Z
-UID:2026-09-04T11:00:00/olisindri@gmail.com
+DTSTART:20260911T110000
+DTEND:20260911T130000
+DTSTAMP:20260911T110000Z
+UID:2026-09-11T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
  t kaldri dressingu\nStuffed paprika with quinoa\, tomatoes and vegetables 
  and colde sauce (G)
