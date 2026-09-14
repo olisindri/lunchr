@@ -4,30 +4,30 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Falafel með tagine sósu og hrisgrjónum (G)\nFalafel with tagine
   sauce and rice (G)
-DTSTART:20260907T110000
-DTEND:20260907T130000
-DTSTAMP:20260907T110000Z
-UID:2026-09-07T11:00:00/olisindri@gmail.com
+DTSTART:20260914T110000
+DTEND:20260914T130000
+DTSTAMP:20260914T110000Z
+UID:2026-09-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Falafel með tagine sósu og hrisgrjónum (G)\nFalafel with ta
  gine sauce and rice (G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto (H
  \,G)
-DTSTART:20260908T110000
-DTEND:20260908T130000
-DTSTAMP:20260908T110000Z
-UID:2026-09-08T11:00:00/olisindri@gmail.com
+DTSTART:20260915T110000
+DTEND:20260915T130000
+DTSTAMP:20260915T110000Z
+UID:2026-09-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
  o (H\,G)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
  ldri dressingu\nStuffed bell peppers with quinoa\, beans and cold dressing
-DTSTART:20260909T110000
-DTEND:20260909T130000
-DTSTAMP:20260909T110000Z
-UID:2026-09-09T11:00:00/olisindri@gmail.com
+DTSTART:20260916T110000
+DTEND:20260916T130000
+DTSTAMP:20260916T110000Z
+UID:2026-09-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
  t kaldri dressingu\nStuffed bell peppers with quinoa\, beans and cold dres
  sing
@@ -35,20 +35,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grænmetis massam an karrý með hrísgrjónum\nVegetable Massam a
  n curry with rice
-DTSTART:20260910T110000
-DTEND:20260910T130000
-DTSTAMP:20260910T110000Z
-UID:2026-09-10T11:00:00/olisindri@gmail.com
+DTSTART:20260917T110000
+DTEND:20260917T130000
+DTSTAMP:20260917T110000Z
+UID:2026-09-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis massam an karrý með hrísgrjónum\nVegetable Mass
  am an curry with rice
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan burger með grænmeti\, " California  style"\nVegan chicken 
   burger  with  vegetables \, “California  style"
-DTSTART:20260911T110000
-DTEND:20260911T130000
-DTSTAMP:20260911T110000Z
-UID:2026-09-11T11:00:00/olisindri@gmail.com
+DTSTART:20260918T110000
+DTEND:20260918T130000
+DTSTAMP:20260918T110000Z
+UID:2026-09-18T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan burger með grænmeti\, " California  style"\nVegan chic
  ken  burger  with  vegetables \, “California  style"
 END:VEVENT
