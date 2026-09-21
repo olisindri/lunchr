@@ -6,10 +6,10 @@ SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur
  í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
  u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
  (M\,G)
-DTSTART:20260914T110000
-DTEND:20260914T130000
-DTSTAMP:20260914T110000Z
-UID:2026-09-14T11:00:00/olisindri@gmail.com
+DTSTART:20260921T110000
+DTEND:20260921T130000
+DTSTAMP:20260921T110000Z
+UID:2026-09-21T11:00:00/olisindri@gmail.com
 DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
  ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
  ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
@@ -20,10 +20,10 @@ SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í
  trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
  iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
  e cabbage and cold pepper sauce (G\,M \,E)
-DTSTART:20260915T110000
-DTEND:20260915T130000
-DTSTAMP:20260915T110000Z
-UID:2026-09-15T11:00:00/olisindri@gmail.com
+DTSTART:20260922T110000
+DTEND:20260922T130000
+DTSTAMP:20260922T110000Z
+UID:2026-09-22T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
   í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
  og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
@@ -34,10 +34,10 @@ SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
  G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\,G\,
  M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,G\,M
  )
-DTSTART:20260916T110000
-DTEND:20260916T130000
-DTSTAMP:20260916T110000Z
-UID:2026-09-16T11:00:00/olisindri@gmail.com
+DTSTART:20260923T110000
+DTEND:20260923T130000
+DTSTAMP:20260923T110000Z
+UID:2026-09-23T11:00:00/olisindri@gmail.com
 DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
  (M\,G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\
  ,G\,M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,
@@ -47,10 +47,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis súpa - Vegetable soup\nOfnsteikt Lambalæri með  rau
  ðkáli\,  kartöflugratín og Soðsósu(G\,M\,S)\nRosted leg o f lamb wit
  h  red cabbage\,  potato gratin and  sauce (G\,M\,S)
-DTSTART:20260917T110000
-DTEND:20260917T130000
-DTSTAMP:20260917T110000Z
-UID:2026-09-17T11:00:00/olisindri@gmail.com
+DTSTART:20260924T110000
+DTEND:20260924T130000
+DTSTAMP:20260924T110000Z
+UID:2026-09-24T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis súpa - Vegetable soup\nOfnsteikt Lambalæri með  
  rauðkáli\,  kartöflugratín og Soðsósu(G\,M\,S)\nRosted leg o f lamb 
  with  red cabbage\,  potato gratin and  sauce (G\,M\,S)
@@ -58,10 +58,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Desert\nKjúklinga So uvlaki með Grísku fetaostasalati og grænm
  eti (G\,M)\nChicken So uvlaki with Gr eek salat and vegetables (G\,M)
-DTSTART:20260918T110000
-DTEND:20260918T130000
-DTSTAMP:20260918T110000Z
-UID:2026-09-18T11:00:00/olisindri@gmail.com
+DTSTART:20260925T110000
+DTEND:20260925T130000
+DTSTAMP:20260925T110000Z
+UID:2026-09-25T11:00:00/olisindri@gmail.com
 DESCRIPTION:Desert\nKjúklinga So uvlaki með Grísku fetaostasalati og gr
  ænmeti (G\,M)\nChicken So uvlaki with Gr eek salat and vegetables (G\,M)
 END:VEVENT
