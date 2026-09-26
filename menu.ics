@@ -2,67 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabarasult
- u  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb jam 
- (M\,G)
+SUMMARY:Kremuð tómatsúpa - Creamy  tomato  soup\nNætursöltuð  ýsa m
+ eð steiktum kartöflum og karrý sósu (M\,G)\nSalted haddock with fried 
+ potatoes and curry sauce (M\,G)
 DTSTART:20260921T110000
 DTEND:20260921T130000
 DTSTAMP:20260921T110000Z
 UID:2026-09-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum\,\nrauðkáli og rabbabaras
- ultu  (M\,G)\nLamb goulash with fried potatoes\, red cabbage and rhubarb j
- am (M\,G)
+DESCRIPTION:Kremuð tómatsúpa - Creamy  tomato  soup\nNætursöltuð  ý
+ sa með steiktum kartöflum og karrý sósu (M\,G)\nSalted haddock with fr
+ ied potatoes and curry sauce (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í 
- trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
- iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
- e cabbage and cold pepper sauce (G\,M \,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup\nChili con carne með s
+ ýrðum rjóma og nachos\nChili con carne  with sour cream  and nachos
 DTSTART:20260922T110000
 DTEND:20260922T130000
 DTSTAMP:20260922T110000Z
 UID:2026-09-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
-  í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
- og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
- white cabbage and cold pepper sauce (G\,M \,E)
+DESCRIPTION:Hvít aspassúpa – White asparagus soup\nChili con carne me
+ ð sýrðum rjóma og nachos\nChili con carne  with sour cream  and nachos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
- G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\,G\,
- M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,G\,M
- )
+SUMMARY:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktur fiskur í r
+ aspi með steiktum kartöflum\, súrum gúrkum og remúlaði (G\,E)\nFried
+  fish in  breadcrumbs with fried  potatoes\, pickles\, and remoulade  sauc
+ e (G\,E)
 DTSTART:20260923T110000
 DTEND:20260923T130000
 DTSTAMP:20260923T110000Z
 UID:2026-09-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
- (M\,G)\nKjötbollur með kartöflumús\, rau ðkáli og brú nni sósu (E\
- ,G\,M)\nMeet balls with mashed potatoes\, red cabbage  and brown sauce(E\,
- G\,M)
+DESCRIPTION:Blómkál ssúpa – Cauliflower soup (M\,G)\nSteiktur fiskur 
+ í raspi með steiktum kartöflum\, súrum gúrkum og remúlaði (G\,E)\nF
+ ried fish in  breadcrumbs with fried  potatoes\, pickles\, and remoulade  
+ sauce (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis súpa - Vegetable soup\nOfnsteikt Lambalæri með  rau
- ðkáli\,  kartöflugratín og Soðsósu(G\,M\,S)\nRosted leg o f lamb wit
- h  red cabbage\,  potato gratin and  sauce (G\,M\,S)
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
+ Snitzel með ofnteiktum kartöflum\, Hvítkáls og eplasalti ásamt sveppa
+ sósu (G\,M\,E)\nSchnitzel with oven -roasted potatoes\, white  cabbage an
+ d apple  salad\, served\nwith  mushroom sauce. (G\,M\,E)
 DTSTART:20260924T110000
 DTEND:20260924T130000
 DTSTAMP:20260924T110000Z
 UID:2026-09-24T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis súpa - Vegetable soup\nOfnsteikt Lambalæri með  
- rauðkáli\,  kartöflugratín og Soðsósu(G\,M\,S)\nRosted leg o f lamb 
- with  red cabbage\,  potato gratin and  sauce (G\,M\,S)
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
+ V)\nSnitzel með ofnteiktum kartöflum\, Hvítkáls og eplasalti ásamt sv
+ eppasósu (G\,M\,E)\nSchnitzel with oven -roasted potatoes\, white  cabbag
+ e and apple  salad\, served\nwith  mushroom sauce. (G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desert\nKjúklinga So uvlaki með Grísku fetaostasalati og grænm
- eti (G\,M)\nChicken So uvlaki with Gr eek salat and vegetables (G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nTandori kjúklingalæri á bei
+ ni með "loaded" kartöflubátum og jógúrtsósu (E\,M)\nTandoori chicken
+  thighs  on the bone  with loaded potato  wedges and yogurt  sauce (E\,M)
 DTSTART:20260925T110000
 DTEND:20260925T130000
 DTSTAMP:20260925T110000Z
 UID:2026-09-25T11:00:00/olisindri@gmail.com
-DESCRIPTION:Desert\nKjúklinga So uvlaki með Grísku fetaostasalati og gr
- ænmeti (G\,M)\nChicken So uvlaki with Gr eek salat and vegetables (G\,M)
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nTandori kjúklingalæri á
+  beini með "loaded" kartöflubátum og jógúrtsósu (E\,M)\nTandoori chi
+ cken thighs  on the bone  with loaded potato  wedges and yogurt  sauce (E\
+ ,M)
 END:VEVENT
 END:VCALENDAR
