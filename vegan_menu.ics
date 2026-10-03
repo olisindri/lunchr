@@ -2,53 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Falafel með tagine sósu\, cous -cous og salati\nFalafel with tag
- ine  sauce\, couscous\, and salad.
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable\, c
+ old sauce
 DTSTART:20260928T110000
 DTEND:20260928T130000
 DTSTAMP:20260928T110000Z
 UID:2026-09-28T11:00:00/olisindri@gmail.com
-DESCRIPTION:Falafel með tagine sósu\, cous -cous og salati\nFalafel with
-  tagine  sauce\, couscous\, and salad.
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable
+ \, cold sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili sin carne með nachos\nChili sin carne with nachos
+SUMMARY:Kínverskur ekki kjúklingur með hrísgrjónum\nChinese  not chic
+ ken with rice
 DTSTART:20260929T110000
 DTEND:20260929T130000
 DTSTAMP:20260929T110000Z
 UID:2026-09-29T11:00:00/olisindri@gmail.com
-DESCRIPTION:Chili sin carne með nachos\nChili sin carne with nachos
+DESCRIPTION:Kínverskur ekki kjúklingur með hrísgrjónum\nChinese  not 
+ chicken with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkál - og svartbauna pottréttur með kókosmjólk\, tómat\,
-  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
- onut milk\,\ntomato\, garlic\, onion and vegetables
+SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hrisgr
+ jónum  (G)\nog sætri chili sósu\nSamosa with noodles\, vegetables and b
+ eens with rice\, sweet chili
 DTSTART:20260930T110000
 DTEND:20260930T130000
 DTSTAMP:20260930T110000Z
 UID:2026-09-30T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkál - og svartbauna pottréttur með kókosmjólk\, tóm
- at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
-  coconut milk\,\ntomato\, garlic\, onion and vegetables
+DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hr
+ isgrjónum  (G)\nog sætri chili sósu\nSamosa with noodles\, vegetables a
+ nd beens with rice\, sweet chili
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
- d and spiced cauliflower with hummus and Chimichurri
+SUMMARY:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nRoast
+ ed broccoli and lentils on hummus served with dressing
 DTSTART:20261001T110000
 DTEND:20261001T130000
 DTSTAMP:20261001T110000Z
 UID:2026-10-01T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
- asted and spiced cauliflower with hummus and Chimichurri
+DESCRIPTION:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nR
+ oasted broccoli and lentils on hummus served with dressing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tandoori vegan chicken with potatoes\nTndoori  vegan chicken with 
- potatoes
+SUMMARY:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco with
+  vegan chicken and cold dressing (G\,S)
 DTSTART:20261002T110000
 DTEND:20261002T130000
 DTSTAMP:20261002T110000Z
 UID:2026-10-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tandoori vegan chicken with potatoes\nTndoori  vegan chicken w
- ith potatoes
+DESCRIPTION:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco 
+ with vegan chicken and cold dressing (G\,S)
 END:VEVENT
 END:VCALENDAR
