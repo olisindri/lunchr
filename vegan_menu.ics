@@ -2,57 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable\, c
- old sauce
+SUMMARY:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt hrí
+ sgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vegetabl
+ es and beans  with rice and sweet chili (G)
 DTSTART:20261005T110000
 DTEND:20261005T130000
 DTSTAMP:20261005T110000Z
 UID:2026-10-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed bell pepper with quinoa\, tomato and vegetable
- \, cold sauce
+DESCRIPTION:Vorrúllur fylltar með núðlum\, grænmeti og baunum ásamt 
+ hrísgrjónum\nog sætri chili sósu  (G)\nSpring roll with noodles\, vege
+ tables and beans  with rice and sweet chili (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kínverskur ekki kjúklingur með hrísgrjónum\nChinese  not chic
- ken with rice
+SUMMARY:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baunum\n
+ og lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spinach\,
+  kidney beans and onion w ith rice
 DTSTART:20261006T110000
 DTEND:20261006T130000
 DTSTAMP:20261006T110000Z
 UID:2026-10-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kínverskur ekki kjúklingur með hrísgrjónum\nChinese  not 
- chicken with rice
+DESCRIPTION:Grænmetis „ Ragout“með  sveppum\, spínati\, nýrna baun
+ um\nog lauk ásamt hrísgrjónum\nVegetable ragout  with mushrooms\, spina
+ ch\, kidney beans and onion w ith rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hrisgr
- jónum  (G)\nog sætri chili sósu\nSamosa with noodles\, vegetables and b
- eens with rice\, sweet chili
+SUMMARY:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja - o
+ g sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and sesame 
+  sauce  (S\,G)
 DTSTART:20261007T110000
 DTEND:20261007T130000
 DTSTAMP:20261007T110000Z
 UID:2026-10-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hr
- isgrjónum  (G)\nog sætri chili sósu\nSamosa with noodles\, vegetables a
- nd beens with rice\, sweet chili
+DESCRIPTION:Brokk olí- og blómkálsbollur með kartöflusmælki  og soja
+  - og sesam sósu (S\,G)\nVeggie tots with baby potatoes  and soy- and ses
+ ame  sauce  (S\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nRoast
- ed broccoli and lentils on hummus served with dressing
+SUMMARY:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel with
+  potatoes and mushroom sauce
 DTSTART:20261008T110000
 DTEND:20261008T130000
 DTSTAMP:20261008T110000Z
 UID:2026-10-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ristað brokkolí og linsubaunir á hummus ásamt dressingu\nR
- oasted broccoli and lentils on hummus served with dressing
+DESCRIPTION:Vegan snitsel með kartöflum og sveppasósu\nVegan schnitzel 
+ with potatoes and mushroom sauce
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco with
-  vegan chicken and cold dressing (G\,S)
+SUMMARY:Vegan ekki kjúklinga burger með grænmeti og kartöflubátum\nVe
+ gan chicken burger  with vegetables and  potato wedges.
 DTSTART:20261009T110000
 DTEND:20261009T130000
 DTSTAMP:20261009T110000Z
 UID:2026-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Taco með vegan hakki  og kaldri dressingu  (G\,S)\nSoft taco 
- with vegan chicken and cold dressing (G\,S)
+DESCRIPTION:Vegan ekki kjúklinga burger með grænmeti og kartöflubátum
+ \nVegan chicken burger  with vegetables and  potato wedges.
 END:VEVENT
 END:VCALENDAR

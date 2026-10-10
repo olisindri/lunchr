@@ -2,67 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Aspassúpa  - Asparagus  soup  (G\,M)\nTandoori  ýsa með hrísgr
- jónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sauce (M
- )
+SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
+ i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 DTSTART:20261005T110000
 DTEND:20261005T130000
 DTSTAMP:20261005T110000Z
 UID:2026-10-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspassúpa  - Asparagus  soup  (G\,M)\nTandoori  ýsa með hr
- ísgrjónum og t zatziki sósu (M)\nHaddock in Tandoori with Tzatziki  sau
- ce (M)
+DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
+ auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænertusúpa – Green pea soup\nKínverskur kjúklingur með hr
- ísgrjónum og kimch i hvítkáli (M)\nChinese chicken with  rice and kimc
- hi  cabbage (M)
+SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (M
+ )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði  (G\
+ ,M)\nLamb goulash in curry sauce with rice  (G\,M)
 DTSTART:20261006T110000
 DTEND:20261006T130000
 DTSTAMP:20261006T110000Z
 UID:2026-10-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænertusúpa – Green pea soup\nKínverskur kjúklingur me
- ð hrísgrjónum og kimch i hvítkáli (M)\nChinese chicken with  rice and
-  kimchi  cabbage (M)
+DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
+   (M)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
+  (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa pottur
-  með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (M\,G
- )\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (M\,G
- )
+SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  í m
+ iso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in miso
+  with fried rice and yogurt sauce(S \,M)
 DTSTART:20261007T110000
 DTEND:20261007T130000
 DTSTAMP:20261007T110000Z
 UID:2026-10-07T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kremuð tómatsúspa - creamy tomato soup\nKremaður grísa po
- ttur með döðlum\,  rjómaosti og tómötum ásamt steiktum kartöflum (
- M\,G)\nCreamy pork pot with dates\, cream cheese\, tomatoes and potatoes (
- M\,G)
+DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  
+ í miso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in 
+ miso with fried rice and yogurt sauce(S \,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnsteikt
-  Lambalæri með steikt um kartöflu m\, rótargrænmeti  og lambasoðsós
- u (M)\nRosted leg o f lamb with fried potatoes\, vegetables and demi -glac
- e (M)
+SUMMARY:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með steiktu
+ m kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with fried
+  potatoes\, mushroom sauce and red cabbage (M\,G)
 DTSTART:20261008T110000
 DTEND:20261008T130000
 DTSTAMP:20261008T110000Z
 UID:2026-10-08T11:00:00/olisindri@gmail.com
-DESCRIPTION:Spínat - og karrýsúpa – Spinach and curry soup (V)\nOfnst
- eikt Lambalæri með steikt um kartöflu m\, rótargrænmeti  og lambasoð
- sósu (M)\nRosted leg o f lamb with fried potatoes\, vegetables and demi -
- glace (M)
+DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með ste
+ iktum kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with f
+ ried potatoes\, mushroom sauce and red cabbage (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki\, s
- alsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi nced 
- beef\, crème fresh\, feta and nachos (M)
+SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur kjúk
+ linga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubátum (
+ G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise\, c
+ oleslaw\, and\npotato  wedges. (G\,E\,M)
 DTSTART:20261009T110000
 DTEND:20261009T130000
 DTSTAMP:20261009T110000Z
 UID:2026-10-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\,G\,E\,H)\nTaco með nautahakki
- \, salsa\, sýrðum rjóma\,  fetaosta salti og nachos (M)\nTaco with mi n
- ced beef\, crème fresh\, feta and nachos (M)
+DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur k
+ júklinga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubát
+ um (G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise
+ \, coleslaw\, and\npotato  wedges. (G\,E\,M)
 END:VEVENT
 END:VCALENDAR
