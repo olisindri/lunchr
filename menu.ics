@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
  i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
-DTSTART:20261005T110000
-DTEND:20261005T130000
-DTSTAMP:20261005T110000Z
-UID:2026-10-05T11:00:00/olisindri@gmail.com
+DTSTART:20261012T110000
+DTEND:20261012T130000
+DTSTAMP:20261012T110000Z
+UID:2026-10-12T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
  auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
 END:VEVENT
@@ -15,10 +15,10 @@ BEGIN:VEVENT
 SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (M
  )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði  (G\
  ,M)\nLamb goulash in curry sauce with rice  (G\,M)
-DTSTART:20261006T110000
-DTEND:20261006T130000
-DTSTAMP:20261006T110000Z
-UID:2026-10-06T11:00:00/olisindri@gmail.com
+DTSTART:20261013T110000
+DTEND:20261013T130000
+DTSTAMP:20261013T110000Z
+UID:2026-10-13T11:00:00/olisindri@gmail.com
 DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
    (M)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
   (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
@@ -27,10 +27,10 @@ BEGIN:VEVENT
 SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  í m
  iso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in miso
   with fried rice and yogurt sauce(S \,M)
-DTSTART:20261007T110000
-DTEND:20261007T130000
-DTSTAMP:20261007T110000Z
-UID:2026-10-07T11:00:00/olisindri@gmail.com
+DTSTART:20261014T110000
+DTEND:20261014T130000
+DTSTAMP:20261014T110000Z
+UID:2026-10-14T11:00:00/olisindri@gmail.com
 DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  
  í miso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in 
  miso with fried rice and yogurt sauce(S \,M)
@@ -39,10 +39,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með steiktu
  m kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with fried
   potatoes\, mushroom sauce and red cabbage (M\,G)
-DTSTART:20261008T110000
-DTEND:20261008T130000
-DTSTAMP:20261008T110000Z
-UID:2026-10-08T11:00:00/olisindri@gmail.com
+DTSTART:20261015T110000
+DTEND:20261015T130000
+DTSTAMP:20261015T110000Z
+UID:2026-10-15T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með ste
  iktum kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with f
  ried potatoes\, mushroom sauce and red cabbage (M\,G)
@@ -52,10 +52,10 @@ SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur kjúk
  linga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubátum (
  G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise\, c
  oleslaw\, and\npotato  wedges. (G\,E\,M)
-DTSTART:20261009T110000
-DTEND:20261009T130000
-DTSTAMP:20261009T110000Z
-UID:2026-10-09T11:00:00/olisindri@gmail.com
+DTSTART:20261016T110000
+DTEND:20261016T130000
+DTSTAMP:20261016T110000Z
+UID:2026-10-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur k
  júklinga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubát
  um (G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise
