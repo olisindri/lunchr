@@ -2,63 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbrauð
- i  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
-DTSTART:20261012T110000
-DTEND:20261012T130000
-DTSTAMP:20261012T110000Z
-UID:2026-10-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sveppasúpa  – Mushroom soup (M\,G)\nPlokkfiskur með rúgbr
- auði  og smjöri (M\,G)\nFish stew  with rye bread and butter  (M\,G)
+SUMMARY:Blaðlaukssúpa  – Leek  soup (M\,G)\nSpænskur saltfiskréttur 
+ með steiktum kartöflum og blómkássalati\nBacalao with olives and papri
+ ka\, potatoes and cauliflower
+DTSTART:20261019T110000
+DTEND:20261019T130000
+DTSTAMP:20261019T110000Z
+UID:2026-10-19T11:00:00/olisindri@gmail.com
+DESCRIPTION:Blaðlaukssúpa  – Leek  soup (M\,G)\nSpænskur saltfiskrét
+ tur með steiktum kartöflum og blómkássalati\nBacalao with olives and p
+ aprika\, potatoes and cauliflower
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papriku súpa  með fennel  – Bell pepper  soup  with fennel  (M
- )\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði  (G\
- ,M)\nLamb goulash in curry sauce with rice  (G\,M)
-DTSTART:20261013T110000
-DTEND:20261013T130000
-DTSTAMP:20261013T110000Z
-UID:2026-10-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Papriku súpa  með fennel  – Bell pepper  soup  with fennel
-   (M)\nLambakjöt í karrýsósu ásamt hrísgrjónum\, salati og brauði 
-  (G\,M)\nLamb goulash in curry sauce with rice  (G\,M)
+SUMMARY:Tómat - og basil súpa  – Tomato - and basil  soup (V)\nSpaghet
+ ti bolognese með hrásalati og hvítlauksbrauði  (E\,G)\nSpaghetti bolog
+ nese with col eslaw and garlic bread  (E\,G)
+DTSTART:20261020T110000
+DTEND:20261020T130000
+DTSTAMP:20261020T110000Z
+UID:2026-10-20T11:00:00/olisindri@gmail.com
+DESCRIPTION:Tómat - og basil súpa  – Tomato - and basil  soup (V)\nSpa
+ ghetti bolognese með hrásalati og hvítlauksbrauði  (E\,G)\nSpaghetti b
+ olognese with col eslaw and garlic bread  (E\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  í m
- iso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in miso
-  with fried rice and yogurt sauce(S \,M)
-DTSTART:20261014T110000
-DTEND:20261014T130000
-DTSTAMP:20261014T110000Z
-UID:2026-10-14T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa – Cauliflower soup (M\,G)\nOfnsteiktur lax  
- í miso með kryddhrísgrjónum og jógúrtsósu  (S\,M)\nFried salmon in 
- miso with fried rice and yogurt sauce(S \,M)
+SUMMARY:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)\nGr
+ ænmetissúpa  – Vege table s soup\nSoðin ýsa með sítrónusósu\, ka
+ rtöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon pepper sau
+ ce and rye bread (M\,G)
+DTSTART:20261021T110000
+DTEND:20261021T130000
+DTSTAMP:20261021T110000Z
+UID:2026-10-21T11:00:00/olisindri@gmail.com
+DESCRIPTION:Salat dagsins - Salad of the day: Brokk olí – Broccoli  (V)
+ \nGrænmetissúpa  – Vege table s soup\nSoðin ýsa með sítrónusósu\
+ , kartöflusmælki og rúgbrauði (M\,G)\nBoiled haddock with lemon pepper
+  sauce and rye bread (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með steiktu
- m kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with fried
-  potatoes\, mushroom sauce and red cabbage (M\,G)
-DTSTART:20261015T110000
-DTEND:20261015T130000
-DTSTAMP:20261015T110000Z
-UID:2026-10-15T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa – Vegetable soup (V)\nNauta snitsel með ste
- iktum kartöflum\, sveppasósu og rauðkáli (M\,G)\nBeef schnitzel with f
- ried potatoes\, mushroom sauce and red cabbage (M\,G)
+SUMMARY:Paprikusúpa  – Bell p epper soup  (V)\nRib eye steik með kart
+ öflugratíni\, brokkol í og soðsósu (M)\nRib-eye steak with potato gra
+ tin\, broccoli  and demi -glace(M)
+DTSTART:20261022T110000
+DTEND:20261022T130000
+DTSTAMP:20261022T110000Z
+UID:2026-10-22T11:00:00/olisindri@gmail.com
+DESCRIPTION:Paprikusúpa  – Bell p epper soup  (V)\nRib eye steik með k
+ artöflugratíni\, brokkol í og soðsósu (M)\nRib-eye steak with potato 
+ gratin\, broccoli  and demi -glace(M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur kjúk
- linga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubátum (
- G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise\, c
- oleslaw\, and\npotato  wedges. (G\,E\,M)
-DTSTART:20261016T110000
-DTEND:20261016T130000
-DTSTAMP:20261016T110000Z
-UID:2026-10-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,E\,G \,H)\nSuðuríkja steiktur k
- júklinga hamborgari með beikon mæjónesi\, hrásalati og\nkartöflubát
- um (G\,M\,E)\nSouthern -style fried  chicken burger with  bacon mayonnaise
- \, coleslaw\, and\npotato  wedges. (G\,E\,M)
+SUMMARY:Eftirréttur - Dessert\nKjúklingur í BBQ sósu með southern kry
+ dduðum smælki kartöflum (S)\nChicken in BBQ with Southern spiced potato
+ es(S)
+DTSTART:20261023T110000
+DTEND:20261023T130000
+DTSTAMP:20261023T110000Z
+UID:2026-10-23T11:00:00/olisindri@gmail.com
+DESCRIPTION:Eftirréttur - Dessert\nKjúklingur í BBQ sósu með southern
+  krydduðum smælki kartöflum (S)\nChicken in BBQ with Southern spiced po
+ tatoes(S)
 END:VEVENT
 END:VCALENDAR
