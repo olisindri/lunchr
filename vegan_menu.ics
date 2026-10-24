@@ -2,58 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hrísg
- rjónum\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, vege
- tables and peas\nserved with rice and sweet chili sauce ( G\,S)
+SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt steiktum kart
+ öflum\nPotato and beets rissole with len tils served with fried potatoes
 DTSTART:20261019T110000
 DTEND:20261019T130000
 DTSTAMP:20261019T110000Z
 UID:2026-10-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með núðlum\, grænmeti og baunum ásamt hr
- ísgrjónum\nog sætri chili sósu ( G\,S)\nSamosas filled with noodles\, 
- vegetables and peas\nserved with rice and sweet chili sauce ( G\,S)
+DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt steiktum 
+ kartöflum\nPotato and beets rissole with len tils served with fried potat
+ oes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og kaldri dressingu\n
- Cauliflower - and almond rissole served with potatoes  and cold dressing
+SUMMARY:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet pota
+ to balls with curry sauce and rice
 DTSTART:20261020T110000
 DTEND:20261020T130000
 DTSTAMP:20261020T110000Z
 UID:2026-10-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og kaldri dressin
- gu\nCauliflower - and almond rissole served with potatoes  and cold dressi
- ng
+DESCRIPTION:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet 
+ potato balls with curry sauce and rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow Tha
- i  curry with rice  (G\,S)
+SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
+  rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
+ icken peas\, black beans\nand root vegetables served with mustard mayo
 DTSTART:20261021T110000
 DTEND:20261021T130000
 DTSTAMP:20261021T110000Z
 UID:2026-10-21T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan gult thai karrí með hrísgrjónum (G\,S)\nVegan yellow
-  Thai  curry with rice  (G\,S)
+DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
+ \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
+ , chicken peas\, black beans\nand root vegetables served with mustard mayo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og kal
- dri dressing  (S\,H)\nCannellini  bean and root vegetable cashew steak wit
- h potatoes  and cold dressing  (S\,H)
+SUMMARY:Vegan kjúklingur  með sætkartöflumús  og maís\nVegan chicken
+  with  sweet potatoes  and sweet corn
 DTSTART:20261022T110000
 DTEND:20261022T130000
 DTSTAMP:20261022T110000Z
 UID:2026-10-22T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvítbauna og rótargrænmetis hnetu steik með kartöflum  og
-  kaldri dressing  (S\,H)\nCannellini  bean and root vegetable cashew steak
-  with potatoes  and cold dressing  (S\,H)
+DESCRIPTION:Vegan kjúklingur  með sætkartöflumús  og maís\nVegan chi
+ cken with  sweet potatoes  and sweet corn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Ekki kjúklingur" í BBQ sósu með southern krydduðum smælki k
- artöflum(S)\nVegan chicken in BBQ with potatoes(S)
+SUMMARY:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan bur
+ ger with vegetables and potatoes  wedges  (G)
 DTSTART:20261023T110000
 DTEND:20261023T130000
 DTSTAMP:20261023T110000Z
 UID:2026-10-23T11:00:00/olisindri@gmail.com
-DESCRIPTION:"Ekki kjúklingur" í BBQ sósu með southern krydduðum smæl
- ki kartöflum(S)\nVegan chicken in BBQ with potatoes(S)
+DESCRIPTION:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan
+  burger with vegetables and potatoes  wedges  (G)
 END:VEVENT
 END:VCALENDAR
