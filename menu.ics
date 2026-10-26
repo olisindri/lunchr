@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Tómatsúpa  – Tomato soup\nÝsa í hvítlauk\, basil og konfekt
  tómötum með steiktum kartöflum (M)\nHaddock inn garlic\, basil and che
  rry tomatoes with fried potatoes (M)
-DTSTART:20261019T110000
-DTEND:20261019T130000
-DTSTAMP:20261019T110000Z
-UID:2026-10-19T11:00:00/olisindri@gmail.com
+DTSTART:20261026T110000
+DTEND:20261026T130000
+DTSTAMP:20261026T110000Z
+UID:2026-10-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Tómatsúpa  – Tomato soup\nÝsa í hvítlauk\, basil og kon
  fekttómötum með steiktum kartöflum (M)\nHaddock inn garlic\, basil and
   cherry tomatoes with fried potatoes (M)
@@ -16,10 +16,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gulrótar - og engifer súpa  – Carrot - and ginger soup (V)\nKu
  ng Pao kjúklingur með hrísgrjónum\nKung Pao chicken with rice
-DTSTART:20261020T110000
-DTEND:20261020T130000
-DTSTAMP:20261020T110000Z
-UID:2026-10-20T11:00:00/olisindri@gmail.com
+DTSTART:20261027T110000
+DTEND:20261027T130000
+DTSTAMP:20261027T110000Z
+UID:2026-10-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Gulrótar - og engifer súpa  – Carrot - and ginger soup (V)
  \nKung Pao kjúklingur með hrísgrjónum\nKung Pao chicken with rice
 END:VEVENT
@@ -27,10 +27,10 @@ BEGIN:VEVENT
 SUMMARY:Brokkolísúpa – Broccoli  soup  (M\,G)\nSteikt ýsa í paxo ras
  pi með kokt eilsósu og steiktum  kartöflum(G\,E)\nFried fish with cockt
  ail sauce  and fried  potatoes (G\,E)
-DTSTART:20261021T110000
-DTEND:20261021T130000
-DTSTAMP:20261021T110000Z
-UID:2026-10-21T11:00:00/olisindri@gmail.com
+DTSTART:20261028T110000
+DTEND:20261028T130000
+DTSTAMP:20261028T110000Z
+UID:2026-10-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Brokkolísúpa – Broccoli  soup  (M\,G)\nSteikt ýsa í paxo
   raspi með kokt eilsósu og steiktum  kartöflum(G\,E)\nFried fish with c
  ocktail sauce  and fried  potatoes (G\,E)
@@ -40,10 +40,10 @@ SUMMARY:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nSteik
  t kalkúnabringa í timian og appelsínu með eplasalati\, sætkartöflum
  ús  og gravy (M)\nRoasted turkey breast with thyme and orange\,\nserved w
  ith apple salad\, sweet potato mash and gravy (M)
-DTSTART:20261022T110000
-DTEND:20261022T130000
-DTSTAMP:20261022T110000Z
-UID:2026-10-22T11:00:00/olisindri@gmail.com
+DTSTART:20261029T110000
+DTEND:20261029T130000
+DTSTAMP:20261029T110000Z
+UID:2026-10-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Ristuð blómkálssúpa  – Roasted cauliflower  soup  (V)\nS
  teikt kalkúnabringa í timian og appelsínu með eplasalati\, sætkartöf
  lumús  og gravy (M)\nRoasted turkey breast with thyme and orange\,\nserve
@@ -53,10 +53,10 @@ BEGIN:VEVENT
 SUMMARY:Eftirréttur – Dessert (M\,G\,E\,H \,S)\nKlassískur ostborgari 
  með grænmeti og kartöflubátum  (G\,M\,E)\nCheeseburger with vegetable 
  and wedges (G\,M\,E)
-DTSTART:20261023T110000
-DTEND:20261023T130000
-DTSTAMP:20261023T110000Z
-UID:2026-10-23T11:00:00/olisindri@gmail.com
+DTSTART:20261030T110000
+DTEND:20261030T130000
+DTSTAMP:20261030T110000Z
+UID:2026-10-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Eftirréttur – Dessert (M\,G\,E\,H \,S)\nKlassískur ostborg
  ari með grænmeti og kartöflubátum  (G\,M\,E)\nCheeseburger with vegeta
  ble and wedges (G\,M\,E)

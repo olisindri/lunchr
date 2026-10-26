@@ -4,10 +4,10 @@ PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
 SUMMARY:Kartöflu og rauðrófubuff með linsubaunum  ásamt steiktum kart
  öflum\nPotato and beets rissole with len tils served with fried potatoes
-DTSTART:20261019T110000
-DTEND:20261019T130000
-DTSTAMP:20261019T110000Z
-UID:2026-10-19T11:00:00/olisindri@gmail.com
+DTSTART:20261026T110000
+DTEND:20261026T130000
+DTSTAMP:20261026T110000Z
+UID:2026-10-26T11:00:00/olisindri@gmail.com
 DESCRIPTION:Kartöflu og rauðrófubuff með linsubaunum  ásamt steiktum 
  kartöflum\nPotato and beets rissole with len tils served with fried potat
  oes
@@ -15,10 +15,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet pota
  to balls with curry sauce and rice
-DTSTART:20261020T110000
-DTEND:20261020T130000
-DTSTAMP:20261020T110000Z
-UID:2026-10-20T11:00:00/olisindri@gmail.com
+DTSTART:20261027T110000
+DTEND:20261027T130000
+DTSTAMP:20261027T110000Z
+UID:2026-10-27T11:00:00/olisindri@gmail.com
 DESCRIPTION:Sætkartöflubollur með karrý sósu og hrísgrjónum\nSweet 
  potato balls with curry sauce and rice
 END:VEVENT
@@ -26,10 +26,10 @@ BEGIN:VEVENT
 SUMMARY:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum\nog
   rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\, ch
  icken peas\, black beans\nand root vegetables served with mustard mayo
-DTSTART:20261021T110000
-DTEND:20261021T130000
-DTSTAMP:20261021T110000Z
-UID:2026-10-21T11:00:00/olisindri@gmail.com
+DTSTART:20261028T110000
+DTEND:20261028T130000
+DTSTAMP:20261028T110000Z
+UID:2026-10-28T11:00:00/olisindri@gmail.com
 DESCRIPTION:Krydduð buff með kartöflum\, kjúklingabaunum\, svartbaunum
  \nog rótargrænmeti  ásamt sinneps mæjó\nSpiced rissole with potatoes\
  , chicken peas\, black beans\nand root vegetables served with mustard mayo
@@ -37,20 +37,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegan kjúklingur  með sætkartöflumús  og maís\nVegan chicken
   with  sweet potatoes  and sweet corn
-DTSTART:20261022T110000
-DTEND:20261022T130000
-DTSTAMP:20261022T110000Z
-UID:2026-10-22T11:00:00/olisindri@gmail.com
+DTSTART:20261029T110000
+DTEND:20261029T130000
+DTSTAMP:20261029T110000Z
+UID:2026-10-29T11:00:00/olisindri@gmail.com
 DESCRIPTION:Vegan kjúklingur  með sætkartöflumús  og maís\nVegan chi
  cken with  sweet potatoes  and sweet corn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan bur
  ger with vegetables and potatoes  wedges  (G)
-DTSTART:20261023T110000
-DTEND:20261023T130000
-DTSTAMP:20261023T110000Z
-UID:2026-10-23T11:00:00/olisindri@gmail.com
+DTSTART:20261030T110000
+DTEND:20261030T130000
+DTSTAMP:20261030T110000Z
+UID:2026-10-30T11:00:00/olisindri@gmail.com
 DESCRIPTION:Veganhamborgari með  grænmeti og  kartöflubátum (G)\nVegan
   burger with vegetables and potatoes  wedges  (G)
 END:VEVENT
