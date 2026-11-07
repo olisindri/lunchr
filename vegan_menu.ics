@@ -2,57 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl with
-  lentils and rice
+SUMMARY:Falafel með tagine sósu og hrísgrjónum\nFalafel with tagine sa
+ uce and rice  (G)
 DTSTART:20261102T110000
 DTEND:20261102T130000
 DTSTAMP:20261102T110000Z
 UID:2026-11-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Indverskt dahl með linsubaunum og hrísgrjónum\nIndian dahl 
- with lentils and rice
+DESCRIPTION:Falafel með tagine sósu og hrísgrjónum\nFalafel with tagin
+ e sauce and rice  (G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kínverskt  karrí með  tófú\,  baunum og grænmeti (S)\nVegeta
- ble red curry with tofu\, beans and vegetables (S)
+SUMMARY:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pesto (H
+ \,G)
 DTSTART:20261103T110000
 DTEND:20261103T130000
 DTSTAMP:20261103T110000Z
 UID:2026-11-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Kínverskt  karrí með  tófú\,  baunum og grænmeti (S)\nVe
- getable red curry with tofu\, beans and vegetables (S)
+DESCRIPTION:Spínatlasagna með pestói  (H\,G)\nSpinach lasagna with pest
+ o (H\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Samósur fylltar með grænmeti\, núðlum og baunum\násamt hrís
- grjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, noodl
- es and peas\nserved with rice and sweet chili sauce (G)
+SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
+ ldri dressingu\nStuffed bell peppers with quinoa\, beans and cold dressing
 DTSTART:20261104T110000
 DTEND:20261104T130000
 DTSTAMP:20261104T110000Z
 UID:2026-11-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Samósur fylltar með grænmeti\, núðlum og baunum\násamt h
- rísgrjónum og sætri chili sósu (G)\nSamosas filled with vegetables\, n
- oodles and peas\nserved with rice and sweet chili sauce (G)
+DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
+ t kaldri dressingu\nStuffed bell peppers with quinoa\, beans and cold dres
+ sing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekki kjúkling a shawarma með steiktum hrísgrjónum og kaldri s
- ósu (S)\nVegan Chicken shawarma with fried rice and cold sauce .(S)
+SUMMARY:Grænmetis massam an karrý með hrísgrjónum\nVegetable Massam a
+ n curry with rice
 DTSTART:20261105T110000
 DTEND:20261105T130000
 DTSTAMP:20261105T110000Z
 UID:2026-11-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Ekki kjúkling a shawarma með steiktum hrísgrjónum og kaldr
- i sósu (S)\nVegan Chicken shawarma with fried rice and cold sauce .(S)
+DESCRIPTION:Grænmetis massam an karrý með hrísgrjónum\nVegetable Mass
+ am an curry with rice
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásamt ka
- ldri dressingu\nStuffed paprika with quinoa\, tomatoes and vegetables and 
- colde sauce
+SUMMARY:Píta með vegan hakki og rösti (G)\nPita with vegan hakk and rö
+ sti (G)
 DTSTART:20261106T110000
 DTEND:20261106T130000
 DTSTAMP:20261106T110000Z
 UID:2026-11-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Fyllt paprika með quinoa\, baunum\, tómat og grænmeti ásam
- t kaldri dressingu\nStuffed paprika with quinoa\, tomatoes and vegetables 
- and colde sauce
+DESCRIPTION:Píta með vegan hakki og rösti (G)\nPita with vegan hakk and
+  rösti (G)
 END:VEVENT
 END:VCALENDAR

@@ -2,63 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nIndverskt
-  keema með hrísgrjónum\, naan brauði og jógúrtsósu (M)\nIndian -sty
- le keema served with rice\, naan bread\, and yogurt sauce. (M)
+SUMMARY:Basil -chili-tómatsúpa – Basil -chili-tomatosoup\nÝsa í tæl
+ ensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\nHadd
+ ock in Thai curry and coconut\, rice with bamboo (G\,S)
 DTSTART:20261102T110000
 DTEND:20261102T130000
 DTSTAMP:20261102T110000Z
 UID:2026-11-02T11:00:00/olisindri@gmail.com
-DESCRIPTION:Trufflu sveppa súpa  - Truffle  mushroom  soup  (G\,M)\nIndve
- rskt keema með hrísgrjónum\, naan brauði og jógúrtsósu (M)\nIndian 
- -style keema served with rice\, naan bread\, and yogurt sauce. (M)
+DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili-tomatosoup\nÝsa í 
+ tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\n
+ Haddock in Thai curry and coconut\, rice with bamboo (G\,S)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tómat - og basilsúpa - Tomato - and basil soup\nSteiktar fiskibo
- llur með kartöflum\, hrásalati og brúnni sósu (G\,M\,E)\nFried fish b
- alls with potatoes\, coleslaw\, and brown gravy (G\,M\,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup (M)\nLasagna á ítalska
+ n máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garl
+ ic bread and col e slaw(G\,M\,E)
 DTSTART:20261103T110000
 DTEND:20261103T130000
 DTSTAMP:20261103T110000Z
 UID:2026-11-03T11:00:00/olisindri@gmail.com
-DESCRIPTION:Tómat - og basilsúpa - Tomato - and basil soup\nSteiktar fis
- kibollur með kartöflum\, hrásalati og brúnni sósu (G\,M\,E)\nFried fi
- sh balls with potatoes\, coleslaw\, and brown gravy (G\,M\,E)
+DESCRIPTION:Hvít aspassúpa – White asparagus soup (M)\nLasagna á íta
+ lskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with 
+ garlic bread and col e slaw(G\,M\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar - og kóriandersúpa  – Carrot and coriander soup  (G\
- , M)\nNautapottréttur Bourguignon með kartöflumús og rauðkáli (M)\nB
- eef Bourguignon stew with mashed potatoes and red cabbage (M)
+SUMMARY:Sætkartöflusúpa  – Sweet potato soup  (M)\nSteinbíts kinnar 
+ í béchamel sósu með steiktum kartöflum og kremuðu hvítkáli (M)\nWo
+ lffish cheeks in béchamel sauce\, served with fried potatoes and creamed 
+ cabbage (M)
 DTSTART:20261104T110000
 DTEND:20261104T130000
 DTSTAMP:20261104T110000Z
 UID:2026-11-04T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar - og kóriandersúpa  – Carrot and coriander soup 
-  (G\, M)\nNautapottréttur Bourguignon með kartöflumús og rauðkáli (M
- )\nBeef Bourguignon stew with mashed potatoes and red cabbage (M)
+DESCRIPTION:Sætkartöflusúpa  – Sweet potato soup  (M)\nSteinbíts kin
+ nar í béchamel sósu með steiktum kartöflum og kremuðu hvítkáli (M)
+ \nWolffish cheeks in béchamel sauce\, served with fried potatoes and crea
+ med cabbage (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetissúpa  – Vegetable soup (V)\nKjúklingur shawarma með
-   steiktum hrísgrjónum og kimchi hvítkáli\nChicken shawarma with fried
-  rice and kimchi cabbage
+SUMMARY:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteiktur svínahnakki m
+ eð sýrðu rauðkáli\,\nbökuðum  premium kartöflum og rjómalagaðri 
+ sósu (M\,G)\nRosted pork  with red cabbage  potatoes and creme mushroom s
+ auce (M\,G)
 DTSTART:20261105T110000
 DTEND:20261105T130000
 DTSTAMP:20261105T110000Z
 UID:2026-11-05T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetissúpa  – Vegetable soup (V)\nKjúklingur shawarma 
- með  steiktum hrísgrjónum og kimchi hvítkáli\nChicken shawarma with f
- ried rice and kimchi cabbage
+DESCRIPTION:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteiktur svínahnak
+ ki með sýrðu rauðkáli\,\nbökuðum  premium kartöflum og rjómalaga
+ ðri sósu (M\,G)\nRosted pork  with red cabbage  potatoes and creme mushr
+ oom sauce (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftir réttur  – Dessert  (M\, G\, E\, H )\nBBQ rif með fersku 
- hvítkálssalati og rösti kartöflum\nBBQ ribs with cold slaw and rosti p
- otatoes
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænmeti\,
+  pítusósu og rösti kartöflum (G\,E)\nPita bread filled with minced mea
+ t\, vegetables\, pita sauce\, and rösti potatoes. (G\,E)
 DTSTART:20261106T110000
 DTEND:20261106T130000
 DTSTAMP:20261106T110000Z
 UID:2026-11-06T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftir réttur  – Dessert  (M\, G\, E\, H )\nBBQ rif með fer
- sku hvítkálssalati og rösti kartöflum\nBBQ ribs with cold slaw and ros
- ti potatoes
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænme
+ ti\, pítusósu og rösti kartöflum (G\,E)\nPita bread filled with minced
+  meat\, vegetables\, pita sauce\, and rösti potatoes. (G\,E)
 END:VEVENT
 END:VCALENDAR
