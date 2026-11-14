@@ -2,67 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Basil -chili-tómatsúpa – Basil -chili-tomatosoup\nÝsa í tæl
- ensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\nHadd
- ock in Thai curry and coconut\, rice with bamboo (G\,S)
+SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
+ í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with fri
+ ed potatoes  (M\,G)
 DTSTART:20261109T110000
 DTEND:20261109T130000
 DTSTAMP:20261109T110000Z
 UID:2026-11-09T11:00:00/olisindri@gmail.com
-DESCRIPTION:Basil -chili-tómatsúpa – Basil -chili-tomatosoup\nÝsa í 
- tælensku rauðu karrý og kókos ásamt hrísgrjónum  og bambus (G\,S)\n
- Haddock in Thai curry and coconut\, rice with bamboo (G\,S)
+DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
+ ur í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with 
+ fried potatoes  (M\,G)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvít aspassúpa – White asparagus soup (M)\nLasagna á ítalska
- n máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with garl
- ic bread and col e slaw(G\,M\,E)
+SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í 
+ trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
+ iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
+ e cabbage and cold pepper sauce (G\,M \,E)
 DTSTART:20261110T110000
 DTEND:20261110T130000
 DTSTAMP:20261110T110000Z
 UID:2026-11-10T11:00:00/olisindri@gmail.com
-DESCRIPTION:Hvít aspassúpa – White asparagus soup (M)\nLasagna á íta
- lskan máta með hvítlauksbrauði og hrásalati  (G\,M\,E)\nLasagna with 
- garlic bread and col e slaw(G\,M\,E)
+DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
+  í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
+ og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
+ white cabbage and cold pepper sauce (G\,M \,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sætkartöflusúpa  – Sweet potato soup  (M)\nSteinbíts kinnar 
- í béchamel sósu með steiktum kartöflum og kremuðu hvítkáli (M)\nWo
- lffish cheeks in béchamel sauce\, served with fried potatoes and creamed 
- cabbage (M)
+SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
+ G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og brú nn
+ i sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, broccol
+ i  and brown sauce(E\,G\,M)
 DTSTART:20261111T110000
 DTEND:20261111T130000
 DTSTAMP:20261111T110000Z
 UID:2026-11-11T11:00:00/olisindri@gmail.com
-DESCRIPTION:Sætkartöflusúpa  – Sweet potato soup  (M)\nSteinbíts kin
- nar í béchamel sósu með steiktum kartöflum og kremuðu hvítkáli (M)
- \nWolffish cheeks in béchamel sauce\, served with fried potatoes and crea
- med cabbage (M)
+DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
+ (M\,G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og br
+ ú nni sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, br
+ occoli  and brown sauce(E\,G\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteiktur svínahnakki m
- eð sýrðu rauðkáli\,\nbökuðum  premium kartöflum og rjómalagaðri 
- sósu (M\,G)\nRosted pork  with red cabbage  potatoes and creme mushroom s
- auce (M\,G)
+SUMMARY:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettur í
+  raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBreaded 
+ lamb chops served with red cabbage\, green peas\, and brown gravy (G\,M)
 DTSTART:20261112T110000
 DTEND:20261112T130000
 DTSTAMP:20261112T110000Z
 UID:2026-11-12T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkálssúpa - Cauliflowersoup  (V)\nOfnsteiktur svínahnak
- ki með sýrðu rauðkáli\,\nbökuðum  premium kartöflum og rjómalaga
- ðri sósu (M\,G)\nRosted pork  with red cabbage  potatoes and creme mushr
- oom sauce (M\,G)
+DESCRIPTION:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettu
+ r í raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBrea
+ ded lamb chops served with red cabbage\, green peas\, and brown gravy (G\,
+ M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænmeti\,
-  pítusósu og rösti kartöflum (G\,E)\nPita bread filled with minced mea
- t\, vegetables\, pita sauce\, and rösti potatoes. (G\,E)
+SUMMARY:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\nMex
+ ican Lasagna with Sour Cream and Nachos (G\,M)
 DTSTART:20261113T110000
 DTEND:20261113T130000
 DTSTAMP:20261113T110000Z
 UID:2026-11-13T11:00:00/olisindri@gmail.com
-DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nPíta með hakki\, grænme
- ti\, pítusósu og rösti kartöflum (G\,E)\nPita bread filled with minced
-  meat\, vegetables\, pita sauce\, and rösti potatoes. (G\,E)
+DESCRIPTION:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\
+ nMexican Lasagna with Sour Cream and Nachos (G\,M)
 END:VEVENT
 END:VCALENDAR
