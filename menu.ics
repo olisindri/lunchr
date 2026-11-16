@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
  í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with fri
  ed potatoes  (M\,G)
-DTSTART:20261109T110000
-DTEND:20261109T130000
-DTSTAMP:20261109T110000Z
-UID:2026-11-09T11:00:00/olisindri@gmail.com
+DTSTART:20261116T110000
+DTEND:20261116T130000
+DTSTAMP:20261116T110000Z
+UID:2026-11-16T11:00:00/olisindri@gmail.com
 DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
  ur í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with 
  fried potatoes  (M\,G)
@@ -18,10 +18,10 @@ SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í
  trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
  iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
  e cabbage and cold pepper sauce (G\,M \,E)
-DTSTART:20261110T110000
-DTEND:20261110T130000
-DTSTAMP:20261110T110000Z
-UID:2026-11-10T11:00:00/olisindri@gmail.com
+DTSTART:20261117T110000
+DTEND:20261117T130000
+DTSTAMP:20261117T110000Z
+UID:2026-11-17T11:00:00/olisindri@gmail.com
 DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
   í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
  og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
@@ -32,10 +32,10 @@ SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
  G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og brú nn
  i sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, broccol
  i  and brown sauce(E\,G\,M)
-DTSTART:20261111T110000
-DTEND:20261111T130000
-DTSTAMP:20261111T110000Z
-UID:2026-11-11T11:00:00/olisindri@gmail.com
+DTSTART:20261118T110000
+DTEND:20261118T130000
+DTSTAMP:20261118T110000Z
+UID:2026-11-18T11:00:00/olisindri@gmail.com
 DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
  (M\,G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og br
  ú nni sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, br
@@ -45,10 +45,10 @@ BEGIN:VEVENT
 SUMMARY:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettur í
   raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBreaded 
  lamb chops served with red cabbage\, green peas\, and brown gravy (G\,M)
-DTSTART:20261112T110000
-DTEND:20261112T130000
-DTSTAMP:20261112T110000Z
-UID:2026-11-12T11:00:00/olisindri@gmail.com
+DTSTART:20261119T110000
+DTEND:20261119T130000
+DTSTAMP:20261119T110000Z
+UID:2026-11-19T11:00:00/olisindri@gmail.com
 DESCRIPTION:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettu
  r í raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBrea
  ded lamb chops served with red cabbage\, green peas\, and brown gravy (G\,
@@ -57,10 +57,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\nMex
  ican Lasagna with Sour Cream and Nachos (G\,M)
-DTSTART:20261113T110000
-DTEND:20261113T130000
-DTSTAMP:20261113T110000Z
-UID:2026-11-13T11:00:00/olisindri@gmail.com
+DTSTART:20261120T110000
+DTEND:20261120T130000
+DTSTAMP:20261120T110000Z
+UID:2026-11-20T11:00:00/olisindri@gmail.com
 DESCRIPTION:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\
  nMexican Lasagna with Sour Cream and Nachos (G\,M)
 END:VEVENT
