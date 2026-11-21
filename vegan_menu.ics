@@ -2,62 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Grænmetis thai pottur  með baunum og grænmeti  ásamt hrísgrj
- ónum\nVegetarian Thai Curry with Beans and Vegetables\, Served with Rice
+SUMMARY:Falafel með tagine sósu\, cous -cous og salati\nFalafel with tag
+ ine  sauce\, couscous\, and salad.
 DTSTART:20261116T110000
 DTEND:20261116T130000
 DTSTAMP:20261116T110000Z
 UID:2026-11-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis thai pottur  með baunum og grænmeti  ásamt hrís
- grjónum\nVegetarian Thai Curry with Beans and Vegetables\, Served with Ri
- ce
+DESCRIPTION:Falafel með tagine sósu\, cous -cous og salati\nFalafel with
+  tagine  sauce\, couscous\, and salad.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCaulifl
- ower and  almond buff with potatoes
+SUMMARY:Chili sin carne með nachos\nChili sin carne with nachos
 DTSTART:20261117T110000
 DTEND:20261117T130000
 DTSTAMP:20261117T110000Z
 UID:2026-11-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Blómkáls - og möndlubuff með kartöflum  og dressingu\nCau
- liflower and  almond buff with potatoes
+DESCRIPTION:Chili sin carne með nachos\nChili sin carne with nachos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -sesam 
- sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesame  (
- G\,S)
+SUMMARY:Blómkál - og svartbauna pottréttur með kókosmjólk\, tómat\,
+  hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with coc
+ onut milk\,\ntomato\, garlic\, onion and vegetables
 DTSTART:20261118T110000
 DTEND:20261118T130000
 DTSTAMP:20261118T110000Z
 UID:2026-11-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Brokk olí- og blómkálsbollur með hrísgrjónum og soja -se
- sam sósu (G\,S)\nBroccoli and curly flour balls with rice an d soya sesam
- e  (G\,S)
+DESCRIPTION:Blómkál - og svartbauna pottréttur með kókosmjólk\, tóm
+ at\, hvítlauk\, lauk og grænmeti\nCauliflower - and black bean stew with
+  coconut milk\,\ntomato\, garlic\, onion and vegetables
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis massaman karrý með hrísgrjónum og salati\nVegetable
-  Massaman curry with rice and salad.
+SUMMARY:Grillað bragðmikið blómkál með hummus og chimichurri\nRoaste
+ d and spiced cauliflower with hummus and Chimichurri
 DTSTART:20261119T110000
 DTEND:20261119T130000
 DTSTAMP:20261119T110000Z
 UID:2026-11-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis massaman karrý með hrísgrjónum og salati\nVeget
- able Massaman curry with rice and salad.
+DESCRIPTION:Grillað bragðmikið blómkál með hummus og chimichurri\nRo
+ asted and spiced cauliflower with hummus and Chimichurri
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vegan Mexico lasagna með nachoes (G)\nVegan Mexican lasagna with 
- nachoes (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- Soyja/
- Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okkar ve
- gan rétti\nPlease note that we use a lot of onion and garlic for our vega
- n courses
+SUMMARY:Rock veganhamborgari með rósmarínkartöflubátum (G\,S)\nRock v
+ egan burger with potatoes( G\,S)
 DTSTART:20261120T110000
 DTEND:20261120T130000
 DTSTAMP:20261120T110000Z
 UID:2026-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Vegan Mexico lasagna með nachoes (G)\nVegan Mexican lasagna w
- ith nachoes (G)\n(G) – Glúten/Gluten  (H) – Hnetur/Peanuts  - (S)- So
- yja/Soya\nVinsamlegast athugið að notum mikinn lauk og hvítlauk í okka
- r vegan rétti\nPlease note that we use a lot of onion and garlic for our 
- vegan courses
+DESCRIPTION:Rock veganhamborgari með rósmarínkartöflubátum (G\,S)\nRo
+ ck vegan burger with potatoes( G\,S)
 END:VEVENT
 END:VCALENDAR

@@ -2,66 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Vikumatseðill mötuneytis Kokkanna//olisindri.com//
 BEGIN:VEVENT
-SUMMARY:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottréttur 
- í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with fri
- ed potatoes  (M\,G)
+SUMMARY:Kremuð tómatsúpa - Creamy  tomato  soup (M)\nKínverskur kjúkl
+ ingur í karrý með hrísgrjónum (S\,M)\nChinese chicken curry with rice
+  (S\,M)
 DTSTART:20261116T110000
 DTEND:20261116T130000
 DTSTAMP:20261116T110000Z
 UID:2026-11-16T11:00:00/olisindri@gmail.com
-DESCRIPTION:Villisveppasúpa – Wild mushroom soup (M\,G)\nLambapottrétt
- ur í brúnni sósu ásamt steiktum kartöflum  (M\,G)\nLamb goulash with 
- fried potatoes  (M\,G)
+DESCRIPTION:Kremuð tómatsúpa - Creamy  tomato  soup (M)\nKínverskur kj
+ úklingur í karrý með hrísgrjónum (S\,M)\nChinese chicken curry with 
+ rice (S\,M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur í 
- trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati og p
- iparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with whit
- e cabbage and cold pepper sauce (G\,M \,E)
+SUMMARY:Hvít aspassúpa – White asparagus soup (M)\nChili con carne me
+ ð sýrðum rjóma og nachos (M)\nChili con carne  with sour cream  and na
+ chos (M)
 DTSTART:20261117T110000
 DTEND:20261117T130000
 DTSTAMP:20261117T110000Z
 UID:2026-11-17T11:00:00/olisindri@gmail.com
-DESCRIPTION:Aspas súpa  – Asparagus  soup  (V)(S)\nSteiktur steinbítur
-  í trufflu pankó raspi  ásamt steiktum kartöflum\,\nfersku hrásalati 
- og piparm æjó (G\,M \,E)\nFried wolffish in panko\, fried potatoes with 
- white cabbage and cold pepper sauce (G\,M \,E)
+DESCRIPTION:Hvít aspassúpa – White asparagus soup (M)\nChili con carne
+  með sýrðum rjóma og nachos (M)\nChili con carne  with sour cream  and
+  nachos (M)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gulrótar– og kóríandersúpa - Carrot and coriander soup  (M\,
- G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og brú nn
- i sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, broccol
- i  and brown sauce(E\,G\,M)
+SUMMARY:Blómkál ssúpa – Cauliflower soup (M)\nSteiktur fiskur í rasp
+ i með steiktum kartöflum\, súrum gúrkum og remúlaði (G\,E)\nFried fi
+ sh in  breadcrumbs with fried  potatoes\, pickles\, and remoulade  sauce (
+ G\,E)
 DTSTART:20261118T110000
 DTEND:20261118T130000
 DTSTAMP:20261118T110000Z
 UID:2026-11-18T11:00:00/olisindri@gmail.com
-DESCRIPTION:Gulrótar– og kóríandersúpa - Carrot and coriander soup  
- (M\,G)\nKjötbollur með kartöflumús\, rababarasultu\, brokkolí  og br
- ú nni sósu (E\,G\,M)\nMeet balls with mashed potatoes\, rhubarb jam\, br
- occoli  and brown sauce(E\,G\,M)
+DESCRIPTION:Blómkál ssúpa – Cauliflower soup (M)\nSteiktur fiskur í 
+ raspi með steiktum kartöflum\, súrum gúrkum og remúlaði (G\,E)\nFrie
+ d fish in  breadcrumbs with fried  potatoes\, pickles\, and remoulade  sau
+ ce (G\,E)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettur í
-  raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBreaded 
- lamb chops served with red cabbage\, green peas\, and brown gravy (G\,M)
+SUMMARY:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (V)\n
+ Steikt kalkúnabringa í timian og a ppelsínu með eplasalati \, og sætk
+ artöflumús  og gravy (M\,E)\nRoasted turkey breast with thyme and orange
+ \, served with apple salad and mashed sweet\npotatoes  and gravy (M\,E)
 DTSTART:20261119T110000
 DTEND:20261119T130000
 DTSTAMP:20261119T110000Z
 UID:2026-11-19T11:00:00/olisindri@gmail.com
-DESCRIPTION:Grænmetis súpa - Vegetable soup\nOfnsteiktar lambakótilettu
- r í raspi með rauðkáli\, grænum baunum og brún ni sósu (G\,M)\nBrea
- ded lamb chops served with red cabbage\, green peas\, and brown gravy (G\,
- M)
+DESCRIPTION:Blaðlauks - og kartöflusúpa  – Leek and potatoes  soup  (
+ V)\nSteikt kalkúnabringa í timian og a ppelsínu með eplasalati \, og s
+ ætkartöflumús  og gravy (M\,E)\nRoasted turkey breast with thyme and or
+ ange\, served with apple salad and mashed sweet\npotatoes  and gravy (M\,E
+ )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\nMex
- ican Lasagna with Sour Cream and Nachos (G\,M)
+SUMMARY:Eftirréttur – Dessert (M\,G\,E)\nKlassískur Rock borgari með 
+ salsa og laukhringjum ásam kartöflum bátum (G\,M)\nClassic Rock burger 
+ with salsa and onion rings\, served with potato wedges (G\,M)
 DTSTART:20261120T110000
 DTEND:20261120T130000
 DTSTAMP:20261120T110000Z
 UID:2026-11-20T11:00:00/olisindri@gmail.com
-DESCRIPTION:Desert\nMexico Lasagna með sýrðum  rjóma og nachos (G\,M)\
- nMexican Lasagna with Sour Cream and Nachos (G\,M)
+DESCRIPTION:Eftirréttur – Dessert (M\,G\,E)\nKlassískur Rock borgari m
+ eð salsa og laukhringjum ásam kartöflum bátum (G\,M)\nClassic Rock bur
+ ger with salsa and onion rings\, served with potato wedges (G\,M)
 END:VEVENT
 END:VCALENDAR
